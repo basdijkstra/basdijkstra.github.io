@@ -1,6 +1,4 @@
 url: "https://www.ontestautomation.com"
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dark"
 title: "On Test Automation"
 subtitle: "Improving your testing efforts through smart application of tools"
 name: "Bas Dijkstra"
@@ -8,3 +6,5 @@ description: "Test automation training and consultancy"
 logo: logo_large.png
 plugins:
   - jekyll-include-cache
+remote_theme: "mmistakes/minimal-mistakes@4.19.3"
+minimal_mistakes_skin: "dark"
