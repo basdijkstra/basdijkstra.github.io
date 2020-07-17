@@ -3,8 +3,7 @@ id: 1983
 title: Training
 date: 2017-09-05T12:29:47+02:00
 author: Bas
-layout: page
-guid: http://www.ontestautomation.com/?page_id=1983
+layout: post
 spay_email:
   - ""
 ---
