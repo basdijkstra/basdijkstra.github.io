@@ -9,3 +9,12 @@ plugins:
   - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 minimal_mistakes_skin: "air"
+highlighter: rouge
+footer:
+  links:
+    - label: LinkedIn
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/basdijkstra/"
+    - label: GitHub
+      icon: "fab fa-fw fa-github"
+      url: "http://github.com/basdijkstra"
