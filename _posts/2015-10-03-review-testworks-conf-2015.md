@@ -1,0 +1,33 @@
+---
+id: 1088
+title: 'Review: Testworks Conf 2015'
+date: 2015-10-03T12:03:19+02:00
+author: Bas
+layout: post
+guid: http://www.ontestautomation.com/?p=1088
+permalink: /review-testworks-conf-2015/
+categories:
+  - Conferences
+tags:
+  - conference
+  - testworks
+---
+Last Friday (October 2nd) I was lucky enough to attend the inaugural edition of the <a href="http://testworksconf.com/" target="_blank">Testworks Conference</a> (Testworks Conf in short). Talking to some guys working at <a href="https://xebia.com/" target="_blank">Xebia</a>, the company that came up with and organized it, I found out that the idea behind this conference was to provide the test automation community in the Netherlands with an alternative to the range of existing testing and test automation conferences. According to them, a lot of existing conferences focus too much on broadcasting information rather than getting the attendees involved through hands-on workshops and interactive presentations. With Testworks Conf, Xebia want to show the community that conferences can be different, more interesting and a lot more fun. But did they succeed?
+
+The line-up for the first edition was certainly promising, including well-known test automation experts such as Alan Richardson (also known as the <a href="http://www.eviltester.com/" target="_blank">Evil Tester</a>) and John Smart, the guy behind the <a href="http://www.thucydides.info/#/" target="_blank">Serenity</a> BDD framework. Combined with an attendance fee of only 75 euros, there was no reason for me not to go and take a look.
+
+[<img src="http://www.ontestautomation.com/wp-content/uploads/2015/10/testworks_logo.jpg" alt="Testworks Conf logo" width="512" height="512" class="aligncenter size-full wp-image-1089" srcset="https://www.ontestautomation.com/wp-content/uploads/2015/10/testworks_logo.jpg 512w, https://www.ontestautomation.com/wp-content/uploads/2015/10/testworks_logo-150x150.jpg 150w, https://www.ontestautomation.com/wp-content/uploads/2015/10/testworks_logo-300x300.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" />](http://www.ontestautomation.com/wp-content/uploads/2015/10/testworks_logo.jpg)
+
+The day kicked off nicely with a keynote by Alan Richardson, who talked about the origins of automation / automatization and the way it has influenced and will keep influencing our work as testers. Even though I already heard most of the contents of his talk at the Test Automation Day in June, it was a good and interesting way to start the day.
+
+After that, I managed to secure a place at the first of three workshops, focusing on using <a href="https://angular.github.io/protractor/#/" target="_blank">Protractor</a> and <a href="https://cucumber.io/" target="_blank">Cucumber</a> in <a href="https://angularjs.org/" target="_blank">AngularJS</a> apps. I have some experience with BDD and Cucumber, but none in using either Protractor or AngularJS (or any other Javascript framework for that matter), but the contents of the workshop were just right: easy enough to get started right away yet challenging enough to keep you busy for a while. Unfortunately the virtual machine we were provided did not really run that well on my laptop, so I don&#8217;t feel I got as much out of this workshop as I could. It was running fine on most other attendees&#8217; laptops, so I can&#8217;t blame the workshop hosts. Having facilitated these types of workshops myself before, I know that a lot of work goes into preparation of a decent VM, and even then you can&#8217;t guarantee everything runs smoothly on all different operating systems and configurations.
+
+[<img src="http://www.ontestautomation.com/wp-content/uploads/2015/10/testworks-workshop.jpg" alt="Workshop at Testworks Conf" width="1024" height="768" class="aligncenter size-full wp-image-1091" srcset="https://www.ontestautomation.com/wp-content/uploads/2015/10/testworks-workshop.jpg 1024w, https://www.ontestautomation.com/wp-content/uploads/2015/10/testworks-workshop-300x225.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" />](http://www.ontestautomation.com/wp-content/uploads/2015/10/testworks-workshop.jpg)
+
+After a tasty lunch, I decided to stick with the presentations for the remainder of the day. The afternoon presentations and live demos turned out to be interactive as well: those who wanted to participate could follow what the presenter was doing on stage. As my laptop still didn&#8217;t work as well as I wanted to, I decided to watch and take notes instead. I attended presentations on the <a href="http://galenframework.com/" target="_blank">Galen framework</a>, on extending the possibilities of <a href="http://fitnesse.org/" target="_blank">FitNesse</a> (which I use in my current project) and on using <a href="https://www.docker.com/" target="_blank">Docker</a> and <a href="http://mesos.apache.org/" target="_blank">Mesos</a> for highly scalable test automation. All of these presentations gave me at least one idea or valuable nugget of wisdom, so all in all it was an interesting afternoon.
+
+[<img src="http://www.ontestautomation.com/wp-content/uploads/2015/10/testworks-presentation.jpg" alt="Presentation at Testworks Conf" width="1024" height="768" class="aligncenter size-full wp-image-1092" srcset="https://www.ontestautomation.com/wp-content/uploads/2015/10/testworks-presentation.jpg 1024w, https://www.ontestautomation.com/wp-content/uploads/2015/10/testworks-presentation-300x225.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" />](http://www.ontestautomation.com/wp-content/uploads/2015/10/testworks-presentation.jpg)
+
+One thing struck me though as the afternoon progressed: that there was a lot of focus on GUI-based test automation, at least in the workshops and presentations that I attended. Either the presentations were primarily focused on UI-based testing, or the examples and case studies that were given used the UI to perform tests. I know this looks good for demos on screen, but for me as a test automation engineer mostly interested in testing API- and services-based applications, this felt a little off. It wasn&#8217;t until the closing keynote by John Smart that I heard someone being critical about doing so much test automation through the UI. For a conference that focuses on test automation, Testworks Conf might have given a little more attention to its non-GUI forms. I hope they&#8217;ll take that into account when planning the second edition.
+
+That&#8217;s about the only point of critique I can come up with, though. The guys at Xebia have managed to give a refreshing and very interesting spin to the concept of test conferences in the Netherlands, an achievement that can only be applauded. I&#8217;ll definitely try and be there again next year!

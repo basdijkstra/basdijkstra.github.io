@@ -1,0 +1,22 @@
+---
+id: 1753
+title: 'Review: AutomationGuild 2017'
+date: 2017-01-16T10:24:50+01:00
+author: Bas
+layout: revision
+guid: http://www.ontestautomation.com/1752-revision-v1/
+permalink: /1752-revision-v1/
+---
+About half a year ago, in July of 2016 to be exact, I was invited by Joe from the well-known <a href="http://www.testtalks.com" target="_blank">TestTalks</a> podcast to contribute to a new initiative he had come up with: the <a href="https://automationguild.com/automation-guild-conference-2017/" target="_blank">AutomationGuild</a> conference. Joe was looking to organize an online conference fully dedicated to test automation, and he asked me if I wanted to host a session on testing RESTful APIs with <a href="http://rest-assured.io" target="_blank">REST Assured</a>. Even though I&#8217;d never done anything like this before -or maybe because I&#8217;d never done anything like this before- I immediately said yes. Only later realizing what it was, exactly, that I had agreed to do..
+
+Since the conference was online and Joe was looking for the best possible experience for the AutomationGuild delegates, he asked each of the speakers to record a video session in advance, including sharing of screens and writing and executing code (where relevant, of course). This being an international conference of course also meant speaking in English, which made it all the more challenging. I&#8217;m fine with speaking in English, but the experience of recording that, listening to it and editing all the &#8216;ermm..&#8217;s and &#8216;uuuhh&#8217;s out was something entirely new, and not exclusively pleasant, to me. It also took me a lot longer than expected, but in the end, I was fairly happy with the result. And I learned a lot in the process, from English pronunciation to video editing.
+
+Enough about that, back to the conference. It was held last week, January 9th to 13th, with around 5 sessions every day plus a couple of keynotes. The actual videos were released beforehand so all attendees could watch them when it best suited their schedule, while on the conference days there were live Q&A sessions with all of the speakers to create a live and interactive atmosphere. Having never participated in anything similar, and even though I caught only a couple of sessions due to other obligations (the time zone difference didn&#8217;t help either) I think this worked remarkably well.
+
+My own Q&A session flew by, with a lot of questions ranging from fairly straightforward to pretty complex. They did not just cover the contents of my session, but also API testing in general and there were some questions about service virtualization as well, which made it an even more interesting half hour.
+
+I liked the interactive Q&A part of the conference best, since getting good questions meant that the stuff I talked about hit home with the listeners. I&#8217;ve had conference talks before where the audience was suspiciously quiet afterwards, and that&#8217;s neither a good thing nor an agreeable experience, I can tell you. But in this case, there were a lot of questions, and we didn&#8217;t even get to all of them during the Q&A. If all goes well, I should receive them later on and get to interact with a couple more listeners in that way. But even so far, I had an amazing time talking to Joe and (indirectly) to the attendees and answering their questions in the best way I could.
+
+As for the other speakers, Joe managed to create a world-class lineup of speakers, and I&#8217;m quite proud to have been a part of the speaker list. I never thought I&#8217;d be in a conference speaker lineup with John Sonmez, Alan Richardson, Seb Rose, Matt Wynne and so many other recognized names in the testing and test automation field. So far, I only managed to watch a couple of the sessions, but luckily, all of them are available for a year after the end of the conference, so I&#8217;ll definitely watch more of them when time permits in a couple of weeks.
+
+I can only speak for myself, but I think that the inaugural edition of AutomationGuild was a big success, given such an incredible lineup and over 500 registered attendees, and I am already looking forward to the second edition next year. If not as a second-time contributor, then surely as an attendee! If you missed or couldn&#8217;t make the conference, then mark your agenda for next year, because surely you don&#8217;t want to miss it again!

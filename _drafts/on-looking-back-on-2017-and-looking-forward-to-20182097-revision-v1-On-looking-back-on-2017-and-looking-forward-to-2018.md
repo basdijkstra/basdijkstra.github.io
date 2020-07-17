@@ -1,0 +1,35 @@
+---
+id: 2104
+title: On looking back on 2017 and looking forward to 2018
+date: 2017-12-27T10:27:54+01:00
+author: Bas
+layout: revision
+guid: http://www.ontestautomation.com/2097-revision-v1/
+permalink: /2097-revision-v1/
+---
+As I like to do every year, now that 2017 has almost come to an end, I&#8217;m carving out some time to reflect on all that I&#8217;ve been working on this year. What has been successful? What needs working on? And most importantly, what are the things I&#8217;ll put my energy towards in 2018?
+
+**The start of On Test Automation &#8211; the sole proprietorship**  
+Perhaps the most significant change I made this year was to quit working with The Future Group to venture out on my own under the On Test Automation name. On the other hand, nothing much has changed at all since then. I&#8217;m still working as a freelancer, I&#8217;m still doing a bit of consulting, some teaching, some writing, pretty much what I&#8217;ve been doing before I made this move. The only thing that has changed is the financial side of things, and the fact that I&#8217;m now really working for myself instead of mostly for myself. It&#8217;s just that little extra bit of freedom, albeit only psychologically. I would be very surprised if, at the end of 2018, I won&#8217;t still be freelancing like this. It has proven to be the optimal way of working for me, with total freedom over what I&#8217;m working on at what time and with whom. I&#8217;d like to further reduce the time I spend commuting a little more in 2018, though.
+
+**Consulting**  
+On the consulting side of things, it has been a pretty strong year. I&#8217;ve been working on projects for 5 or 6 different clients, mostly as the person responsible for developing automation solutions, but also sometimes acting more like <a href="https://www.ontestautomation.com/first-steps-as-a-test-automation-coach/" rel="noopener" target="_blank">an automation coach of sorts</a>. I&#8217;ve been lucky enough never to have to look for a new project for long. The job market for experienced automation engineers and consultants is so good over here I&#8217;ve had to turn down more projects than I&#8217;ve been able to accept. I&#8217;m considering myself a very lucky person in this respect, although I do like to think that the time I invest in learning, spreading my knowledge and networking has at least partly brought me to where I am now.
+
+Where 80-90% of my working hours in 2017 was spent on consulting work, however, in 2018, I would like to slowly bring that down to around 50% to free up time for other activities.
+
+**Teaching**  
+This year, I&#8217;ve written a couple of blog posts, most notably <a href="https://www.ontestautomation.com/why-i-think-automation-education-is-broken-and-what-ill-try-and-do-about-it/" rel="noopener" target="_blank">this one</a>, about what I&#8217;d like to see changed in education around test automation and what I think good test automation training should look like. As you might have seen <a href="https://www.ontestautomation.com/training/" rel="noopener" target="_blank">elsewhere on this site</a>, I currently offer a couple of courses, and I am looking to expand my offerings in 2018. More importantly, I&#8217;d like to deliver significantly more training next year. Counting quickly, I&#8217;ve delivered about 10 days of training in 2017, mostly with clients, but I also did a very enjoyable workshop at the <a href="https://www.ontestautomation.com/romanian-testing-conference-2017-was-a-blast/" rel="noopener" target="_blank">Romanian Testing Conference</a>.
+
+For 2018, I&#8217;d like to work towards teaching 5 or more days each month. This will require significant effort from my side, not only in actual teaching, but more importanty in marketing and promotion to make sure that I can deliver them in the first place. I&#8217;ve front-loaded some of that work by closing partnerships with a couple of other players in the field, and I&#8217;ve landed a couple of teaching gigs already (more on that in a future blog post, undoubtedly), but there&#8217;s much more work to be done if I want to achieve the &#8216;5 days of teaching per month&#8217; goal.
+
+**Conferences**  
+2017 was a relatively quiet year for me with regards to conferences. In the Netherlands, I only attended 2 (both organized by TestNet). Abroad, there was the previously mentioned Romanian Testing Conference in May as well as the splendid <a href="https://www.ontestautomation.com/on-testbash-manchester/" rel="noopener" target="_blank">TestBash Manchester</a> in October, making for a grand total of 4 conferences.
+
+I expect 2018 to be busier on the conference front. In fact, I&#8217;ve got my agenda for the spring conference season pretty much filled up already with TestBash Netherlands (where I&#8217;ll be doing a workshop together with Ard Kramer), the TestNet spring conference (where I probably won&#8217;t be speaking or hosting a workshop for the first time in a while), my second Romanian Testing Conference (where I&#8217;ll be doing both a workshop and a talk this time) and the Test Automation Day (which I missed this year due to being on holiday and where I hope to be accepted as a speaker for the first time this coming year). So that&#8217;s four conferences before the summer. And that&#8217;s not counting the Agile Tour Vienna meetup in March, to which I&#8217;m invited to do a talk / live coding session as well. And I haven&#8217;t even started to think about the fall conference season yet (that&#8217;s a lie, some negotiations are underway).
+
+**Writing**  
+Including this one, I&#8217;ve published 46 blog posts on this site in 2017. I started out with the promise of publishing a blog post every week, and I&#8217;ve kept true to my word for most of the year, but last month I came to the conclusion that I&#8217;ve been <a href="https://www.ontestautomation.com/on-quality-over-quantity-and-my-career-journey/" rel="noopener" target="_blank">spreading myself a little thin</a> on the writing front. Apart from these blog posts, I also wrote and published 15 articles on other websites, including <a href="https://techbeacon.com/contributors/bas-dijkstra" rel="noopener" target="_blank">TechBeacon</a>, <a href="https://www.stickyminds.com/users/bas-dijkstra" rel="noopener" target="_blank">StickyMinds</a> and LinkedIn. That&#8217;s a lot of writing, I can tell you.
+
+Next year, I&#8217;ll probably be blogging less, in an effort to create higher quality output. I&#8217;ll also still be doing articles for other websites (I&#8217;m working on two of those as we speak). I&#8217;m aiming to publish at least one quality blog post on here each month, plus some reviews of conferences, books and other resources whenever I feel like it. That should free up some time to invest in other interesting things that I encounter.
+
+All in all, 2017 has been a great year for me, I&#8217;ve met many interesting people and worked on a lot of interesting stuff. 2018 will hopefully be a year of spreading myself a little less thin, instead focusing more on the good stuff. As always, I&#8217;ll keep you posted.

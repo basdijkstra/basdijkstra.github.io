@@ -1,0 +1,47 @@
+---
+id: 2401
+title: On my 2018 and my 2019
+date: 2018-12-20T14:32:46+01:00
+author: Bas
+layout: revision
+guid: https://www.ontestautomation.com/2389-revision-v1/
+permalink: /2389-revision-v1/
+---
+Wow, another year has flown by! And what an amazing year it has been. Now that the end of the year is coming ever closer, I&#8217;d like to look back a little on this last year and look forward to what 2019 might have in store for me.
+
+**The freelance life**  
+2018 was my first full year freelancing under the On Test Automation label. As I&#8217;ve said in previous posts, it fits me like a glove. What I&#8217;ve been especially grateful for this year is that being a freelancer has given me the freedom to choose whatever I want to spend my time on, without having to get permission from anybody else. It has also allowed me to be there for my family whenever it&#8217;s been needed, without having to deal with sick days or annual leave budgets.
+
+Needless to say that I&#8217;ll continue to work as a freelancer in 2019!
+
+**Client work**  
+I&#8217;ve done consultancy on a per-hour billing basis for _four different clients_ this year. Sometimes as part of a software development team, sometimes in an advisory role. I&#8217;ve noticed that the latter suits me far better, so that&#8217;s what I&#8217;ll try and keep doing in 2019. These roles are a little harder to get by, and they&#8217;re often not even publicly advertised, so I&#8217;ll have to make sure that people know where to find me in case they&#8217;re looking.
+
+I&#8217;m happy to say that I&#8217;ll be starting a new project that sounds like a perfect early January with a brand new client, where I&#8217;ll advise and support several development teams with regards to their test automation efforts for 2 days per week. I&#8217;m really looking forward to that.
+
+**Training**  
+2018 has been the year where I finally started to increase my efforts to land more training gigs. Delivering training is what I like to do best, and I hope that 2019 I will be able to reap what I have been sowing this year. In 2018, I delivered _17 training sessions_ (ranging from 2 hours to a full day) with 8 different clients. I am most proud of the two times I&#8217;ve been asked to deliver training abroad, allowing me to do one day of training in the UK (Manchester) and one day in Romania (Cluj).
+
+For 2019, I hope to at least double the amount of training sessions delivered, where my ultimate goal is to be at an average of delivering 2 days of training per week (with the rest spent on consulting work, writing, and other things). To get to that amount, I&#8217;ve started collaborating with a few training providers this year, and I hope that this pays off in 2019. I am also launching a brand new training course on January 7, one that I&#8217;ve got high hopes for, so hopefully I&#8217;ll be delivering that one a couple of times too, besides my existing training offerings.
+
+**Speaking gigs**  
+This year has been a relatively quiet year on the speaking front. That&#8217;s fine with me, because even though I am starting to like speaking more and more, I like doing training and workshops even better, so that&#8217;s where my focus has been. Still, I have done _five talks_ this year. Three of them in the Netherlands: at the TestNet spring conference, at a company meetup and the one I am most proud of: my very first keynote talk at the <a href="https://testdag2018.github.io" target="_blank" rel="noreferrer noopener" aria-label="Speaking gigs
+This year has been a relatively quiet year on the speaking front. That's fine with me, because even though I am starting to like speaking more and more, I like doing training and workshops even better, so that's where my focus has been. Still, I have done five talks this year. Three of them in the Netherlands: at the TestNet spring conference, at a company meetup and the one I am most proud of: my very first keynote talk at the Dutch Testing Day. I've also delivered two talks abroad: one at the atamVIE meetup in Vienna, Austria, and one at the Romanian Testing Conference. (opens in a new tab)">Dutch Testing Day</a>. I&#8217;ve also delivered two talks abroad: one at the atamVIE meetup in Vienna, Austria, and one at the <a rel="noreferrer noopener" aria-label="Speaking gigs
+This year has been a relatively quiet year on the speaking front. That's fine with me, because even though I am starting to like speaking more and more, I like doing training and workshops even better, so that's where my focus has been. Still, I have done five talks this year. Three of them in the Netherlands: at the TestNet spring conference, at a company meetup and the one I am most proud of: my very first keynote talk at the Dutch Testing Day. I've also delivered two talks abroad: one at the atamVIE meetup in Vienna, Austria, and one at the Romanian Testing Conference. (opens in a new tab)" href="https://romaniatesting.ro/" target="_blank">Romanian Testing Conference</a>.
+
+I would like to do another couple of talks next year, because I&#8217;m slowly learning to become a better speaker and I would love to expand on that. I have one talk scheduled so far, none other than my very first international keynote at the <a href="https://ukstar.eurostarsoftwaretesting.com/" target="_blank" rel="noreferrer noopener" aria-label="I would like to do another couple of talks next year, because I'm slowly learning to become a better speaker and I would love to expand on that. I have one talk scheduled so far, none other than my very first international keynote at the UKStar conference in London, UK in March. I am really, really looking forward to that one! (opens in a new tab)">UKStar conference</a> in London, UK in March. I am really, really looking forward to that one!
+
+**Conferences**  
+Speaking of conferences, it has been a relatively quiet year on that front as well. I think I&#8217;ve attended five conferences this year, four in the Netherlands (TestNet 2x, TestBash NL and the Test Automation Day) and one abroad (the Romanian Testing Conference). In all of these conferences, I&#8217;ve been a contributor, either with a talk or with a workshop (or in case of RTC, both).
+
+Next year, I would love to attend more conferences, and not necessarily as a contributor each and every time. Also, I&#8217;d like to expand my horizon and attend one or two conferences outside of the testing community. Two conferences are in my agenda already, UKStar and <a href="https://www.ministryoftesting.com/events/testbash-netherlands-2019" target="_blank" rel="noreferrer noopener" aria-label="Next year, I would love to attend more conferences, and not necessarily as a contributor each and every time. Also, I'd like to expand my horizon and attend one or two conferences outside of the testing community. Two conferences are in my agenda already, UKStar and TestBash Netherlands, where I'll be delivering a brand new workshop. (opens in a new tab)">TestBash Netherlands</a>, where I&#8217;ll be delivering a brand new workshop.
+
+**Writing**  
+I&#8217;ve been relatively inactive on the writing front this year, too. I&#8217;ve published _7 articles_ (5 in English, 2 in Dutch) on several websites, as well as _10 blog posts_ on this site, including this one. Next year, I&#8217;m planning to pick up the pen more often again, both for other web sites as well as for my own blog. It will be a matter of consciously making more time for it, as that has been lacking a bit this year.
+
+**Webinars**  
+Finally, I&#8217;ve also done _four webinars_ this year, and I&#8217;m planning on doing a couple more of them next year. The organisers that had to suffer from my ramblings this year were Beaufort Fairmont, Parasoft, TestCraft and CrossBrowserTesting.
+
+So, all in all, it has been a very diverse year! Which is a good thing, but also a trap I&#8217;ve been falling in. My attention has been divided over so many different things that those that I think are really important to me (training, writing) have suffered a little. That&#8217;s a lesson I&#8217;ll definitely take with me into next year.
+
+But first, it&#8217;s time to relax a little. We&#8217;ll see eachother again in 2019. I hope that it&#8217;s going to be an amazing year for all of you.

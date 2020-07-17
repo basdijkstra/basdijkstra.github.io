@@ -1,0 +1,36 @@
+---
+id: 1705
+title: (Not so) useful metrics in test automation
+date: 2016-12-12T21:35:51+01:00
+author: Bas
+layout: revision
+guid: http://www.ontestautomation.com/1701-revision-v1/
+permalink: /1701-revision-v1/
+---
+In order to remain in control of test automation efforts, it&#8217;s a good idea to define metrics and track them, so that you can take action in case the metrics tell you your efforts aren&#8217;t yielding the right results. And even more important, it allows you to bask in glory if they do! But what exactly are good metrics when it comes to test automation? In this blog post, I&#8217;ll take a look at some metrics that I think are useful, and some that I think the automation world can easily do without. Note that I&#8217;m not even going to try and present a complete list of metrics that can be used to track your automation efforts, but hopefully the ones mentioned here can move you a little closer to the right path.
+
+So, what do I think could be a useful metric when tracking the effectiveness and/or the results of your test automation efforts?
+
+**Feedback loop duration reduction**  
+The first metric I&#8217;ll suggest here is not related to the quality of an application, but rather to the quality of the development process. At its heart, test automation is &#8211; or at least should be &#8211; meant to increase the effectiveness of testing efforts. One way to measure this is to track the time that elapses between the moment a developer commits a change and the moment (s)he is informed about the effects these changes have had on application quality. This time, also known as the feedback loop time, should ideally be as short as possible. If it takes two weeks before a developer hears about the negative (side) effects of a change, he or she will have long moved on to other things. Or projects. Or jobs. If, instead, feedback is given within minutest (or even seconds), it&#8217;s far easier to correct course directly. One way to shorten the feedback loop duration is by effective use of test automation, so use it wisely and track the effects that automation has on your feedback loop.
+
+**Customer journey completion rate**  
+This might come as a surprise to some, but test automation, testing and software development in general is still an activity that serves a greater good: your customer base. In this light, it would make sense to have some metrics that relate directly to the extent to which a customer is able to use your application, right? A prime example of this would be the amount of predefined critical customer journeys that can (still) be completed by means of an automated test after a certain change to the software has been developed and deployed. By critical, I mean journeys that relate directly to revenue generation, customer acquisition and other such trivialities. The easier and more often you can verify (using automation) that these journeys can still be completed, the more trust you&#8217;ll have deploying that shiny new application version into your production environment.
+
+**False positives and negatives**  
+Automated tests are only truly valuable if you can trust them fully to give you the feedback you need. That is: whenever an automated test case fails, it should be due to a defect (or an unnoticed change) in your application, not because your automation is failing (you don&#8217;t want false negatives). The other way around, whenever an automated test case passes, you should have complete trust that the component or application under test indeed works as intended (you want false positives even less). False negatives are annoying, but at least they don&#8217;t go by unnoticed. Fix their root cause and move on. If it can&#8217;t be fix, don&#8217;t be afraid to throw away the test, because if you can&#8217;t trust it, it&#8217;s worthless. False positives are the biggest pain in the backside, because they go by unnoticed. If all is green in the world of automation, it&#8217;s easy (and quite human) to trust the results, even when all you&#8217;re checking is that 1 equals 1 (see also below). One approach to detecting and fixing false positives, at least in the unit testing area, is the use of <a href="http://www.ontestautomation.com/an-introduction-to-mutation-testing-and-pit/" target="_blank">mutation testing</a>. If this is not an option, be sure to regularly check your automated checks to see that they still have their desired defect detection dint (or 4D, coining my first ever useless automation acronym here!).
+
+Where there are useful metrics, there are also ones that aren&#8217;t as valuable (or downright worthless)..
+
+**Code coverage**  
+A metric that is often used to express the coverage of a suite of unit tests. The main problem I have with this metric is that in theory it all sounds perfectly sensible (&#8216;every line of our code is executed at least once when we run our tests!&#8217;), but in practice, it doesn&#8217;t say anything about the quality and the effectiveness of the tests, nor does it say anything about actual application quality. For example, it&#8217;s perfectly possible to write unit tests that touch all lines of your code and then assert that 1 equals 1. Or that apples equal apples. These tests will run smoothly. They&#8217;ll pass every time, or at least until 1 does not equal 1 anymore (but I think we&#8217;re safe for the foreseeable future). Code coverage tools will show a nice and shiny &#8216;100%&#8217;. Yet it means nothing in terms of application quality.
+
+**Percentage of overall number of test cases that are automated**  
+An exponent of the &#8216;automate all the things!!&#8217; phenomenon. In theory, it looks cool: &#8216;We automated 83,56% of our tests!&#8217;. First of all, especially with exploratory testing (not my forte, so I might be wrong here), there is no such thing as a fixed and predetermined number of test cases anymore. As such, expressing the amount of automated tests as a percentage of a variable or even nonexistent number is worthless. Or downright lying (you pick one). There&#8217;s only one metric that counts in this respect, <a href="https://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/" target="_blank">quoting Alan Page</a>:
+
+> You should automate 100% of the tests that should be automated
+
+**Reduction in numbers of testers**  
+Yes, it&#8217;s 2016. And yes, some organizations still think this way. I&#8217;m not even going to spend time explaining why &#8216;if we automate our tests, we can do with X fewer testers&#8217; is horrible thinking anymore. However, in a blog post mentioning good, bad and downright ugly metrics related to test automation, it cannot be NOT mentioned.
+
+Anyway, wrapping all this up, I think my view on automation metrics can be summarized like this: automation metrics should tell you something useful about the quality your application or your development process. Metrics related to automation itself or to something that automation cannot be used for (actual testing as a prime example) might not be worth tracking or even thinking about.

@@ -1,0 +1,36 @@
+---
+id: 1969
+title: My thoughts on who should create automation, and why there might be a more urgent problem at hand
+date: 2017-08-18T14:13:40+02:00
+author: Bas
+layout: revision
+guid: http://www.ontestautomation.com/1966-revision-v1/
+permalink: /1966-revision-v1/
+---
+Recently, there has been quite a bit of discussion on Twitter on what role should be responsible for writing test automation code. From what I&#8217;ve read, there are roughly two camps:
+
+  * The camp advocating that developers should be made responsible for writing most, if not all automation code. Their main reason: developers know best how to code, they also know best how the code is structured and works internally, providing them with the best insight into which hooks in the code to leverage for automation (as opposed to blindly doing everything through the user interface).
+  * The camp advocating that test automation requires dedicated automation engineers, especially for anything above the unit testing level. Their main reason: it takes specific skills to write and maintain good automation, skills that extend further than &#8216;just&#8217; development skills.
+
+At the end of last year, I published <a href="http://www.ontestautomation.com/should-test-automation-be-left-to-developers/" target="_blank">a blog post</a> on roughly this topic. Rereading it, I still agree with my own opinion I described back then (which is a good thing!), but having thought and read about and discussed this topic some more in the last months, there are some subtle nuances (and one maybe not so subtle one) I&#8217;d like to make. Which, in turn, makes for a good topic for another blog post.
+
+First of all, looking back at the question of &#8216;Who should be _responsible for_ creating automation?&#8217;, I think the correct answer is not &#8216;developers&#8217; or &#8216;test automation engineers&#8217;. The correct answer to this question should be &#8216;the development team&#8217;. This includes developers, automation engineers, testers, designers, the works. I think that deep down, everybody agrees on this (save maybe a grumpy old fashioned developer that thinks writing automation code is way below his standard). A slightly (yet also very) different question here is &#8216;Who should be primarily _tasked with_ creating automation?&#8217;. That&#8217;s where the two camps I mentioned above diverge.
+
+One of the catalysts of the recent discussion on this topic is <a href="http://angryweasel.com/blog/the-future-of-the-automation-engineer/" target="_blank">this blog post</a> from Alan Page. His blog post was based on a series of Tweets Alan sent, which were in turn extensively annotated by Richard Bradshaw in <a href="https://thefriendlytester.co.uk/2017/07/a-look-at-test-automation-and-test-automators" target="_blank">another blog post</a>. Whether or not you agree with their respective standpoints, I think both blog posts are recommended reading material for anybody working in the test automation space. Most of you will probably have read it already, but if you don&#8217;t, make sure you do.
+
+My opinion? In an ideal world, where developers have the time, the knowledge as well as the drive that&#8217;s required to create useful automation, the dedicated automation engineer _might_ be going the way of the dinosaur. Personally, I don&#8217;t see that happening in the foreseeable future, though. And this opinion is backed up by what I see with most of the organizations I&#8217;ve worked with over the past year and a half (10+ in numbers, in case you&#8217;re wondering). In most teams, developers either lack the time (mostly a bad excuse), drive (also a bad excuse) or knowledge (this is excusable but should be fixed anyway) to concern themselves with creating automation. The same goes for their testers.
+
+As a result, they rely upon their own automation engineers to help them create, run and maintain their automation, or they hire someone from outside the organization. This is where I often come in, either to create the automation myself and learning employees how to extend, run and maintain it, or in a mentoring or coaching role, where I observe and help teams define their own automation strategy. And the number of projects that I see advertised (either directly to me or on freelance job boards and email lists) does not indicate a decline in the need for dedicated automation engineers either. Rather the contrary.
+
+In the end, though, it does not (yet) matter to me WHO is tasked with creating and maintaining automation. Even stronger put, I don&#8217;t think it&#8217;s the most important problem (or discussion) that needs to be tackled with regards to automation, at the moment. Instead, I&#8217;d love to see more discussion, teaching and mentoring on what constitutes good automation, and how to implement automation in a way so that it is maintainable, reliable and valuable in the long run.
+
+I don&#8217;t know if it&#8217;s just the time of the year, or the fact that I keep getting passed exactly the wrong (or right, depending on how you look at it) code bases, but in the last couple of weeks I&#8217;ve witnessed some truly horrifying pieces of automation cr*p. Selenium scripts where every third line was a _Thread.sleep()_. Cucumber step definition methods containing Selenium object locators. Horrible variable names (what in the name of Peter is &#8216;y&#8217; supposed to tell me?). Writing a new Selenium test case for every possible combination of input and output parameters, even though the sequence of _sendKeys()_ and _click()_ actions stays exactly the same. And much more of such goodness.
+
+Arguably the biggest gripe I have with this: these abominations were created by external consultants. Who had been working on them for months. And probably got paid a handsome hourly fee by their (and my) client for their efforts. That makes the problem at hand twofold:
+
+  * Bad thing: there are too many self proclaimed &#8216;automation consultants&#8217;, &#8216;architects&#8217;, even the &#8216;senior&#8217;, &#8216;principal&#8217;, or Peter knows what else versions of them, that couldn&#8217;t write a decent test if their life depended on it.
+  * Even worse thing: their clients don&#8217;t have the time or knowledge (probably the latter) to take a look and recognize what absolute garbage those expensive &#8216;consultants&#8217; deliver.
+
+Now that software development and delivery cycles are speeding up ever more, and teams are increasingly relying on automation to safeguard the quality of the releases they&#8217;re putting out into the world, it&#8217;s becoming due time to do something about this. Educate both the people responsible for creating automation and the teams that rely on their efforts about what constitutes good automation, and give them the tools to monitor and act upon automation quality. If we as test automation crafts(wo)men don&#8217;t start doing this sooner rather than later, I&#8217;m afraid that crappy automation becomes the new bottleneck in modern software development, just like all that testing was at the end of waterfall projects in times past.
+
+Once we&#8217;ve tackled that problem, let&#8217;s move on to who&#8217;s the best fit to write what we agree upon is good automation.

@@ -1,0 +1,30 @@
+---
+id: 1594
+title: Monitoring the quality of your test automation code
+date: 2016-09-06T19:56:16+02:00
+author: Bas
+layout: revision
+guid: http://www.ontestautomation.com/1588-revision-v1/
+permalink: /1588-revision-v1/
+---
+As part of an Agile software development team, sometimes you have to (or have the opportunity to, depending on your perspective) pick up some tasks that are a little out of your comfort zone, or at least different from your usual tasks. Because I had some spare time in our current sprint, and there was a considerable amount of technical debt with regards to code quality, we as a team decided it was a good idea to put some effort into fixing some of this debt. I&#8217;m certainly no developer, but I know a bit about writing code, (in the same way that I&#8217;m not a chef, but I know how to prepare dinner), so I took this as an opportunity to get some more experience reading, interpreting and fixing code. In our current project, we use <a href="http://www.sonarqube.org" target="_blank">SonarQube</a> as a quality management platform. I never worked with this tool before starting on this project, so I had no prior expectations, but I must say I like it so far.
+
+While diligently working on removing unnecessary pieces of code and rewriting statements, the thing that struck me was that our test automation code, which is pretty closely related to our production code, was not measured against the code quality rule set we use for the production code. In this post, I&#8217;d like to discuss whether that&#8217;s a good thing or not.
+
+<a href="http://www.ontestautomation.com/?attachment_id=1590" rel="attachment wp-att-1590"><img src="http://www.ontestautomation.com/wp-content/uploads/2016/09/code_quality.png" alt="Code quality" width="602" height="300" class="aligncenter size-full wp-image-1590" srcset="https://www.ontestautomation.com/wp-content/uploads/2016/09/code_quality.png 602w, https://www.ontestautomation.com/wp-content/uploads/2016/09/code_quality-300x150.png 300w" sizes="(max-width: 602px) 100vw, 602px" /></a>
+
+**Pro argument: test automation is software development**  
+Successful implementation of test automation requires that you treat it similar to any other software development project: it requires planning, a sound design and test automation developers that know what they&#8217;re doing. Why shouldn&#8217;t taking care of your test automation code in the same vein as your production code extend to measuring code quality? Like any other piece of code that&#8217;s developed as part of the software development life cycle, your test automation code should be readable (understandable) and maintainable. And by maintainable I mean that other people should be able to fix and extend things once the test automation &#8216;genius&#8217; responsible for writing the initial code has moved on, up or out. Again, not much different from production code.
+
+**Pro argument: your test automation code safeguards production code**  
+To some extent, depending on the context and the type of project, your test automation code could be considered even more important than your production code. It is responsible for assessing whether the production code lives up to standards and expectations, just like a driving instructor is responsible for delivering people who can drive in a decent manner, obeying the traffic rules and regulations. Wouldn&#8217;t it make sense to hold the test automation code against at least the same strictness of standards as you would expect is being done for driving instructors? _Although judging from the way some people drive, I wonder what kind of driving instructor allowed them to pass the exam, but that&#8217;s a different story&#8230;_
+
+**Con argument: releasing new features has priority (at the moment)**  
+Of course, new features needing to be developed, tested and delivered is not a viable long term argument for sacrificing the code quality of your test automation. However, as we all know, reality and deadlines sometimes force us to be pragmatic, in which case building up some amount of technical debt (of which less-than-desired code quality is a form) is perfectly justifiable. However, always make sure that these improvements do not fall off the radar, for example by implementing automated code quality monitoring with a tool such as the aforementioned SonarQube. When the pressure to deliver lowers (or when test automation code quality issues exceed a certain threshold), the team can get back to improving the existing code.
+
+**Con argument: your test automation code is throwaway or end of life code**  
+Another case where monitoring and actively improving the quality of your test automation code can be considered overkill is when you know for sure that your test automation code will be short-lived. This can be the case for proof of concept projects, where functionality has priority over code quality. Another situation where the time invested in code improvements might be better spent elsewhere is when the test automation solution reaches its end of life in the foreseeable future. In all other cases (i.e., you have a solid test automation solution that is expected to stay around for a while), test automation code quality should definitely be on the team radar.
+
+As for my current project? At the moment, we&#8217;re still not holding our test automation code against the same standards as our production code. It&#8217;s definitely up for discussion, but there&#8217;s a lot of technical debt in our production code with regards to code quality, so we&#8217;ve decided to tackle that first.
+
+Do you have any experience with measuring test automation code quality yourself? I&#8217;d love to hear more insights on this, as I think it&#8217;s yet another often overlooked aspect of test automation. Is it useful? Do you have any stories where adequately measuring test automation code quality has been or would have been beneficial to your product or organization? Please share your story in the comments!
