@@ -9,7 +9,8 @@ plugins:
   - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 minimal_mistakes_skin: "air"
-highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
 footer:
   links:
     - label: LinkedIn

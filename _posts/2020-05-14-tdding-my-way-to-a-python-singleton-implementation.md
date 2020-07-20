@@ -28,7 +28,7 @@ So, I thought, why not try my hand at Test Driven Development (<a rel="noreferre
 
 Let's go! (This is me talking to myself for the remainder of this blog post)
 
-The first requirement for my singleton class implementation (let's call it _MySingleton_) was that it could be instantiated. The simplest test that checks this requirement looks like this:
+The first requirement for my singleton class implementation (let's call it `MySingleton`) was that it could be instantiated. The simplest test that checks this requirement looks like this:
 
 {% highlight python %}
 def test_singleton_can_be_instantiated():
@@ -45,7 +45,7 @@ class MySingleton:
         pass
 {% endhighlight %}
 
-So far, so good. Our class is not a singleton yet, of course. Also, it's not a very useful class… Before we move to the actual singleton part, let's make sure that we can pass a parameter to the _\_\_init\_\_()_ method (comparable to the class constructor in other languages), that it is stored in a field and that it can be read again. First the test:
+So far, so good. Our class is not a singleton yet, of course. Also, it's not a very useful class… Before we move to the actual singleton part, let's make sure that we can pass a parameter to the `__init__()` method (comparable to the class constructor in other languages), that it is stored in a field and that it can be read again. First the test:
 
 {% highlight python %}
 def test_singleton_can_take_an_argument():
@@ -66,7 +66,7 @@ Not a lot of refactoring that can be done here, I guess, so let's move on to the
 
 Typically, a singleton is created by 'hiding' the constructor (i.e., making it private), but Python does not allow us to do that. So, we need to find a way around it.
 
-What we _can_ do, though, is creating a class variable _instance_ that contains the instance, and assign the current instance of the class to it whenever the _\_\_init\_\_()_ function is called for the first time. A test for this would simply have to invoke the ___init___() method by calling _MySingleton()_ and then check that the _instance_ class variable is not equal to _None_:
+What we _can_ do, though, is creating a class variable `instance` that contains the instance, and assign the current instance of the class to it whenever the `__init__()` function is called for the first time. A test for this would simply have to invoke the `__init__()` method by calling `MySingleton()` and then check that the `instance` class variable is not equal to `None`:
 
 {% highlight python %}
 def test_singleton_instance_is_stored_as_a_class_variable():
@@ -85,7 +85,7 @@ class MySingleton:
         MySingleton.instance = self</pre>
 {% endhighlight %}
 
-But hey… didn't we forget something here? Yes, indeed, we also need to make sure once more that the _fruit_ field of our single instance is set and can be read. Here's the test:
+But hey… didn't we forget something here? Yes, indeed, we also need to make sure once more that the `fruit` field of our single instance is set and can be read. Here's the test:
 
 {% highlight python %}
 def test_singleton_class_variable_exposes_properties():
@@ -107,9 +107,9 @@ class MySingleton:
 
 Phew. Close call! Now would be a good time to check if there's any refactoring we can do on our class.. Nope, so far so good I think!
 
-Next, I'd like to add another requirement: because we can't hide the _\_\_init\_\_()_ function, I'd like to get notified whenever a process calls this function after the singleton has been created. You never know who's going to consume your class.
+Next, I'd like to add another requirement: because we can't hide the `__init__()` function, I'd like to get notified whenever a process calls this function after the singleton has been created. You never know who's going to consume your class.
 
-I _could_ choose to simply ignore any subsequent calls to _\_\_init\_\_()_, but instead, I'd like to be explicit and raise a _RuntimeError_ whenever _\_\_init\_\_() ****_is called after our instance has been created.
+I _could_ choose to simply ignore any subsequent calls to `__init__()`, but instead, I'd like to be explicit and raise a `RuntimeError` whenever `__init__()` is called after our instance has been created.
 
 Here's what a test for that could look like (notice that testing for raised errors is straightforward with pytest):
 
@@ -135,15 +135,15 @@ class MySingleton:
         MySingleton.instance.fruit = fruit
 {% endhighlight %}
 
-As a final requirement, instead of allowing consuming classes to refer to the _instance_ class variable directly, I'd like to encapsulate access to it in an _instance()_ method, so that in the future, we can put additional logic or validations in there if required.
+As a final requirement, instead of allowing consuming classes to refer to the `instance` class variable directly, I'd like to encapsulate access to it in an `instance()` method, so that in the future, we can put additional logic or validations in there if required.
 
 Because we might want to allow for class modification in this method in the future, it's best to make this method a class method, as static methods are restricted in what data they can access.
 
 We have to test for a couple of things here:
 
-  1. The _instance()_ method should return the initial instance
-  2. The _instance()_ method should allow access to the _fruit_ field, and
-  3. The _instance_ class variable (renamed to ___instance_) should no longer be directly accessible (since that would break the encapsulation)
+  1. The `instance()` method should return the initial instance
+  2. The `instance()` method should allow access to the `fruit` field, and
+  3. The `instance` class variable (renamed to `__instance`) should no longer be directly accessible (since that would break the encapsulation)
 
 Here are the tests that check whether all the above conditions are satisfied:
 
@@ -165,7 +165,7 @@ def test_singleton_instance_field_is_not_directly_accessible():
     assert str(ae.value) == ""MySingleton" object has no attribute "__instance""
 {% endhighlight %}
 
-and here's the final implementation of the _MySingleton_ class:
+and here's the final implementation of the `MySingleton` class:
 
 {% highlight python %}
 class MySingleton:
