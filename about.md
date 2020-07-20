@@ -7,9 +7,9 @@ layout: page
 guid: http://www.ontestautomation.com/?page_id=1321
 ---
 **About this website**  
-Test automation is a craft. It takes skill, learning, dedication and effort to become good at it, which is why I&#8217;ve started this blog: as a means of learning and becoming better at my craft through continuous exploration, learning and sharing what I&#8217;ve done, seen, heard and otherwise learned.
+Test automation is a craft. It takes skill, learning, dedication and effort to become good at it, which is why I've started this blog: as a means of learning and becoming better at my craft through continuous exploration, learning and sharing what I've done, seen, heard and otherwise learned.
 
-Hopefully, by sharing my insights and experience with you, you&#8217;ll be able to learn a bit about test automation and become better at it yourself as well. Not by blinding copying or repeating what I&#8217;m writing and doing, but by using it as input for your own thought and learning process. If you learned anything, agree or disagree with what I&#8217;m writing or have anything to add, I&#8217;d love to hear from you, so please feel free to leave a comment or send me an email any time.
+Hopefully, by sharing my insights and experience with you, you'll be able to learn a bit about test automation and become better at it yourself as well. Not by blinding copying or repeating what I'm writing and doing, but by using it as input for your own thought and learning process. If you learned anything, agree or disagree with what I'm writing or have anything to add, I'd love to hear from you, so please feel free to leave a comment or send me an email any time.
 
 **About me**  
 My name is Bas Dijkstra and I am an independent test automation professional. I have been in the test automation and service virtualization field for over 10 years now, designing and developing test automation and service virtualization solutions that enhance and improve test teams and test processes. You can find more information about my professional life on my <a href="https://nl.linkedin.com/in/basdijkstra" target="_blank" rel="noopener noreferrer">LinkedIn profile</a>. For questions and more information you can always send me an email at bas@ontestautomation.com.
