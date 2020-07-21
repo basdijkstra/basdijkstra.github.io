@@ -7,6 +7,7 @@ description: "Test automation training and consultancy"
 logo: /images/logo_large.png
 plugins:
   - jekyll-include-cache
+  - jekyll-paginate
 remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 minimal_mistakes_skin: "air"
 markdown: kramdown
@@ -35,3 +36,15 @@ footer:
     - label: GitHub
       icon: "fab fa-fw fa-github"
       url: "http://github.com/basdijkstra"
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true

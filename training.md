@@ -1,9 +1,6 @@
 ---
-id: 1983
 title: Training
-date: 2017-09-05T12:29:47+02:00
-author: Bas
-layout: post
+layout: page
 permalink: /training/
 ---
 Solid automation training is more than just teaching people to perform tricks with tools. Through years of experience as a trainer in the test automation space, I've managed to build a solid portfolio of test automation training courses and workshops.

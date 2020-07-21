@@ -55,10 +55,10 @@ public void SendKeys(By by, string valueToType)
             
     try
     {
-        IWebElement myElement = wait.Until&lt;IWebElement&gt;(driver =&gt;
+        IWebElement myElement = wait.Until<IWebElement>(driver =>
         {
             IWebElement tempElement = _driver.FindElement(by);
-            return (tempElement.Displayed &amp;&amp; tempElement.Enabled) ? tempElement : null;
+            return (tempElement.Displayed && tempElement.Enabled) ? tempElement : null;
         }
         );
         myElement.Clear();

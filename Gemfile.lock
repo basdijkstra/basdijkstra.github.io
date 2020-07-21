@@ -246,6 +246,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-include-cache
+  jekyll-paginate
 
 BUNDLED WITH
    2.0.1

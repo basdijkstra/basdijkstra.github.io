@@ -1,12 +1,7 @@
 ---
-id: 1496
 title: Open source workshops
-date: 2016-06-17T09:32:26+02:00
-author: Bas
 layout: page
-guid: http://www.ontestautomation.com/?page_id=1496
-spay_email:
-  - ""
+permalink: /open-source-workshops/
 ---
 Recently, I have decided to start sharing workshops that I have created and delivered in the past as open source. This means that everybody who wants to use, deliver and alter any of the material contained within any of these workshops is free to do so.
 

@@ -1,10 +1,7 @@
 ---
-id: 1321
 title: About
-date: 2016-03-17T21:24:37+01:00
-author: Bas
 layout: page
-guid: http://www.ontestautomation.com/?page_id=1321
+permalink: /about/
 ---
 **About this website**  
 Test automation is a craft. It takes skill, learning, dedication and effort to become good at it, which is why I've started this blog: as a means of learning and becoming better at my craft through continuous exploration, learning and sharing what I've done, seen, heard and otherwise learned.
