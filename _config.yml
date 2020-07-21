@@ -14,6 +14,19 @@ paginate: 5
 paginate_path: "page:num"
 kramdown:
   syntax_highlighter: rouge
+author_profile: true
+author:
+  name     : "Bas Dijkstra"
+  avatar   : "/images/bas.png"
+  bio      : "Teaching test automation to companies worldwide"
+  location : "Amersfoort, the Netherlands"
+  links:
+    - label: LinkedIn
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/basdijkstra/"
+    - label: GitHub
+      icon: "fab fa-fw fa-github"
+      url: "http://github.com/basdijkstra"
 footer:
   links:
     - label: LinkedIn
