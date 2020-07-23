@@ -1,13 +1,7 @@
 ---
-id: 2610
-title: '2019 &#8211; a year in review'
-date: 2019-12-20T12:06:46+01:00
-author: Bas
+title: 2019 - a year in review
 layout: post
-guid: http://www.ontestautomation.com/?p=2610
 permalink: /2019-a-year-in-review/
-spay_email:
-  - ""
 categories:
   - Uncategorized
 tags:

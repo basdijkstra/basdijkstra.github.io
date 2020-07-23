@@ -1,13 +1,7 @@
 ---
-id: 2614
-title: 'Writing tests for RESTful APIs in Python using requests – part 3: working with XML'
-date: 2020-01-10T09:11:58+01:00
-author: Bas
+title: Writing tests for RESTful APIs in Python using requests – part 3: working with XML
 layout: post
-guid: http://www.ontestautomation.com/?p=2614
 permalink: /writing-tests-for-restful-apis-in-python-using-requests-part-3-working-with-xml/
-spay_email:
-  - ""
 categories:
   - API testing
 tags:

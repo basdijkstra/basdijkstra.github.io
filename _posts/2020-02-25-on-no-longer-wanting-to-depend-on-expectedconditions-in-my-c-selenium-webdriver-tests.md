@@ -1,13 +1,7 @@
 ---
-id: 2688
-title: 'On no longer wanting to depend on ExpectedConditions in my C# Selenium WebDriver tests'
-date: 2020-02-25T14:12:34+01:00
-author: Bas
+title: On no longer wanting to depend on ExpectedConditions in my C# Selenium WebDriver tests
 layout: post
-guid: http://www.ontestautomation.com/?p=2688
 permalink: /on-no-longer-wanting-to-depend-on-expectedconditions-in-my-c-selenium-webdriver-tests/
-spay_email:
-  - ""
 categories:
   - Selenium
 tags:

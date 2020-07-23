@@ -1,13 +1,7 @@
 ---
-id: 2628
 title: An introduction to REST API testing in Go with Resty
-date: 2020-01-24T10:37:54+01:00
-author: Bas
 layout: post
-guid: http://www.ontestautomation.com/?p=2628
 permalink: /an-introduction-to-rest-api-testing-in-go-with-resty/
-spay_email:
-  - ""
 categories:
   - API testing
 tags:
