@@ -9,7 +9,7 @@ tags:
   - "2020"
   - end of year review
 ---
-2019 is almost at an end and wow, what a year it has been. A lot of ups, some downs, but a major net positive overall. As I did [last year](https://www.ontestautomation.com/on-my-2018-and-my-2019/), with this post I'd like to reflect a little on all that I've been working on this year, and share with you some of my plans for 2020, too.
+2019 is almost at an end and wow, what a year it has been. A lot of ups, some downs, but a major net positive overall. As I did [last year](/on-my-2018-and-my-2019/), with this post I'd like to reflect a little on all that I've been working on this year, and share with you some of my plans for 2020, too.
 
 **Training**  
 As I said last year, my main goal for 2019 was to extend my training efforts. I am pretty happy with how this turned out, overall. While the year started a little slow, it took off around May, with a couple of downright crazy weeks around October and November. In total, I delivered 30 full days of in company training and another 19 half day and evening training sessions, with 15 different clients. Collaborating with training companies helped a lot in getting to this result, and I'm looking forward to continuing working with all of them next year.
@@ -26,7 +26,7 @@ I worked with two consulting clients this year. The one I spent the most time wi
 Since October, I'm also doing some remote consulting with (and writing for) a consultancy firm in the United States, and so far this has been a really interesting and rewarding gig, too. I'd love to build on this relationship in 2020 and maybe find some other remote consulting clients, too. The idea of literally being able to work from anywhere, for organizations anywhere on this planet, without having to commute, is something that really appeals to me. So, if you are or know of an organization that could use some advice or consulting in the area of test automation, contact me, I'd love to talk and see if I can help you in 2020.
 
 **Writing**  
-2019 has been a pretty active year in writing for me, too. I have written and published 10 [articles](https://www.ontestautomation.com/articles/) on various industry blogs and websites, and another 8 blog posts (including this one) on this site. I will continue writing next year, as I think it's still a great way to process and structure my thoughts, as well as a good excuse to learn new things myself.
+2019 has been a pretty active year in writing for me, too. I have written and published 10 [articles](/articles/) on various industry blogs and websites, and another 8 blog posts (including this one) on this site. I will continue writing next year, as I think it's still a great way to process and structure my thoughts, as well as a good excuse to learn new things myself.
 
 **Public speaking**  
 This year, I've done 9 talks, mostly at meetups and conferences, but also one in-house with a client. Six of these were regular talks, one was a deep dive with some live coding, but most notably I have done two international keynotes, one at <a href="https://ukstar.eurostarsoftwaretesting.com/" target="_blank" rel="noreferrer noopener" aria-label="UKStar (opens in a new tab)">UKStar</a> (London, in March) and the other at the Agile & Automation Days (Poland, in October). I really enjoyed both these talks and have received some good and constructive feedback on them.
