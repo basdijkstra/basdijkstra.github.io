@@ -1,5 +1,5 @@
 ---
-title: Writing tests for RESTful APIs in Python using requests – part 4&colon; mocking responses
+title: 'Writing tests for RESTful APIs in Python using requests – part 4: mocking responses'
 layout: post
 permalink: /writing-tests-for-restful-apis-in-python-using-requests-part-4-mocking-responses/
 categories:
