@@ -1,6 +1,7 @@
 ---
 title: Service virtualization with WireMock
 layout: page
+permalink: /training/service-virtualization-with-wiremock/
 ---
 Modern software systems are built from several, often many, different components and subsystems that are individually created, often in different development teams or even different organizations. This makes integration and end-to-end testing much more complex, since you'll need to ensure somehow that test environments are available for all of the components involved, and that all test environments contain the right test data required for testing. Add the continuously increasing velocity of development and test cycles in the mix, and you can see how efficient test environment management can quickly become a daunting, if not impossible task.
 

@@ -1,6 +1,7 @@
 ---
 title: Introduction to test automation
 layout: page
+permalink: /training/introduction-to-test-automation/
 ---
 Test automation is an integral part of many software development and testing teams' activities nowadays. No surprise there. However, many of those teams, and even entire organizations, are still struggling with making their test automation efforts a success.
 

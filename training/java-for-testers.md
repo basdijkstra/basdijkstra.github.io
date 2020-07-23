@@ -1,6 +1,7 @@
 ---
 title: Java for testers
 layout: page
+permalink: /training/java-for-testers/
 ---
 Are you a tester working in a Java environment? Do you want to learn how to work with and contribute to automated tests written in Java? Then the &#8216;Java for testers' course is just for you!
 

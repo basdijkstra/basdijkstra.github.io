@@ -1,6 +1,7 @@
 ---
 title: Getting started with Consumer Driven Contract Testing
 layout: page
+permalink: /training/getting-started-with-consumer-driven-contract-testing/
 ---
 In a world where new software applications are increasingly often built upon a microservices-based architecture, where multiple teams are building, deploying and running services and components independently, it can be hard to verify whether all these individual services can still communicate with one another over time.
 

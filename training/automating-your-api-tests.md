@@ -1,6 +1,7 @@
 ---
 title: Automating your API tests
 layout: page
+permalink: /training/automating-your-api-tests/
 ---
 With APIs playing a critical role in modern software systems and architectures, knowing how to test and automate at the API level is an essential skill for you as a tester.
 

@@ -1,6 +1,7 @@
 ---
 title: Introduction to mutation testing
 layout: page
+permalink: /training/introduction-to-mutation-testing/
 ---
 Automated (unit) tests are a great way to continuously ensure that specific expectations about the software that you're building are still being met. But did you know that your automated tests can deceive you? Do you know what the quality of your automated tests really is? Or, as the Roman Poet Juvenal put it much more eloquently:
 

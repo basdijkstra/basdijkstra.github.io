@@ -1,6 +1,7 @@
 ---
 title: Behaviour Driven Development
 layout: page
+permalink: /training/behaviour-driven-development/
 ---
 Behaviour Driven Development (BDD) is a process that aims to uncover and resolve communication problems by creating a shared understanding of the behaviour of a software product before it is developed.
 

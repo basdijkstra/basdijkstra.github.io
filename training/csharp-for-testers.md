@@ -1,6 +1,7 @@
 ---
 title: C# for testers
 layout: page
+permalink: /training/csharp-for-testers/
 ---
 Are you a tester working in a .NET environment? Do you want to learn how to work with and contribute to automated tests written in C#? Then the &#8216;C# for testers' course is just for you!
 

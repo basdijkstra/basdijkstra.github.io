@@ -1,6 +1,7 @@
 ---
 title: Python for testers
 layout: page
+permalink: /training/python-for-testers/
 ---
 Are you a tester working in a Python environment? Do you want to learn how to work with and contribute to automated tests written in Python? Then the &#8216;Python for testers' course is just for you!
 

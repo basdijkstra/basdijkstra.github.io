@@ -1,6 +1,7 @@
 ---
 title: Test automation with Robot Framework
 layout: page
+permalink: /training/test-automation-with-robot-framework/
 ---
 From the <a href="https://robotframework.org/" target="_blank" rel="noreferrer noopener" aria-label="Robot Framework website (opens in a new tab)">Robot Framework website</a>: "_Robot Framework is a generic open source automation framework for acceptance testing, acceptance test driven development (ATDD), and robotic process automation (RPA). It has easy-to-use tabular test data syntax and it utilizes the keyword-driven testing approach. Its testing capabilities can be extended by test libraries implemented either with Python or Java, and users can create new higher-level keywords from existing ones using the same syntax that is used for creating test cases._"
 
