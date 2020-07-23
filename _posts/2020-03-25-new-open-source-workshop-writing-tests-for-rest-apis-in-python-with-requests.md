@@ -1,13 +1,7 @@
 ---
-id: 2725
-title: 'New open source workshop: writing tests for REST APIs in Python with requests'
-date: 2020-03-25T15:08:35+01:00
-author: Bas
+title: New open source workshop: writing tests for REST APIs in Python with requests
 layout: post
-guid: http://www.ontestautomation.com/?p=2725
 permalink: /new-open-source-workshop-writing-tests-for-rest-apis-in-python-with-requests/
-spay_email:
-  - ""
 categories:
   - Workshops
 tags:

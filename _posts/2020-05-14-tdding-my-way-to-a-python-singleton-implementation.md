@@ -1,15 +1,7 @@
 ---
-id: 2741
 title: TDDing my way to a Python singleton implementation
-date: 2020-05-14T09:00:00+02:00
-author: Bas
 layout: post
-guid: http://www.ontestautomation.com/?p=2741
 permalink: /tdding-my-way-to-a-python-singleton-implementation/
-spay_email:
-  - ""
-wp_featherlight_disable:
-  - ""
 categories:
   - Development and testing
 tags:

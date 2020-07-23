@@ -1,13 +1,7 @@
 ---
-id: 2715
 title: Do you really need that Cucumber with your Selenium?
-date: 2020-03-18T11:52:48+01:00
-author: Bas
 layout: post
-guid: http://www.ontestautomation.com/?p=2715
 permalink: /do-you-really-need-that-cucumber-with-your-selenium/
-spay_email:
-  - ""
 categories:
   - General test automation
 tags:

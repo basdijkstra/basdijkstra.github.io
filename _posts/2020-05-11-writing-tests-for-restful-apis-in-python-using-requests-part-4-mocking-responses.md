@@ -1,15 +1,7 @@
 ---
-id: 2737
-title: 'Writing tests for RESTful APIs in Python using requests – part 4: mocking responses'
-date: 2020-05-11T10:35:21+02:00
-author: Bas
+title: Writing tests for RESTful APIs in Python using requests – part 4: mocking responses
 layout: post
-guid: http://www.ontestautomation.com/?p=2737
 permalink: /writing-tests-for-restful-apis-in-python-using-requests-part-4-mocking-responses/
-spay_email:
-  - ""
-wp_featherlight_disable:
-  - ""
 categories:
   - API testing
 tags:
