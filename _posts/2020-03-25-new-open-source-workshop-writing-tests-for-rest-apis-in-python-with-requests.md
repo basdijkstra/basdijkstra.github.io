@@ -1,5 +1,5 @@
 ---
-title: New open source workshop: writing tests for REST APIs in Python with requests
+title: New open source workshop&colon; writing tests for REST APIs in Python with requests
 layout: post
 permalink: /new-open-source-workshop-writing-tests-for-rest-apis-in-python-with-requests/
 categories:

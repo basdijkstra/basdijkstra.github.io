@@ -1,5 +1,5 @@
 ---
-title: Writing tests for RESTful APIs in Python using requests – part 3: working with XML
+title: Writing tests for RESTful APIs in Python using requests – part 3&colon; working with XML
 layout: post
 permalink: /writing-tests-for-restful-apis-in-python-using-requests-part-3-working-with-xml/
 categories:
