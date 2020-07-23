@@ -1,10 +1,6 @@
 ---
-id: 2391
 title: API testing masterclass
-date: 2019-01-07T10:00:47+01:00
-author: Bas
 layout: page
-guid: http://www.ontestautomation.com/?page_id=2391
 ---
 APIs play a vital role in many modern software development efforts as the glue that connects different components, as well as entire systems. As a software tester or developer, it is therefore vital that you know
 
@@ -14,7 +10,7 @@ APIs play a vital role in many modern software development efforts as the glue t
 
 In this three-day API testing masterclass, you will learn all about APIs, how to test them and how to use a variety of tools to your advantage when doing so.
 
-**Course contents &#8211; day 1**  
+**Course contents - day 1**  
 Day 1 of the masterclass lays the groundwork for days 2 and 3. You will learn:
 
   * What APIs are and what types of APIs exist
@@ -27,9 +23,9 @@ Day 1 of the masterclass lays the groundwork for days 2 and 3. You will learn:
   * How to use tools to your advantage when performing exploratory API testing
   * How to gauge API testability and make suggestions for improving it
 
-After completing day 1, you will have a clear overview of what APIs are and what role they play in modern software systems. You will also be able to answer the questions of &#8216;_why?_&#8216;, &#8216;_what?_&#8216; and &#8216;_how?_&#8216; to test APIs.
+After completing day 1, you will have a clear overview of what APIs are and what role they play in modern software systems. You will also be able to answer the questions of "_why?_", "_what?_" and "_how?_" to test APIs.
 
-**Course contents &#8211; day 2**  
+**Course contents - day 2**  
 On day 2, you will dive deeper into various tools that can help you test your APIs more efficiently. You will learn:
 
   * What standards there are for API specifications and API contracts
@@ -41,7 +37,7 @@ On day 2, you will dive deeper into various tools that can help you test your AP
 
 After completing day 2, you will have gained experience in using several types of tools to support your API functional testing efforts. You will leave with various examples and suggestions that you can apply in your own context.
 
-**Course contents &#8211; day 3**  
+**Course contents - day 3**  
 The final day of this masterclass covers testing other API characteristics, making API testing part of your overall testing and test automation strategy and dealing with API dependencies. You will learn:
 
   * How to make API test automation part of your overall test automation suite
@@ -65,6 +61,6 @@ After completing this API testing masterclass, you’ll know why knowing how to 
 **Delivery and group size**  
 I currently offer this course in person, on site only.
 
-If you would like to book me to teach this course in your organization, or if you have any additional questions, please send an email to bas@ontestautomation.com or use the contact form on [this page](https://www.ontestautomation.com/contact/).
+If you would like to book me to teach this course in your organization, or if you have any additional questions, please send an email to bas@ontestautomation.com or use the contact form on [this page](/contact/).
 
-For an overview of all training courses I have on offer, please visit the main [training page](https://www.ontestautomation.com/training/).
+For an overview of all training courses I have on offer, please visit the main [training page](/training/).

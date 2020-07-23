@@ -11,7 +11,7 @@ No matter if you're a CEO or an engineer, you'll need a solid strategy before st
 
 | Course name | Duration |    |
 |-------------|----------|----|
-| Introduction to test automation | 1 day | [more information](https://www.ontestautomation.com/training/introduction-to-test-automation/) |
+| Introduction to test automation | 1 day | [more information](/training/introduction-to-test-automation/) |
 
 ### **_Software development for testers_**
 
@@ -19,9 +19,9 @@ Test automation is software development. These courses will teach you everything
 
 | Course name | Duration |    |
 |-------------|----------|----|
-| Python for testers | 3 days | [more information](https://www.ontestautomation.com/training/python-for-testers/) |
-| Java for testers | 3 days | [more information](https://www.ontestautomation.com/training/java-for-testers/) |
-| C# for testers | 3 days | [more information](https://www.ontestautomation.com/training/csharp-for-testers/) |
+| Python for testers | 3 days | [more information](/training/python-for-testers/) |
+| Java for testers | 3 days | [more information](/training/java-for-testers/) |
+| C# for testers | 3 days | [more information](/training/csharp-for-testers/) |
 
 ### _**API testing**_
 
@@ -29,7 +29,7 @@ Every tester should know how to work with APIs in their testing, as well as how 
 
 | Course name | Duration |    |
 |-------------|----------|----|
-| API testing masterclass | 3 days | [more information](http://www.ontestautomation.com/training/api-testing-masterclass/) |
+| API testing masterclass | 3 days | [more information](/training/api-testing-masterclass/) |
 
 ### **_Behaviour Driven Development_**
 
@@ -37,7 +37,7 @@ There's more to BDD than just using Cucumber. Much more. For a complete introduc
 
 | Course name | Duration | Language |   |
 |-------------|----------|----------|---|
-| Behaviour Driven Development | 2 days | Human (realistically: English or Dutch), Java (Cucumber), C# (SpecFlow), Python (pytest-bdd) | [more information](https://www.ontestautomation.com/training/behaviour-driven-development/) |
+| Behaviour Driven Development | 2 days | Human (realistically: English or Dutch), Java (Cucumber), C# (SpecFlow), Python (pytest-bdd) | [more information](/training/behaviour-driven-development/) |
 
 
 ### _**Tool workshops**_
@@ -46,14 +46,14 @@ These half-day workshops are perfect if you're looking to get a kickstart with a
 
 | Course name |  Language |   |
 |-------------|----------|---|
-| Getting started with Consumer Driven Contract Testing | Java, C#, JavaScript, Python, Go (all using Pact) | [more information](https://www.ontestautomation.com/training/getting-started-with-consumer-driven-contract-testing/) |
-| Automating your API tests | Java (REST Assured), C# (RestSharp), Python (requests), Go (resty) | [more information](https://www.ontestautomation.com/training/automating-your-api-tests/) |
-| Service virtualization | Java (WireMock | [more information](https://www.ontestautomation.com/training/service-virtualization-with-wiremock/) |
-| Introduction to mutation testing | Java (PITest), C# (Stryker.NET) | [more information](https://www.ontestautomation.com/training/introduction-to-mutation-testing/) |
-| Robot Framework | Python | [more information](https://www.ontestautomation.com/training/test-automation-with-robot-framework/) |
+| Getting started with Consumer Driven Contract Testing | Java, C#, JavaScript, Python, Go (all using Pact) | [more information](/training/getting-started-with-consumer-driven-contract-testing/) |
+| Automating your API tests | Java (REST Assured), C# (RestSharp), Python (requests), Go (resty) | [more information](/training/automating-your-api-tests/) |
+| Service virtualization | Java (WireMock | [more information](/training/service-virtualization-with-wiremock/) |
+| Introduction to mutation testing | Java (PITest), C# (Stryker.NET) | [more information](/training/introduction-to-mutation-testing/) |
+| Robot Framework | Python | [more information](/training/test-automation-with-robot-framework/) |
 
 Couldn't find the training course you were looking for? I am happy to talk to you to see if together, we can create a **bespoke training course** (or even a complete curriculum of courses) that fits your training needs like a glove.
 
-Are you interested in having me as a trainer in your organization or at your conference? Feel free to send me an email at bas@ontestautomation.com, or use the contact form on [this page](https://www.ontestautomation.com/contact/).
+Are you interested in having me as a trainer in your organization or at your conference? Feel free to send me an email at bas@ontestautomation.com, or use the contact form on [this page](/contact/).
 
 I’m looking forward to help you improve your test automation efforts!
