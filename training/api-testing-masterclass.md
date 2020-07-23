@@ -1,6 +1,7 @@
 ---
 title: API testing masterclass
 layout: page
+permalink: /training/api-testing-masterclass/
 ---
 APIs play a vital role in many modern software development efforts as the glue that connects different components, as well as entire systems. As a software tester or developer, it is therefore vital that you know
 
