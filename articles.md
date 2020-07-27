@@ -9,6 +9,7 @@ Have you read some of them? I would love to hear your thoughts!
 
 | Article                                                                                            | Published                                  |
 |----------------------------------------------------------------------------------------------------|--------------------------------------------|
+| [HTML Test Reports for Selenium & Appium Python Test Automation](https://blog.testproject.io/2020/07/27/html-test-reports-for-selenium-and-appium-python-test-automation/){:target="_blank"} | TestProject blog, July 2020 |
 | [Tools, libraries, and methods to turn your SpecFlow specifications into automated acceptance tests](https://specflow.org/2020/tools-libraries-and-methods-to-turn-your-specflow-specifications-into-automated-acceptance-tests/){:target="_blank"} | SpecFlow blog, July 2020                   |
 | [Creating Mobile Appium Tests with TestProject Python SDK](https://blog.testproject.io/2020/07/20/creating-mobile-appium-tests-with-testproject-python-sdk/){:target="_blank"}                                           | TestProject blog, July 2020                |
 | [5 reasons that will convince your team to adopt BDD](https://specflow.org/2020/5-reasons-that-will-convince-your-team-to-adopt-bdd/){:target="_blank"}                                                | SpecFlow blog, July 2020                   |
