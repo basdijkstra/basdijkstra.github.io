@@ -3,7 +3,11 @@ title: Training
 layout: page
 permalink: /training/
 ---
-<table><tr><td style="border: none;"><p style="font-size: 22px;">Valuable automation training is more than just teaching people to perform tricks with tools.</p><p style="font-size: 22px;">Through years of experience as a trainer in the test automation space, I've managed to build a solid portfolio of test automation training courses and workshops.</p></td><td style="border: none;"><img src="/images/bas_teaching.png"/></td></tr></table>
+Valuable automation training is more than just teaching people to perform tricks with tools.
+
+Through years of experience as a trainer in the test automation space, I've managed to build a solid portfolio of test automation training courses and workshops.
+
+<p align="center"><img alt="Bas teaching a workshop at the 2019 Romanian Testing Conference" src="/images/bas_teaching.png" width="50%"/></p>
 
 ### **_Introduction to test automation_**
 
@@ -35,15 +39,13 @@ There's more to BDD than just using Cucumber. Much more. For a complete introduc
 
 These half-day workshops are perfect if you're looking to get a kickstart with a new tool or technique. And if you're a conference organizer: these workshops work really well as part of conferences, too!
 
-| Course name |  Language |   |
-|-------------|----------|---|
-| Getting started with Consumer Driven Contract Testing | Java, C#, JavaScript, Python, Go (all using Pact) | [more information](/training/getting-started-with-consumer-driven-contract-testing/) |
-| Automating your API tests | Java (REST Assured), C# (RestSharp), Python (requests), Go (resty) | [more information](/training/automating-your-api-tests/) |
-| Service virtualization | Java (WireMock | [more information](/training/service-virtualization-with-wiremock/) |
-| Introduction to mutation testing | Java (PITest), C# (Stryker.NET) | [more information](/training/introduction-to-mutation-testing/) |
-| Robot Framework | Python | [more information](/training/test-automation-with-robot-framework/) |
+<a href="/training/getting-started-with-consumer-driven-contract-testing/" class="btn btn--primary">Consumer Driven Contract Testing</a>
+<a href="/training/automating-your-api-tests/" class="btn btn--primary">Automating your API tests</a>
+<a href="/training/service-virtualization-with-wiremock/" class="btn btn--primary">Service virtualization</a>
+<a href="/training/introduction-to-mutation-testing/" class="btn btn--primary">Mutation testing</a>
+<a href="/training/test-automation-with-robot-framework/" class="btn btn--primary">Robot Framework</a>
 
-Couldn't find the training course you were looking for? I am happy to talk to you to see if together, we can create a **bespoke training course** (or even a complete curriculum of courses) that fits your training needs like a glove.
+Can't find the training course you were looking for? I am happy to talk to you to see if together, we can create a **bespoke training course** (or even a complete curriculum of courses) that fits your training needs like a glove.
 
 Are you interested in having me as a trainer in your organization or at your conference? Feel free to send me an email at bas@ontestautomation.com, or use the contact form on [this page](/contact/).
 
