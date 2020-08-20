@@ -39,7 +39,7 @@ Note that I'm not going to explain all the nuts and bolts of Go and its syntax h
 
 If we run this test using the `go test` command, you'll see that it passes:
 
-![go test console output](https://basdijkstra/github.io/images/go_test_console_output.png "Go test console output")
+![go test console output](/images/blog/go_test_console_output.png "Go test console output")
 
 Each test method takes an argument of type `T` (from the `testing` library), which is used to manage test state. What might strike you as odd (it did for me) is that there's no assertion in this test like you would expect if you're familiar with unit testing frameworks like JUnit, NUnit or pytest. The reason is simple: they don't exist in the Go `testing` library. The people behind Go have their reasons for it, but this is something I don't really like. I prefer using assertions, because they make my test code easier to read, plus it saves me from writing all these if-then-else statements myself.
 
