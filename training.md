@@ -3,42 +3,33 @@ title: Training
 layout: page
 permalink: /training/
 ---
-Solid automation training is more than just teaching people to perform tricks with tools. Through years of experience as a trainer in the test automation space, I've managed to build a solid portfolio of test automation training courses and workshops.
+<table><tr><td style="border: none;"><p style="font-size: 22px;">Valuable automation training is more than just teaching people to perform tricks with tools.</p><p style="font-size: 22px;">Through years of experience as a trainer in the test automation space, I've managed to build a solid portfolio of test automation training courses and workshops.</p></td><td style="border: none;"><img src="/images/bas_teaching.png"/></td></tr></table>
 
-### **_Automation concepts, principles and strategy_**
+### **_Introduction to test automation_**
 
 No matter if you're a CEO or an engineer, you'll need a solid strategy before starting your test automation efforts. No 40+ page documents necessary.
 
-| Course name | Duration |    |
-|-------------|----------|----|
-| Introduction to test automation | 1 day | [more information](/training/introduction-to-test-automation/) |
+<a href="/training/introduction-to-test-automation/" class="btn btn--primary">Introduction to test automation (1 day)</a>
 
 ### **_Software development for testers_**
 
 Test automation is software development. These courses will teach you everything you need to know to start creating automated tests in various programming languages.
 
-| Course name | Duration |    |
-|-------------|----------|----|
-| Python for testers | 3 days | [more information](/training/python-for-testers/) |
-| Java for testers | 3 days | [more information](/training/java-for-testers/) |
-| C# for testers | 3 days | [more information](/training/csharp-for-testers/) |
+<a href="/training/python-for-testers/" class="btn btn--primary">Python for testers (3 days)</a>
+<a href="/training/java-for-testers/" class="btn btn--primary">Java for testers (3 days)</a>
+<a href="/training/csharp-for-testers/" class="btn btn--primary">C# for testers (3 days)</a>
 
 ### _**API testing**_
 
 Every tester should know how to work with APIs in their testing, as well as how to design, write and execute tests for APIs. This masterclass is just for you.
 
-| Course name | Duration |    |
-|-------------|----------|----|
-| API testing masterclass | 3 days | [more information](/training/api-testing-masterclass/) |
+<a href="/training/api-testing-masterclass/" class="btn btn--primary">API testing masterclass (3 days)</a>
 
 ### **_Behaviour Driven Development_**
 
 There's more to BDD than just using Cucumber. Much more. For a complete introduction to Behaviour Driven Development, look no further.
 
-| Course name | Duration | Language |   |
-|-------------|----------|----------|---|
-| Behaviour Driven Development | 2 days | Human (realistically: English or Dutch), Java (Cucumber), C# (SpecFlow), Python (pytest-bdd) | [more information](/training/behaviour-driven-development/) |
-
+<a href="/training/behaviour-driven-development/" class="btn btn--primary">Behaviour Driven Development (2 days)</a>
 
 ### _**Tool workshops**_
 
