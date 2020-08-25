@@ -5,3 +5,5 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache"
 
 gem "jekyll-paginate"
+
+gem "jekyll-analytics"
