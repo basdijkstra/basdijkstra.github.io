@@ -51,3 +51,5 @@ defaults:
 jekyll_analytics:
   GoogleAnalytics:
     id: UA-176276927-1
+commentbox:
+  id: 5659931575320576-proj
