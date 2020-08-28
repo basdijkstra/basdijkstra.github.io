@@ -3,9 +3,9 @@ title: Training
 layout: page
 permalink: /training/
 ---
-Valuable automation training is more than just teaching people to perform tricks with tools.
+Valuable automation training is more than just teaching people to perform tricks with tools. I've been a practitioner in the test automation space since 2006 and have worked with a wide range of clients and tools, so I've seen what works and what doesn't. 
 
-Through years of experience as a trainer in the test automation space, I've managed to build a solid portfolio of test automation training courses and workshops.
+This experience has enabled me to build a solid portfolio of test automation training courses and workshops, which I have delivered to many companies in the Netherlands as well as abroad, to excellent reviews.
 
 <p align="center"><img alt="Bas teaching a workshop at the 2019 Romanian Testing Conference" src="/images/bas_teaching.png" width="50%"/></p>
 
