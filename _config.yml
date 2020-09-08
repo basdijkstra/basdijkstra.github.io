@@ -8,6 +8,7 @@ logo: /images/logo_large.png
 plugins:
   - jekyll-include-cache
   - jekyll-paginate
+  - jekyll-analytics
 remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 minimal_mistakes_skin: "air"
 markdown: kramdown
