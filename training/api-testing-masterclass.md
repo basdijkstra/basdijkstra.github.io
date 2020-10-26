@@ -60,7 +60,7 @@ Some prior exposure to (object-oriented) software development and test automatio
 After completing this API testing masterclass, you’ll know why knowing how to test APIs is so important, what to look for when you’re testing APIs and how to use tools to your advantage in your API testing efforts. You’ll leave this course with a collection of tools, examples and resources for further studying that will help you in your day to day work.
 
 **Delivery and group size**  
-I currently offer this course in person, on site only.
+This is a live training course, available both on site and online.
 
 If you would like to book me to teach this course in your organization, or if you have any additional questions, please send an email to bas@ontestautomation.com or use the contact form on [this page](/contact/).
 

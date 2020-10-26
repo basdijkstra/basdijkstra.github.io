@@ -27,7 +27,7 @@ This workshop is aimed at testing practitioners that want to learn more about wr
 Some previous exposure to object-oriented software development and test automation will make it easier for you to follow along, but participants new to these concepts will get a lot from this workshop as well.
 
 **Delivery and group size**  
-This workshop is a great fit both for an in house training session as well as a half or full day conference tutorial. I recommend a maximum group size of around 15 people.
+This workshop is a great fit both for an on site or an online in house training session, as well as a half or full day conference tutorial. I recommend a maximum group size of around 15 people.
 
 **Duration**  
 This workshop typically takes 3-4 hours, but can be extended to a full-day tutorial.

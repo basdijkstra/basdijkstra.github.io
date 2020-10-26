@@ -26,7 +26,7 @@ There's no better way to learn than by doing, so you'll be presented with a vari
 This workshop is aimed at testing practitioners that want to learn more about using Robot Framework, and to make sure that they get the most out of doing so. Some previous exposure to object-oriented software development and test automation will make it easier for you to follow along.
 
 **Delivery and group size**  
-I currently offer this workshop in person, on site only. The maximum group size is 20.
+This is a live workshop, available both on site and online. The maximum group size is 20.
 
 **Duration**  
 This workshop typically takes 3-4 hours, but can be extended to a full-day tutorial. 

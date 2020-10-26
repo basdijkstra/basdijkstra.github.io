@@ -29,7 +29,7 @@ There's no better way to learn than by doing, so you'll be presented with a vari
 This workshop is aimed at development and testing practitioners that want to learn more about service virtualization, and how to improve your development and testing efforts using WireMock. Participants are expected to have some prior experience in Java software or automation development.
 
 **Delivery and group size**  
-This workshop is a great fit both for an in house training session as well as a half or full day conference tutorial. I recommend a maximum group size of around 15-20 people.
+This workshop is a great fit both for an on site or online in house training session, as well as a half or full day conference tutorial. I recommend a maximum group size of around 15-20 people.
 
 **Duration**  
 This workshop typically takes 3-4 hours, but can be extended to a full-day tutorial.

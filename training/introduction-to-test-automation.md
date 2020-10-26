@@ -27,7 +27,7 @@ This course is aimed at testing practitioners, software developers, managers and
 No prerequisite knowledge is required.
 
 **Delivery and group size**  
-I currently offer this course in person, on site only. The maximum group size is 12.
+This is a live training course, available both on site and online. The maximum group size is 12.
 
 **Duration**  
 This course takes one working day.

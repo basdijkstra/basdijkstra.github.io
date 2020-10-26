@@ -29,7 +29,7 @@ There's no better way to learn than by doing, so you'll be presented with a vari
 This course is aimed at testing practitioners that want to learn more about writing automation code in Python, and what tools are available in the Python ecosystem to support you in that task. Some previous exposure to object-oriented software development and test automation will make it easier for you to follow along.
 
 **Delivery and group size**  
-I currently offer this course in person, on site only. The maximum group size is 12.
+This is a live training course, available both on site and online. The maximum group size is 12.
 
 **Duration**  
 This course takes three working days.
