@@ -7,8 +7,7 @@ You can contact me by filling in the form below. Please note that your email add
 
 Before you send me a message, please consider the following:
 
-* I provide corporate training for team and companies, which means that I cannot cater to individuals expressing their interest in my courses.
-* I am unable to take on requests for 1-on-1 individual training. If you're looking for training as an individual, why not check out one of my [open source workshops](open-source-workshops.md)?
+* I provide corporate training for team and companies, which means that I am unable to take on requests for 1-on-1 individual training. If you're looking for training as an individual, why not check out one of my [open source workshops](open-source-workshops.md) instead?
 * If you have a technical question regarding a specific test automation problem, you're probably way better off asking the [StackOverflow](https://stackoverflow.com/){:target="_blank"} community instead.
 
 <form
