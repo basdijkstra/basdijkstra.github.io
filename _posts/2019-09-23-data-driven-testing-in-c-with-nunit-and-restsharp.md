@@ -36,7 +36,7 @@ public class NonDataDrivenTests
         IRestResponse response = client.Execute(request);
         LocationResponse locationResponse =
             new JsonDeserializer().
-            Deserialize&lt;LocationResponse&gt;(response);
+            Deserialize<LocationResponse>(response);
 
         // assert
         Assert.That(
@@ -57,7 +57,7 @@ public class NonDataDrivenTests
         IRestResponse response = client.Execute(request);
         LocationResponse locationResponse =
             new JsonDeserializer().
-            Deserialize&lt;LocationResponse&gt;(response);
+            Deserialize<LocationResponse>(response);
 
         // assert
         Assert.That(
@@ -78,7 +78,7 @@ public class NonDataDrivenTests
         IRestResponse response = client.Execute(request);
         LocationResponse locationResponse =
             new JsonDeserializer().
-            Deserialize&lt;LocationResponse&gt;(response);
+            Deserialize<LocationResponse>(response);
 
         // assert
         Assert.That(
@@ -124,7 +124,7 @@ public class DataDrivenUsingAttributesTests
         IRestResponse response = client.Execute(request);
         LocationResponse locationResponse =
             new JsonDeserializer().
-            Deserialize&lt;LocationResponse&gt;(response);
+            Deserialize<LocationResponse>(response);
 
         // assert
         Assert.That(
@@ -173,7 +173,7 @@ public class DataDrivenUsingTestCaseSourceTests
         IRestResponse response = client.Execute(request);
         LocationResponse locationResponse =
             new JsonDeserializer().
-            Deserialize&lt;LocationResponse&gt;(response);
+            Deserialize<LocationResponse>(response);
 
         // assert
         Assert.That(
@@ -182,7 +182,7 @@ public class DataDrivenUsingTestCaseSourceTests
         );
     }
 
-    private static IEnumerable&lt;TestCaseData&gt; LocationTestData()
+    private static IEnumerable<TestCaseData> LocationTestData()
     {
         yield return new TestCaseData("us", "90210", "Beverly Hills").
             SetName("Check that US zipcode 90210 yields Beverly Hills");
