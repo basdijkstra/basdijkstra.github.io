@@ -18,8 +18,8 @@ With my ongoing consulting gig being ended abruptly in March (and I guess I don'
 
 Where I did 49 training session in 2019, this year I've done 67 of them:
 
-* 20 full day sessions (11 in person, 9 online)
-* 47 half day sessions (6 in person, 41 online)
+* 20 full day sessions (11 on site, 9 online)
+* 47 half day sessions (6 on site, 41 online)
 
 I'm very happy with that increase, of course. I would not have been able to do this without the training partners I've worked with in 2020: [Vijfhart](https://www.vijfhart.nl/){:target="_blank"}, [Improve Quality Services](https://www.improveqs.nl/){:target="_blank"} and [Black Koi Consulting](http://black-koi.consulting/){:target="_blank"}. I really hope to extend our collaboration in 2021, while also looking for other partners to work with.
 
