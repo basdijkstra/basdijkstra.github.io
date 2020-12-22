@@ -47,7 +47,7 @@ I really hope to do more public speaking next year, once conferences come back o
 * 5 on the SpecFlow blog
 * and no fewer than 7 on the TestProject blog
 
-Links to all of these articles can be found on the [Articles](/articles/)) page. Besides these, I've also written 7 blog posts, including this one. I hope to write a couple more next year, and maybe do fewer ones for other websites.
+Links to all of these articles can be found on the [Articles](/articles/) page. Apart from these, I've also written 7 blog posts, including this one. I hope to write a couple more next year, and maybe do fewer ones for other websites.
 
 #### Other projects
 Apart from the above, I've also spent a lot of time working on the [TestProject Python OpenSDK](https://pypi.org/project/testproject-python-sdk/){:target="_blank"}, which was released in July of this year. As you can read from my experiences [here](/on-my-first-software-development-project/), this was a really fun project to work on, especially since I've learned so much about software development in the process.
@@ -55,6 +55,9 @@ Apart from the above, I've also spent a lot of time working on the [TestProject 
 I'm currently working on another development project for TestProject, one that I'm at least as excited about. More news about that without a doubt early in 2021!
 
 These projects, next to excellent learning opportunities, have been a lot of fun for me to work on, and I'm definitely open to more of these development projects in the years to come. I've got a couple of ideas for other libraries, but I'll definitely keep my eyes open for other opportunities, too, if the conditions are a good fit.
+
+#### Partnerships
+Next to working closely together with Vijfhart, Improve Quality Services and Black Koi Consulting, as I mentioned earlier, I've teamed up with the people at [Testing Times](https://testingtimes.com.au/){:target="_blank"} and [Pactflow](https://pactflow.io/){:target="_blank"} this year, too. I'm looking forward to seeing the results of these collaborations go live in 2021 and beyond.  
 
 #### Miscellaneous
 Finally, I've also spent time doing some other things:
