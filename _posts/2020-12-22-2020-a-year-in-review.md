@@ -21,7 +21,7 @@ Where I did 49 training session in 2019, this year I've done 67 of them:
 * 20 full day sessions (11 on site, 9 online)
 * 47 half day sessions (6 on site, 41 online)
 
-I'm very happy with that increase, of course. I would not have been able to do this without the training partners I've worked with in 2020: [Vijfhart](https://www.vijfhart.nl/){:target="_blank"}, [Improve Quality Services](https://www.improveqs.nl/){:target="_blank"} and [Black Koi Consulting](http://black-koi.consulting/){:target="_blank"}. I really hope to extend our collaboration in 2021, while also looking for other partners to work with.
+I'm very happy with that increase, of course. I would not have been able to do this without the training partners I've worked with in 2020: [Vijfhart](https://www.vijfhart.nl/){:target="_blank"}, [Improve Quality Services](https://www.improveqs.nl/){:target="_blank"} and [Black Koi Consulting](http://black-koi.consulting/){:target="_blank"}. I really hope to extend our collaboration in 2021. Meanwhile, I'll keep looking for other partners to work with as well.
 
 Another positive thing is that more and more of my training clients are coming from abroad. Where last year I had clients from the UK and Romania (next to those in the Netherlands), this year my clients were also in Sweden, Norway and the United States. And things are looking to go even more global in 2021.. But more on that hopefully in the 2021 recap.
 
