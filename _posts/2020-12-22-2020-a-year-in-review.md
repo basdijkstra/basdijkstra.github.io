@@ -11,7 +11,7 @@ So, 2020 is almost over. And what a year it has been! While it started off as a 
 
 I count myself blessed in that the pandemic has not caused me a lot of trouble, like it has done for so many others. My LinkedIn feed was flooded with people having but short their assignments, losing their jobs and looking for new contracts and employers. I really hope that all of you are still employed or have found a new position.
 
-Nevertheless, it has been an interesting year for me as well, and (mostly for my own sake) I'm taking a bit of time and (web-)space here to reflect on what 2020 had in store for me.  
+For me, personally, it has been an interesting year, and (mostly for my own sake) I'm taking a bit of time and (web-)space here to reflect on what 2020 had in store for me.  
 
 #### Training
 With my ongoing consulting gig being ended abruptly in March (and I guess I don't need to explain why...) I could fully focus on my main goal for this year: building and expanding my training business. And I've been pretty successful with that, if I may say so.
@@ -21,16 +21,16 @@ Where I did 49 training session in 2019, this year I've done 67 of them:
 * 20 full day sessions (11 on site, 9 online)
 * 47 half day sessions (6 on site, 41 online)
 
-I'm very happy with that increase, of course. I would not have been able to do this without the training partners I've worked with in 2020: [Vijfhart](https://www.vijfhart.nl/){:target="_blank"}, [Improve Quality Services](https://www.improveqs.nl/){:target="_blank"} and [Black Koi Consulting](http://black-koi.consulting/){:target="_blank"}. I really hope to extend our collaboration in 2021. Meanwhile, I'll keep looking for other partners to work with as well.
+I'm very happy with that increase, of course. I have to add immediately that I  would not have been able to do this without the training partners I've worked with in 2020: [Vijfhart](https://www.vijfhart.nl/){:target="_blank"}, [Improve Quality Services](https://www.improveqs.nl/){:target="_blank"} and [Black Koi Consulting](http://black-koi.consulting/){:target="_blank"}. I really hope to extend our collaboration in 2021. Meanwhile, I'll be looking for additional partners to work with as well.
 
-Another positive thing is that more and more of my training clients are coming from abroad. Where last year I had clients from the UK and Romania (next to those in the Netherlands), this year my clients were also in Sweden, Norway and the United States. And things are looking to go even more global in 2021.. But more on that hopefully in the 2021 recap.
+Another interesting and positive thing is that more and more of my training clients are coming from abroad. Where last year I had clients from the UK and Romania (next to those in the Netherlands), this year my clients were also in Sweden, Norway and the United States. And things are looking to go even more global in 2021.. But more on that hopefully in the 2021 recap.
 
 #### Consulting
 I can be pretty brief about this one: I haven't done a lot of consulting this year. I had a consulting client early in the year, but they had to let me go in March. Which was a pity, of course, but in hindsight also a good thing, because that meant I finally had enough time to work on other projects.
 
-I'm not sure if I will do consulting next year, part of me would like to (under the right conditions, no more staff augmentation roles for me for the foreseeable future), but on the other hand, if I look at how fast my agenda is filling up with training gigs, I wonder if there will be a lot of time left to take on consulting clients.
+I'm not sure if I will do consulting next year, part of me would like to (under the right conditions, no more pure staff augmentation roles for me for the foreseeable future), but on the other hand, if I look at how fast my agenda is filling up with training gigs, I wonder if there will be a lot of time left to take on consulting clients.
 
-Never say never, though, and if a client comes along where I really think I can make a difference with regards to their test automation strategy, I'm definitely up for discussing that.
+Never say never, though, and if a client comes along where I really think I can make a difference regarding their test automation strategy, I'm definitely up for discussing that.
 
 #### Public speaking
 Needless to say, there weren't a lot of conferences this year. A lot of them went online (and I skipped those), so there weren't a lot of speaking opportunities. I still did two talks (an in-company one for a US-based client) and [a talk at the Sydney Testers Meetup](https://www.youtube.com/watch?v=wql2glrGp1A){:target="_blank"}.
