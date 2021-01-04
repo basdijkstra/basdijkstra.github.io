@@ -51,7 +51,7 @@ And I could think of a couple more...
 
 These issues, sadly, are often not addressed in the marketing content that is used to promote these new tools and frameworks, presumably because that makes using these tools sound difficult and 'not cool', (or maybe because nobody used them long enough to actually run into these issues, but I don't want to sound too cynical...). However, these are very important questions to have answered before you start using a new tool, but I'm not so sure that they are asked often enough.
 
-My suggestion to start solving this challenge is therefore to not only keep _saying_ that test automation is software development (an adage I hear a lot and fully agree with), but also to start _acting_ on it more often.
+I'd love to see the field moving towards not just _saying_ that test automation is software development (an adage I hear a lot and fully agree with), but also to start _acting_ on it more often.
 
 Instead of developing and marketing more tools and frameworks that claim to 'make automation easier', why don't we recognize that test automation requires software development skills and act accordingly, either by training automation engineers to become more proficient in general software development (and not just in knowing how to use a wider range of features of a single tool), or by finding a way to get developers more involved with test automation. They are the ones who already have the development skills, after all..
 
