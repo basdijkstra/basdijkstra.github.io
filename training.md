@@ -9,11 +9,23 @@ This experience has enabled me to build a solid portfolio of test automation tra
 
 <p align="center"><img alt="Bas teaching a workshop at the 2019 Romanian Testing Conference" src="/images/bas_teaching.png" width="50%"/></p>
 
-### **_Introduction to test automation_**
+### _**API testing**_
 
-No matter if you're a CEO or an engineer, you'll need a solid strategy before starting your test automation efforts. No 40+ page documents necessary.
+Every tester should know how to work with APIs in their testing, as well as how to design, write and execute tests for APIs. This masterclass is just for you.
 
-<a href="/training/introduction-to-test-automation/" class="btn btn--primary">Introduction to test automation (1 day)</a>
+<a href="/training/api-testing-masterclass/" class="btn btn--primary">API testing masterclass (3 days)</a>
+
+### _**Web automation**_
+
+Looking for a comprehensive course that will give you a head start in your web automation efforts? Look no further. 
+
+<a href="/training/web-automation-masterclass/" class="btn btn--primary">Web automation masterclass (3 days)</a>
+
+### **_Behaviour Driven Development_**
+
+There's more to BDD than just using Cucumber. Much more. For a complete introduction to Behaviour Driven Development, look no further.
+
+<a href="/training/behaviour-driven-development/" class="btn btn--primary">Behaviour Driven Development (2 days)</a>
 
 ### **_Software development for testers_**
 
@@ -23,17 +35,11 @@ Test automation is software development. These courses will teach you everything
 <a href="/training/java-for-testers/" class="btn btn--primary">Java for testers (3 days)</a>
 <a href="/training/csharp-for-testers/" class="btn btn--primary">C# for testers (3 days)</a>
 
-### _**API testing**_
+### **_Introduction to test automation_**
 
-Every tester should know how to work with APIs in their testing, as well as how to design, write and execute tests for APIs. This masterclass is just for you.
+No matter if you're a CEO or an engineer, you'll need a solid strategy before starting your test automation efforts. No 40+ page documents necessary.
 
-<a href="/training/api-testing-masterclass/" class="btn btn--primary">API testing masterclass (3 days)</a>
-
-### **_Behaviour Driven Development_**
-
-There's more to BDD than just using Cucumber. Much more. For a complete introduction to Behaviour Driven Development, look no further.
-
-<a href="/training/behaviour-driven-development/" class="btn btn--primary">Behaviour Driven Development (2 days)</a>
+<a href="/training/introduction-to-test-automation/" class="btn btn--primary">Introduction to test automation (1 day)</a>
 
 ### _**Tool workshops**_
 
