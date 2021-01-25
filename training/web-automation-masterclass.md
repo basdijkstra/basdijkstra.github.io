@@ -30,6 +30,7 @@ On day 2, we will take a closer look at some of the most popular tools for web a
   * Selenium WebDriver
   * Cypress
   * Playwright
+  * WebdriverIO  
   * Visual testing and validation tools
   * How to choose the right tool for the job
 
