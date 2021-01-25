@@ -7,3 +7,5 @@ gem "jekyll-include-cache"
 gem "jekyll-paginate"
 
 gem "jekyll-analytics"
+
+gem "jekyll-feed"

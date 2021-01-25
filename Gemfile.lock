@@ -247,6 +247,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-analytics
+  jekyll-feed
   jekyll-include-cache
   jekyll-paginate
 
