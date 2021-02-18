@@ -21,26 +21,6 @@ Looking for a comprehensive course that will give you a head start in your web a
 
 <a href="/training/web-automation-masterclass/" class="btn btn--primary">Web automation masterclass (3 days)</a>
 
-### **_Behaviour Driven Development_**
-
-There's more to BDD than just using Cucumber. Much more. For a complete introduction to Behaviour Driven Development, look no further.
-
-<a href="/training/behaviour-driven-development/" class="btn btn--primary">Behaviour Driven Development (2 days)</a>
-
-### **_Software development for testers_**
-
-Test automation is software development. These courses will teach you everything you need to know to start creating automated tests in various programming languages.
-
-<a href="/training/python-for-testers/" class="btn btn--primary">Python for testers (3 days)</a>
-<a href="/training/java-for-testers/" class="btn btn--primary">Java for testers (3 days)</a>
-<a href="/training/csharp-for-testers/" class="btn btn--primary">C# for testers (3 days)</a>
-
-### **_Introduction to test automation_**
-
-No matter if you're a CEO or an engineer, you'll need a solid strategy before starting your test automation efforts. No 40+ page documents necessary.
-
-<a href="/training/introduction-to-test-automation/" class="btn btn--primary">Introduction to test automation (1 day)</a>
-
 ### _**Tool workshops**_
 
 These half-day workshops are perfect if you're looking to get a kickstart with a new tool or technique. And if you're a conference organizer: these workshops work really well as part of conferences, too!
@@ -49,10 +29,9 @@ These half-day workshops are perfect if you're looking to get a kickstart with a
 <a href="/training/automating-your-api-tests/" class="btn btn--primary">Automating your API tests</a>
 <a href="/training/service-virtualization-with-wiremock/" class="btn btn--primary">Service virtualization</a>
 <a href="/training/introduction-to-mutation-testing/" class="btn btn--primary">Mutation testing</a>
-<a href="/training/test-automation-with-robot-framework/" class="btn btn--primary">Robot Framework</a>
 
 Can't find the training course you were looking for? I am happy to talk to you to see if together, we can create a **bespoke training course** (or even a complete curriculum of courses) that fits your training needs like a glove.
 
-Are you interested in having me as a trainer in your organization or at your conference? Feel free to send me an email at bas@ontestautomation.com, or use the contact form on [this page](/contact/).
+Are you interested in having me as a trainer in your organization or at your conference? Feel free to email me at bas@ontestautomation.com, or use the contact form on [this page](/contact/).
 
-I’m looking forward to help you improve your test automation efforts!
+I’m looking forward to helping you improve your test automation efforts!
