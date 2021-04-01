@@ -172,7 +172,7 @@ Here, too, part of the business logic from our class under test, i.e., the part 
 
 While it's a good thing that tests can fail, it's an even better thing when tests can fail for one reason and one reason only, as I mentioned at the beginning of this post.
 
-Additionally, if you expect an `ArithmaticException` to be thrown and the test passes, there's no way to be sure that the `ArithmeticException` actually was thrown, so there's a risk of introducing a false negative here, too.
+Additionally, if you expect an `ArithmaticException` to be thrown and the test passes, there's no way to be sure that the `ArithmeticException` actually was thrown (since it is caught inside the test), so there's a risk of introducing a false negative here, too.
 
 What the participants forgot in their eagerness to solve the problem I gave them, with the tools I handed them earlier in the course, was that their tests should be as simple as possible. Instead, most of them tried to cram this extra case into their existing solution, with the results (and several variations on those) you saw above.
 
