@@ -172,11 +172,15 @@ Here, too, part of the business logic from our class under test, i.e., the part 
 
 While it's a good thing that tests can fail, it's an even better thing when tests can fail for one reason and one reason only, as I mentioned at the beginning of this post.
 
+Additionally, if you expect an `ArithmaticException` to be thrown and the test passes, there's no way to be sure that the `ArithmeticException` actually was thrown, so there's a risk of introducing a false negative here, too.
+
 What the participants forgot in their eagerness to solve the problem I gave them, with the tools I handed them earlier in the course, was that their tests should be as simple as possible. Instead, most of them tried to cram this extra case into their existing solution, with the results (and several variations on those) you saw above.
 
 The lesson I try to teach here is quite the opposite. When you write your tests so that they can fail for one reason only, you'll likely end up with more tests, but also with tests that are easier to read, require less maintenance and, and this is pretty important, too, tests that are easy to diagnose when they do fail.
 
 My proposed solution to the people in my class? Since you're exercising a different path in your code, _write another test_. That's the easiest road to simple tests.
+
+Or, to put it differently: if you find yourself having to use an if-then-else or a try-catch construct in your tests, you're probably better off writing another test instead. 
 
 {% highlight java %}
 @Test
