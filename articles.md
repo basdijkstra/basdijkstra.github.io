@@ -9,6 +9,7 @@ Have you read some of them? I would love to hear your thoughts!
 
 | Article                                                                                            | Published                                  |
 |----------------------------------------------------------------------------------------------------|--------------------------------------------|
+| [Why it's (still) so difficult for testers to learn test automation](https://techbeacon.com/app-dev-testing/why-its-still-so-difficult-testers-learn-test-automation){:target="_blank"} | TechBeacon, May 2021 |
 | [Writing tests for GraphQL APIs using REST Assured](https://applitools.com/blog/writing-tests-graphql-apis-rest-assured/){:target="_blank"} | Applitools blog, April 2021 |
 | [Getting started with the TestProject C# OpenSDK](https://blog.testproject.io/2021/01/27/getting-started-with-testproject-csharp-opensdk/){:target="_blank"} | TestProject blog, January 2021 |
 | [Introducing BDD to your team – how does it affect your role as a tester?](https://specflow.org/blog/introducing-bdd-to-your-team-how-does-it-affect-your-role-as-a-tester/){:target="_blank"} | SpecFlow blog, August 2020 |
