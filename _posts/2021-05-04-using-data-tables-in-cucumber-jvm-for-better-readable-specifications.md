@@ -180,7 +180,7 @@ Scenario: Listing historic football match results - the clear way
 {% endhighlight %}
 <sup><sub>Here, too, the syntax highlighting may be a little confusing: the first column in this table contains row headers.</sub></sup>
 
-As you can see, the aforementioned state can be modeled using a table with both row and	colmun headers. Here, too, Cucumber is able to directly transform this into a suitable data structure:
+As you can see, the aforementioned state can be modeled using a table with both row and	column headers. Here, too, Cucumber is able to directly transform this into a suitable data structure:
 
 {% highlight java %}
 @Given("the following historic Derby d'Italia results")
@@ -208,7 +208,7 @@ The final score of the Derby d'Italia played on 08-03-2020 was Internazionale 0,
 The final score of the Derby d'Italia played on 06-10-2019 was Internazionale 1, Juventus 2
 ```
 
-In this article, we've seen some examples of how to use data tables to specify complex data more efficiently in Cucumber .feature files, how Cucumber automatically transforms these tables into specific data structures, and how we can iterate over and process that data in an efficient manner.
+In this article, we've seen some examples of how to use data tables to specify complex data more efficiently in Cucumber .feature files, how Cucumber automatically transforms these tables into specific data structures, and how we can iterate over and process that data effectively.
 
 Effectively, what we've done is removing the iterative nature from our specifications to make them more readable, and move the iterating over the data to our step definitions. In a follow-up article, I'll dive deeper into using [data table transformers](https://github.com/cucumber/cucumber-jvm/tree/main/java#data-table-type){:target="_blank"} to handle complex data structures in an even more efficient way.
 
