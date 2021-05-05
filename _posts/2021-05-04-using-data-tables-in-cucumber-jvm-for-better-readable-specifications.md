@@ -53,7 +53,7 @@ Scenario: Listing football club stadiums - the clear way
       | AC Milan | San Siro        |
       | AS Roma  | Stadio Olimpico |
 {% endhighlight %}
-<sup><sub>Please note that the first row does not contain table headers, even though the syntax highlighting suggests it does!</sub></sup>
+<sup><sub>Please note that the first row does contain data, not table headers, even though the syntax highlighting suggests otherwise!</sub></sup>
 
 and the associated step definition might look like this:
 
