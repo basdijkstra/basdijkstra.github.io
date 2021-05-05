@@ -13,7 +13,7 @@ If you have ever worked in a team that practiced BDD and used Cucumber or SpecFl
 
 In this blog post, I want to take a closer look at a feature of the Java Cucumber bindings that can help you write specs that are easy on the eye, and that I feel isn't talked about often enough: using data tables.
 
-Data tables are tables that you can pass as an argument to an individual step. The data in this data table can then be processed in the underlying step definition. As such, data tables should not be confused with [example tables](https://cucumber.io/docs/gherkin/reference/#examples){:target="_blank"}, which are tables containing examples for entire scenarios. Data tables, on the other hand, allow you to use more complex data structures as an argument to an individual step.
+Data tables are tables that you can pass as an argument to an individual step. The data in this data table can then be processed in the underlying step definition. As such, data tables should not be confused with [example tables](https://cucumber.io/docs/gherkin/reference/#examples){:target="_blank"}, which are tables containing examples for entire scenarios, to be used with scenario outlines. Data tables, on the other hand, allow you to use more complex data structures as an argument to an individual step.
 
 Let's take a look at a couple of examples of the use of different forms of data tables, and how they compare to specifying the same data in more verbose textual format.
 
