@@ -53,5 +53,9 @@ defaults:
 jekyll_analytics:
   GoogleAnalytics:
     id: UA-176276927-1
+analytics:
+  provider: "google-universal"
+  google:
+    tracking_id: "UA-176276927-1"
 commentbox:
   id: 5659931575320576-proj
