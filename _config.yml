@@ -1,7 +1,7 @@
 url: "https://www.ontestautomation.com"
 title: "On Test Automation"
 title_separator: "|"
-subtitle: "Teaching test automation to companies worldwide"
+subtitle: "Helping others become better test automation engineers"
 name: "Bas Dijkstra"
 description: "Test automation training and consultancy"
 logo: /images/logo_large.png
@@ -21,7 +21,7 @@ author_profile: true
 author:
   name     : "Bas Dijkstra"
   avatar   : "/images/bas.png"
-  bio      : "Teaching test automation to companies worldwide"
+  bio      : "Helping others become better test automation engineers"
   location : "Amersfoort, the Netherlands"
   links:
     - label: LinkedIn
