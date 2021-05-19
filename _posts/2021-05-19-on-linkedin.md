@@ -28,6 +28,6 @@ The time and focus that this reset will hopefully give me will be invested in cr
 
 This is not going to be an easy thing to do for me, and I'm sure I'll be tempted to sneakily log on to LinkedIn many times in the weeks to come, if only to see if there's something I'm missing, but I hope that urge disappears over time. Judging from what I've read in 'Digital Minimalism' and other books and articles I've read, it should get better after a week or two...
 
-As I said, I hope to find the time and (especially) the focus to produce much more in depth, valuable content in the weeks to come, as well as give more time and attention to the much more important things in life: my family, or my newly found love of long-distance cycling.  
+As I said, I hope to find the time and (especially) the focus to produce much more in depth, valuable content in the weeks to come, as well as give more time and attention to the much more important things in life: my family, reading, or my newly found love of long-distance cycling.  
 
 Of course, I'm still very happy to get in touch with you test automation engineers and other professionals, but LinkedIn probably isn't the best way to do so for the time being. I'm always happy to connect via email, so feel free to send me a message at bas@ontestautomation.com if you have a question, a proposal, an idea, something you'd like to share with me, or if you just want to say hi :)
