@@ -17,7 +17,7 @@ _In this series of articles, you'll be introduced to a (fictitious but realistic
 * _What the effect is of changes in the expectations and implementations of the consumer and provider parties_
 * _How to invite new parties to the contract testing ecosystem and how bidirectional contracts can make this a smooth process_
 
-All code samples that are shown and referenced in these articles can be found [on GitHub](https://github.com/basdijkstra/pact-articles-series){:target="_blank"}.
+_All code samples that are shown and referenced in these articles can be found [on GitHub](https://github.com/basdijkstra/pact-articles-series){:target="_blank"}._
 
 In the last decade or so, software system architectures have moved from monolithic, to service-oriented, to highly distributed and often microservices-based. Where in the past a team or department was responsible for developing and delivering an entire system, responsibilities are now often distributed over different teams, working for different departments and often even for different companies.
 
