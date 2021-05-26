@@ -9,10 +9,11 @@ tags:
   - pact
   - api
 ---
-_In this series of articles, you'll be introduced to a (fictitious but realistic) use case for consumer-driven contract testing with [Pact](https://docs.pact.io?utm_source=partner&utm_campaign=on-test-automation&utm_content=blog-meet-the-players){:target="_blank"} and [Pactflow](https://pactflow.io?utm_source=partner&utm_campaign=on-test-automation&utm_content=blog-meet-the-players){:target="_blank"}. Over 5 articles, you'll read about:_
+_In this series of articles, you'll be introduced to a (fictitious but realistic) use case for consumer-driven contract testing with [Pact](https://docs.pact.io?utm_source=partner&utm_campaign=on-test-automation&utm_content=blog-meet-the-players){:target="_blank"} and [Pactflow](https://pactflow.io?utm_source=partner&utm_campaign=on-test-automation&utm_content=blog-meet-the-players){:target="_blank"}. Over 6 articles, you'll read about:_
 
 * _The different parties that play a role in this use case and the challenges that integration and end-to-end testing pose for them (**this article**)_
-* _How contract testing with Pact can address these challenges_
+* _How contract testing can address these challenges_
+* _How to use Pact for consumer-driven contract testing_
 * _How to make contract testing an integral part of an automated development and delivery workflow_
 * _What the effect is of changes in the expectations and implementations of the consumer and provider parties_
 * _How to invite new parties to the contract testing ecosystem and how bidirectional contracts can make this a smooth process_
