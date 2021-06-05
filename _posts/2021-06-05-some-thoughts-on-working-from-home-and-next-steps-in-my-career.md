@@ -1,7 +1,7 @@
 ---
-title: Some thoughts on working from home and next steps in my career
+title: Some thoughts on freelancing, working from home and next steps in my career
 layout: post
-permalink: /some-thoughts-on-working-from-home-and-next-steps-in-my-career/
+permalink: /some-thoughts-on-freelancing-working-from-home-and-next-steps-in-my-career/
 categories:
   - career
 tags:
