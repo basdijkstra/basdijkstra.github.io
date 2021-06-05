@@ -13,7 +13,7 @@ It's been almost a year and a half now since this whole 'working from home' thin
 
 So, what have I been up to since March of last year? I've delivered a _lot_ of training sessions, most of them, unsurprisingly, online. Those few days where I was allowed to teach on site really felt like an elementary school field trip.. Yay, I get to get out of the house!
 
-Next to that, I've been working on two [open source libraries](/on-my-first-software-development-project/), and as the people I've worked with were located around the world (Israel and Canada, mostly), that too I did from the increasingly familiar surroundings of my own kitchen or bedroom.
+Next to that, I've been working on two [open source libraries](/on-my-first-software-development-project/), and as the people I've worked with were located around the world, that too I did from the increasingly familiar surroundings of my own kitchen or bedroom.
 
 And while I've been really lucky to not have been out of work (many others have been much less fortunate), somewhere at the beginning of this year I, too, hit a bump in the road. Pretty much focusing full time on delivering training, preparing for training sessions and finding new clients caught up with me, and one morning while walking outside it hit me that something really had to change if I didn't want to crash big time.
 
