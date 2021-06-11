@@ -53,11 +53,11 @@ When an address with id `{id}` is found in the address database, this operation 
 {% highlight json %}
 {
     "id": "87256abc-f6b3-4e91-9f60-3ca3f54863d5",
-    "address_type": "billing",
+    "addressType": "billing",
     "street": "Main Street",
     "number": 123,
     "city": "Nothingville",
-    "zip_code": 54321,
+    "zipCode": 54321,
     "state": "Tennessee",
     "country": "United States"
 }
@@ -69,11 +69,11 @@ This operation creates a new address entry in the database. It accepts a request
 
 {% highlight json %}
 {
-    "address_type": "billing",
+    "addressType": "billing",
     "street": "Main Street",
     "number": 123,
     "city": "Nothingville",
-    "zip_code": 54321,
+    "zipCode": 54321,
     "state": "Tennessee",
     "country": "United States"
 }
