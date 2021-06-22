@@ -13,12 +13,12 @@ _In this series of articles, you'll be introduced to a (fictitious but realistic
 
 * _[The different parties that play a role in this use case and the challenges that integration and end-to-end testing pose for them](/an-introduction-to-contract-testing-part-1-meet-the-players/)_
 * _How contract testing can address these challenges (**this article**)_
-* _How to use Pact for consumer-driven contract testing_
+* _[How to use Pact for consumer-driven contract testing](/an-introduction-to-contract-testing-part-3-getting-started-with-pact/)_
 * _How to make contract testing an integral part of an automated development and delivery workflow_
 * _What the effect is of changes in the expectations and implementations of the consumer and provider parties_
 * _How to invite new parties to the contract testing ecosystem and how bidirectional contracts can make this a smooth process_
 
-_All code samples that are shown and referenced in these articles can be found [on GitHub](https://github.com/basdijkstra/pact-articles-series){:target="_blank"}._
+_All code samples that are shown and referenced in these articles can be found [on GitHub](https://github.com/basdijkstra/introduction-to-contract-testing){:target="_blank"}._
 
 In the [previous article](/an-introduction-to-contract-testing-part-1-meet-the-players/), we've been introduced to a fictitious online sandwich store and a number of its loosely coupled components. We've also seen that because these components are being developed in different teams, integration and end-to-end testing comes with a number of challenges. In this article, you'll learn what contract testing is, what consumer-driven contract testing looks like and how it addresses the challenges faced by our online sandwich store.
 

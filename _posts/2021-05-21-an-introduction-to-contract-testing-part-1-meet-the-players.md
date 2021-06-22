@@ -13,12 +13,12 @@ _In this series of articles, you'll be introduced to a (fictitious but realistic
 
 * _The different parties that play a role in this use case and the challenges that integration and end-to-end testing pose for them (**this article**)_
 * _[How contract testing can address these challenges](/an-introduction-to-contract-testing-part-2-introducing-contract-testing/)_
-* _How to use Pact for consumer-driven contract testing_
+* _[How to use Pact for consumer-driven contract testing](/an-introduction-to-contract-testing-part-3-getting-started-with-pact/)_
 * _How to make contract testing an integral part of an automated development and delivery workflow_
 * _What the effect is of changes in the expectations and implementations of the consumer and provider parties_
 * _How to invite new parties to the contract testing ecosystem and how bidirectional contracts can make this a smooth process_
 
-_All code samples that are shown and referenced in these articles can be found [on GitHub](https://github.com/basdijkstra/pact-articles-series){:target="_blank"}._
+_All code samples that are shown and referenced in these articles can be found [on GitHub](https://github.com/basdijkstra/introduction-to-contract-testing){:target="_blank"}._
 
 In the last decade or so, software system architectures have moved from monolithic, to service-oriented, to highly distributed and often microservices-based. Where in the past a team or department was responsible for developing and delivering an entire system, responsibilities are now often distributed over different teams, working for different departments and often even for different companies.
 
