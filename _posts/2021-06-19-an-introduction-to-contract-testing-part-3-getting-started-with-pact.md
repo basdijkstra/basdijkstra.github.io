@@ -14,7 +14,7 @@ _In this series of articles, you'll be introduced to a (fictitious but realistic
 * _[The different parties that play a role in this use case and the challenges that integration and end-to-end testing pose for them](/an-introduction-to-contract-testing-part-1-meet-the-players/)_
 * _[How contract testing can address these challenges](/an-introduction-to-contract-testing-part-2-introducing-contract-testing/)_
 * _How to use Pact for consumer-driven contract testing (**this article**)_
-* _How to make contract testing an integral part of an automated development and delivery workflow_
+* _[How to make contract testing an integral part of an automated development and delivery workflow](/an-introduction-to-contract-testing-part-4-automating-the-workflow/)_
 * _What the effect is of changes in the expectations and implementations of the consumer and provider parties_
 * _How to invite new parties to the contract testing ecosystem and how bidirectional contracts can make this a smooth process_
 
