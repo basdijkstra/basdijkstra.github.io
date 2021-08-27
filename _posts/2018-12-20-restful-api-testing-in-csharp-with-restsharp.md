@@ -143,7 +143,7 @@ public void CountryAbbreviationSerializationTest()
 
     LocationResponse locationResponse =
         new JsonDeserializer().
-        Deserialize&amp;lt;LocationResponse&gt;(response);
+        Deserialize<LocationResponse>(response);
 
     // assert
     Assert.That(locationResponse.CountryAbbreviation, Is.EqualTo("US"));
@@ -160,7 +160,7 @@ public void StateSerializationTest()
     IRestResponse response = client.Execute(request);
     LocationResponse locationResponse =
         new JsonDeserializer().
-        Deserialize&amp;lt;LocationResponse&gt;(response);
+        Deserialize<LocationResponse>(response);
 
     // assert
     Assert.That(locationResponse.Places[0].State, Is.EqualTo("New York"));
