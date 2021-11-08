@@ -15,7 +15,7 @@ _In this series of articles, you'll be introduced to a (fictitious but realistic
 * _[How contract testing can address these challenges](/an-introduction-to-contract-testing-part-2-introducing-contract-testing/)_
 * _How to use Pact for consumer-driven contract testing (**this article**)_
 * _[How to make contract testing an integral part of an automated development and delivery workflow](/an-introduction-to-contract-testing-part-4-automating-the-workflow/)_
-* _What the effect is of changes in the expectations and implementations of the consumer and provider parties_
+* _[What the effect is of changes in the expectations and implementations of the consumer and provider parties](/an-introduction-to-contract-testing-part-5-adapting-to-changes/)_
 * _How to invite new parties to the contract testing ecosystem and how bidirectional contracts can make this a smooth process_
 
 _All code samples that are shown and referenced in these articles can be found [on GitHub](https://github.com/basdijkstra/introduction-to-contract-testing){:target="_blank"}._
