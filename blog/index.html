@@ -4,7 +4,7 @@ layout: blog
 ---
 {% for post in paginator.posts %}
 <article class="notepad-index-post post row">
-    <div class="small-12 medium-3 large-2 columns datetime">
+    <!-- <div class="small-12 medium-3 large-2 columns datetime">
             <span class="notepad-post-meta">
                 <time datetime="{{ post.date | date_to_xmlschema }}">
                     <span class="day">
@@ -15,7 +15,7 @@ layout: blog
                     </span>
                 </time>
             </span>
-    </div>
+    </div> -->
     <div class="small-12 medium-9 large-10 columns">
         <header class="notepad-post-header">
             <h3 class="notepad-post-title">
@@ -23,15 +23,25 @@ layout: blog
                     {{ post.title }}
                 </a>
             </h3>
+            <time datetime="{{ post.date | date_to_xmlschema }}">
+                <i>
+                    <span class="day">
+                        {{ post.date | date: "%d" }}
+                    </span>
+                    <span class="month-year">
+                        {{ post.date | date: "%B %Y" }}
+                    </span>
+                </i>
+            </time>
         </header>
         <section class="notepad-post-excerpt">
             <p>{{ post.content | strip_html | truncatewords:40 }}</p>
         </section>
 
-        <div class="notepad-index-post-tags">
+        <!-- <div class="notepad-index-post-tags">
             {% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" title="Other posts from the {{ tag }} category">{{ tag }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
 
-        </div>
+        </div> -->
 
     </div>
 
