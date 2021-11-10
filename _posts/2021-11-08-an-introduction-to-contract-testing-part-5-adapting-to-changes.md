@@ -153,7 +153,7 @@ Failures:
    1.1) body: $.zipCode Expected 54321 (Integer) to be the same type as "54321" (String)
 ```
 
-If we automatically publish the contracts and the verification results to our [Pactflow Pact Broker](https://pactflow.io/?utm_source=partner&utm_campaign=on-test-automation&utm_content=blog-adapting-to-changes){:target="_blank"}, as we've seen in the previous article (LINK), we can see the same error appearing in the Pact Broker, too:
+If we automatically publish the contracts and the verification results to our [Pactflow Pact Broker](https://pactflow.io/?utm_source=partner&utm_campaign=on-test-automation&utm_content=blog-adapting-to-changes){:target="_blank"}, as we've seen in [the previous article](/an-introduction-to-contract-testing-part-4-automating-the-workflow/), we can see the same error appearing in the Pact Broker, too:
 
 ![broken contracts](/images/blog/pact_broker_displaying_integration_error.png "The Pactflow Broker displaying the integration error")
 
