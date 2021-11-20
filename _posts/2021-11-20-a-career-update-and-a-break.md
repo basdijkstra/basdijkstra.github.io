@@ -1,5 +1,5 @@
 ---
-title: A career update... And a break
+title: A career update... and a break
 layout: post
 permalink: /a-career-update-and-a-break/
 categories:
