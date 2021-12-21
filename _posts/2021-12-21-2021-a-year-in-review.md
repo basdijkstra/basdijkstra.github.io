@@ -7,7 +7,7 @@ categories:
 tags:
   - yearly review
 ---
-And just like that, it's the end of the year again. Where I expressed in [my 2020 end-of-year review](/2020-a-year-in-review/) my hopes that this year would see the end of the COVID pandemic, unfortunately there are still a lot of restrictions (we've just entered another pretty strict lockdown...) and it doesn't look like the end is in sight just yet.
+And just like that, it's the end of the year again. While in [my 2020 end-of-year review](/2020-a-year-in-review/) I expressed my hopes that this year would see the end of the COVID pandemic, unfortunately there are still a lot of restrictions (we've just entered another pretty strict lockdown...) and it doesn't look like the end is in sight just yet.
 
 Still, I've been lucky enough once again to not have been out of work at all this past year. Quite the contrary. A lot has happened in 2021, and as I do each year, I'd like to look back on what 2021 has brought me on a professional level.
 
@@ -18,7 +18,7 @@ It wasn't a burnout, but I realized that if I wanted to stay sane, things needed
 
 That did mean I had to end or bail out on some valuable partnerships, something I'm still regretting, because I had to go back on some promises, and I really don't like doing that. At the time, though, it really was the only option if I wanted to avoid a bigger crash.
 
-Where I was pursuing a full-time training business before, I then decided to go back to consulting, and only taking on those training gigs that came to me directly through my network. In March, I started a very interesting role as a test automation consultant with the Dutch Tax and Customs Administration, supporting their development teams (and they've got quite a few of them) with all things automation. I kept taking on the odd training gig, but other than that I had the time to fully focus on my consulting work.
+Where I was pursuing a full-time training business before, I then decided to go back to consulting, and only take on those training gigs that came to me directly through my network. In March, I started a very interesting role as a test automation consultant with the Dutch Tax and Customs Administration, supporting their development teams (and they've got quite a few of them) with all things automation. I kept taking on the odd training gig, but other than that I had the time to fully focus on my consulting work.
 
 That turned out to be the breather my brain needed, but it also started to make me think.. What is it that I really want to do in the next couple of years? I wrote those thoughts down in [a blog post](/some-thoughts-on-freelancing-working-from-home-and-next-steps-in-my-career/), and to my surprise, that resulted in quite a few people in my network reaching out to me.
 
@@ -29,7 +29,7 @@ One of the companies that got in touch was [Inspired Testing](https://www.inspir
 
 They told me they were looking for someone who could help them build their academy and basically offered me that position on the spot. We had some more discussions and it soon became clear that this was an opportunity I just couldn't say 'no' to. So I said 'yes', instead.
 
-On September 1st, I started my position as their Director of International Academy, now called the [Inspired Academy](https://www.inspiredtesting.com/academy){:target="_blank"}. Working together with the executive team, I'm responsible for building and delivering training opportunities for the Inspired Testing employees as well as our incrasingly global customer base.
+On September 1st, I started my position as their Director of International Academy, now called the [Inspired Academy](https://www.inspiredtesting.com/academy){:target="_blank"}. Working together with the executive team, I'm responsible for building and delivering training opportunities for the Inspired Testing employees as well as our increasingly global customer base.
 
 There's a lot of things I still need to learn, as I've never run a team, let alone a department, before. So far, though, I really, really enjoy the job and working with a team of others to build something I can only describe as 'bigger than myself', for lack of better words. We've already released four new courses recently, and we've got some big plans for 2022 and beyond, all things I'm really excited about.
 
@@ -41,7 +41,7 @@ I've already got the first couple of speaking engagements and workshops booked f
 To wrap up the overview, here are some numbers to quantify what I've been up to this year.
 
 #### Training
-I've done quite a few training sessions again this year, although fewer than in 2020. That's easily explained by my temporary going back to full time consulting as I mentioned earlier. Still, I end the year having done 55 training sessions:
+I've done quite a few training sessions again this year, although fewer than in 2020. That's easily explained by my temporary going back to full time consulting which I mentioned earlier. Still, I end the year having done 55 training sessions:
 
 * 25 full day sessions (3 in person, 22 online)
 * 30 half day sessions (2 in person, 28 online)
