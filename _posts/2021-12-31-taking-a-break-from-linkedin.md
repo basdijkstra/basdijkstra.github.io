@@ -9,7 +9,7 @@ tags:
 ---
 _Update (January 26): for various reasons I failed to properly disconnect from LinkedIn for the month of January, but the last couple of weeks have made it even clearer that I do need a disconnect._
 
-_I will therefore (re-)start the break properly as of today, which means that until March 1st, I'll only post essential updates and respond to direct messages where necessary. Other than that, it's no LinkedIn for me._
+_I will therefore (re-)start the break properly as of today, which means that until **at least** March 1st, I'll only post essential updates and respond to direct messages where necessary. Other than that, it's no LinkedIn for me._
 
 I don't particularly like New Year's resolutions, but I'm going to write about one anyway, one concerning my LinkedIn usage. I've been spending a lot of time on that platform, especially in the last couple of years, and I've come to realize I have built up a love-hate relationship with it.
 
