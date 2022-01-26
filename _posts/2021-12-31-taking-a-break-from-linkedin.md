@@ -7,6 +7,10 @@ categories:
 tags:
   - social media
 ---
+_Update (January 26): for various reasons I failed to properly disconnect from LinkedIn for the month of January, but the last couple of weeks have made it even clearer that I do need a disconnect._
+
+_I will therefore (re-)start the break properly as of today, which means that until March 1st, I'll only post essential updates and respond to direct messages where necessary. Other than that, it's no LinkedIn for me._
+
 I don't particularly like New Year's resolutions, but I'm going to write about one anyway, one concerning my LinkedIn usage. I've been spending a lot of time on that platform, especially in the last couple of years, and I've come to realize I have built up a love-hate relationship with it.
 
 I love it for all the opportunities it has given me, the connections I've made and the things I've learned from others posting on there. I think it's safe to say I wouldn't be where I am now were it not for LinkedIn and the opportunities coming through my network on there.
