@@ -7,7 +7,7 @@ categories:
 tags:
   - social media
 ---
-_Update (January 29): After having given this some more thought over the last couple of days, I've come to realize I probably need an even longer break. I'm therefore going to extend it to May 1st, i.e., a 3-month break, and really get back to email, text and phone communication only. Very 90s. I like it already._ 
+_Update (January 29): After having given this some more thought over the last couple of days, I've come to realize I probably need an even longer break. I'm honestly quite sick of the fake self-importance. I'm therefore going to extend it to May 1st, i.e., a 3-month break, and really get back to email, text and phone communication only. Very 90s. I like it already._ 
 
 _Update (January 26): for various reasons I failed to properly disconnect from LinkedIn for the month of January, but the last couple of weeks have made it even clearer that I do need a disconnect._
 
