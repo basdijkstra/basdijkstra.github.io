@@ -7,6 +7,8 @@ categories:
 tags:
   - social media
 ---
+_Update (February 6): Some things happening this week caused quite a bit of anxiety, only providing more proof that taking a LinkedIn break is the best (and possibly only) thing to do right now._
+
 _Update (January 29): After having given this some more thought over the last couple of days, I've come to realize I probably need an even longer break. I'm honestly quite sick of the fake self-importance that is on constant display on LinkedIn (again, I'm very much guilty of that myself, too)._
 
 _I'm therefore going to extend my break to **May 1st**, i.e., I'll take a 3-month break, and really get back to email, text and phone communication only. Very 90s. I'm loving it already._ 
