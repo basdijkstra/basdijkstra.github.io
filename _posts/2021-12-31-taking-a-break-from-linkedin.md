@@ -7,18 +7,6 @@ categories:
 tags:
   - social media
 ---
-_Update (February 6): Some things happening this week caused quite a bit of anxiety, only providing more proof that taking a LinkedIn break is the best (and possibly only) thing to do right now._
-
-_Update (January 29): After having given this some more thought over the last couple of days, I've come to realize I probably need an even longer break. I'm honestly quite sick of the fake self-importance that is on constant display on LinkedIn (again, I'm very much guilty of that myself, too)._
-
-_I'm therefore going to extend my break to **May 1st**, i.e., I'll take a 3-month break, and really get back to email, text and phone communication only. Very 90s. I'm loving it already._ 
-
-_Update (January 26): for various reasons I failed to properly disconnect from LinkedIn for the month of January, but the last couple of weeks have made it even clearer that I do need a disconnect._
-
-_The quality of my feed has been going down for a while, and it has reached a critical point where this, together with the constant humblebragging (something I've been and still am guilty of that myself, too), has gotten to the point where I feel I'm better off without it for an extended period of time._
-
-_I will therefore (re-)start the break properly as of today, which means that until **at least** March 1st, I'll only share essential company updates and respond to direct messages where necessary. Other than that, it's no LinkedIn for me._
-
 I don't particularly like New Year's resolutions, but I'm going to write about one anyway, one concerning my LinkedIn usage. I've been spending a lot of time on that platform, especially in the last couple of years, and I've come to realize I have built up a love-hate relationship with it.
 
 I love it for all the opportunities it has given me, the connections I've made and the things I've learned from others posting on there. I think it's safe to say I wouldn't be where I am now were it not for LinkedIn and the opportunities coming through my network on there.
@@ -48,3 +36,17 @@ I'll use the time and headspace that brings to produce more valuable content, in
 I've also got an exam coming up in January that I need time and attention to study for (something not related to IT). Oh, and I also want to learn more about COBOL (yes, COBOL) in 2022, so I have plenty of goals to work towards in the time I hope to win this way.  
 
 If you want to get or stay in touch, I'd like to ask you to email me instead (bdijkstra@inspiredtesting.com), or give me a call. Old-fashioned, I know, but much more personal, too. In the meantime, I'll be working on adding more value to the Inspired Academy, our clients, and the global software testing community.
+
+_Update (January 26): for various reasons I failed to properly disconnect from LinkedIn for the month of January, but the last couple of weeks have made it even clearer that I do need a disconnect._
+
+_The quality of my feed has been going down for a while, and it has reached a critical point where this, together with the constant humblebragging (something I've been and still am guilty of that myself, too), has gotten to the point where I feel I'm better off without it for an extended period of time._
+
+_I will therefore (re-)start the break properly as of today, which means that until **at least** March 1st, I'll only share essential company updates and respond to direct messages where necessary. Other than that, it's no LinkedIn for me._
+
+_Update (January 29): After having given this some more thought over the last couple of days, I've come to realize I probably need an even longer break. I'm honestly quite sick of the fake self-importance that is on constant display on LinkedIn (again, I'm very much guilty of that myself, too)._
+
+_I'm therefore going to extend my break to **May 1st**, i.e., I'll take a 3-month break, and really get back to email, text and phone communication only. Very 90s. I'm loving it already._
+
+_Update (February 6): Some things happening this week caused quite a bit of anxiety, only providing more proof that taking a LinkedIn break is the best (and possibly only) thing to do right now._
+
+_I'll be focusing instead on doing more and better '[deep work](https://www.goodreads.com/book/show/25744928-deep-work){:target="_blank"}', writing blogs, articles and the ebook I referred to earlier, as well as improving my course content and delivering it to our clients._
