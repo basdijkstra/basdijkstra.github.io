@@ -47,4 +47,4 @@ _Update (January 29): After having given this some more thought over the last co
 
 _I'm therefore going to extend my break to **May 1st**, i.e., I'll take a 3-month break, and really get back to email, text and phone communication only. Very 90s. I'm loving it already._
 
-_Update (February 6): Some things that happened this only provided more proof that taking a LinkedIn break is the best (and possibly only) thing to do right now. I'll be focusing instead on doing more and better '[deep work](https://www.goodreads.com/book/show/25744928-deep-work){:target="_blank"}', writing blogs, articles and the ebook I referred to earlier, as well as improving my course content and delivering it to our clients._
+_Update (February 6): This week only provided more proof that taking a LinkedIn break is the best (and possibly only) thing to do right now. I'll be focusing instead on doing more and better '[deep work](https://www.goodreads.com/book/show/25744928-deep-work){:target="_blank"}', writing blogs, articles and the ebook I referred to earlier, as well as improving my course content and delivering it to our clients._
