@@ -24,6 +24,9 @@ author:
   bio      : "Helping others become better test automation engineers"
   location : "Amersfoort, the Netherlands"
   links:
+    - label: Email
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:bas@ontestautomation.com"
     - label: LinkedIn
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/basdijkstra/"
@@ -32,6 +35,9 @@ author:
       url: "http://github.com/basdijkstra"
 footer:
   links:
+    - label: Email
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:bas@ontestautomation.com"
     - label: LinkedIn
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/basdijkstra/"
