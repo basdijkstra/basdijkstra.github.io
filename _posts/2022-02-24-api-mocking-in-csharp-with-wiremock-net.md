@@ -134,9 +134,7 @@ private void CreateStubRequestBodyMatching()
 
 This will return a match for this request body, for example:
 
-{% highlight json %} 
-{ "cars": [	{ "make": "Alfa Romeo" }, { "make": "Lancia" } ] }
-{% endhighlight %}
+`{ "cars": [ { "make": "Alfa Romeo" }, { "make": "Lancia" } ] }`
 
 ### Simulating faults and delays
 One thing where using mocks shines over having to deal with real dependencies is testing the resilience of your system against faulty or unexpected behaviour of such a dependency. Where delays and errors are often really hard, if not impossible to trigger in a real dependency, it is just another bit of behaviour to model in a mock.
