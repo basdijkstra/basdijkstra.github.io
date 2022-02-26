@@ -232,7 +232,7 @@ This is useful when dealing with values that are necessary for successful proces
 
 Like its Java counterpart, WireMock.Net supports reusing request values through [response templating](https://github.com/WireMock-Net/WireMock.Net/wiki/Response-Templating){:target="_blank"}. Here's an example that inspects the request, extracts the HTTP method used and echoes that in the response body:
 
-{% highlight csharp %}
+{% highlight csharp %}{% raw %}
 private void CreateStubEchoHttpMethod()
 {
     server.Given(
@@ -247,7 +247,7 @@ private void CreateStubEchoHttpMethod()
             .WithTransformer()
     );
 }
-{% endhighlight %}
+{% endraw %}{% endhighlight %}
 
 The `WithTransformer()` method has to be added to the response definition, otherwise the response body will include the literal value `{{request.method}}` as no response templating will be applied.
 
@@ -255,7 +255,7 @@ Unfortunately, there does not seem to be a way to apply this on a global level (
 
 Here's another example that uses response templating, this time to extract a value from the request JSON body to reuse it in the plain text response body:
 
-{% highlight csharp %}
+{% highlight csharp %}{% raw %}
 private void CreateStubEchoJsonRequestElement()
 {
     server.Given(
@@ -270,7 +270,7 @@ private void CreateStubEchoJsonRequestElement()
             .WithTransformer()
     );
 }
-{% endhighlight %}
+{% endraw %}{% endhighlight %}
 
 As you can see, WireMock.Net allows you to extract element values from a (JSON) request body using [JsonPath expressions](https://goessner.net/articles/JsonPath/){:target="_blank"} and reuse them, for example to repeat them in response bodies.
 
