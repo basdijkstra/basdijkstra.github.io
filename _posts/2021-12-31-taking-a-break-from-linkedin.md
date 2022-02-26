@@ -55,4 +55,4 @@ _Update (February 26): I'm really enjoying this new way of (not) being on Linked
 
 _Other than that, I waste no time on the platform at all by using an external service for the few updates that I think actually add value for my network, i.e., links to new content I produced._
 
-_This saves a lot of time and has significantly reduced distraction. I've already written two blog posts again, and I've created a brand new [open source workshop](/open-source-workshops.md), too. Will be sticking to this schedule for the coming months._
+_This saves a lot of time and has significantly reduced distraction. I've already written two blog posts again, and I've created a brand new [open source workshop](/open-source-workshops/), too. Will be sticking to this schedule for the coming months._
