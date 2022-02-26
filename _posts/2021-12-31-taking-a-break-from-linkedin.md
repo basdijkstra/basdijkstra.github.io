@@ -50,3 +50,7 @@ _I'm therefore going to extend my break to **May 1st**, i.e., I'll take a 3-mont
 _Update (February 6): This week only provided more proof that taking a LinkedIn break is the best (and possibly only) thing to do right now. I'll be focusing instead on doing more and better '[deep work](https://www.goodreads.com/book/show/25744928-deep-work){:target="_blank"}', writing blogs, articles and the ebook I referred to earlier, as well as improving my course content and delivering it to our clients._
 
 _All updates you will see from me (and there will be very few) will be posted using an external service, relieving me from the need to actually visit LinkedIn._
+
+_Update (February 26): I'm really enjoying this new way of (not) being on LinkedIn. I check messages and add connections once a week (Friday mornings), and other than that, I waste no time on the platform at all._
+
+_This saves a lot of time and has significantly reduced distraction. I've already written two blog posts again and have produced quite a bit of other content as well. Will be sticking to this schedule for the coming months._
