@@ -24,6 +24,8 @@ In the previous blog posts in this series on consumer-driven contract testing an
 
 In this sixth and final post, we are going to see how to add a new service to the CDCT process, and how an approach called bi-directional contract testing can make that much easier.
 
+**Disclaimer**: _Bi-drectional contract testing is a feature that is exclusive to Pactflow and is not available in the OSS Pact Broker._
+
 ### Our new player: the payment provider service
 To ensure a smooth and seamless order completion service, our sandwich shop has decided to enable customer to make payments for their orders online through a third party payment provider. This payment service is consumed by the order service we have already seen in the previous blog posts, meaning that our architecture now looks like this:
 
@@ -33,16 +35,16 @@ To ensure that the integration between the order service (consumer) and the paym
 
 However, the team responsible for developing and delivering the payment service is not keen to adopt Pact, as they feel it would be too intrusive to their current development and testing approach.
 
-According to the team behind Pact, this is actually a common drawback for a lot of teams thinking about adopting CDCT: implementing Pact in the way we have seen in the previous articles requires significant effort on both the consumer and the provider end.
+According to the team behind Pactflow, this is actually a common drawback for a lot of teams thinking about adopting CDCT: implementing Pact in the way we have seen in the previous articles requires significant effort on both the consumer and the provider end.
 
 New dependencies need to be added to the code base, pact definitions and tests need to be written, additional steps need to be added to the build pipeline, and so on. This is what keeps a lot of teams from doing contract testing in the first place.
 
-Recently, the Pact team launched a solution to overcome this challenge and make it easier for teams to get started with contract testing. Enter [bi-directional contract testing](https://pactflow.io/blog/bi-directional-contracts?utm_source=partner&utm_campaign=on-test-automation&utm_content=blog-bidirectional-contracts){:target="_blank"}.
+Recently, the Pactflow team launched a solution to overcome this challenge and make it easier for teams to get started with contract testing. Enter [bi-directional contract testing](https://pactflow.io/blog/bi-directional-contracts?utm_source=partner&utm_campaign=on-test-automation&utm_content=blog-bidirectional-contracts){:target="_blank"}.
 
 ### Bi-directional contract testing
 In 'traditional' CDCT, a consumer generates a contract using Pact, then distributes that contract to a provider for verification using a Pact Broker. The provider takes the contract, runs the verifications and uploads the verification results back to the Pact Broker. Using [can-i-deploy](https://docs.pact.io/pact_broker/can_i_deploy?utm_source=partner&utm_campaign=on-test-automation&utm_content=blog-bidirectional-contracts){:target="_blank"}, both the consumer and the provider can then check whether or not it is safe to deploy a new version to production.
 
-[Bi-directional contract testing](https://docs.pactflow.io/docs/bi-directional-contract-testing?utm_source=partner&utm_campaign=on-test-automation&utm_content=blog-bidirectional-contracts){:target="_blank"}, or BDCT, uses a different flow: in BDCT, both the consumer and the provider generate their own version of a contract, which they both upload to the Pact Broker, which then compares the two contracts for compatibility.
+[Bi-directional contract testing](https://docs.pactflow.io/docs/bi-directional-contract-testing?utm_source=partner&utm_campaign=on-test-automation&utm_content=blog-bidirectional-contracts){:target="_blank"}, or BDCT, uses a different flow: in BDCT, both the consumer and the provider generate their own version of a contract, which they both upload to Pactflow, which then compares the two contracts for compatibility.
 
 Once that is done, both the consumer and the provider can then use can-i-deploy again before they deploy to production to see if there aren't any potential integration issues.
 
@@ -51,7 +53,7 @@ And to make it easier to generate contracts, BDCT does not require a 'full' impl
 The [Pact documentation](https://docs.pactflow.io/docs/bi-directional-contract-testing?utm_source=partner&utm_campaign=on-test-automation&utm_content=blog-bidirectional-contracts){:target="_blank"} does a great job of explaining all the nuts and bolts, as well as listing all supported tools and technologies, so I'm not going to repeat all the details here. Instead, let's look at an example.
 
 ### The consumer side - generating a contract from WireMock mocks
-To test the payment process for sandwich orders, the order service team already uses [WireMock](https://wiremock.org/){:target="_blank"} to mock out the payment service provider. Since WireMock is one of the tools that is already supported by the Pact team for BDCT purposes, the behaviour that is mocked with WireMock can be used to generate a contract on the consumer side.
+To test the payment process for sandwich orders, the order service team already uses [WireMock](https://wiremock.org/){:target="_blank"} to mock out the payment service provider. Since WireMock is one of the tools that is already supported by the Pactflow team for BDCT purposes, the behaviour that is mocked with WireMock can be used to generate a contract on the consumer side.
 
 In this example, we'll look at HTTP GET operations that retrieve payment details for a specific order ID. The process is the same for other operations (e.g., POST for submitting a payment for an order).
 
@@ -91,7 +93,7 @@ public void getPayment_validOrderId_shouldYieldExpectedPayment() {
 
 Similar tests exist for the situation where no payment is found for an order (this yields an HTTP 404 and no response body) and for the situation where the order ID supplied is invalid (this yields an HTTP 400, also without a response body).
 
-To generate a BDCT consumer contract from these tests and mocks, the Pact team has provided the `wiremock-pact-generator` [library](https://docs.pactflow.io/docs/bi-directional-contract-testing/tools/wiremock?utm_source=partner&utm_campaign=on-test-automation&utm_content=blog-bidirectional-contracts){:target="_blank"}. After adding this as a dependency to the project, the only thing we need to change in our test code is adding the `WireMockPactGenerator` as a listener to the WireMock instance:
+To generate a BDCT consumer contract from these tests and mocks, the Pactflow team has provided the `wiremock-pact-generator` [library](https://docs.pactflow.io/docs/bi-directional-contract-testing/tools/wiremock?utm_source=partner&utm_campaign=on-test-automation&utm_content=blog-bidirectional-contracts){:target="_blank"}. After adding this as a dependency to the project, the only thing we need to change in our test code is adding the `WireMockPactGenerator` as a listener to the WireMock instance:
 
 {% highlight java %}
 @BeforeAll
@@ -126,11 +128,11 @@ When we run the tests that invoke the WireMock instance with the Pact listener, 
 
 As you can see, the contract does not explicitly specify that response body elements returned by the provider should match the examples given in the contract only on type (for example), where this is the case in 'traditional' CDCT contracts.
 
-In BDCT, as explained before, the verification is done by the Pact Broker, not by the provider (as they upload their own contract), and schema-based verification (i.e., verification on data type or shape) is the _only_ type of verification that is performed.
+In BDCT, as explained before, the verification is done by Pactflow, not by the provider (as they upload their own contract), and schema-based verification (i.e., verification on data type or shape) is the _only_ type of verification that is performed.
 
-In other words, the Pact Broker compares the shape of the expected response (provided by the consumer) with the shape of the actual response (provided by the provider) and reports on inconsistencies when it finds them.
+In other words, Pactflow compares the shape of the expected response (provided by the consumer) with the shape of the actual response (provided by the provider) and reports on inconsistencies when it finds them.
 
-This has a couple of interesting benefits (note that these are a direct quote from an email from [Matt](https://au.linkedin.com/in/digitalmatt){:target="_blank"} and the extremely helpful Pact team):
+This has a couple of interesting benefits (note that these are a direct quote from an email from [Matt](https://au.linkedin.com/in/digitalmatt){:target="_blank"} and the extremely helpful Pactflow team):
 
 1. You can create more scenarios that you normally would (because more examples won't increase the burden on the provider test). This is helpful because we've found lots of people get a bit confused about the specific scope of contract tests, and sometimes get a little too hung up on it.
 2. Consumers can add new expectations on a provider, and if they comply with the current known provider contract, they can deploy without waiting for a new provider verification. In fact, you can add a brand new consumer and if they only consume a subset of the provider API, they can do the whole thing without a provider even knowing!
@@ -141,20 +143,20 @@ Once the contract is generated from the WireMock-based tests on the consumer sid
 
 `mvn pact:publish`
 
-When we take a look at the Pact Broker, we can see that a new integration between the order_consumer and the payment_provider has been added, and that it is as of yet unverified:
+When we take a look at Pactflow, we can see that a new integration between the order_consumer and the payment_provider has been added, and that it is as of yet unverified:
 
 ![pact_broker_unverified_bdct_contract](/images/blog/pact_broker_unverified_bdct_contract.png "An unverified contract as uploaded to the Pact Broker while using the BDCT approach")
 
 That is it from the consumer end. Let's now move to the provider side!
 
 ### The provider side - using an existing OAS as a contract
-With BDCT now being an option for fast implementation of contract tests, providers can reuse existing service specifications as their contract for verification at the Pact Broker. Currently, only [OpenAPI specifications](https://docs.pactflow.io/docs/bi-directional-contract-testing/contracts/oas?utm_source=partner&utm_campaign=on-test-automation&utm_content=blog-bidirectional-contracts){:target="_blank"} (OAS) are supported, but as this is a very common specification standard, a lot of providers may already benefit from this option.
+With BDCT now being an option for fast implementation of contract tests, providers can reuse existing service specifications as their contract for verification by Pactflow. Currently, only [OpenAPI specifications](https://docs.pactflow.io/docs/bi-directional-contract-testing/contracts/oas?utm_source=partner&utm_campaign=on-test-automation&utm_content=blog-bidirectional-contracts){:target="_blank"} (OAS) are supported, but as this is a very common specification standard, a lot of providers may already benefit from this option.
 
 It is good to note that the provider will likely already have tests that verify that the provider endpoints fulfill the expectations in the API specification (the OAS). These test results can be uploaded together with the OAS as additional proof.
 
-Typically, a provider CI pipeline will execute these functional tests before publishing the contract / the OAS, which means that failing tests will lead to no contract being published to the Pact Broker.
+Typically, a provider CI pipeline will execute these functional tests before publishing the contract / the OAS, which means that failing tests will lead to no contract being published to Pactflow.
 
-At the moment of writing this, uploading of the OAS to the Pact Broker has to be done using a somewhat arcane API call, but the Pact team is working on including this in the Pact CLI tools, which will undoubtedly make the process a lot easier.
+At the moment of writing this, uploading of the OAS to Pactflow has to be done using a somewhat arcane API call, but the Pactflow team is working on including this in the Pact CLI tools, which will undoubtedly make the process a lot easier.
 
 Here's the PUT call currently required to upload the provider contract (as you can see, I used Postman, but cUrl or any other API client should work, too):
 
@@ -183,7 +185,7 @@ Content-Length: 2569
 }
 ```
 
-If all went well, the response status code is HTTP 201, which indicates that the provider contract was successfully uploaded to the Pact Broker. When we refresh the screen, we can see that not only did the Pact Broker receive the contract, it also compared the consumer and the provider contract for us:
+If all went well, the response status code is HTTP 201, which indicates that the provider contract was successfully uploaded to Pactflow. When we refresh the screen, we can see that not only did Pactflow receive the contract, it also compared the consumer and the provider contract for us:
 
 ![pact_broker_successfully_verified_bdct_contract](/images/blog/pact_broker_successfully_verified_bdct_contract.png "A successfully verified contract in the Pact Broker using the BDCT approach")
 
@@ -193,7 +195,7 @@ As you can see from this example, BDCT is a very powerful way of starting with c
 
 So, which approach should you choose? BDCT or CDCT?
 
-As usual, the only sensible answer here is 'it depends'. I'll leave you with [this comparison](https://docs.pactflow.io/docs/bi-directional-contract-testing/#comparison-to-pact?utm_source=partner&utm_campaign=on-test-automation&utm_content=blog-bidirectional-contracts){:target="_blank"}, written by the Pact team itself.
+As usual, the only sensible answer here is 'it depends'. I'll leave you with [this comparison](https://docs.pactflow.io/docs/bi-directional-contract-testing/#comparison-to-pact?utm_source=partner&utm_campaign=on-test-automation&utm_content=blog-bidirectional-contracts){:target="_blank"}, written by the Pactflow team itself.
 
 This concludes the blog post series on CDCT and Pact. I'm pretty sure I'll keep diving in and learning more about CDCT, BDCT and Pact in the future, so there might be more blog posts on specific topics in this area coming up, but these six articles should give you a good introduction into the concepts of consumer-driven contract testing, bi-directional contract testing and the tooling that supports these approaches.
 
