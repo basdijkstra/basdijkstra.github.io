@@ -48,7 +48,7 @@ _Note that I'm using [Lombok](https://projectlombok.org/){:target="_blank"} anno
 ### Transforming our table contents into Java objects
 Since POJOs (Plain Old Java Objects) and Java beans are easier to deal with in code than the generic collection types we saw in the previous blog post (`Map<String, Map<String, Integer>>`, anyone?), it would be neat to have a mechanism available that could transform table rows in Gherkin specifications into Java objects, in a reusable and flexible way.
 
-Enter the [data table type](https://github.com/cucumber/cucumber-jvm/tree/main/java#data-table-type){:target="_blank"}, accessed through the `@DataTableType` annotation. Here's an example `@DataTableType` definition that transforms the table rows in our Gherkin specification into instances of the Book class as defined above:
+Enter the [data table type](https://github.com/cucumber/cucumber-jvm/tree/main/java#data-table-type){:target="_blank"}, accessed through the `@DataTableType` annotation. Here's an example `@DataTableType` definition that registers a transformer converting the table rows in our Gherkin specification into instances of the Book class as defined above:
 
 {% highlight java %}
 @DataTableType
