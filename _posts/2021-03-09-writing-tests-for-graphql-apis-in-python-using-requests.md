@@ -117,6 +117,8 @@ class Query(Type):
 And that's it, really. We now have a data structure that we can use to create an actual GraphQL query and send that to our API. Here's how to use this data structure in a test:
 
 {% highlight python %}
+from sgqlc.operation import Operation
+
 def test_create_graphql_query_programmatically():
     query = Operation(Query)
     query.missions()
