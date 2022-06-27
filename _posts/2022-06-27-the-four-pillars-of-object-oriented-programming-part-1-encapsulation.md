@@ -88,7 +88,7 @@ In C#, you can do something similar to what we've seen above in Java. As an exam
 public double Balance { get; private set; }
 {% endhighlight %}
 
-This gives the outside world read-only access to the account balance, but it can only be updated from inside the `Account` class itself. Like in the Java example, we can do this through public `Deposit(double amount)` or `Withdraw(double amount)` methods that enforce the required business logic.
+This gives the outside world read-only access to the `balance` property itself, while it can only be updated from inside the `Account` class itself. Like in the Java example, we can then expose access to the balance through public `Deposit(double amount)` and `Withdraw(double amount)` methods that enforce the required business logic.
 
 Python uses a different philosophy when it comes to encapsulation. By default, everything in Python is public, which means that encapsulation cannot be strictly enforced. There are some conventions that allow you to signal that properties should be handled carefully, though.
 
