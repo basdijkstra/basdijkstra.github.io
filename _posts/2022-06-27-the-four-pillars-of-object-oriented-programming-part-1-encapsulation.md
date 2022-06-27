@@ -9,7 +9,7 @@ tags:
   - oop
   - encapsulation
 ---
-_In this blog post series, I'll dive deeper into four fundamental principles of object-oriented programming:_
+_In this blog post series, I'll dive deeper into the four pillars (fundamental principles) of object-oriented programming:_
 
 * _Encapsulation (**this post**)_
 * _Inheritance_
