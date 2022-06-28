@@ -46,8 +46,8 @@ A much better way would be to apply encapsulation here. To do so, we will make t
 {% highlight java %}
 public class Account {
 
-    public AccountType type;
-    public double balance;
+    private AccountType type;
+    private double balance;
 
     public Account(AccountType type) {
         this.type = type;
