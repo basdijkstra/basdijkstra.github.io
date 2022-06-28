@@ -53,8 +53,8 @@ public class Account {
         this.type = type;
         this.balance = 0;
     }
-	
-	public double getBalance() {
+
+    public double getBalance() {
         return this.balance;
     }
     
