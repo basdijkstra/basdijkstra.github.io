@@ -12,7 +12,7 @@ tags:
 _In this blog post series, I'll dive deeper into the four pillars (fundamental principles) of object-oriented programming:_
 
 * _Encapsulation (**this post**)_
-* _Inheritance_
+* _[Inheritance](/the-four-pillars-of-object-oriented-programming-part-2-inheritance/)_
 * _Polymorphism_
 * _Abstraction_
 
