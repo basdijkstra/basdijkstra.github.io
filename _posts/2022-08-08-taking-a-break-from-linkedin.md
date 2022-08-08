@@ -29,7 +29,7 @@ That's why I've decided to take a break from LinkedIn, too, at least for a while
 
 Call it an attempt to reset the way I use the platform.
 
-I will check in once a week, on Friday mornings, to see if I've got any messages that absolutely need to be dealt with. I will also occasionally add posts (using [an external service](https://later.com/){:target="_blank"}), but only to point people to new content that I produced, be it a blog post, a video or even a new [open source workshop](/open-source-workshops.md).
+I will check in once a week, on Friday mornings, to see if I've got any messages that absolutely need to be dealt with. I will also occasionally add posts (using [an external service](https://later.com/){:target="_blank"}), but only to point people to new content that I've produced, be it a blog post, a video or even a new [open source workshop](/open-source-workshops.md).
 
 Apart from that, I'll stay away from LinkedIn **until at least October 1**, and who knows how much longer.
 
