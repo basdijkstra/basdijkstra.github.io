@@ -30,8 +30,8 @@ After completing day 1, you will have a clear overview of what APIs are and what
 On day 2, you will dive deeper into various tools that can help you test your APIs more efficiently. You will learn:
 
   * What standards there are for API specifications and API contracts
-  * What consumer driven contract testing (CDCT) is
-  * How to perform CDCT on an API
+  * What contract testing is
+  * How to perform contract testing
   * How to write and run automated tests for APIs that check basic API functionality
   * How to work with API parameters when creating automated tests
   * How to work with request and response bodies efficiently when creating automated tests
