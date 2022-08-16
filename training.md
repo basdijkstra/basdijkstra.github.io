@@ -30,13 +30,11 @@ In this practical and hands-on BDD training, you'll learn that BDD is more than 
 
 <a href="/training/behaviour-driven-development/" class="btn btn--primary">Behaviour-Driven Development (2 days)</a>
 
-### Tool-specific workshops
-These half-day workshops are perfect if you're looking to get a kickstart with a new tool or technique. And if you're a conference organizer: these workshops work really well as part of conferences, too!
+### Workshops
+These half- to full-day workshops are perfect if you're looking to get a kickstart with a new tool or technique. And if you're a conference organizer: these workshops work really well as part of conferences, too!
 
 <a href="/training/contract-testing/" class="btn btn--primary">Contract testing</a>
-<a href="/training/automating-your-api-tests/" class="btn btn--primary">Automating your API tests</a>
-<a href="/training/service-virtualization-with-wiremock/" class="btn btn--primary">Service virtualization</a>
-<a href="/training/introduction-to-mutation-testing/" class="btn btn--primary">Mutation testing</a>
+<a href="/training/mutation-testing/" class="btn btn--primary">Mutation testing</a>
 
 Can't find the training course you were looking for? I am happy to talk to you to see if together, we can create a **bespoke training course** (or even a complete curriculum of courses) that fits your training needs like a glove.
 

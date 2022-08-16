@@ -1,7 +1,7 @@
 ---
-title: Introduction to mutation testing
+title: Mutation testing
 layout: page
-permalink: /training/introduction-to-mutation-testing/
+permalink: /training/mutation-testing/
 ---
 Automated (unit) tests are a great way to continuously ensure that specific expectations about the software that you're building are still being met. But did you know that your automated tests can deceive you? Do you know what the quality of your automated tests really is? Or, as the Roman Poet Juvenal put it much more eloquently:
 
@@ -18,6 +18,7 @@ This workshop covers, among other things:
   * An overview of mutation testing tools
   * How to perform mutation testing using <a rel="noreferrer noopener" aria-label="PITest (opens in a new tab)" href="https://pitest.org/" target="_blank">PITest</a> (Java) or <a rel="noreferrer noopener" aria-label="Stryker.NET (opens in a new tab)" href="https://github.com/stryker-mutator/stryker-net" target="_blank">Stryker.NET</a> (C#)
   * What mutation testing results can tell you
+  * How to improve your application and test code based on mutation testing results
 
 There's no better way to learn than by doing, so you'll be presented with a variety of hands-on (programming) exercises throughout this course.
 
