@@ -1,24 +1,22 @@
 ---
-title: Test automation with Robot Framework
+title: Robot Framework
 layout: page
-permalink: /training/test-automation-with-robot-framework/
+permalink: /training/robot-framework/
 ---
 From the <a href="https://robotframework.org/" target="_blank" rel="noreferrer noopener" aria-label="Robot Framework website (opens in a new tab)">Robot Framework website</a>: "_Robot Framework is a generic open source automation framework for acceptance testing, acceptance test driven development (ATDD), and robotic process automation (RPA). It has easy-to-use tabular test data syntax and it utilizes the keyword-driven testing approach. Its testing capabilities can be extended by test libraries implemented either with Python or Java, and users can create new higher-level keywords from existing ones using the same syntax that is used for creating test cases._"
 
-If you want to learn how to leverage the power of Robot Framework for your test automation efforts, this is the course for you!
+If you want to learn how to leverage the power of the Swiss army knife that is Robot Framework for your test automation efforts, this is the course for you!
 
 **Workshop contents**  
 This workshop covers, among other things:
 
-  * How to install and configure Robot Framework
-  * Selecting and configuring an IDE for writing Robot Framework tests
-  * Writing tests using keywords
+  * Getting started with Robot Framework
+  * Creating and using keywords
   * Using Test and Suite Setup and Teardown methods
-  * Creating your own keywords
-  * Extending Robot Framework functionality with libraries
-  * Using SeleniumLibrary for writing Selenium-driven tests for web applications
-  * Using Robot Framework to write tests for RESTful APIs
-  * Reporting options
+  * Using Robot Framework libraries
+  * Using SeleniumLibrary (or BrowserLibrary) for writing Selenium- (or Playwright-)based tests for web applications
+  * Using robotframework-requests to write tests for RESTful APIs
+  * Reporting options and Continuous Integration
 
 There's no better way to learn than by doing, so you'll be presented with a variety of hands-on (programming) exercises throughout this workshop.
 

@@ -35,6 +35,7 @@ These half- to full-day workshops are perfect if you're looking to get a kicksta
 
 <a href="/training/contract-testing/" class="btn btn--primary">Contract testing</a>
 <a href="/training/mutation-testing/" class="btn btn--primary">Mutation testing</a>
+<a href="/training/robot-framework/" class="btn btn--primary">Robot Framework</a>
 
 Can't find the training course you were looking for? I am happy to talk to you to see if together, we can create a **bespoke training course** (or even a complete curriculum of courses) that fits your training needs like a glove.
 
