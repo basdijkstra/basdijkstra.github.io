@@ -33,7 +33,7 @@ In this practical and hands-on BDD training, you'll learn that BDD is more than 
 ### Tool-specific workshops
 These half-day workshops are perfect if you're looking to get a kickstart with a new tool or technique. And if you're a conference organizer: these workshops work really well as part of conferences, too!
 
-<a href="/training/getting-started-with-consumer-driven-contract-testing/" class="btn btn--primary">Consumer Driven Contract Testing</a>
+<a href="/training/contract-testing/" class="btn btn--primary">Contract testing</a>
 <a href="/training/automating-your-api-tests/" class="btn btn--primary">Automating your API tests</a>
 <a href="/training/service-virtualization-with-wiremock/" class="btn btn--primary">Service virtualization</a>
 <a href="/training/introduction-to-mutation-testing/" class="btn btn--primary">Mutation testing</a>
