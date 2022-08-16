@@ -16,6 +16,13 @@ This masterclass covers the entire spectrum of API testing and automation.
 
 <a href="/training/api-testing-masterclass/" class="btn btn--primary">API testing masterclass (3 days)</a>
 
+### Object-oriented programming
+We've all heard it before: test automation is software development. And it's true: if you want to write automation that is structured well enough to be readable and maintainable, you will need object-oriented programming skills.
+
+In this course, we'll cover everything from writing and running your first code to applying fundamental object-oriented programming principles.
+
+<a href="/training/oop-for-testers/" class="btn btn--primary">Object-oriented programming for testers (3 days)</a>
+
 ### Behaviour-Driven Development (BDD)
 Creating a shared understanding of the way software should behave is essential in preventing software defects caused by miscommunication, misinformation and misinterpretation. This is the exact premise of BDD.  
 
