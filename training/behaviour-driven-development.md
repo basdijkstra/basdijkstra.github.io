@@ -22,7 +22,7 @@ There's no better way to learn than by doing, so you'll be presented with a vari
 This course is aimed at software development practitioners that want to learn more about Behaviour Driven Development, and to make sure that they get the most out of doing so.
 
 **Delivery and group size**  
-This is a live training course, available both on site and online. The maximum group size is 12.
+This is a live training course, available both on site and online.
 
 **Duration**  
 This course takes two working days.

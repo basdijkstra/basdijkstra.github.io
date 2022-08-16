@@ -9,14 +9,21 @@ This experience has enabled me to build solid test automation training courses a
 
 <p align="center"><img alt="Bas teaching a workshop at the 2019 Romanian Testing Conference" src="/images/bas_teaching.png" width="50%"/></p>
 
-### _**API testing**_
+### API testing
+With software systems becoming ever more distributed, every modern software tester should know how to work with APIs in their testing, as well as how to design, write and execute tests for APIs.
 
-Every tester should know how to work with APIs in their testing, as well as how to design, write and execute tests for APIs. This masterclass is just for you.
+This masterclass covers the entire spectrum of API testing and automation. 
 
 <a href="/training/api-testing-masterclass/" class="btn btn--primary">API testing masterclass (3 days)</a>
 
-### _**Tool workshops**_
+### Behaviour-Driven Development (BDD)
+Creating a shared understanding of the way software should behave is essential in preventing software defects caused by miscommunication, misinformation and misinterpretation. This is the exact premise of BDD.  
 
+In this practical and hands-on BDD training, you'll learn that BDD is more than sticking Cucumber or SpecFlow on top of your existing automation. Much more!
+
+<a href="/training/behaviour-driven-development/" class="btn btn--primary">Behaviour-Driven Development (2 days)</a>
+
+### Tool-specific workshops
 These half-day workshops are perfect if you're looking to get a kickstart with a new tool or technique. And if you're a conference organizer: these workshops work really well as part of conferences, too!
 
 <a href="/training/getting-started-with-consumer-driven-contract-testing/" class="btn btn--primary">Consumer Driven Contract Testing</a>
