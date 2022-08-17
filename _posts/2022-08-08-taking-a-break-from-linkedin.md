@@ -46,3 +46,9 @@ If necessary, I might even give you my telephone number so you can text me, or s
 
 
 I'm really looking forward to regaining my focus and ease of mind. Cheers!
+
+_Update (August 17): I've definitely spent much less time on LinkedIn this last week, but I must admit there is quite a bit of room for improvement still. Against the rules I've set myself, I've checked my messages and invites once, yesterday, probably out of sheer boredom. And that means going past the fences around LinkedIn I've set up for myself using_ [Freedom](https://freedom.to){:target="_blank"}, _so it's not even an impulse..._
+
+_It's partly interesting, but mostly kind of scary, to see how much my brain is conditioned to want to check LinkedIn to see if there's any dopamine to be scored. And what for? I had some invites, a couple of messages, and quite a few notifications, but nothing, absolutely nothing, that couldn't wait until Friday._
+
+_Hopefully this just means that my brain needs some more time to rewire and not see checking LinkedIn as the knee-jerk reaction whenever it is bored. This is harder than I thought!_
