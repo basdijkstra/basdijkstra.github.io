@@ -1,7 +1,7 @@
 ---
-title: pytest custom command line arguments
+title: pytest and custom command line arguments
 layout: post
-permalink: /python-custom-command-line-arguments/
+permalink: /pytest-and-custom-command-line-arguments/
 categories:
   - general
 tags:
