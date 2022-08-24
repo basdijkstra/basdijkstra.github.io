@@ -52,3 +52,9 @@ _Update (August 17): I've definitely spent much less time on LinkedIn this last 
 _It's partly interesting, but mostly kind of scary, to see how much my brain is conditioned to want to check LinkedIn to see if there's any dopamine to be scored. And what for? I had some invites, a couple of messages, and quite a few notifications, but nothing, absolutely nothing, that couldn't wait until Friday._
 
 _Hopefully this just means that my brain needs some more time to rewire and not see checking LinkedIn as the knee-jerk reaction whenever it is bored. This is harder than I thought!_
+
+_Update (August 24): I'm back to actively using LinkedIn again for the next couple of days, unfortunately. As my current contract ends August 31 and I'm on the lookout for a new role, I need all the channels I can use to find out about opportunities._
+
+_Hopefully this will be the very last time I need to do this, because what I see in my LinkedIn feed is still crap. My direct messages, though, were much better, there was even a very interesting training lead in there._
+
+_It looks like I need a sort of 'exit strategy' to make sure I won't have to rely on LinkedIn again in the future, and to make sure people know how to contact me instead. Food for thought!_
