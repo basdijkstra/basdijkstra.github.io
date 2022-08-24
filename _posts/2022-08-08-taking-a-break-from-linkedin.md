@@ -55,6 +55,6 @@ _Hopefully this just means that my brain needs some more time to rewire and not 
 
 _Update (August 24): I'm back to actively using LinkedIn again for the next couple of days, unfortunately. As my current contract ends August 31 and I'm on the lookout for a new role, I need all the channels I can use to find out about opportunities._
 
-_Hopefully this will be the very last time I need to do this, because what I see in my LinkedIn feed is still crap. My direct messages, though, were much better, there was even a very interesting training lead in there._
+_Hopefully this will be the very last time I need to do this, because what I see in my LinkedIn feed is still crap. My direct messages, though, were a little better, and there was even a very interesting training lead in there._
 
-_It looks like I need a sort of 'exit strategy' to make sure I won't have to rely on LinkedIn again in the future, and to make sure people know how to contact me instead. Food for thought!_
+_It looks like I need a sort of 'exit strategy' to make sure I won't have to rely on LinkedIn again in the future, and to make sure people know how to contact me instead. I still want to move away from LinkedIn, because I'm still tired of it, and it's still shit. Food for thought!_
