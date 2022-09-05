@@ -53,11 +53,13 @@ I'm also aiming to finally get enough training in to be able to run a marathon i
 
 I'm definitely not going to disappear from the planet, or even from the Internet, so if you want to get or stay in touch, please email me instead (bas@ontestautomation.com). I am more than happy to discuss opportunities for collaboration, or even just to have a chat.
 
-If necessary, I might even give you my telephone number so you can text me, or so that we can have an actual call. Old-fashioned, I know, but much more personal, too. I am really looking forward to going back to those slightly more traditional and 'slower' means of communication.
+If necessary, I might even give you my telephone number so you can text me, or so that we can have an actual call. Old-fashioned, I know, but much more personal, too.
+
+I am really looking forward to going back to those slightly more traditional and 'slower' means of communication. I sometimes joke that part of my brain is permanently stuck in the 90's, and I think this might be an example of my actions matching that.  
 
 In any case, by all means feel free to get and stay in touch. I just ask you to not use LinkedIn messages, invites, comments or tags to do so. Cheers!
 
-_P.S. apart from the articles I linked to earlier in this post, here are a couple of books that have really changed my thinking about social media and my presence on these platforms. I highly recommend you read them._
+_P.S. Apart from the articles I linked to earlier in this post, here are a couple of books that have really changed my thinking about social media and my presence on these platforms. I highly recommend you read them._
 
 [Cal Newport - Digital Minimalism](https://www.goodreads.com/book/show/40672036-digital-minimalism){:target="_blank"}
 
