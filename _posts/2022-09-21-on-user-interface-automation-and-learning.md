@@ -58,7 +58,7 @@ This includes, but is definitely not limited to
 
 * becoming a better software tester. Recommendation: [the Rapid Software Testing courses](https://rapid-software-testing.com/){:target="_blank"}.
 * becoming a decent programmer. Recommendation: practice, practice, practice, have your work reviewed by others, then practice some more.
-* augmenting your learning by automation courses that go beyond learning tricks with specific tools (recommendation: apart from [my own courses](/training/), have a look at courses like [Automation in Testing](https://automationintesting.com/){:target="_blank"} for example.
+* augmenting your learning by automation courses that go beyond learning tricks with specific tools. Recommendation: apart from [my own courses](/training/), have a look at courses like [Automation in Testing](https://automationintesting.com/){:target="_blank"} for example.
 
 Your goal should not be to become the best or the most knowledgeable about a specific tool or technique. I think that's rather pointless. Your preferred tool or technique will not be useful in all situations, and tools and techniques come and go, anyway.
 
