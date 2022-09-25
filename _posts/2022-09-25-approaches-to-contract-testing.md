@@ -52,7 +52,7 @@ More situations where CDCT does not work well are listed [here](https://docs.pac
 ## Provider-driven contract testing (PDCT)
 With PDCT, as you might have guessed from the name, it is the provider, not the consumer, who is 'in charge'. Basically, it comes down to the provider issuing a contract expressing the way they behave and telling their consumers 'this is what I do, deal with it'. A typical PDCT flow is therefore much more straightforward than the CDCT flow we saw earlier:
 
-![pdct](/images/blog/pdct_flow.png "A typical provider-driven contract testing flow")
+![pdct](/images/blog/pdct_flow_2.png "A typical provider-driven contract testing flow")
 
 In words:
 
@@ -78,7 +78,7 @@ In words:
 2. The repository (which now also acts as a verification agent) compares the contract and checks for potential integration issues
 3. Both consumer and provider can query the repository for the latest verification results to see if there are any potential integrations issues, and if it is safe to deploy their next build into production
 
-Currently, the only way I know of to do BDCT is by using [Pactflow](https://pactflow.io/bi-directional-contract-testing/){:target="_blank"}.
+Currently, the only way I know of to do BDCT is by using [Pactflow](https://pactflow.io/bi-directional-contract-testing/){:target="_blank"}. If you want to see a working example of BDCT, [here's one](/an-introduction-to-contract-testing-part-6-bi-directional-contracts/) I created and wrote about recently.
 
 The biggest benefit of practicing BDCT is that the way BDCT is implemented within Pactflow and the wider Pact ecosystem means you can leverage existing technology to generate contracts more quickly, without having to depend on a full-blown Pact implementation.
 
