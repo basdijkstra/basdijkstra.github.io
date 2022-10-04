@@ -66,3 +66,12 @@ _P.S. Apart from the articles I linked to earlier in this post, here are a coupl
 [Adam Alter - Irresistible](https://www.goodreads.com/book/show/30962055-irresistible){:target="_blank"}
 
 [Johann Hari - Stolen Focus](https://www.goodreads.com/book/show/57933306-stolen-focus){:target="_blank"}
+
+_Update (October 4, 2022 - one month in)_: So, it has been a month since I started my LinkedIn break, and so far, it has been with ups and downs. The ups are that I (predictably) spend a lot less time on LinkedIn, which has had a positive effect on my focus.
+
+Work is still coming in steadily as well, especially requests for training. It's too early to say I don't need LinkedIn for lead generation anymore, and I _am_ still posting links to new content on there, which might help, but the first signs are positive. I'll keep a close eye on how this will evolve over the next months.  
+
+What I definitely miss least of all is the 'drama', i.e., people bickering and fighting over stuff trying to put themselves into a good light over others. I've been sent a link to some of that and I am really, really glad that that stuff doesn't consume my time and mental energy anymore.
+
+However, speaking of mental energy, I still feel the cravings to go on LinkedIn quite regularly. I sort of expected this, as it is me against an army of attention engineers, after all.. I hope that this is going to go away soon enough, now that I am ready to move from accessing LinkedIn once a week to only checking it once every other week. 
+
