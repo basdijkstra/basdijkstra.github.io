@@ -14,7 +14,7 @@ _In this blog post series, I'll dive deeper into the four pillars (fundamental p
 * _Encapsulation (**this post**)_
 * _[Inheritance](/the-four-pillars-of-object-oriented-programming-part-2-inheritance/)_
 * _[Polymorphism](/the-four-pillars-of-object-oriented-programming-part-3-polymorphism/)_
-* _Abstraction_
+* _[Abstraction](/the-four-pillars-of-object-oriented-programming-part-4-abstraction/)_
 
 _Why? Because I think they are essential knowledge not just for developers, but definitely also for testers working with, reading or writing code. Understanding these principles helps you better understand application code, make recommendations on how to improve the structure of that code and, of course, write better automation code, too._
 
