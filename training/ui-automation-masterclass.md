@@ -15,7 +15,8 @@ To succeed with user interface-driven automation, you'll need to know
 
 In this three-day UI automation masterclass, you will learn all you need to know to start being successful with your UI automation efforts.
 
-**Course contents - day 1**  
+**Course contents - day 1**
+
 Day 1 of the masterclass lays the groundwork for days 2 and 3. On day 1, you will learn:
 
   * Why UI automation is the hardest form of automation there is, and how to make those around you see that, too
@@ -28,7 +29,8 @@ After completing day 1, you will be able to have better conversations around the
 
 You will also have a basic understanding of how UI automation tools work and how to get started writing tests using these tools.
 
-**Course contents - day 2**  
+**Course contents - day 2**
+
 On day 2, you will expand the tests you wrote on day 1 and start building a solution that is reliable and maintainable. You will learn:
 
   * Different element identification and interaction strategies 
@@ -38,7 +40,8 @@ On day 2, you will expand the tests you wrote on day 1 and start building a solu
 
 After completing day 2, you will know what it takes to write better UI automation code. You will also have a much deeper understanding of how your test code exactly interacts with the UI of your application. 
 
-**Course contents - day 3**  
+**Course contents - day 3**
+
 The final day of this masterclass covers everything we need to create production-grade UI automation that is fit for the future. You will learn:
 
   * What the Page Object pattern is, what the Screenplay pattern is, and how they differ
