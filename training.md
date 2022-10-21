@@ -5,7 +5,7 @@ permalink: /training/
 ---
 _To go directly to the list of courses I offer, [please click here](#courses)._
 
-Do you want to learn what it takes to become skilled in test automation? Simply learning how to work with a tool or two is not enough.
+Do you want to learn what it takes to become skilled in test automation? That's great, but please keep in mind that simply learning how to work with a tool or two is not enough to get there.
 
 You'll need to learn fundamental software testing _and_ software development skills if you want to be a valuable and in-demand automation practitioner.
 
