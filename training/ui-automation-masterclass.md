@@ -50,7 +50,8 @@ After completing day 3, you will have a complete overview of all you need to kno
 
 This masterclass is packed with a variety of exercises. Some of these will be individual, some are done in groups of 2-4 people. A number of them will be carried out on laptops, but there will be other exercise formats too. Interaction is a key component in this course.
 
-**Intended audience and prerequisite knowledge**  
+**Intended audience and prerequisite knowledge**
+
 This course is aimed at software testers and developers that want to learn more about and do better with their UI automation efforts.
 
 Some prior experience with (object-oriented) programming is a prerequisite to get the most out of this course. I recommend [this course](/training/oop-for-testers) to get an idea of the level of experience needed.
@@ -58,6 +59,7 @@ Some prior experience with (object-oriented) programming is a prerequisite to ge
 Additionally, some general experience with software testing and test automation will be helpful.
 
 **Delivery and group size**
+
 This is a live training course, available both on site and online.
 
 I can run this course using C#, Java or Python as the programming language, and using Selenium WebDriver or Playwright as the automation library to use.
