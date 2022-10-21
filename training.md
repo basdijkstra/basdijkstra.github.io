@@ -3,7 +3,7 @@ title: Training
 layout: page
 permalink: /training/
 ---
-To go directly to the list of courses I offer, [please click here](#courses).
+_To go directly to the list of courses I offer, [please click here](#courses)._
 
 Do you want to learn what it takes to become skilled in test automation? Simply learning how to work with a tool or two is not enough.
 
