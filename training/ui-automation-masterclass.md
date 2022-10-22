@@ -1,5 +1,5 @@
 ---
-title: User interface-driven automation masterclass
+title: UI automation masterclass
 layout: page
 permalink: /training/ui-automation-masterclass/
 ---
