@@ -17,7 +17,7 @@ Combine these two with the fact that while [RestSharp](https://restsharp.dev/){:
 
 And that's how **RestAssured.Net** was born.
 
-I just released version 0.4.0 this weekend, which is the first beta release (after a couple of alpha releases), meaning I think it is ready for the testing community to give it a spin. Here are the most important links:
+I just released version 0.4.1 this weekend, which is the first beta release (after a couple of alpha releases), meaning I think it is ready for the testing community to give it a spin. Here are the most important links:
 
 * [The project on GitHub](https://github.com/basdijkstra/rest-assured-net){:target="_blank"}
 * [The usage guide](https://github.com/basdijkstra/rest-assured-net/wiki/Usage-Guide){:target="_blank"}
@@ -76,7 +76,7 @@ I'm not going to show all the capabilities of RestAssured.Net here, as [the usag
 * extracting entire responses, header values and JSON and XML response body elements
 * deserializing response payloads into objects from JSON or XML
 
-Here's an example of how that deserialization works, by the way:
+To show how straightforward using RestAssured.Net is, here's an example of how that deserialization works, by the way:
 
 {% highlight csharp %}
 [Test]
