@@ -24,6 +24,8 @@ I just released version 0.4.1 this weekend, which is the first beta release (aft
 * [The list of currently open issues](https://github.com/basdijkstra/rest-assured-net/issues){:target="_blank"}
 * [The package on NuGet](https://www.nuget.org/packages/RestAssured.Net){:target="_blank"}
 
+![rest_assured_net](/images/blog/rest_assured_net_on_nuget.png "RestAssured.Net on NuGet")
+
 Let's have a look at how to use RestAssured.Net to write tests for a REST API.
 
 ### Getting started
