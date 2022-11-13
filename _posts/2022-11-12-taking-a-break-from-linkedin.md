@@ -31,11 +31,13 @@ And that's why I've decided to take a break from LinkedIn, at least for a while.
 
 You might call it an attempt to reset the way I use the platform. You might call it a LinkedIn detox. You might call it whatever you want, I don't know exactly how to describe it myself. However, I feel that an extended break is the only right thing to do at the moment. And this is what that's going to look like:
 
-* I will check in to LinkedIn at most once a week (but moving as soon as possible to once every other week), on Friday mornings, to see if I've got any messages that absolutely need to be dealt with. And by 'need to' I mean: check if I miss out on any potential business opportunities. I will also accept invites that have come in during the week.
+* From today, **November 13, 2022**, I'm staying away from LinkedIn completely **until at least January 1, 2023**, and who knows how much longer.
 
-* I will also (very occasionally) publish posts, but will be using [an external service](https://later.com/){:target="_blank"}, and only to point people to new content that I've produced, be it a blog post, a new [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net){:target="_blank"} release or even a new [open source workshop](/open-source-workshops.md). In other words, those few posts that I do share are meant to provide immediate value to those reading them.
+* After that, I might go back to checking LinkedIn at most once a week (but rather every other week or so), on Friday mornings, to see if I've got any messages that absolutely need to be dealt with. And by 'need to' I mean: check if I miss out on any potential business opportunities. I will also accept invites that have come in during the week.
 
-Apart from that, from today, **November 13, 2022**, I'll stay away from LinkedIn **until at least February 1, 2023**, and who knows how much longer.
+* I will occasionally publish posts, but will be using [an external service](https://later.com/){:target="_blank"}, and only to point people to new content that I've produced, be it a blog post, a new [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net){:target="_blank"} release or even a new [open source workshop](/open-source-workshops.md). In other words, those few posts that I do share are meant to provide immediate value to those reading them.
+
+This is going to be hard, especially in the first couple of weeks, but I feel that I _need to_ do this. Also, since my calendar is already fully booked until the end of the year anyway, I don't think there is a lot to lose at the moment, which makes right now a great moment for starting this break. 
 
 I hope that this will help me clear my mind, restore my ability to focus on tasks (in other words, do more [deep work](https://www.goodreads.com/book/show/25744928-deep-work){:target="_blank"})) and reduce the continuous anxiety and urge to 'just check LinkedIn once again'.
 
