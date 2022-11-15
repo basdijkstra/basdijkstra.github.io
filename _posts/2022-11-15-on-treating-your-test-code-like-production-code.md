@@ -43,7 +43,7 @@ However, tests, too, can suffer from a lack of quality. They can produce false p
 
 This is why you should test your tests and make sure that the information they produce is valuable and reliable, both when your test passes and when it fails. There are even [tools that can help you do this](https://www.youtube.com/watch?v=iSDJ6iWWvcs){:target="_blank"}, so why aren't you testing your tests yet?
 
-## Apply object-oriented programming principles
+### Apply object-oriented programming principles
 In the last 16 years, I've become quite adept at spotting what automation has been written by people who know how to program, as opposed to people who merely learned the API of a tool or library. The difference: structure. While the former produces code that is well-structured and therefore easy to read and easy to maintain, the latter often doesn't go beyond writing tests that procedurally list all the hundreds of different little steps that make up the test. Click here. Type there. Check this box. Uncheck that box.
 
 It does take a while for many people to grow from the latter to the former. And that's understandable. Nobody can learn how to write well-structured code in a day or two. But if you'd ask me where to start, I always come back to learning the [principles of object-oriented programming](/the-four-pillars-of-object-oriented-programming-part-1-encapsulation/). In my opinion, there's nothing that improves your code as quickly as understanding these principles and knowing where and how to apply them. Your future self, and your coworkers dealing with the code you left behind as you moved on, will be forever grateful.
