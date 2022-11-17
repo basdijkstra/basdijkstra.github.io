@@ -11,7 +11,7 @@ plugins:
   - jekyll-analytics
   - jekyll-feed
 remote_theme: "mmistakes/minimal-mistakes@4.19.3"
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "dark"
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/:num"
@@ -32,7 +32,7 @@ author:
       url: "https://www.linkedin.com/in/basdijkstra/"
     - label: GitHub
       icon: "fab fa-fw fa-github"
-      url: "http://github.com/basdijkstra"
+      url: "https://github.com/basdijkstra"
 footer:
   links:
     - label: Email
@@ -43,7 +43,7 @@ footer:
       url: "https://www.linkedin.com/in/basdijkstra/"
     - label: GitHub
       icon: "fab fa-fw fa-github"
-      url: "http://github.com/basdijkstra"
+      url: "https://github.com/basdijkstra"
 defaults:
   # _posts
   - scope:
