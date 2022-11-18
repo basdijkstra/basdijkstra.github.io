@@ -43,7 +43,7 @@ In this course, we'll cover everything from writing and running your first code 
 <a href="/training/oop-for-testers/" class="btn btn--primary">Object-oriented programming for testers (3 days)</a>
 
 ##### Contract testing
-With the rise of distributed and microservices-based software systems, the challenge of efficient integration testing early in the SDLC is becoming ever more difficult.
+With the rise of distributed and microservices-based software systems, the challenge of performing efficient integration testing early and often in the SDLC is becoming ever more difficult to tackle.
 
 Contract testing is an approach that is quickly gaining traction as a way out of 'integration testing hell'. In this practical and very hands-on training, you'll learn everything you need to know to make your contract testing efforts successful.
 
