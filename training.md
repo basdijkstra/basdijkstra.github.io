@@ -42,6 +42,13 @@ In this course, we'll cover everything from writing and running your first code 
 
 <a href="/training/oop-for-testers/" class="btn btn--primary">Object-oriented programming for testers (3 days)</a>
 
+##### Contract testing
+With the rise of distributed and microservices-based software systems, the challenge of efficient integration testing early in the SDLC is becoming ever more difficult.
+
+Contract testing is an approach that is quickly gaining traction as a way out of 'integration testing hell'. In this practical and very hands-on training, you'll learn everything you need to know to make your contract testing efforts successful.
+
+<a href="/training/contract-testing/" class="btn btn--primary">Contract testing (2 days)</a>
+
 ##### Behaviour-Driven Development (BDD)
 Creating a shared understanding of the way software should behave is essential in preventing software defects caused by miscommunication, misinformation and misinterpretation. This is the exact premise of BDD.  
 
@@ -52,7 +59,6 @@ In this practical and hands-on BDD training, you'll learn that BDD is more than 
 ##### Workshops
 These half- to full-day workshops are perfect if you're looking to get a kickstart with a new tool or technique. And if you're a conference organizer: these workshops work really well as part of conferences, too!
 
-<a href="/training/contract-testing/" class="btn btn--primary">Contract testing</a>
 <a href="/training/mutation-testing/" class="btn btn--primary">Mutation testing</a>
 <a href="/training/robot-framework/" class="btn btn--primary">Robot Framework</a>
 
