@@ -9,7 +9,7 @@ tags:
   - api-testing
   - development
 ---
-In a series of (relatively short) blog posts, I would like to share with you some examples of how to use [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net){:target="_blank"} for writing tests for RESTful and GraphQL APIs.
+In a series of (short) blog posts, I would like to share with you some examples of how to use [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net){:target="_blank"} for writing tests for RESTful and GraphQL APIs.
 
 * Getting started and basic examples (**this blog post**)
 * Parameterized tests
@@ -22,7 +22,7 @@ All examples that you see in this blog post series [can be found on GitHub](http
 ### Background
 I started developing this library for two reasons.
 
-1. I was looking for a way to improve my C# development skills
+1. I was looking for a way to improve my C# development skills.
 2. I couldn't find a decent library to use when writing tests for REST APIs in C#. While RestSharp is a wonderful library, writing tests using RestSharp sometimes feels overly complex.
 
 I've been a fan of the [Java REST Assured library](https://rest-assured.io/){:target="_blank"} for years, and came up with the idea to port it to C#. Johan, the creator of REST Assured, was kind enough to give me permission to use the name and draw inspiration from the DSL of the 'original' REST Assured, and he even gave me some valuable tips and advice, too. Thank you once again!
