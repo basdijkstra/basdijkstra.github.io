@@ -41,11 +41,11 @@ For those of you who are familiar with REST Assured in Java, the way to make an 
 [Test]
 public void GetLocationsForUsZipCode90210_CheckStatusCode_ShouldBe200()
 {
-Given()
-.When()
-.Get("http://api.zippopotam.us/us/90210")
-.Then()
-.StatusCode(200);
+    Given()
+    .When()
+    .Get("http://api.zippopotam.us/us/90210")
+    .Then()
+    .StatusCode(200);
 }
 {% endhighlight %}
 
@@ -55,11 +55,11 @@ As you can see, in a single, readable line of code, you can create and perform a
 [Test]
 public void GetLocationsForUsZipCode90210_LogResponseDetails()
 {
-Given()
-.When()
-.Get("http://api.zippopotam.us/us/90210")
-.Then()
-.Log().All();
+    Given()
+    .When()
+    .Get("http://api.zippopotam.us/us/90210")
+    .Then()
+    .Log().All();
 }
 {% endhighlight %}
 
@@ -105,11 +105,11 @@ To verify JSON response body elements, we need to specify two things: a JsonPath
 [Test]
 public void GetLocationsForUsZipCode90210_CheckCountry_ShouldBeUnitedStates()
 {
-Given()
-.When()
-.Get("http://api.zippopotam.us/us/90210")
-.Then()
-.Body("$.country", NHamcrest.Is.EqualTo("United States"));
+    Given()
+    .When()
+    .Get("http://api.zippopotam.us/us/90210")
+    .Then()
+    .Body("$.country", NHamcrest.Is.EqualTo("United States"));
 }
 {% endhighlight %}
 
@@ -121,11 +121,11 @@ A slightly more complex example can be seen when we verify that a list of place 
 [Test]
 public void GetLocationsForDeZipCode24848_CheckPlaces_ShouldContainKropp()
 {
-Given()
-.When()
-.Get("http://api.zippopotam.us/de/24848")
-.Then()
-.Body("$.places[*].['place name']", NHamcrest.Has.Item(NHamcrest.Is.EqualTo("Kropp")));
+    Given()
+    .When()
+    .Get("http://api.zippopotam.us/de/24848")
+    .Then()
+    .Body("$.places[*].['place name']", NHamcrest.Has.Item(NHamcrest.Is.EqualTo("Kropp")));
 }
 {% endhighlight %}
 
