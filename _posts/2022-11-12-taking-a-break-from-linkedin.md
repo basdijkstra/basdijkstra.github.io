@@ -71,6 +71,6 @@ _P.S. Apart from the articles I linked to earlier in this post, here are a coupl
 
 _(Update November 26): so it looks like it's harder to stop using LinkedIn for a while than I thought... After participating in a conference as a speaker and workshop facilitator, I couldn't resist having a look at what people thought and shared about it online._
 
-_There were lots of new connection requests as well as some very friendly messages. But, true to human nature, the only thing my mind could focus on was a comment on one of my other posts, which then kept my brain running for hours._
+_There were lots of new connection requests as well as some very friendly messages. But, true to human nature, the only thing my mind could focus on was a critical comment on one of my other posts, which then kept my brain running for hours._
 
 _I don't need this in my life. I've got plenty of things to do and take care of as it is, without spending time and energy on what some person I've never even met thinks of what I've done. So, I'm going to make sure that until January 1, LinkedIn is truly off limits._
