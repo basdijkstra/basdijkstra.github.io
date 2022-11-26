@@ -69,7 +69,7 @@ _P.S. Apart from the articles I linked to earlier in this post, here are a coupl
 
 [Johann Hari - Stolen Focus](https://www.goodreads.com/book/show/57933306-stolen-focus){:target="_blank"}
 
-_(Update November 26): so it looks like it's harder to stop using LinkedIn for a while than I thought... After participating in a conference as a speaker and workshop facilitator, I couldn't resist having a look at what people thought and shared about it online._
+_(Update November 26): so it looks like it's harder to stop using LinkedIn for a while than I thought... After participating in the [Testing Portugal conference](https://testingportugal.pstqb.pt/en/){:target="_blank"} as a speaker and workshop facilitator earlier this week, I couldn't resist having a look at what people thought and shared about it online._
 
 _There were lots of new connection requests as well as some very friendly messages. But, true to human nature, the only thing my mind could focus on was a critical comment on one of my other posts, which then kept my brain running for hours._
 
