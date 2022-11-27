@@ -73,4 +73,8 @@ _(Update November 26): so it looks like it's harder to stop using LinkedIn for a
 
 _There were lots of new connection requests as well as some very friendly messages. But, true to human nature, the only thing my mind could focus on was a critical comment on one of my other posts, which then kept my brain running for hours._
 
-_I don't need this in my life. I've got plenty of things to do and take care of as it is, without spending time and energy on what some person I've never even met thinks of what I've done. So, I'm going to make sure that until January 1, LinkedIn is truly off limits._
+_I don't need this in my life. I've got plenty of things to do and take care of as it is, without spending time and energy on what some person I've never even met thinks of what I've done. So, I'm going to make sure that until at least January 1, LinkedIn is truly off limits._
+
+_I've updated my profile tagline and summary to point people to better ways to contact me, instead. I can't wait for the withdrawal symptoms (because that's what they are) to wean off in the weeks to come, and stop thinking about 'what to post next' or 'how would this look on LinkedIn'._
+
+_I'm even contemplating finally, finally tackling a big project that's been on my mind for years now.. More about that soon. Maybe._
