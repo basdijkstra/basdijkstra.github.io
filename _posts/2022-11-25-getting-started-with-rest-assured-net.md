@@ -12,7 +12,7 @@ tags:
 In a series of (short) blog posts, I would like to share with you some examples of how to use [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net){:target="_blank"} for writing tests for RESTful and GraphQL APIs.
 
 * Getting started and basic examples (**this blog post**)
-* Parameterized tests
+* [Parameterized tests](/parameterizing-tests-in-rest-assured-net/)
 * (De-)serialization
 * Authentication and reuse
 * Testing GraphQL APIs
