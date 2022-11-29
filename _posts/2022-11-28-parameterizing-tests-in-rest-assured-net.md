@@ -51,6 +51,8 @@ public void QueryParameterExample()
 
 The endpoint that will be invoked in this test is `http://md5.jsontest.com?text=RestAssured.Net`.
 
+To specify multiple query parameters, you can call `QueryParam()` multiple times, or pass a Dictionary with query parameter names and values to the `QueryParams()` method. More examples on using query parameters can be found in [the RestAssured.Net usage guide](https://github.com/basdijkstra/rest-assured-net/wiki/Usage-Guide#specifying-query-parameters){:target="_blank"}.
+
 ### Specifying path parameters
 The same principle can be used when specifying path parameters as well. Next to string interpolation and string concatenation, RestAssured.Net offers the `PathParam()` method to specify the value for a path parameter.
 
@@ -74,7 +76,7 @@ With path parameters, only the value appears in the endpoint. The path parameter
 
 RestAssured.Net will then look for a placeholder (identified by the 'double handlebar' notation) with the same name in the endpoint, and will replace the placeholder with the value specified in the `PathParam()` method.
 
-As you can see, you can add more than one path parameter in your test. You can even use `PathParams()` to provide a dictionary of path parameters in a single method call. 
+As you can see, you can add more than one path parameter in your test. You can also use `PathParams()` to provide a dictionary of path parameters in a single method call. More examples on using path parameters can be found in [the RestAssured.Net usage guide](https://github.com/basdijkstra/rest-assured-net/wiki/Usage-Guide#specifying-path-parameters){:target="_blank"}. 
 
 ### Creating our parameterized test
 Now that we have added parameter definitions to our test, we can combine that with the capability our test runner provides to create a parameterized test.
