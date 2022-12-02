@@ -185,7 +185,7 @@ This makes the difference between interfaces and abstract methods in C# even sma
 
 These differences apply to both Java and C#.
 
-Python doesn't know the concept of an abstract class, nor does it know the concept of an interface. You can, technically, construct something that in some way resembles an interface, as is shown [in this article](https://realpython.com/python-interface/){:target="_blank"}, but in my opinion, it look pretty contrived and not like a proper interface as you would see in Java or C#.
+Python does know the concept of an abstract class, which can be used to implement abstraction. There is such thing as an interface in Python. You can, technically, construct something that in some way resembles an interface, as is shown [in this article](https://realpython.com/python-interface/){:target="_blank"}, but in my opinion, it look pretty contrived and not like a proper interface as you would see in Java or C#.
 
 ## Abstraction in automation
 Abstraction is the principle of object-oriented programming I find myself applying the least in my automation code, to the extent that it is hard for me to come up with an useful example of the use of it. I even think that if you find yourself using interfaces or abstract classes in your automation code, you might want to ask yourself the question whether you're not overengineering things...
