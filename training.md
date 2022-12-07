@@ -35,12 +35,12 @@ Reaping the benefits from this type of automation requires much more than just l
 
 <a href="/training/ui-automation-masterclass/" class="btn btn--primary">UI automation masterclass (3 days)</a>
 
-##### Object-oriented programming
+##### Object-oriented programming principles
 We've all heard it before: test automation is software development. And it's true: if you want to write automation that is structured well enough to be readable and maintainable, you will need object-oriented programming skills.
 
 In this course, we'll cover everything from writing and running your first code to applying fundamental object-oriented programming principles to your code.
 
-<a href="/training/oop-for-testers/" class="btn btn--primary">Object-oriented programming for testers (3 days)</a>
+<a href="/training/oop-for-testers/" class="btn btn--primary">Object-oriented programming principles (3 days)</a>
 
 ##### Contract testing
 With the rise of distributed and microservices-based software systems, the challenge of performing efficient integration testing early and often in the SDLC is becoming ever more difficult to tackle.
