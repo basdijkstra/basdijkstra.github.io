@@ -13,7 +13,7 @@ In a series of (short) blog posts, I would like to share with you some examples 
 
 * Getting started and basic examples (**this blog post**)
 * [Parameterized tests](/parameterizing-tests-in-rest-assured-net/)
-* (De-)serialization
+* [(De-)serialization](/deserializing-json-and-xml-in-rest-assured-net/)
 * Authentication and reuse
 * Testing GraphQL APIs
 
