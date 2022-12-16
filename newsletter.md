@@ -5,7 +5,7 @@ permalink: /newsletter/
 ---
 Do you want to improve your test automation game and receive insights on how to learn more about software testing, test automation and software development, in a better way?
 
-Subscribe to my free On Test Automation newsletter and receive a new article about all things test automation and training in your email inbox every Tuesday.
+Subscribe to my free On Test Automation newsletter and receive fresh and exclusive content about all things test automation and training in your email inbox every Tuesday.
 
 (You'll receive the first newsletter on January 3, 2023)
 
