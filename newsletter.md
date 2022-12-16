@@ -7,6 +7,8 @@ Do you want to improve your test automation game and receive insights on how to 
 
 Subscribe to my free On Test Automation newsletter and receive a new article about all things test automation and training in your email inbox every Tuesday.
 
+(You'll receive the first newsletter on January 3, 2023)
+
 <div class="sib-form" style="text-align: center;
          background-color: #EFF2F7;                                 ">
   <div id="sib-form-container" class="sib-form-container">
