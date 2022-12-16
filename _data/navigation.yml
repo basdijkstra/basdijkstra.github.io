@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Newsletter"
+    url: /newsletter/
   - title: "Training"
     url: /training/
   - title: "Consulting"
