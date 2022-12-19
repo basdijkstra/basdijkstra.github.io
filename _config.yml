@@ -14,7 +14,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "air"
 markdown: kramdown
 paginate: 5
-paginate_path: "/blog/:num"
+paginate_path: "/blog/page:num"
 kramdown:
   syntax_highlighter: rouge
 author_profile: true
