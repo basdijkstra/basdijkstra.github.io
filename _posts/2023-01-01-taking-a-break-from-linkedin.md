@@ -7,6 +7,8 @@ categories:
 tags:
   - social media
 ---
+Happy New Year! I'm hoping that 2023 will send lots of good things your way.
+
 Ever since I first signed up for LinkedIn way back in 2007, I've been spending a lot of time on the platform, especially in the last couple of years. Posting, liking, commenting, I couldn't and can't seem to get enough of it. However, where I used to absolutely love LinkedIn, my attitude towards the platform over the last year or so has evolved into what can only be described as a love-hate relationship.
 
 I still love (or, well, appreciate is probably the better word) LinkedIn for all the opportunities it has given me, the genuine connections I've made and the things I've learned from others posting on there. I'd even go as far as saying I wouldn't be where I am now in my career were it not for LinkedIn and the opportunities that have come through my network on there.
@@ -31,17 +33,15 @@ And that's why I've decided to take a break from LinkedIn, at least for a while.
 
 You might call it an attempt to reset the way I use the platform. You might call it a LinkedIn detox. You might call it whatever you want, I don't know exactly how to describe it myself. However, I feel that an extended break is the only right thing to do at the moment. And this is what that's going to look like:
 
-* From today, **November 13, 2022**, I'm staying away from LinkedIn completely **until at least January 1, 2023**, and who knows how much longer.
+* From today, **January 1, 2023**, I'm staying away from LinkedIn completely **until at least March 1, 2023**, and who knows how much longer.
 
 * After that, I might go back to checking LinkedIn at most once a week (but rather every other week or so), on Friday mornings, to see if I've got any messages that absolutely need to be dealt with. And by 'need to' I mean: check if I miss out on any potential business opportunities. I will also accept invites that have come in during the week.
 
 * I will occasionally publish posts, but will be using [an external service](https://later.com/){:target="_blank"}, and only to point people to new content that I've produced, be it a blog post, a new [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net){:target="_blank"} release or even a new [open source workshop](/open-source-workshops.md). In other words, those few posts that I do share are meant to provide immediate value to those reading them.
 
-This is going to be hard, especially in the first couple of weeks, but I feel that I _need to_ do this. Also, since my calendar is already fully booked until the end of the year anyway, I don't think there is a lot to lose at the moment, which makes right now a great moment for starting this break. 
+This is going to be hard, especially in the first couple of weeks, but I feel that I need to do this. I hope that this will help me clear my mind, restore my ability to focus on tasks (in other words, do more [deep work](https://www.goodreads.com/book/show/25744928-deep-work){:target="_blank"})) and reduce the continuous anxiety and urge to 'just check LinkedIn once again'.
 
-I hope that this will help me clear my mind, restore my ability to focus on tasks (in other words, do more [deep work](https://www.goodreads.com/book/show/25744928-deep-work){:target="_blank"})) and reduce the continuous anxiety and urge to 'just check LinkedIn once again'.
-
-This, in turn, hopefully enables me to produce more valuable content. Blogs, talks, new courses and workshops, ... I think there's a lot more value in that than in writing social media updates and comments that are inherently much more ephemeral in nature.
+This, in turn, hopefully enables me to produce more valuable content. Blogs, newsletter posts, talks, new courses and workshops, ... I think there's a lot more value in that than in writing social media updates and comments that are inherently much more ephemeral in nature.
 
 I am fully aware that I still have a business to run, and that in the past, LinkedIn has been my main channel for promotion and marketing. During my break, I will, and will need to, therefore explore alternative ways of bringing my services to the attention of potential clients. I've been exploring some ways to do this for a while, but haven't really taken a lot of action in that area yet. I'm really curious to see how dependent I _am_ on LinkedIn, really.
 
@@ -51,11 +51,11 @@ So, if you're a company or a conference organizer in Canada, Iceland, Ireland, I
 
 I also hope that this break from LinkedIn will give me more time and the attention required to focus on some goals outside of work. I do read quite a lot of books already, but most of the time I stick with the 'lighter' stuff because I just don't seem to possess the attention span required for reading and processing more demanding literature anymore, and that's something I would like to change.
 
-I'm also aiming to finally get enough training in to be able to work towards some running goals I've been eyeing for years now. Needless to say that training for these things will take a significant amount of time, but it will also require both focus and proper sleep, two things that for me easily deteriorate if I spend too much time and mental energy on attention black holes such as LinkedIn.
+I'm also aiming to finally get enough training in to be able to work towards some fitness goals I've been eyeing for years now. Achieving these goals will take a significant amount of time, but it will also require both focus and proper sleep, two things that for me easily deteriorate if I spend too much time and mental energy on attention black holes such as LinkedIn.
 
 I'm definitely not going to disappear from the planet, or even from the Internet, so if you want to get or stay in touch, please **email me instead** (bas@ontestautomation.com). I am more than happy to discuss opportunities for collaboration, or even just to have a chat.
 
-If necessary, I might even give you my telephone number so you can text me, or so that we can have an actual call. Old-fashioned, I know, but much more personal, too.
+If necessary, I might even give you my telephone number, so you can text me, or so that we can have an actual call. Old-fashioned, I know, but much more personal, too.
 
 I am really looking forward to going back to those slightly more traditional and 'slower' means of communication. I sometimes joke that part of my brain is permanently stuck in the 90's, and I think this might be an example of my actions matching that.
 
@@ -68,13 +68,3 @@ _P.S. Apart from the articles I linked to earlier in this post, here are a coupl
 [Adam Alter - Irresistible](https://www.goodreads.com/book/show/30962055-irresistible){:target="_blank"}
 
 [Johann Hari - Stolen Focus](https://www.goodreads.com/book/show/57933306-stolen-focus){:target="_blank"}
-
-_(Update November 26): so it looks like it's harder to stop using LinkedIn for a while than I thought... After participating in the [Testing Portugal conference](https://testingportugal.pstqb.pt/en/){:target="_blank"} as a speaker and workshop facilitator earlier this week, I couldn't resist having a look at what people thought and shared about it online._
-
-_There were lots of new connection requests as well as some very friendly messages. But, true to human nature, the only thing my mind could focus on was a critical comment on one of my other posts, which then kept my brain running for hours._
-
-_I don't need this in my life. I've got plenty of things to do and take care of as it is, without spending time and energy on what some person I've never even met thinks of what I've done. So, I'm going to make sure that until at least January 1, LinkedIn is truly off limits._
-
-_I've updated my profile tagline and summary to point people to better ways to contact me, instead. I can't wait for the withdrawal symptoms (because that's what they are) to wean off in the weeks to come, and stop thinking about 'what to post next' or 'how would this look on LinkedIn'._
-
-_I'm even contemplating finally, finally tackling a big project that's been on my mind for years now.. More about that soon. Maybe._
