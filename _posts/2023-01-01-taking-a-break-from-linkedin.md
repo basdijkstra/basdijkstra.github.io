@@ -7,7 +7,7 @@ categories:
 tags:
   - social media
 ---
-Happy New Year! I'm hoping that 2023 will send lots of good things your way.
+Happy New Year! I'm hoping that 2023 will send lots of good things your way. I'm going to start my 2023 with a break... from social media.
 
 Ever since I first signed up for LinkedIn way back in 2007, I've been spending a lot of time on the platform, especially in the last couple of years. Posting, liking, commenting, I couldn't and can't seem to get enough of it. However, where I used to absolutely love LinkedIn, my attitude towards the platform over the last year or so has evolved into what can only be described as a love-hate relationship.
 
