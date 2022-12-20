@@ -28,7 +28,7 @@ Needless to say, I'm very happy that in-person training sessions, and conference
 
 The undoubted highlight of the year in this regard, though, was the chance to run four days of training in Cape Town, South Africa in late September of this year, in collaboration with Inspired Testing. I've been wanting to come back to South Africa for over 21 years, and to be able to finally do that was absolutely amazing.
 
-So, with that covered, let's look at some statistics for 2022 across different areas of what I do for a living, and my goals for 2023 as well.
+With the two main changes that happened for me in 2022 covered, let's look at some statistics for 2022 across different areas of what I do for a living, and my goals for 2023 as well.
 
 ### Training
 In terms of training sessions delivered, this year has seen a steady growth compared to 2021. By the end of this year, I will have conducted:
@@ -51,7 +51,7 @@ I'm also consulting with a software test tool vendor as they're in the process o
 I'm going to stay with both clients for at least a couple more months, but will reduce my hours to part-time, which means there's room in my schedule for more training clients, but also for another part time consulting gig. So, if you're looking for someone who can help you take the first or the next step in your test automation efforts, mentor/coach/grow the test automation skills of your staff or (help) implement an automation solution, [we should talk](mailto:bas@ontestautomation.com)!
 
 ### Public speaking
-In 2022, apart from the training session mentioned above, I've delivered 24 talks at conferences, meetups and in-house with companies. Most of these sessions have been online, but there have been plenty of opportunities to speak in front of a live audience, too, both here in the Netherlands as well as abroad.
+In 2022, apart from the training sessions mentioned above, I've delivered 24 talks at conferences, meetups and in-house with companies. Most of these sessions have been online, but there have been plenty of opportunities to speak in front of a live audience, too, both here in the Netherlands as well as abroad.
 
 Public speaking is something I really like doing, and something I will definitely continue to do in 2023. It's possible that the number will be a little lower, in favour of more training opportunities, but we'll see what 2023 is going to bring!
 
