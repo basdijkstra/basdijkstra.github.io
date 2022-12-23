@@ -17,6 +17,8 @@ A typical mentoring engagement with me will look like this:
 * Then, we compile and agree on a learning curriculum and schedule that is personalized to your specific needs.
 * In weekly sessions, we'll go through the things you want to learn, the questions you have and the problems you're facing.
 * Between sessions, you will receive tailored take-home exercises to practice what you've learned and further hone your skills.
+* You'll also get plenty of links to other content that you can use to further expand your knowledge and hone your skills.
+* If you want, we can come up with a capstone project and have you present that to your manager, your team or anybody else who might be interested in your growth. 
 
 #### Scheduling
 
