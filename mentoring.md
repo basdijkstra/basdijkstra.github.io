@@ -9,7 +9,7 @@ Or are you looking for a more individual, personal approach that caters to _your
 
 My mentoring services might be just what you're looking for.
 
-#### What does your mentoring look like?
+#### What does a mentoring engagement look like?
 
 A typical mentoring engagement with me will look like this:
 
