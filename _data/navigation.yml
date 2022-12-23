@@ -4,6 +4,8 @@ main:
     url: /newsletter/
   - title: "Training"
     url: /training/
+  - title: "Mentoring"
+    url: /mentoring/
   - title: "Consulting"
     url: /consulting/
   - title: "Blog"
