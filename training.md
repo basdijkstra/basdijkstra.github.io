@@ -56,6 +56,13 @@ In this practical and hands-on BDD training, you'll learn that BDD is more than 
 
 <a href="/training/behaviour-driven-development/" class="btn btn--primary">Behaviour-Driven Development (2 days)</a>
 
+##### Robot Framework
+Robot Framework is often called 'the Swiss army knife of test automation', and with good reason: it is a very versatile framework that allows users to write tests in an expressive, keyword-driven format.
+
+My Robot Framework training course will teach you everything you'll need to start writing and running readable, maintainable tests for web applications, APIs and more.
+
+<a href="/training/robot-framework/" class="btn btn--primary">Robot Framework (2 days)</a>
+
 ##### Workshops
 These half- to full-day workshops are perfect if you're looking to get a kickstart with a new tool or technique. And if you're a conference organizer: these workshops work really well as part of conferences, too!
 
