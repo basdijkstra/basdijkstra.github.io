@@ -9,7 +9,8 @@ Contract testing is a technique, supported by tools, that can help you deploy yo
 
 In this training course, you'll learn what contract testing is, where it fits into your overall testing strategy and how the Pact framework can help you set up and run contract tests.
 
-**Course contents**  
+#### Course contents
+
 This workshop covers, among other things:
 
 _Context and background of contract testing_
@@ -46,10 +47,11 @@ There's no better way to learn than by doing, so you'll be presented with a vari
 
 This course can be delivered using the Pact bindings in Java, C#, Python and JavaScript.
 
-**Intended audience and prerequisite knowledge**  
+#### Intended audience and prerequisite knowledge
+
 This course is aimed at software development and testing practitioners that want to learn more about contract testing and how to create and execute contract tests with Pact. Some previous exposure to object-oriented software development and (API-level) test automation will make it easier for you to follow along.
 
-**After this course**
+#### After this course
 After completing this contract testing course, participants will have a working knowledge of:
 
 * The different types of contract testing and which flavour works where
@@ -60,7 +62,7 @@ After completing this contract testing course, participants will have a working 
 * How bidirectional contract testing works and how it addresses the challenges of CDCT
 * How to make contract testing part of a CI/CD pipeline
 
-**Delivery and group size**  
+#### Delivery and group size  
 This is a live training course, available both on site and online.
 
 If you would like to book me to teach this course in your organization, or if you have any additional questions, please send an email to bas@ontestautomation.com or use the contact form on [this page](/contact/).

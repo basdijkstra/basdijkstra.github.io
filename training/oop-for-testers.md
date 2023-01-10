@@ -7,7 +7,7 @@ Are you a tester looking to learn how to write better automation code? Do you wa
 
 In this course, you'll learn how to increase your value as a tester through the acquisition of programming skills. You can use these skills to start working on or get better at writing automation code, but they will also be a massive help in improving your conversations and collaboration efforts with the developers in your team.  
 
-**Course contents**  
+#### Course contents  
 This course covers, among other things:
 
   * Objects, classes, constructors, methods and parameters
@@ -21,18 +21,18 @@ This course covers, among other things:
 
 There's no better way to learn than by doing, so you'll be presented with lots of hands-on (programming) exercises throughout this course.
 
-**Intended audience and prerequisite knowledge**  
+#### Intended audience and prerequisite knowledge  
 This course is aimed at testing practitioners that want to learn to write (better) code to help them in their testing, automation and development efforts.
 
-**Delivery and group size**  
+#### Delivery and group size  
 This is a live training course, available both on site and online. The maximum group size is 12.
 
 This course can be delivered in Java, C# or Python.
 
-**Duration**  
+#### Duration  
 This course takes three working days.
 
-**Interested?**  
+#### Interested?  
 If you would like to book me to teach this course in your organization, or if you have any additional questions, please send an email to bas@ontestautomation.com or use the contact form on [this page](/contact/).
 
 For an overview of all training courses I have on offer, please visit the main [training page](/training/).

@@ -11,7 +11,7 @@ APIs play a vital role in many modern software development efforts as the glue t
 
 In this three-day API testing masterclass, you will learn all about APIs, how to test them and how to use a variety of tools to your advantage when doing so.
 
-**Course contents - day 1**  
+#### Course contents - day 1  
 Day 1 of the masterclass lays the groundwork for days 2 and 3. You will learn:
 
   * What APIs are and what types of APIs exist
@@ -26,7 +26,7 @@ Day 1 of the masterclass lays the groundwork for days 2 and 3. You will learn:
 
 After completing day 1, you will have a clear overview of what APIs are and what role they play in modern software systems. You will also be able to answer the questions of "_why?_", "_what?_" and "_how?_" to test APIs.
 
-**Course contents - day 2**  
+#### Course contents - day 2  
 On day 2, you will dive deeper into various tools that can help you test your APIs more efficiently. You will learn:
 
   * What standards there are for API specifications and API contracts
@@ -38,7 +38,7 @@ On day 2, you will dive deeper into various tools that can help you test your AP
 
 After completing day 2, you will have gained experience in using several types of tools to support your API functional testing efforts. You will leave with various examples and suggestions that you can apply in your own context.
 
-**Course contents - day 3**  
+#### Course contents - day 3  
 The final day of this masterclass covers testing other API characteristics, making API testing part of your overall testing and test automation strategy and dealing with API dependencies. You will learn:
 
   * How to make API test automation part of your overall test automation suite
@@ -51,15 +51,15 @@ After completing day 3, you will have a good overview of all there is to know re
 
 This masterclass is packed with a variety of exercises. Some of these will be individual, some are done in groups of 2-4 people. A number of them will be carried out on laptops, but there will be other exercise formats too. Interaction is a key component in this course.
 
-**Intended audience and prerequisite knowledge**  
+#### Intended audience and prerequisite knowledge  
 This course is aimed at software testers and developers that want to learn more about testing APIs and using tools to do so more efficiently.
 
 Some prior exposure to (object-oriented) software development and test automation can be helpful. I am confident, however, that even without this you will find this masterclass to be very useful.
 
-**After this course**  
+#### After this course  
 After completing this API testing masterclass, you’ll know why knowing how to test APIs is so important, what to look for when you’re testing APIs and how to use tools to your advantage in your API testing efforts. You’ll leave this course with a collection of tools, examples and resources for further studying that will help you in your day to day work.
 
-**Delivery and group size**  
+#### Delivery and group size  
 This is a live training course, available both on site and online.
 
 If you would like to book me to teach this course in your organization, or if you have any additional questions, please send an email to bas@ontestautomation.com or use the contact form on [this page](/contact/).

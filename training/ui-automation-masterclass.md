@@ -15,7 +15,7 @@ To succeed with user interface-driven automation, you'll need to know
 
 In this three-day UI automation masterclass, you will learn all you need to know to start being successful with your UI automation efforts.
 
-**Course contents - day 1**
+#### Course contents - day 1
 
 Day 1 of the masterclass lays the groundwork for days 2 and 3. On day 1, you will learn:
 
@@ -29,7 +29,7 @@ After completing day 1, you will be able to have better conversations around the
 
 You will also have a basic understanding of how UI automation tools work and how to get started writing tests using these tools.
 
-**Course contents - day 2**
+#### Course contents - day 2
 
 On day 2, you will expand the tests you wrote on day 1 and start building a solution that is reliable and maintainable. You will learn:
 
@@ -40,7 +40,7 @@ On day 2, you will expand the tests you wrote on day 1 and start building a solu
 
 After completing day 2, you will know what it takes to write better UI automation code. You will also have a much deeper understanding of how your test code exactly interacts with the UI of your application. 
 
-**Course contents - day 3**
+#### Course contents - day 3
 
 The final day of this masterclass covers everything we need to create production-grade UI automation that is fit for the future. You will learn:
 
@@ -53,7 +53,7 @@ After completing day 3, you will have a complete overview of all you need to kno
 
 This masterclass is packed with a variety of exercises. Some of these will be individual, some are done in groups of 2-4 people. A number of them will be carried out on laptops, but there will be other exercise formats too. Interaction is a key component in this course.
 
-**Intended audience and prerequisite knowledge**
+#### Intended audience and prerequisite knowledge
 
 This course is aimed at software testers and developers that want to learn more about and do better with their UI automation efforts.
 
@@ -61,7 +61,7 @@ Some prior experience with (object-oriented) programming is a prerequisite to ge
 
 Additionally, some general experience with software testing and test automation will be helpful.
 
-**Delivery and group size**
+#### Delivery and group size
 
 This is a live training course, available both on site and online.
 
