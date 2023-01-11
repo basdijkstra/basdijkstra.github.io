@@ -26,6 +26,7 @@ In day 2 of the course, you'll dive deeper into Robot Framework, learn about mor
 
   * Creating and reusing Robot Framework modules
   * Conditional execution and loops
+  * Applying good programming principles to your Robot Framework tests
   * Test templates (parameterized testing)
   * The robotframework-requests library for API testing
   * Writing and using your own Robot Framework library
