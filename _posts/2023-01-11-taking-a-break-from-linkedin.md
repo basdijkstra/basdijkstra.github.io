@@ -45,7 +45,7 @@ So, from today, **January 11, 2023**, I'm staying away from LinkedIn until at le
 
 Early April, I'll re-evaluate and decide on whether I'll get back to using LinkedIn more actively.
 
-This is probably going to be very hard for me, especially in the first couple of weeks, but I feel that I need to do this. I hope that this will help me clear my mind, restore my ability to focus on tasks (in other words, do more [deep work](https://www.goodreads.com/book/show/25744928-deep-work){:target="_blank"})) and reduce the continuous anxiety and urge to 'just check LinkedIn once again'.
+This is probably going to be very hard for me, especially in the first couple of weeks, but I feel that I need to do this. I hope that this will help me clear my mind, restore my ability to focus on tasks (in other words, do more [deep work](https://www.goodreads.com/book/show/25744928-deep-work){:target="_blank"}) and reduce the continuous anxiety and urge to 'just check LinkedIn once again'.
 
 This, in turn, hopefully enables me to produce more valuable content. Blogs, newsletter posts, talks, new courses and workshops, ... I think there's a lot more value in that than in writing social media updates and comments that are inherently much more ephemeral in nature.
 
