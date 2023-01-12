@@ -67,7 +67,6 @@ My Robot Framework training course will teach you everything you'll need to star
 These half- to full-day workshops are perfect if you're looking to get a kickstart with a new tool or technique. And if you're a conference organizer: these workshops work really well as part of conferences, too!
 
 <a href="/training/mutation-testing/" class="btn btn--primary">Mutation testing</a>
-<a href="/training/robot-framework/" class="btn btn--primary">Robot Framework</a>
 
 Can't find the training course you were looking for? I am happy to talk to you to see if together, we can create a **bespoke training course** (or even a complete curriculum of courses) that fits your training needs like a glove.
 
