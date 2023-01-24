@@ -284,6 +284,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-include-cache
   jekyll-paginate
+  jekyll-sitemap
 
 BUNDLED WITH
    2.0.1

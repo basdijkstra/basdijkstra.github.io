@@ -9,3 +9,5 @@ gem "jekyll-paginate"
 gem "jekyll-analytics"
 
 gem "jekyll-feed"
+
+gem "jekyll-sitemap"

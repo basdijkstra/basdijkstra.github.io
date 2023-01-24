@@ -10,6 +10,7 @@ plugins:
   - jekyll-paginate
   - jekyll-analytics
   - jekyll-feed
+  - jekyll-sitemap
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "air"
 markdown: kramdown
