@@ -42,13 +42,6 @@ Contract testing is an approach that is quickly gaining traction as a way out of
 
 <a href="/training/contract-testing/" class="btn btn--primary">Contract testing (2 days)</a>
 
-##### Behaviour-Driven Development (BDD)
-Creating a shared understanding of the way software should behave is essential in preventing software defects caused by miscommunication, misinformation and misinterpretation. This is the exact premise of BDD.  
-
-In this practical and hands-on BDD training, you'll learn that BDD is more than sticking Cucumber or SpecFlow on top of your existing automation. Much more!
-
-<a href="/training/behaviour-driven-development/" class="btn btn--primary">Behaviour-Driven Development (2 days)</a>
-
 ##### Customization
 Can't find the training course you were looking for? I am happy to talk to you to see if together, we can create a **bespoke training course** (or even a complete curriculum of courses) that fits your training needs like a glove.
 
