@@ -28,13 +28,6 @@ This masterclass covers the entire spectrum of API testing and automation, inclu
 
 <a href="/training/api-testing-masterclass/" class="btn btn--primary">API testing masterclass (3 days)</a>
 
-##### User interface-driven automation
-UI automation is the hardest form of automation there is, but when done well, it is a valuable component of any well-rounded automation strategy.
-
-Reaping the benefits from this type of automation requires much more than just learning Selenium (or Cypress, or Playwright, or ...). In this masterclass, we'll cover everything you need to know to be successful in your UI automation efforts. 
-
-<a href="/training/ui-automation-masterclass/" class="btn btn--primary">UI automation masterclass (3 days)</a>
-
 ##### Object-oriented programming principles
 We've all heard it before: test automation is software development. And it's true: if you want to write automation that is structured well enough to be readable and maintainable, you will need object-oriented programming skills.
 
@@ -56,18 +49,7 @@ In this practical and hands-on BDD training, you'll learn that BDD is more than 
 
 <a href="/training/behaviour-driven-development/" class="btn btn--primary">Behaviour-Driven Development (2 days)</a>
 
-##### Robot Framework
-Robot Framework is often called 'the Swiss army knife of test automation', and with good reason: it is a very versatile framework that allows users to write tests in an expressive, keyword-driven format.
-
-My Robot Framework training course will teach you everything you'll need to start writing and running readable, maintainable tests for web applications, APIs and more.
-
-<a href="/training/robot-framework/" class="btn btn--primary">Robot Framework (2 days)</a>
-
-##### Workshops
-These half- to full-day workshops are perfect if you're looking to get a kickstart with a new tool or technique. And if you're a conference organizer: these workshops work really well as part of conferences, too!
-
-<a href="/training/mutation-testing/" class="btn btn--primary">Mutation testing</a>
-
+##### Customization
 Can't find the training course you were looking for? I am happy to talk to you to see if together, we can create a **bespoke training course** (or even a complete curriculum of courses) that fits your training needs like a glove.
 
 Are you interested in having me as a trainer in your organization or at your conference? Feel free to email me at bas@ontestautomation.com, or use the contact form on [this page](/contact/).
