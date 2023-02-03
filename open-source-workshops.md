@@ -15,6 +15,8 @@ So far, I've shared four workshops through this open source principle, with more
 
 <p><a href="https://github.com/basdijkstra/restsharp-workshop" target="_blank" rel="noopener noreferrer" class="btn btn--primary">API testing in C# using RestSharp</a></p>
 
+<p><a href="https://github.com/basdijkstra/wiremock-net-workshop" target="_blank" rel="noopener noreferrer" class="btn btn--primary">API mocking in C# using WireMock.Net</a></p>
+
 Why giving away this all for everybody for free? Consider this my way of giving back to the testing and test automation community, which has given and taught me so much during my career so far. Also, I'm a firm believer in
 
 > 'Give, and it shall be given unto you'
