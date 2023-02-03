@@ -5,7 +5,7 @@ permalink: /open-source-workshops/
 ---
 Recently, I have decided to start sharing some of the workshops that I have created and delivered in the past in an open source format. This means that everybody who wants to use, deliver and alter any of the material contained within any of these workshops is free to do so.
 
-So far, I've shared four workshops through this open source principle, with more to be added in the future.
+So far, I've shared five workshops through this open source principle, with more to be added in the future.
 
 <p><a href="https://github.com/basdijkstra/rest-assured-workshop" target="_blank" rel="noopener noreferrer" class="btn btn--primary">API testing in Java using REST Assured</a></p>
 
