@@ -80,3 +80,9 @@ _P.S. Apart from the articles I linked to earlier in this post, here are a coupl
 _P.P.S.: I've rewritten, published and then deleted this post several times over the last year and a half or so. That in itself is telling me something: I struggle with the addictiveness of social media. I go off it for a while, a few weeks later I'm back on as if nothing happened. This prolonged break I'm taking is therefore much, much needed._
 
 _This time, I'm going to use [Freedom](https://freedom.to/){:target="_blank"} this time to simply make it impossible to access LinkedIn outside of very specific time windows (i.e., Friday mornings). That hopefully will make it much easier to actually stay away from LinkedIn, comparing to relying on sheer willpower._
+
+_**Update (February 10)**: So, I'm almost one month in. How did it go so far? Well... OK. I've definitely spent less time on LinkedIn than I did before I started the experiment. However, I still spent quite a bit of time, and more importantly, a lot of mental energy, on LinkedIn._
+
+_The reason for this is probably the fact that I've had to find a new consulting gig, and LinkedIn simply always has been quite an efficient way to do that. There's a lesson in this for me: It's probably a good idea to spend some more time researching ways to become less dependent on LinkedIn for finding new clients._
+
+_The good news is I've found a new project, which means I'm off the market for a while again, removing the need to visit LinkedIn, too. To get on track, I'll be visiting LinkedIn even less until March 1. Not at all, to be precise. After that, I might go back to once a week. Or not. We'll see..._
