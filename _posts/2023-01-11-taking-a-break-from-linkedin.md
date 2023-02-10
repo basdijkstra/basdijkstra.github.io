@@ -81,7 +81,7 @@ _P.P.S.: I've rewritten, published and then deleted this post several times over
 
 _This time, I'm going to use [Freedom](https://freedom.to/){:target="_blank"} this time to simply make it impossible to access LinkedIn outside of very specific time windows (i.e., Friday mornings). That hopefully will make it much easier to actually stay away from LinkedIn, comparing to relying on sheer willpower._
 
-_**Update (February 10)**: So, I'm almost one month in. How did it go so far? Well... OK. I've definitely spent less time on LinkedIn than I did before I started the experiment. However, I still spent quite a bit of time, and more importantly, a lot of mental energy, on LinkedIn._
+_**Update (February 10)**: So, I'm almost one month in. How did it go so far? Well... OK. I've definitely spent less time on LinkedIn than I did before I started the experiment. However, I still wasted more time, and more importantly, more mental energy, on the platform than I had originally planned._
 
 _The reason for this is probably the fact that I've had to find a new consulting gig, and LinkedIn simply always has been quite an efficient way to do that. There's a lesson in this for me: It's probably a good idea to spend some more time researching ways to become less dependent on LinkedIn for finding new clients._
 
