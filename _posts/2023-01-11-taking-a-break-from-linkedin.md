@@ -41,7 +41,7 @@ So, from today, **January 11, 2023**, I'm staying away from LinkedIn until at le
 
 * I'll check LinkedIn at most once a week (but I hope to move to every other week or so quickly), on Friday mornings, to see if I've got any messages that absolutely need to be dealt with. And by 'need to' I mean: check if I miss out on any potential business opportunities. I will also accept invites that have come in during the week.
 
-* I will occasionally publish posts, but will be using [an external service](https://later.com/){:target="_blank"}, and only to point people to new content that I've produced, such as a blog post, a new [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net){:target="_blank"} release or even a new [open source workshop](/open-source-workshops.md), or to do a bit of promotion for my [training](/training/) or [mentoring](/mentoring/) services.
+* I will occasionally publish posts, but will be using [an external service](https://later.com/){:target="_blank"}, and only to point people to new content that I've produced, such as a blog post, a new [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net){:target="_blank"} release or even a new [open source workshop](/open-source-workshops/), or to do a bit of promotion for my [training](/training/) or [mentoring](/mentoring/) services.
 
 Early April, I'll re-evaluate and decide on whether I'll get back to using LinkedIn more actively.
 
