@@ -3,7 +3,7 @@ title: Training
 layout: page
 permalink: /training/
 ---
-_To go directly to the list of courses I offer, [please click here](#courses)._
+_To go directly to the list of courses I offer, [please click here](#courses). If you want to read what others had to say about my courses, [click here](#testimonials)_
 
 Do you want to learn what it takes to become skilled in test automation? That's great, but please keep in mind that simply learning how to work with a tool or two is not enough to get there.
 
@@ -50,3 +50,13 @@ Other topics I've frequently covered in training courses include Behaviour-Drive
 Are you interested in having me as a trainer in your organization or at your conference? Feel free to email me at bas@ontestautomation.com, or use the contact form on [this page](/contact/).
 
 I’m looking forward to helping you improve your test automation efforts!
+
+### <a name="testimonials"></a>Testimonials
+
+_"I really enjoyed this course. I thought it was extremely valuable to have Bas there to answer questions and expand on his slides. One of the harder parts of learning material like this online through a youtube video for instance, is that you don't have anyone to bounce ideas off of really. This course not only let us bounce ideas off each other, but we could then confirm those with Bas. I hope we do more of these in the future."_
+
+_"Bas pretty much set the pace based on those in attendance.  It was a conversation between all of us more than him lecturing and us listening.  If we had questions during his presentation of material or during our hands on time, he was more than happy to assist.  I felt he wanted to be sure we understood the content before moving on to something else.  I also appreciated that he wanted to work around how we tested, what tools we use at <client> and our general level of experience as we progressed through the workshop."_
+
+_"All in all, this was a fantastic workshop.  Though I am still very much a novice when it comes to API testing, I feel as though the past few weeks have set me on a much better course of learning and practicing this type of testing.  It is definitely something I want to become more proficient in, and I really have to make it a point to spend time studying and practicing MUCH more often."_
+
+**Testers in the product support domain (US)**
