@@ -59,4 +59,4 @@ _"Bas pretty much set the pace based on those in attendance. It was a conversati
 
 _"All in all, this was a fantastic workshop. Though I am still very much a novice when it comes to API testing, I feel as though the past few weeks have set me on a much better course of learning and practicing this type of testing. It is definitely something I want to become more proficient in, and I really have to make it a point to spend time studying and practicing MUCH more often."_
 
-**Testers in the product support domain (US)**
+**-- Testers in the product support domain (US) --**
