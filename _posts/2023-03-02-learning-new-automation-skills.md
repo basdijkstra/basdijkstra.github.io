@@ -8,7 +8,7 @@ tags:
   - test automation
   - learning pyramid
 ---
-_This blog post was published earlier in [my weekly newsletter](/newsletter/) on January 3, 2023._
+_This blog post was published earlier in my (now defunct) weekly newsletter on January 3, 2023._
 
 In this blog post, I wanted to share with you my views on and experiences with different ways to learn new skills. The examples I'll give are related to testing and automation, but they apply to acquiring any new skill in general.
 

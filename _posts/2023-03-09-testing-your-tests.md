@@ -8,7 +8,7 @@ tags:
   - testing your tests
   - mutation testing
 ---
-_This blog post was published earlier in [my weekly newsletter](/newsletter/) on January 10, 2023._
+_This blog post was published earlier in my (now defunct) weekly newsletter on January 10, 2023._
 
 In this blog post, I'd like to talk about the practice of testing your tests, and why and how to do that.
 

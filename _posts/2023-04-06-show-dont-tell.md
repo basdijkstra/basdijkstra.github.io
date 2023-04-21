@@ -8,7 +8,7 @@ tags:
   - workshops
   - courses
 ---
-_This blog post was published earlier in [my weekly newsletter](/newsletter/) on February 7, 2023._
+_This blog post was published earlier in my (now defunct) weekly newsletter on February 7, 2023._
 
 Today, I'd like to talk about something that happened in a recent training session, and that -in hindsight- was an example of something I've been slowly learning over the years.
 

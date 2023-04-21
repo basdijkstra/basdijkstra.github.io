@@ -8,7 +8,7 @@ tags:
   - principles and practices
   - development
 ---
-_This blog post was published earlier in [my weekly newsletter](/newsletter/) on January 24, 2023._
+_This blog post was published earlier in my (now defunct) weekly newsletter on January 24, 2023._
 
 Today's blog post is inspired by a [BDD training course](/training/behaviour-driven-development/) I've been running with a long-standing client of mine. I've been practicing and teaching BDD for a number of years now, and it's one of the more popular courses I've got on offer.
 

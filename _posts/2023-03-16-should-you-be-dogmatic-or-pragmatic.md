@@ -8,7 +8,7 @@ tags:
   - principles and practices
   - development
 ---
-_This blog post was published earlier in [my weekly newsletter](/newsletter/) on January 17, 2023._
+_This blog post was published earlier in my (now defunct) weekly newsletter on January 17, 2023._
 
 In this blog post, I want to discuss an issue that's under the hood of many questions I get, especially when I'm running training courses or workshops.
 

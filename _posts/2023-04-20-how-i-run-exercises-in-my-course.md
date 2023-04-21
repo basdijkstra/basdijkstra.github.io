@@ -8,7 +8,7 @@ tags:
   - running exercises
   - learning
 ---
-_This blog post was published earlier in [my weekly newsletter](/newsletter/) on February 21, 2023._
+_This blog post was published earlier in my (now defunct) weekly newsletter on February 21, 2023._
 
 In this blog post, I'd like to dive a little deeper into the way I conduct exercises in my training courses, and why I run them the way I do. I think there are a couple of lessons in there that are valuable for everyone, even when you're not in [any of my courses](/training/).
 

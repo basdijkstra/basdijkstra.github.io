@@ -8,7 +8,7 @@ tags:
   - programming principles
   - craftsmanship
 ---
-_This blog post was published earlier in [my weekly newsletter](/newsletter/) on February 14, 2023._
+_This blog post was published earlier in my (now defunct) weekly newsletter on February 14, 2023._
 
 As the CFPs for some conferences I've had my eye on for a while have opened, I'm working on a proposal for a brand new tutorial focusing on fundamental programming concepts and principles that are very useful for test automation, too. Test automation is software development, after all, so I believe this workshop could be beneficial for a lot of people.
 

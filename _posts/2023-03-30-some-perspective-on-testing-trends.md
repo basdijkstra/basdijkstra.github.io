@@ -8,7 +8,7 @@ tags:
   - test automation
   - trends
 ---
-_This blog post was published earlier in [my weekly newsletter](/newsletter/) on January 31, 2023._
+_This blog post was published earlier in my (now defunct) weekly newsletter on January 31, 2023._
 
 Every year, often around the beginning of the year, I see the same phenomenon: people talking about trends and predictions about where the testing and automation world is headed, and what people and organizations should focus on in the year to come.
 
