@@ -27,6 +27,8 @@ I also have a decent working knowledge of some other technologies that are impor
 * UI automation (especially with Selenium and other WebDriver-based libraries)
 * CI platforms and Git
 
+Yet other areas I am exploring at the moment, with the potential of them being added to the first list. These days, that's mostly API security and how to test for that.
+
 But there are many subjects I know I don't have a lot of experience in, such as:
 
 * Performance testing
