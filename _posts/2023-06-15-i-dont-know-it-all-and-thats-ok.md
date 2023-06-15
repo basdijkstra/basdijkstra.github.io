@@ -37,7 +37,7 @@ Where I used to try and stay on top of all of these things, I know happily refer
 
 I'm applying this lesson I've learned in a somewhat similar way in training sessions these days.
 
-Even when it's a training session on any of the topics that I listed first (and again, I try and focus on running training sessions on those optics these days), questions will come up that I cannot answer off the top of my head.
+Even when it's a training session on any of the topics that I listed first (and again, I try and focus on running training sessions on those topics these days), questions will come up that I cannot answer off the top of my head.
 
 Even in an area where you are knowledgeable, and even when you're seen as 'the expert', there are bound to be plenty of things you don't know, or don't know yet. And that's OK. Nobody expects you to know everything.
 
