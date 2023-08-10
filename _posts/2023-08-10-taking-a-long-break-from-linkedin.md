@@ -47,6 +47,8 @@ This is probably going to be very hard for me, especially in the first couple of
 
 This, in turn, hopefully enables me to produce more valuable content. Open source contributions, talks, new courses and workshops, ... I think there's a lot more value in that than in writing social media updates and comments that are inherently much more ephemeral in nature.
 
+I'm also looking forward to spending more time on contributing to open source projects, including but definitely not limited to [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net){:target="_blank"}.  
+
 I am fully aware that I still have a business to run, and that in the past, LinkedIn has been my main channel for promotion and marketing. During my break, I will, and will need to, therefore explore alternative ways of bringing my services to the attention of potential clients. I've been exploring some ways to do this for a while, but haven't really taken a lot of action in that area yet. I'm really curious to see how dependent I _am_ on LinkedIn, really.
 
 Being less 'visible' online, or at least on LinkedIn, might result in me getting fewer requests for conference talks and workshops, too. And that's OK. While I love traveling, seeing new places and meeting new people at conferences, I am totally fine if the number of travel opportunities offered goes down. If anything, it will allow me to focus and try to get to the places that I would really like to go to and do some work, be it a conference or an in-house training gig. Examples of these destinations are Canada (I will be there in September, but definitely open to more opportunities there), Australia and New Zealand.
