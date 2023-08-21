@@ -22,12 +22,12 @@ By default, RestAssured.Net creates its own `HttpClient` to send the requests yo
 [Test]
 public void GetDataForUser1_CheckName_ShouldBeLeanneGraham()
 {
-Given()
-.When()
-.Get("https://jsonplaceholder.typicode.com/users/1")
-.Then()
-.StatusCode(HttpStatusCode.OK)
-.Body("$.name", NHamcrest.Is.EqualTo("Leanne Graham"));
+    Given()
+    .When()
+        .Get("https://jsonplaceholder.typicode.com/users/1")
+    .Then()
+        .StatusCode(HttpStatusCode.OK)
+        .Body("$.name", NHamcrest.Is.EqualTo("Leanne Graham"));
 }
 {% endhighlight %}
 
@@ -46,8 +46,8 @@ And that's exactly what you can do starting from RestAssured.Net 4.1.0:
 [Test]
 public void UsingACustomHttpClient()
 {
-var webAppFactory = new WebApplicationFactory<Program>();
-var httpClient = webAppFactory.CreateDefaultClient();
+    var webAppFactory = new WebApplicationFactory<Program>();
+    var httpClient = webAppFactory.CreateDefaultClient();
 
     Given(httpClient)
     .When()
