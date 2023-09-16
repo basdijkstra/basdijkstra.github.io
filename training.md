@@ -44,7 +44,7 @@ With the rise of distributed and microservices-based software systems, the chall
 
 Contract testing is an approach that is quickly gaining traction as a way out of 'integration testing hell'. In this practical and very hands-on training, you'll learn everything you need to know to make your contract testing efforts successful.
 
-<a href="/training/contract-testing/" class="btn btn--primary">Contract testing (2 days)</a>
+<a href="/training/contract-testing/" class="btn btn--primary">Contract testing (1 day)</a>
 
 ##### Workshops
 These half- to full-day workshops are perfect if you're looking to get a kickstart with a new tool or technique. And if you're a conference organizer: these workshops work really well as part of conferences, too!
