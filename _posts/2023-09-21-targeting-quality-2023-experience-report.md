@@ -33,6 +33,8 @@ Monday night saw the speaker dinner at Beertown, which provided plenty of opport
 
 Tuesday was conference day, and I really enjoyed delivering my talks, as well as listening to some of the others, most notably the talks by Thomas Haver and Josh Grant, as well as the closing keynote by Jenny Bramble and Jenna Charlton.
 
+I also really enjoyed finally meeting and having a chat with Janet Gregory and Lisa Crispin, as I've heard about and learned so much from them over the years.
+
 After a pleasant social gathering it was unfortunately time to go back home again, but I'm looking back on a fantastic time in Canada and a wonderful Targeting Quality conference.
 
 I really hope to make it back some day, and I can wholeheartedly recommend visiting or applying to speak at Targeting Quality 2024 to anyone considering it.
