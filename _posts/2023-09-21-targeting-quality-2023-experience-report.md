@@ -11,6 +11,8 @@ tags:
 ---
 One of the biggest perks of my job is being able to travel abroad to attend and contribute to conferences (or run corporate training sessions) every now and then. I mean, seeing foreign countries, meeting new people and getting paid to do so, what's not to love?
 
+So far, most of the traveling I've done has been within Europe, and while that has been wonderful, I've been trying to find an opportunity to cross the Atlantic and speak at a conference (or run training sessions) in North America for a couple of years now, if only to see what it is like 'on the other side'.
+
 Earlier this week, I had the absolute privilege of attending and speaking at the 2023 [Targeting Quality conference](https://targetingquality.ca){:target="_blank"} (TQ2023), organized by [KWSQA](https://kwsqa.org/){:target="_blank"}, the Kitchener-Waterloo Software Quality Association. This is a regional conference held once a year in Cambridge, Ontario, Canada.
 
 Being a regional and 'boutique' conference (a direct quote from the organizers), it doesn't attract the numbers of the larger conferences out there, but it definitely makes up for that when it comes to friendly people and making you feel welcome and at home away from home.
