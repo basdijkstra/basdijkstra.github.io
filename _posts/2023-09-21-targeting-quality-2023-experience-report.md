@@ -1,5 +1,5 @@
 ---
-title: Targeting Quality 2023: experience report 
+title: Targeting Quality 2023 - experience report 
 layout: post
 permalink: /targeting-quality-2023-experience-report/
 categories:
