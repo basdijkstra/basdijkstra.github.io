@@ -52,24 +52,24 @@ Assuming that all the fields in this payload are required fields for the Custome
 
 {% highlight java %}
 DslPart body = LambdaDsl.newJsonBody((o) -> o
-    .uuid("id", ID)
-    .stringType("addressType", ADDRESS_TYPE)
-    .stringType("street", STREET)
-    .integerType("number", NUMBER)
-    .stringType("city", CITY)
-    .integerType("zipCode", ZIP_CODE)
-    .stringType("state", STATE)
-    .stringType("country", COUNTRY)
+    .uuid("id", UUID.fromString("8aed8fad-d554-4af8-abf5-a65830b49a5f"))
+    .stringType("addressType", "billing")
+    .stringType("street", "Main Street")
+    .integerType("number", 123)
+    .stringType("city", "Nothingville")
+    .integerType("zipCode", 54321)
+    .stringType("state", "Tennessee")
+    .stringType("country", "United States")
 ).build();
 {% endhighlight %}
 
-The `LambdaDsl` class enables you to express expectations about the structure of a response body using a fluid DSL. The `stringType("addressType", ADDRESS_TYPE)` method adds the expectation that the response should contain a field called `address`, and its value should be a string value.
+The `LambdaDsl` class enables you to express expectations about the structure of a response body using a fluid DSL. The `stringType("addressType", "billing")` method adds the expectation that the response should contain a field called `address`, and its value should be a string value.
 
 Likewise, the `integerType()` method can be used to express the expectation that a response contains a field with an integer value, and the `uuid()` method expresses that a field should not just contain any string, but one that matches the format of a UUID.
 
 A complete list of available matcher methods can be found [here](https://docs.pact.io/implementation_guides/jvm/consumer#building-json-bodies-with-pactdsljsonbody-dsl?utm_source=partner&utm_campaign=on-test-automation&utm_content=blog-getting-started-with-pact){:target="_blank"}.
 
-The values (`ID`, `ADDRESS_TYPE`, etc.) supplied as the second argument to all of these matcher methods are examples used by Pact to populate the mock responses used when it generates a mock provider that the consumer can use to test its implementation (we'll get to that part in a bit). They do not actually express the expectation that a field should always contain that specific value.
+The values supplied as the second argument to all of these matcher methods are examples used by Pact to populate the mock responses used when it generates a mock provider that the consumer can use to test its implementation (we'll get to that part in a bit). They do not actually express the expectation that a field should always contain that specific value.
 
 _As a side note: While there are matcher methods that can express expectations this strict (`stringValue()`, `numberValue()`, etc.), you should use these sparingly as they create very strict expectations about the way the provider works, and can lead to unnecessary coupling between consumer and provider._
 
@@ -80,9 +80,9 @@ Once you have defined the expectations about the response body structure, you ca
 public RequestResponsePact pactForGetExistingAddressId(PactDslWithProvider builder) {
 
 	return builder.given(
-		"Customer GET: the address ID matches an existing address")
-		.uponReceiving("A request for address data")
-		.path(String.format("/address/%s", ID))
+		"Address with ID 8aed8fad-d554-4af8-abf5-a65830b49a5f exists")
+		.uponReceiving("Retrieving a valid existing address ID")
+		.path("/address/8aed8fad-d554-4af8-abf5-a65830b49a5f")
 		.method("GET")
 		.willRespondWith()
 		.status(200)
@@ -105,8 +105,8 @@ Similarly, we can add a pact for the interaction that happens when the Customer 
 public RequestResponsePact pactForGetNonExistentAddressId(PactDslWithProvider builder) {
 
 	return builder.given(
-		"Customer GET: the address ID does not match an existing address")
-		.uponReceiving("A request for address data")
+		"Address with ID 00000000-0000-0000-0000-000000000000 does not exist")
+		.uponReceiving("Retrieving a valid non-existing address ID")
 		.path("/address/00000000-0000-0000-0000-000000000000")
 		.method("GET")
 		.willRespondWith()
@@ -125,38 +125,34 @@ In order for Pact to create an actual contract containing the pacts for these in
 For the GET operation we've seen earlier where data is retrieved for an address that is known to the Address provider, such a test might look like this:
 
 {% highlight java %}
-@PactVerification(fragment = "pactForGetExistingAddressId")
 @Test
-public void testFor_GET_existingAddressId_shouldYieldExpectedAddressData() {
+@PactTestFor(pactMethod = "pactForGetExistingAddressId")
+public void testFor_GET_existingAddressId_shouldYieldExpectedAddressData(MockServer mockServer) throws IOException {
 
-	final Address address = addressServiceClient.getAddress(ID.toString());
+    String endpoint = String.format("%s/address/%s", mockServer.getUrl(), "8aed8fad-d554-4af8-abf5-a65830b49a5f");
 
-	assertThat(address.getId()).isEqualTo(ID);
-	assertThat(address.getAddressType()).isEqualTo(ADDRESS_TYPE);
-	assertThat(address.getStreet()).isEqualTo(STREET);
-	assertThat(address.getNumber()).isEqualTo(NUMBER);
-	assertThat(address.getCity()).isEqualTo(CITY);
-	assertThat(address.getZipCode()).isEqualTo(ZIP_CODE);
-	assertThat(address.getState()).isEqualTo(STATE);
-	assertThat(address.getCountry()).isEqualTo(COUNTRY);
+    HttpResponse httpResponse = Request.Get(endpoint).execute().returnResponse();
+
+    assertThat(httpResponse.getStatusLine().getStatusCode(), is(equalTo(200)));
 }
 {% endhighlight %}
 
-Using the `@PactVerification` annotation, we 'import' the consumer expectations defined earlier and tie them to the REST call (i.e. the interaction) performed in this test.
+Using the `@PactTestFor` annotation, we 'import' the consumer expectations defined earlier and tie them to the REST call (i.e. the interaction) performed in this test.
 
 Pact will generate a mock provider that responds in the way defined in the expectations, and its responses can then be used to verify if the consumer code works. Upon running the unit test, this interaction will be written to the contract in JSON format.
 
 For the GET operation using a non-existent address ID, the test might look like this:
 
 {% highlight java %}
-@PactVerification(fragment = "pactForGetNonExistentAddressId")
 @Test
-public void testFor_GET_nonExistentAddressId_shouldYieldHttp404() {
+@PactTestFor(pactMethod = "pactForGetNonExistentAddressId")
+public void testFor_GET_nonExistentAddressId_shouldYieldHttp404(MockServer mockServer) throws IOException {
 
-	assertThatThrownBy(
-		() -> addressServiceClient.getAddress("00000000-0000-0000-0000-000000000000")
-	).isInstanceOf(HttpClientErrorException.class)
-		.hasMessageContaining("404 Not Found");
+    String endpoint = String.format("%s/address/%s", mockServer.getUrl(), "00000000-0000-0000-0000-000000000000");
+
+    HttpResponse httpResponse = Request.Get(endpoint).execute().returnResponse();
+
+    assertThat(httpResponse.getStatusLine().getStatusCode(), is(equalTo(404)));
 }
 {% endhighlight %}
 
@@ -181,23 +177,36 @@ Also, since there's no need to have any (typically a large amount of) connected 
 On the provider side, we'll need to define verification points for each of the interactions listed in the contracts:
 
 {% highlight java %}
-@RunWith(SpringRestPactRunner.class)
+@ExtendWith(SpringExtension.class)
+@SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 @Provider("address_provider")
 @PactFolder("src/test/pacts")
-@SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 public class ContractTest {
 
-    @TestTarget
-    public final Target target = new SpringBootHttpTarget();
+    @LocalServerPort
+    int port;
 
-    // The 'as-is' service is used for all provider states, so no additional setup is needed
-
-    @State("Customer GET: the address ID matches an existing address")
-    public void addressSuppliedByCustomerGETExists() {
+    @BeforeEach
+    public void setUp(PactVerificationContext context) {
+        context.setTarget(new HttpTestTarget("localhost", port));
     }
 
-    @State("Customer GET: the address ID does not match an existing address")
-    public void addressSuppliedByCustomerGETDoesNotExist() {
+    @TestTemplate
+    @ExtendWith(PactVerificationSpringProvider.class)
+    public void pactVerificationTestTemplate(PactVerificationContext context) {
+        context.verifyInteraction();
+    }
+
+    @State("Address with ID 8aed8fad-d554-4af8-abf5-a65830b49a5f exists")
+    public void addressWithIdExists() {
+    }
+
+    @State("Address with ID 00000000-0000-0000-0000-000000000000 does not exist")
+    public void addressWithIdDoesNotExist() {
+    }
+
+    @State("No specific state required")
+    public void noSpecificStateRequired() {
     }
 }
 {% endhighlight %}
