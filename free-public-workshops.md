@@ -25,6 +25,7 @@ When registered, you'll receive instructions to prepare your machine approximate
     Your email address:
     <input type="email" name="email">
   </label>
+  <label for="workshop">Select your workshop:</label>
   <select name="workshop" id="workshop">
     <option value="rest-assured-oct-2023">API testing in Java with REST Assured - October 24, 2023</option>
     <option value="wiremock-nov-2023">API mocking in Java with WireMock - November 14, 2023</option>
