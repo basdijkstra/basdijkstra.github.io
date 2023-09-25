@@ -31,5 +31,6 @@ When registered, you'll receive instructions to prepare your machine approximate
     <option value="wiremock-nov-2023">API mocking in Java with WireMock - November 14, 2023</option>
     <option value="requests-dec-2023">API testing in Python with requests - December 12, 2023</option>
   </select>
-  <button type="submit">Send</button>
+  <br/>
+  <button type="submit">Submit your registration</button>
 </form>
