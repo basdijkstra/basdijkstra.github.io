@@ -11,7 +11,9 @@ If you have any questions prior to registering for a workshop, please email bas@
 
 Please only register for a workshop if you intend to attend the session and actively participate in the exercises and discussions.  
 
-When registered, you'll receive instructions to prepare your machine approximately one week before the workshop date.
+When registered, you'll receive a confirmation email from me as soon as I've read your registration submission.
+
+In addition to this, you'll receive instructions to prepare your machine, as well as a link to the Zoom session for the workshop, approximately one week before the workshop date.
 
 <form
   action="https://formspree.io/f/mvojwyyo"
@@ -29,7 +31,7 @@ When registered, you'll receive instructions to prepare your machine approximate
   <select name="workshop" id="workshop">
     <option value="rest-assured-oct-2023">API testing in Java with REST Assured - October 24, 2023</option>
     <option value="wiremock-nov-2023">API mocking in Java with WireMock - November 14, 2023</option>
-    <option value="requests-dec-2023">API testing in Python with requests - December 12, 2023</option>
+    <option value="contract-testing-dec-2023">Contract testing in Java with Pact - December 11, 2023</option>
   </select>
   <br/>
   <button type="submit">Submit your registration</button>
