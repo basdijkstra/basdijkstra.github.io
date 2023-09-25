@@ -12,6 +12,8 @@ main:
     url: /contact/
   - title: "About"
     url: /about/
+  - title: "Free public workshops"
+    url: /free-public-workshops/
   - title: "Open source workshops"
     url: /open-source-workshops/
   - title: "Articles"
