@@ -6,14 +6,14 @@ main:
     url: /mentoring/
   - title: "Consulting"
     url: /consulting/
+  - title: "Free public workshops"
+    url: /free-public-workshops/
   - title: "Blog"
     url: /blog/
   - title: "Contact"
     url: /contact/
   - title: "About"
     url: /about/
-  - title: "Free public workshops"
-    url: /free-public-workshops/
   - title: "Open source workshops"
     url: /open-source-workshops/
   - title: "Articles"
