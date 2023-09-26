@@ -23,11 +23,11 @@ I'm looking forward to welcoming you in one or more of these workshops!
 >
   <label>
     Your full name:
-    <input type="text" name="fullname">
+    <input type="text" name="fullname" required>
   </label>
   <label>
     Your email address:
-    <input type="email" name="email">
+    <input type="email" name="email" required>
   </label>
   <label for="workshop">Select your workshop:</label>
   <select name="workshop" id="workshop">
