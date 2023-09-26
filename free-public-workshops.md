@@ -7,6 +7,8 @@ You can use the below form to register for any of my upcoming free, hands-on wor
 
 All workshops will **start at 3 PM CEST** and will run for **3 hours**.  
 
+More information about the why, what and how of these free workshops can be found [in this blog post](/free-public-workshops-a-new-initiative/). 
+
 If you have any questions prior to registering for a workshop, please email bas@ontestautomation.com.
 
 Please only register for a workshop if you intend to attend the session and actively participate in the exercises and discussions.  
