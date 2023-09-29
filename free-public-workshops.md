@@ -3,16 +3,20 @@ title: Free public workshops
 layout: page
 permalink: /free-public-workshops/
 ---
-**NOTE: All original workshop dates as listed in the blog post and on LinkedIn are fully booked. Additional dates have been scheduled.** 
-
 You can use the below form to register for any of my upcoming free, hands-on workshops.
 
 All workshops will **start at 3 PM CEST** and will run for **3 hours**. Attendance is limited to **50 people per workshop**.
 
-* December 19, 2023: API testing in Java with REST Assured
-* January 9, 2024: API mocking in Java with WireMock
-* January 30, 2024: Contract testing in Java with Pact
+### Workshop schedule
+* **(FULL)** October 24, 2023: API testing in Java with [REST Assured](https://rest-assured.io)
+* **(FULL)** November 14, 2024: API mocking in Java with [WireMock](https://wiremock.org)
+* **(FULL)** December 11, 2024: Contract testing in Java with [Pact](https://docs.pact.io)
+* **(FULL)** December 19, 2023: API testing in Java with [REST Assured](https://rest-assured.io)
+* January 9, 2024: API mocking in Java with [WireMock](https://wiremock.org)
+* January 30, 2024: Contract testing in Java with [Pact](https://docs.pact.io)
+* February 13, 2023: API testing in C# with [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net)
 
+### More information
 More information about the why, what and how of these free workshops can be found [in this blog post](/free-public-workshops-a-new-initiative/). 
 
 If you have any questions prior to registering for a workshop, please email bas@ontestautomation.com.
@@ -39,9 +43,9 @@ I'm looking forward to welcoming you in one or more of these workshops!
   </label>
   <label for="workshop">Select your workshop:</label>
   <select name="workshop" id="workshop">
-    <option value="rest-assured-dec-2023">API testing in Java with REST Assured - December 19, 2023</option>
     <option value="contract-testing-jan-2024">Contract testing in Java with Pact - January 9, 2024</option>
     <option value="wiremock-jan-2024">API mocking in Java with WireMock - January 30, 2024</option>
+    <option value="rest-assured-net-feb-2024">API testing in C# with RestAssured.Net - February 20, 2024</option>
   </select>
   <br/>
   <button type="submit">Submit your registration</button>
