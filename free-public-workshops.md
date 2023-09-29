@@ -15,7 +15,9 @@ If you have any questions prior to registering for a workshop, please email bas@
 
 Please only register for a workshop if you intend to attend the session and actively participate in the exercises and discussions.  
 
-When registered, you'll receive a confirmation email from me as soon as I've read your registration submission. In addition to this, you'll receive instructions to prepare your machine, as well as a link to the Zoom session for the workshop, approximately one week before the workshop date.
+When registered, you'll receive a confirmation email from me as soon as I've read your registration submission. It might take me a couple of hours or (sometimes) even days to get back to you, so please be patient.
+
+In addition to this, you'll receive instructions to prepare your machine, as well as a link to the Zoom session for the workshop, approximately one week before the workshop date.
 
 I'm looking forward to welcoming you in one or more of these workshops!
 
