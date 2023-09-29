@@ -3,11 +3,15 @@ title: Free public workshops
 layout: page
 permalink: /free-public-workshops/
 ---
-**NOTE: the REST Assured workshop scheduled for October 24 is fully booked. A second REST Assured workshop has been scheduled for December 19.** 
+**NOTE: All original workshop dates as listed in the blog post and on LinkedIn are fully booked. Additional dates have been scheduled.** 
 
 You can use the below form to register for any of my upcoming free, hands-on workshops.
 
 All workshops will **start at 3 PM CEST** and will run for **3 hours**. Attendance is limited to **50 people per workshop**.
+
+* December 19, 2023: API testing in Java with REST Assured
+* January 9, 2024: API mocking in Java with WireMock
+* January 30, 2024: Contract testing in Java with Pact
 
 More information about the why, what and how of these free workshops can be found [in this blog post](/free-public-workshops-a-new-initiative/). 
 
@@ -35,9 +39,9 @@ I'm looking forward to welcoming you in one or more of these workshops!
   </label>
   <label for="workshop">Select your workshop:</label>
   <select name="workshop" id="workshop">
-    <option value="wiremock-nov-2023">API mocking in Java with WireMock - November 14, 2023</option>
-    <option value="contract-testing-dec-2023">Contract testing in Java with Pact - December 11, 2023</option>
     <option value="rest-assured-dec-2023">API testing in Java with REST Assured - December 19, 2023</option>
+    <option value="contract-testing-jan-2024">Contract testing in Java with Pact - January 9, 2024</option>
+    <option value="wiremock-jan-2024">API mocking in Java with WireMock - January 30, 2024</option>
   </select>
   <br/>
   <button type="submit">Submit your registration</button>
