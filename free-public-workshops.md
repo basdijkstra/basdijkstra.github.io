@@ -43,8 +43,8 @@ I'm looking forward to welcoming you in one or more of these workshops!
   </label>
   <label for="workshop">Select your workshop:</label>
   <select name="workshop" id="workshop">
-    <option value="contract-testing-jan-2024">Contract testing in Java with Pact - January 9, 2024</option>
-    <option value="wiremock-jan-2024">API mocking in Java with WireMock - January 30, 2024</option>
+    <option value="wiremock-jan-2024">API mocking in Java with WireMock - January 9, 2024</option>
+    <option value="contract-testing-jan-2024">Contract testing in Java with Pact - January 30, 2024</option>
     <option value="rest-assured-net-feb-2024">API testing in C# with RestAssured.Net - February 20, 2024</option>
   </select>
   <br/>
