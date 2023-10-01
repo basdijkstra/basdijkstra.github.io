@@ -14,7 +14,7 @@ All workshops will **start at 3 PM CEST** and will run for **3 hours**. Attendan
 * **(FULL)** December 19, 2023: API testing in Java with [REST Assured](https://rest-assured.io)
 * **(FULL)** January 9, 2024: API mocking in Java with [WireMock](https://wiremock.org)
 * **(FULL)** January 30, 2024: Contract testing in Java with [Pact](https://docs.pact.io)
-* February 13, 2023: API testing in C# with [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net)
+* February 20, 2023: API testing in C# with [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net)
 
 ### More information
 More information about the why, what and how of these free workshops can be found [in this blog post](/free-public-workshops-a-new-initiative/). 
