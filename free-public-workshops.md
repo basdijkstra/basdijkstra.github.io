@@ -3,7 +3,8 @@ title: Free public workshops
 layout: page
 permalink: /free-public-workshops/
 ---
-You can use the below form to register for any of my upcoming free, hands-on workshops.
+<!-- You can use the below form to register for any of my upcoming free, hands-on workshops. -->
+**All workshops are fully booked at the moment. I'm looking for additional dates, so please be patient.**
 
 All workshops will **start at 3 PM CEST** and will run for **3 hours**. Attendance is limited to **50 people per workshop**.
 
@@ -14,7 +15,7 @@ All workshops will **start at 3 PM CEST** and will run for **3 hours**. Attendan
 * **(FULL)** December 19, 2023: API testing in Java with [REST Assured](https://rest-assured.io)
 * **(FULL)** January 9, 2024: API mocking in Java with [WireMock](https://wiremock.org)
 * **(FULL)** January 30, 2024: Contract testing in Java with [Pact](https://docs.pact.io)
-* February 20, 2023: API testing in C# with [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net)
+* **(FULL)** February 20, 2023: API testing in C# with [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net)
 
 ### More information
 More information about the why, what and how of these free workshops can be found [in this blog post](/free-public-workshops-a-new-initiative/). 
@@ -29,10 +30,7 @@ In addition to this, you'll receive instructions to prepare your machine, as wel
 
 I'm looking forward to welcoming you in one or more of these workshops!
 
-<form
-  action="https://formspree.io/f/mvojwyyo"
-  method="POST"
->
+<!-- <form action="https://formspree.io/f/mvojwyyo" method="POST">
   <label>
     Your full name:
     <input type="text" name="fullname" required>
@@ -47,4 +45,4 @@ I'm looking forward to welcoming you in one or more of these workshops!
   </select>
   <br/>
   <button type="submit">Submit your registration</button>
-</form>
+</form> -->
