@@ -10,6 +10,8 @@ main:
     url: /free-public-workshops/
   - title: "Blog"
     url: /blog/
+  - title: "Talks"
+    url: /talks/
   - title: "Contact"
     url: /contact/
   - title: "About"
