@@ -34,7 +34,7 @@ This masterclass covers the entire spectrum of API testing and automation, inclu
 
 If you are looking to learn more about testing the security of your APIs, specifically, I've got just the workshop for you, too:
 
-<a href="/training/api-testing-masterclass/" class="btn btn--primary">Workshop API security testing (0,5 - 1 day)</a>
+<a href="/training/workshop-api-security-testing/" class="btn btn--primary">Workshop API security testing (0,5 - 1 day)</a>
 
 ##### Object-oriented programming principles
 We've all heard it before: test automation is software development. And it's true: if you want to write automation that is structured well enough to be readable and maintainable, you will need object-oriented programming skills.
