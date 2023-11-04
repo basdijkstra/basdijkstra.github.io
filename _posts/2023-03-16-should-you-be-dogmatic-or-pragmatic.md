@@ -70,6 +70,4 @@ So, wrapping things up, should you be dogmatic or pragmatic? I think the answer,
 
 Where that balance is? It depends ;) There's no fault in not getting it right from the start. What I do recommend is to take small steps, see what works, learn from your mistakes and find the right balance for your situation as you go. Now where did I see this before…
 
-P.S. There's one exception I'd like to point out, one I tend to be very dogmatic about, and that's about retrying your tests. Please. Don't. Ever. [Here are my thoughts on that](/stop-sweeping-your-failing-tests-under-the-rug/).
-
 As always, I'd love to hear your thoughts.
