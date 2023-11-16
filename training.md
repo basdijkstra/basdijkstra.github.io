@@ -23,18 +23,24 @@ I have delivered my training courses and workshops to many companies around the 
 
 <p align="center"><img alt="Bas teaching a workshop at the 2019 Romanian Testing Conference" src="/images/bas_teaching.png" width="50%"/></p>
 
-### <a name="courses"></a>My course offerings
+### <a name="courses"></a>Courses
 
 ##### API testing
 With software systems becoming ever more distributed, every modern software tester should know how to work with APIs in their testing, as well as how to design, write and execute tests for APIs.
 
-This masterclass covers the entire spectrum of API testing and automation, including exploratory testing of APIs, API automation, API mocking and contract testing. 
+I have created a number of workshops that cover various aspects of API testing.
 
-<a href="/training/api-testing-masterclass/" class="btn btn--primary">API testing masterclass (3 days)</a>
+As with any type of testing, learning API testing should start with learning how to perform exploratory testing on your APIs:
 
-If you are looking to learn more about testing the security of your APIs, specifically, I've got just the workshop for you, too:
+<a href="/training/workshop-exploratory-api-testing/" class="btn btn--primary">Workshop exploratory API testing (0,5 - 1 day)</a>
+
+If you are looking to learn more about testing the security of your APIs, specifically, this is just the workshop for you:
 
 <a href="/training/workshop-api-security-testing/" class="btn btn--primary">Workshop API security testing (0,5 - 1 day)</a>
+
+The above workshops are all part of my popular API testing masterclass course, which covers a wide range of techniques related to API testing: 
+
+<a href="/training/api-testing-masterclass/" class="btn btn--primary">API testing masterclass (3 days)</a>
 
 ##### Object-oriented programming principles
 We've all heard it before: test automation is software development. And it's true: if you want to write automation that is structured well enough to be readable and maintainable, you will need object-oriented programming skills.
