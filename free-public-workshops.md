@@ -10,10 +10,10 @@ All workshops will **start at 3 PM CET** and will run for **3 hours**. Attendanc
 
 ### Workshop schedule
 * **(FULL)** November 14, 2024: API mocking in Java with [WireMock](https://wiremock.org)
-* **(FULL)** November 28, 2023: API testing in Java with [REST Assured](https://rest-assured.io)
 * **(FULL)** December 11, 2024: Contract testing in Java with [Pact](https://docs.pact.io)
 * **(FULL)** December 19, 2023: API testing in Java with [REST Assured](https://rest-assured.io)
 * **(FULL)** January 9, 2024: API mocking in Java with [WireMock](https://wiremock.org)
+* **(FULL)** January 10, 2024: API testing in Java with [REST Assured](https://rest-assured.io)
 * **(FULL)** January 16, 2024: API mocking in Java with [WireMock](https://wiremock.org)
 * January 23, 2024: Contract testing in Java with [Pact](https://docs.pact.io)
 * **(FULL)** January 30, 2024: Contract testing in Java with [Pact](https://docs.pact.io)
