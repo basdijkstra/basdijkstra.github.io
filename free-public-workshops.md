@@ -15,7 +15,7 @@ All workshops will **start at 3 PM CET** and will run for **3 hours**. Attendanc
 * **(FULL)** January 9, 2024: API mocking in Java with [WireMock](https://wiremock.org)
 * **(FULL)** January 10, 2024: API testing in Java with [REST Assured](https://rest-assured.io)
 * **(FULL)** January 16, 2024: API mocking in Java with [WireMock](https://wiremock.org)
-* January 23, 2024: Contract testing in Java with [Pact](https://docs.pact.io)
+* **(FULL)** January 23, 2024: Contract testing in Java with [Pact](https://docs.pact.io)
 * **(FULL)** January 30, 2024: Contract testing in Java with [Pact](https://docs.pact.io)
 * February 6, 2023: API testing in C# with [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net)
 * **(FULL)** February 20, 2023: API testing in C# with [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net)
@@ -46,7 +46,6 @@ I'm looking forward to welcoming you in one or more of these workshops!
   </label>
   <label for="workshop">Select your workshop:</label>
   <select name="workshop" id="workshop">
-    <option value="contract-testing-jan-2024-2">Contract testing in Java with Pact - January 23, 2024</option>
     <option value="rest-assured-net-feb-2024-2">API testing in C# with RestAssured.Net - February 6, 2024</option>
   </select>
   <br/>
