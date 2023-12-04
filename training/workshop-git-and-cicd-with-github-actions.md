@@ -21,7 +21,9 @@ This workshop covers, among other things:
 
 There's no better way to learn than by doing, so you'll be presented with a variety of hands-on exercises throughout this course.
 
-By the end of the course, you will have built your own CI pipeline in GitHub Actions, and your tests will run as part of this pipeline. 
+By the end of the course, you will have built your own CI pipeline in GitHub Actions, and your tests will run as part of this pipeline.
+
+It's also good to keep in mind that while we run our exercises using GitHub Actions, everything you learn about building pipelines applies to other CI orchestrator platforms like Azure DevOps as well.
 
 #### Intended audience and prerequisite knowledge  
 This workshop is aimed at software development and testing practitioners that want to learn more about Git, GitHub Actions and implementing CI/CD using these tools.
