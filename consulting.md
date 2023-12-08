@@ -11,6 +11,16 @@ I have more than 16 years of experience in designing and implementing test autom
 * implemented test automation strategies that are efficient and agile for teams and entire organizations
 * built test automation solutions that work from scratch and taught teams and organizations how to do the same
 
-One of my strongest qualities is the ability to break seemingly difficult problems down into small, actionable tasks. I communicate effectively across the organization, from boardroom to team room.  
+One of my strongest qualities is the ability to break seemingly difficult problems down into small, actionable tasks. I communicate effectively across the organization, from boardroom to team room.
+
+### Defining or assessing a test automation strategy
+Being successful with test automation requires more, much more than throwing tools at problems. I can help you dig deeper into your automation efforts and craft and implement a holistic test automation strategy, based on [the Kipling method](https://projectofhow.com/methods/the-kipling-method/){:target="_blank"}.
+
+* **Why** are you investing your time, effort and money in test automation? What do you hope to get out of it?
+* **What** are you going to automate? Regression tests? Test data preparation? Other testing tasks?
+* **When** are you going to write, run and maintain your test code and assets? How close does that happen to development?
+* **Where** are you going to automate? Which components, systems and layers lend themselves well to automation? How can you improve testability?
+* **Who** is going to write and maintain the automation? Testers? Developers? The team? Does your team skill set match these ambitions?
+* **How** are you going to automate? What are the tools you have to or want to use? How are you going to automate the process of running tests and reporting on results?
 
 If you would like to have a chat and see how I can help you, please contact me using the [contact form](/contact/) on this site, or email me at bas@ontestautomation.com. I'm looking forward to working with you.
