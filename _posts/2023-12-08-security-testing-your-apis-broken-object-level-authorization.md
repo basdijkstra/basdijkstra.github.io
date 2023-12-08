@@ -34,9 +34,9 @@ As an example, consider the scenario where you're a customer of an online bank, 
 One example of a BOLA violation would be when it is possible for the same user, using the same authentication details, to retrieve account details for other customers.
 
 ### Testing for BOLA violations
-Let's have a look at the [API for the ParaBank demo application](https://parabank.parasoft.com/parabank/api-docs/index.html){:target="_blank"}. Let's assume I have retrieved a valid authentication token for user `john` with user ID `12212`. This is a big assumption, as this particular API doesn't even use authentication tokens, but work with me here.
+Let's have a look at the [API for the ParaBank demo application](https://parabank.parasoft.com/parabank/api-docs/index.html){:target="_blank"}. Let's assume I have retrieved a valid authentication token for the customer with ID `12212`. This is a big assumption, as this particular API doesn't even use authentication tokens, but work with me here.
 
-When authenticated, we can retrieve the list of accounts for `john` using an HTTP GET to `customers/12212/accounts`. This returns a list of account details that might look something like this:
+When authenticated, we can retrieve the list of accounts for this customer using an HTTP GET to `/customers/12212/accounts`. This returns a list of account details that might look something like this:
 
 {% highlight json %}
 [
@@ -71,7 +71,7 @@ This message is a red flag. Instead of telling me that I am not authorized to se
 
 Also, what would happen if we stumble upon a customer ID that _does_ exist? In this API, there is another customer with ID `12323`. I happen to know this, but even if I didn't, it would be very easy to find out using a simple script that just tries a customer ID and increments it by 1 every time the API tells me there's no customer with that ID.
 
-When we perform an HTTP GET to `customers/12323/accounts` with our token for customer `12212`, this is what the response looks like:
+When we perform an HTTP GET to `/customers/12323/accounts` with our token for customer `12212`, this is what the response looks like:
 
 {% highlight json %}
 [
@@ -84,7 +84,7 @@ When we perform an HTTP GET to `customers/12323/accounts` with our token for cus
 ]
 {% endhighlight %}
 
-This is a clear example of a BOLA vulnerability: we are able to see the account details for customer `12323`, even if we are authenticated as customer `12212`. And it didn't take us very long to find it, either!
+This is a clear example of a BOLA vulnerability: we are able to see the details for accounts associated with customer `12323`, even if we are authenticated as customer `12212`. And it didn't take us very long to find it, either!
 
 ### What to do now?
 There is a reason BOLA is the number 1 on the OWASP API Security Top 10: the potential damage is enormous. Malevolent people could easily exploit a BOLA vulnerability and get access to all kinds of sensitive data.
