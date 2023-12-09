@@ -86,6 +86,10 @@ When we perform an HTTP GET to `/customers/12323/accounts` with our token for cu
 
 This is a clear example of a BOLA vulnerability: we are able to see the details for accounts associated with customer `12323`, even if we are authenticated as customer `12212`. And it didn't take us very long to find it, either!
 
+This doesn't bode very well for the rest of the API: if we are able to see data we shouldn't be able to see, it's not unlikely we can also do even more damaging things, such as transferring money that isn't ours into our account.
+
+And that's exactly what is possible. If you want to know how, just read Edward Lichtner's [blog post on exploring and hacking the ParaBank API](https://zerodayhacker.com/parabank-walkthrough/){:target="_blank"}.
+
 ### What to do now?
 There is a reason BOLA is the number 1 on the OWASP API Security Top 10: the potential damage is enormous. Malevolent people could easily exploit a BOLA vulnerability and get access to all kinds of sensitive data.
 
