@@ -3,9 +3,9 @@ title: Contract testing
 layout: page
 permalink: /training/contract-testing/
 ---
-In a world where new software applications are increasingly often built upon a microservices-based architecture, where multiple teams are building, deploying and running services and components independently, it can be hard to verify whether all these individual services can still communicate with one another over time.
+In a world where new software applications are increasingly often built in a distributed (sometimes microservices-based) architecture, where multiple teams are building, deploying and running services and components independently, it can be hard to verify whether all these individual services can still communicate with one another over time.
 
-Contract testing is a technique, supported by tools, that can help you deploy your services with confidence in a highly distributed software system.
+Contract testing is a technique, supported by tools, that can help you deploy your services with confidence in a distributed software system.
 
 In this training course, you'll learn what contract testing is, where it fits into your overall testing strategy and how the Pact framework can help you set up and run contract tests.
 
