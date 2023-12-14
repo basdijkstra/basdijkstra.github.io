@@ -57,7 +57,7 @@ Contract testing is an approach that is quickly gaining traction as a way out of
 <a href="/training/contract-testing/" class="btn btn--primary">Contract testing (1 day)</a>
 
 ##### Behaviour-Driven Development
-Creating software starts with a shared understanding of stakeholders about what that software is supposed to do. Behaviour-Driven Development or BDD is a popular technique to facilitate this.
+Creating high quality software starts with a shared understanding between stakeholders about what that software is supposed to do. Behaviour-Driven Development or BDD is a popular technique to facilitate the creation of this shared understanding.
 
 Unfortunately, BDD is still often misunderstood and badly implemented, leading to lots of time, effort and money wasted, without much to show for it.
 
