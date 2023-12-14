@@ -10,11 +10,12 @@ That all sounds well and good, but how do you do that? This course will teach yo
 **Course contents**  
 This course covers, among other things:
 
-  * An overview of the various steps in the BDD process
-  * Applying Specification by Example and Example Mapping to create conversations around a product
-  * Creating executable specifications in Gherkin
-  * Using tools that support BDD (such as Cucumber, SpecFlow or pytest-bdd) to create automated acceptance tests and living documentation from your specifications
+  * An overview of the three steps of the 'textbook' BDD process
+  * Discovery: using Specification by Example and Example Mapping to facilitate and structure conversations around desired behaviour of a piece of work
+  * Formulation: creating executable specifications, in Gherkin or otherwise, to document expected behaviour and create living documentation
+  * Automation: using tools that support BDD (such as Cucumber, SpecFlow or pytest-bdd) to drive automated acceptance tests from your specifications
   * Common misunderstandings and pitfalls when practicing BDD
+  * What does it take to implement BDD in your organization?
 
 There's no better way to learn than by doing, so you'll be presented with a variety of hands-on exercises throughout this course.
 
