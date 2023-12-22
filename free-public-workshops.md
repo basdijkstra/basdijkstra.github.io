@@ -9,7 +9,6 @@ You can use the below form to register for any of my upcoming free, hands-on wor
 All workshops will **start at 3 PM CET** and will run for **3 hours**. Attendance is limited to **50 people per workshop**.
 
 ### Workshop schedule
-* **(FULL)** December 19, 2023: API testing in Java with [REST Assured](https://rest-assured.io)
 * **(FULL)** January 9, 2024: API mocking in Java with [WireMock](https://wiremock.org)
 * **(FULL)** January 10, 2024: API testing in Java with [REST Assured](https://rest-assured.io)
 * **(FULL)** January 16, 2024: API mocking in Java with [WireMock](https://wiremock.org)

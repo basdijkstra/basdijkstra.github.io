@@ -63,13 +63,15 @@ When authenticated, we can retrieve the list of accounts for this customer using
 
 Apart from their balance on account `12345`, all is well here. But that customer ID looks pretty basic, almost like it's a value that is simply incremented by 1 for each new customer. What would happen if we try and retrieve the list of accounts for other customer IDs?
 
-When we increment the customer ID by 1 and perform an HTTP GET to `/customers/12213/accounts`, we receive a response containing a message
+When we increment the customer ID by 1 and perform an HTTP GET to `/customers/12213/accounts`, we receive a response with an HTTP 400 status code, containing a message
 
 `Could not find customer #12213`
 
-This message is a red flag. Instead of telling me that I am not authorized to see the details for customer `12213` (remember, we have a valid authentication token for customer `12212`), it tells me there is no data for customer `12213`. Why should a customer even receive this information?
+Instead of telling me that I am not authorized to see the details for customer `12213` (remember, we have a valid authentication token for customer `12212`), it tells me there is no data for customer `12213`. This is a good thing, because it prevents leaking of potentially vulnerable information, i.e., the fact that a user with ID `12213` exists.
 
-Also, what would happen if we stumble upon a customer ID that _does_ exist? In this API, there is another customer with ID `12323`. I happen to know this, but even if I didn't, it would be very easy to find out using a simple script that just tries a customer ID and increments it by 1 every time the API tells me there's no customer with that ID.
+The choice of returning an HTTP 400 is a little curious, though, I would have expected this to be a 404: there's nothing wrong with the request per se.
+
+But what would happen if we stumble upon a customer ID that _does_ exist? In this API, there is another customer with ID `12323`. I happen to know this, but even if I didn't, it would be very easy to find out using a simple script that just tries a customer ID and increments it by 1 every time the API tells me there's no customer with that ID.
 
 When we perform an HTTP GET to `/customers/12323/accounts` with our token for customer `12212`, this is what the response looks like:
 
