@@ -9,13 +9,10 @@ You can use the below form to register for any of my upcoming free, hands-on wor
 All workshops will **start at 3 PM CET** and will run for **3 hours**. Attendance is limited to **50 people per workshop**.
 
 ### Workshop schedule
-* **(FULL)** January 9, 2024: API mocking in Java with [WireMock](https://wiremock.org)
-* **(FULL)** January 10, 2024: API testing in Java with [REST Assured](https://rest-assured.io)
-* **(FULL)** January 16, 2024: API mocking in Java with [WireMock](https://wiremock.org)
-* **(FULL)** January 23, 2024: Contract testing in Java with [Pact](https://docs.pact.io)
-* **(FULL)** January 30, 2024: Contract testing in Java with [Pact](https://docs.pact.io)
-* February 6, 2023: API testing in C# with [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net)
-* **(FULL)** February 20, 2023: API testing in C# with [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net)
+* **(FULL)** February 12, 2024: Contract testing in Java with [Pact](https://docs.pact.io)
+* **(FULL)** February 13, 2024: Contract testing in Java with [Pact](https://docs.pact.io)
+* February 6, 2024: API testing in C# with [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net)
+* **(FULL)** February 20, 2024: API testing in C# with [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net)
 
 ### More information
 More information about the why, what and how of these free workshops can be found [in this blog post](/free-public-workshops-a-new-initiative/). 
