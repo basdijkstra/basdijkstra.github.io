@@ -11,7 +11,7 @@ All workshops will **start at 3 PM CET** and will run for **3 hours**. Attendanc
 ### Workshop schedule
 * **(FULL)** February 12, 2024: Contract testing in Java with [Pact](https://docs.pact.io)
 * **(FULL)** February 13, 2024: Contract testing in Java with [Pact](https://docs.pact.io)
-* February 6, 2024: API testing in C# with [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net)
+* **(FULL)** February 6, 2024: API testing in C# with [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net)
 * **(FULL)** February 20, 2024: API testing in C# with [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net)
 
 ### More information
@@ -29,7 +29,9 @@ In addition to this, you'll receive instructions to prepare your machine, as wel
 
 I'm looking forward to welcoming you in one or more of these workshops!
 
-<form action="https://formspree.io/f/mvojwyyo" method="POST">
+**At the moment, all upcoming workshops have been fully booked and registration is closed.** 
+
+<!--<form action="https://formspree.io/f/mvojwyyo" method="POST">
   <label>
     Your full name:
     <input type="text" name="fullname" required>
@@ -44,4 +46,4 @@ I'm looking forward to welcoming you in one or more of these workshops!
   </select>
   <br/>
   <button type="submit">Submit your registration</button>
-</form>
+</form>-->
