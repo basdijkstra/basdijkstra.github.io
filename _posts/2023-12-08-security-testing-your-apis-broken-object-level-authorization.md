@@ -19,7 +19,7 @@ _Here are the entries:_
 2. _Broken Authentication_
 3. _Broken Object Property Level Authorization_
 4. _Unrestricted Resource Consumption_
-5. _Broken Function Level Authorization_
+5. _[Broken Function Level Authorization](/security-testing-your-apis-broken-function-level-authorization/)_
 6. _Unrestricted Access to Sensitive Business Flows_
 7. _Server Side Request Forgery_
 8. _Security Misconfiguration_
