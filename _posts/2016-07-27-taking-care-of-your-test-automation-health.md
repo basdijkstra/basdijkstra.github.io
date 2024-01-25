@@ -20,23 +20,24 @@ Chances are that you got carried away adding more and more tests to your solutio
 
 The same goes for building upon your initial test automation solution: if you don&#8217;t take regular stock of how your solution is performing and take the time to do the necessary updates and alterations to make it run smoothly again, the risks of it getting tired and performing suboptimal will increase by the day.
 
+![test_automation_metrics](/images/blog/test_automation_metrics.jpg "A slide showing examples of how to measure test automation health")
 <a href="http://www.ontestautomation.com/taking-care-of-your-test-automation-health/test_automation_metrics/" rel="attachment wp-att-1539"><img src="http://www.ontestautomation.com/wp-content/uploads/2016/07/test_automation_metrics.jpg" alt="Discern between test automation progress and test automation health" width="2016" height="1512" class="aligncenter size-full wp-image-1539" srcset="https://www.ontestautomation.com/wp-content/uploads/2016/07/test_automation_metrics.jpg 2016w, https://www.ontestautomation.com/wp-content/uploads/2016/07/test_automation_metrics-300x225.jpg 300w, https://www.ontestautomation.com/wp-content/uploads/2016/07/test_automation_metrics-768x576.jpg 768w, https://www.ontestautomation.com/wp-content/uploads/2016/07/test_automation_metrics-1024x768.jpg 1024w" sizes="(max-width: 2016px) 100vw, 2016px" /></a>
 
 But what causes this phenomenon in the first place? I can think of a couple of reasons..
 
 **Production code and test automation code are not treated equally**  
-Let&#8217;s make some assumptions:
+Let's make some assumptions:
 
   * You want your production code to run in a stable, predictable and well performing manner.
   * You want to be able to roll back to a previous version of your production code in case something bad happens.
   * You want your production code to be clean, conforming to code standards and well maintainable.
 
-Nothing out of the ordinary or too demanding, no? What if we replace &#8216;production code&#8217; with &#8216;test automation code&#8217; in the list above? Do the assumptions still hold? If not, there&#8217;s work to be done. Boldly put: **your test automation code is just as important as your production code**. You and your organizarion rely on your test automation code to inform you about the quality of your production code. Go / no-go decisions for deployment into production are made (partly or wholly) based on the outcome of the checks defined in your test automation code. Shouldn&#8217;t this code be treated at least as carefully as your production code, then?
+Nothing out of the ordinary or too demanding, no? What if we replace 'production code' with 'test automation code' in the list above? Do the assumptions still hold? If not, there's work to be done. Boldly put: **your test automation code is just as important as your production code**. You and your organizarion rely on your test automation code to inform you about the quality of your production code. Go / no-go decisions for deployment into production are made (partly or wholly) based on the outcome of the checks defined in your test automation code. Shouldn&#8217;t this code be treated at least as carefully as your production code, then?
 
-<a href="http://www.ontestautomation.com/taking-care-of-your-test-automation-health/test_goals_vs_test_automation_goals/" rel="attachment wp-att-1540"><img src="http://www.ontestautomation.com/wp-content/uploads/2016/07/test_goals_vs_test_automation_goals.jpg" alt="Testing goals vs. test automation goals" width="2016" height="1512" class="aligncenter size-full wp-image-1540" srcset="https://www.ontestautomation.com/wp-content/uploads/2016/07/test_goals_vs_test_automation_goals.jpg 2016w, https://www.ontestautomation.com/wp-content/uploads/2016/07/test_goals_vs_test_automation_goals-300x225.jpg 300w, https://www.ontestautomation.com/wp-content/uploads/2016/07/test_goals_vs_test_automation_goals-768x576.jpg 768w, https://www.ontestautomation.com/wp-content/uploads/2016/07/test_goals_vs_test_automation_goals-1024x768.jpg 1024w" sizes="(max-width: 2016px) 100vw, 2016px" /></a>
+![test_goals_test_automation_goals](/images/blog/test_goals_vs_test_automation_goals.jpg "A slide showing differences between test goals and test automation goals")
 
 **The objectives for test automation are geared towards testing, not to performance and maintenance**  
-Test automation is not a goal in itself, but a means to the goal of giving insight in the quality of production code (also known as &#8216;testing&#8217;). However, this does not mean that settings goals specific to test automation can simply be forgotten as an activity. A lot of goals set by a development team (or management, if you&#8217;re still in an old-fashioned organization) are geared towards testing, not test automation. For example, you&#8217;ll often see goals such as:
+Test automation is not a goal in itself, but a means to the goal of giving insight in the quality of production code (also known as 'testing'). However, this does not mean that settings goals specific to test automation can simply be forgotten as an activity. A lot of goals set by a development team (or management, if you&#8217;re still in an old-fashioned organization) are geared towards testing, not test automation. For example, you'll often see goals such as:
 
   * At least X % of our test cases (who uses those anymore?) should be automated
   * Our test cycle time should be shortened with Y % if we implement test automation
@@ -56,7 +57,5 @@ The points above to me are reason enough to take good care of my test automation
   * risk of abandonment of the test automation solution altogether (shelfware), which leads to
   * tests being executed by hand again (either in parallel with the poorly performing automated tests or instead of that), which ultimately leads to
   * an increase in time required to perform the necessary tests, instead of the decrease desired when test automation was introduced
-
-<a href="http://www.ontestautomation.com/taking-care-of-your-test-automation-health/monitoring/" rel="attachment wp-att-1541"><img src="http://www.ontestautomation.com/wp-content/uploads/2016/07/monitoring.jpg" alt="Monitoring test automation health" width="2016" height="1512" class="aligncenter size-full wp-image-1541" srcset="https://www.ontestautomation.com/wp-content/uploads/2016/07/monitoring.jpg 2016w, https://www.ontestautomation.com/wp-content/uploads/2016/07/monitoring-300x225.jpg 300w, https://www.ontestautomation.com/wp-content/uploads/2016/07/monitoring-768x576.jpg 768w, https://www.ontestautomation.com/wp-content/uploads/2016/07/monitoring-1024x768.jpg 1024w" sizes="(max-width: 2016px) 100vw, 2016px" /></a>
 
 So, to wrap things up, it might be a good idea to start taking care of your test automation health. Start measuring both the quality of your test automation code (there&#8217;s lots of great tools for that) and the results they provide, for example in terms of false positives and false negatives as well as mean time required to add new checks. Make test automation health an objective in itself, and make someone (a team, or if need be a person) responsible for it. Measure, display and try to improve continually. Your test automation code will thank you for it.
