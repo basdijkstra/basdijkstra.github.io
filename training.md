@@ -42,13 +42,6 @@ The above workshops are all part of my popular API testing masterclass course, w
 
 <a href="/training/api-testing-masterclass/" class="btn btn--primary">API testing masterclass (3 days)</a>
 
-##### Object-oriented programming principles
-We've all heard it before: test automation is software development. And it's true: if you want to write automation that is structured well enough to be readable and maintainable, you will need object-oriented programming skills.
-
-In this course, we'll cover everything from writing and running your first code to applying fundamental object-oriented programming principles to your code.
-
-<a href="/training/oop-for-testers/" class="btn btn--primary">Object-oriented programming principles (3 days)</a>
-
 ##### Contract testing
 With the rise of distributed and microservices-based software systems, the challenge of performing efficient integration testing early and often in the SDLC is becoming ever more difficult to tackle.
 
