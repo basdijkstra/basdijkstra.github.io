@@ -41,10 +41,10 @@ Such a test, written with a tool like Selenium or Playwright, might look somethi
 [TestCase(10000, 100, 12345, "Denied")]
 [TestCase(50000, 1000, 12345, "Denied")]
 public void ApplyForLoan_CheckResult_ShouldEqualExpectations
-(int loanAmount, int downPayment, int fromAccount, string expectedResult)
+    (int loanAmount, int downPayment, int fromAccount, string expectedResult)
 {
-new LoginPage(this.driver)
-.LoginAs("john", "demo");
+    new LoginPage(this.driver)
+        .LoginAs("john", "demo");
 
     new AccountOverviewPage(this.driver)
         .SelectMenuItem("Request Loan");
