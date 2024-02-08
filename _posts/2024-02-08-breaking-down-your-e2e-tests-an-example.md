@@ -34,7 +34,30 @@ In situations like this, I used to resort to writing a couple of E2E tests that 
 
 I still see many teams do the exact same thing, either because they don't know any better, or because there is some kind of belief that 'if we don't see it work in the UI, we don't believe or trust our tests'.
 
-The scope of such a test, written with a tool like Selenium or Playwright, might look like this:
+Such a test, written with a tool like Selenium or Playwright, might look something like this:
+
+{% highlight csharp %}
+[TestCase(10000, 1000, 12345, "Approved")]
+[TestCase(10000, 100, 12345, "Denied")]
+[TestCase(50000, 1000, 12345, "Denied")]
+public void ApplyForLoan_CheckResult_ShouldEqualExpectations
+(int loanAmount, int downPayment, int fromAccount, string expectedResult)
+{
+new LoginPage(this.driver)
+.LoginAs("john", "demo");
+
+    new AccountOverviewPage(this.driver)
+        .SelectMenuItem("Request Loan");
+
+    var rlp = new RequestLoanPage(this.driver);
+
+    rlp.SubmitLoanRequest(loanAmount, downPayment, fromAccount);
+
+    Assert.That(rlp.GetLoanApplicationResult(), Is.EqualTo(expectedResult));
+}
+{% endhighlight %}
+
+and the scope of this test can be visualized like this:
 
 ![step02](/images/blog/step0_e2e_tests.png "Testing integration through E2E tests")
 
