@@ -13,7 +13,7 @@ Over the last year or two, I've found myself talking about contract testing more
 
 And more generally speaking, how can teams stop relying so much on slow and expensive E2E testing in general?
 
-_Note: I'm not saying you should remove all E2E tests by breaking them down into smaller pieces, but for a lot of tests, this might be a very useful thought exercise._
+_Note: I'm not saying you should remove all E2E tests by breaking them down into smaller pieces, but for a lot of tests, this might be a very useful thought exercise. Thank you to [Justas Laužadis](https://www.linkedin.com/in/justas-lauzadis/){:target="_blank"} for the discussion on this._
 
 In this blog post, I want to have a look at an example E2E test for [ParaBank](https://parabank.parasoft.com/){:target="_blank"}, a fictional online bank, and break that test down step by step into smaller, more focused tests. The test focuses on applying for a loan through the ParaBank website and checking that, given certain input values, the response returned on screen matches expectations.
 
