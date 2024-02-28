@@ -31,7 +31,7 @@ Some prior knowledge of both web and API automation, as well as being comfortabl
 #### Delivery and group size
 This workshop is a great fit both for an on site or an online in house training session, as well as a half or full day conference tutorial. I recommend a maximum group size of around 15-20 people.
 
-I can deliver this workshop in all languages supported by Playwright: C#, Java, Python and JavaScript. 
+I can deliver this workshop in all languages supported by Playwright: C#, Java, JavaScript/TypeScript and Python. 
 
 #### Duration
 This workshop is a full-day tutorial, but can be brought back to 3-4 hours on request.
