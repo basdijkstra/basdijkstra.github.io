@@ -2,6 +2,8 @@
 main:
   - title: "Training"
     url: /training/
+  - title: "1-on-1 training"
+    url: /1-on-1-training/
   - title: "Mentoring"
     url: /mentoring/
   - title: "Consulting"
