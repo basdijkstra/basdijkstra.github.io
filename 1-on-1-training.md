@@ -26,7 +26,7 @@ Please note that your email address will only be used to communicate about the r
   action="https://formspree.io/mzbjyzrk"
   method="POST"
 >
-  <input name="subject" type="hidden" value="{{ name }} showed interest in 1-on-1 training" />
+  <input name="subject" type="hidden" value="Someone showed interest in 1-on-1 training" />
 
   <label>
     Your name:
