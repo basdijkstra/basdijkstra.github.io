@@ -59,6 +59,6 @@ Without taking this context into account, all you're getting is [opinions](https
 
 There's a reason many consultants answer questions that pose a choice between multiple options with 'it depends'. It's because they're looking to find out more about the context before they give their advice. And they should.
 
-Don't trust consultants who give you an immediate answer to this kind of question. They're probably trying to sell you something, if only their personal preference.
+Don't trust consultants, or anybody whose advice you're soliciting in general, when they give you an immediate answer to this kind of question. They're probably trying to sell you something, if only their personal preference.
 
 Please keep in mind that 'it depends' isn't just a running gag. It's because context matters.
