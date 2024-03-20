@@ -30,13 +30,11 @@ With software systems becoming ever more distributed, every modern software test
 
 I have created a number of workshops that cover various aspects of API testing.
 
-As with any type of testing, learning API testing should start with learning how to perform exploratory testing on your APIs:
-
 <a href="/training/workshop-exploratory-api-testing/" class="btn btn--primary">Workshop exploratory API testing (0,5 - 1 day)</a>
 
-If you are looking to learn more about testing the security of your APIs, specifically, this is just the workshop for you:
-
 <a href="/training/workshop-api-security-testing/" class="btn btn--primary">Workshop API security testing (0,5 - 1 day)</a>
+
+<a href="/training/workshop-api-mocking-with-wiremock/" class="btn btn--primary">Workshop API mocking with WireMock (0,5 - 1 day)</a>
 
 The above workshops are all part of my popular API testing masterclass course, which covers a wide range of techniques related to API testing: 
 
