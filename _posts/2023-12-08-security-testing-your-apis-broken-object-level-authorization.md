@@ -61,9 +61,11 @@ When authenticated, we can retrieve the list of accounts for this customer using
 ]
 {% endhighlight %}
 
-Apart from their balance on account `12345`, all is well here. But that customer ID looks pretty basic, almost like it's a value that is simply incremented by 1 for each new customer. What would happen if we try and retrieve the list of accounts for other customer IDs?
+Apart from their balance on account `12345`, all is well here. But that customer ID looks pretty predictable, almost like it's a value that is simply incremented by 1 for each new customer.
 
-When we increment the customer ID by 1 and perform an HTTP GET to `/customers/12213/accounts`, we receive a response with an HTTP 400 status code, containing a message
+What would happen if we try and retrieve the list of accounts for other customer IDs that are roughly in the same range, for example all values between 10000 and 20000?
+
+As a first try, when we increment the customer ID by 1 and perform an HTTP GET to `/customers/12213/accounts`, we receive a response with an HTTP 400 status code, containing a message
 
 `Could not find customer #12213`
 
@@ -71,7 +73,7 @@ Instead of telling me that I am not authorized to see the details for customer `
 
 The choice of returning an HTTP 400 is a little curious, though, I would have expected this to be a 404: there's nothing wrong with the request per se.
 
-But what would happen if we stumble upon a customer ID that _does_ exist? In this API, there is another customer with ID `12323`. I happen to know this, but even if I didn't, it would be very easy to find out using a simple script that just tries a customer ID and increments it by 1 every time the API tells me there's no customer with that ID.
+But what would happen if we stumble upon a customer ID that _does_ exist? In this API, there is another customer with ID `12323`. I happen to know this, but even if I didn't, it would be very easy to find out. We could simply create a script that performs the HTTP GET and uses all values between 10000 and 20000 as a customer ID.
 
 When we perform an HTTP GET to `/customers/12323/accounts` with our token for customer `12212`, this is what the response looks like:
 
@@ -93,14 +95,18 @@ This doesn't bode very well for the rest of the API: if we are able to see data 
 And that's exactly what is possible. If you want to know how, just read Edward Lichtner's [blog post on exploring and hacking the ParaBank API](https://zerodayhacker.com/parabank-walkthrough/){:target="_blank"}.
 
 ### What to do now?
-There is a reason BOLA is the number 1 on the OWASP API Security Top 10: the potential damage is enormous. Malevolent people could easily exploit a BOLA vulnerability and get access to all kinds of sensitive data.
+There is a reason BOLA is the number 1 on the OWASP API Security Top 10: the potential damage is enormous. People with malicious intent could easily exploit a BOLA vulnerability and get access to all kinds of sensitive data.
 
 Here are some countermeasures that you can take to minimize the risk of a BOLA vulnerability:
 
 * Test! As you can see, testing for BOLA violations does not require a lot of in-depth knowledge, just an active user session and a little creativity
 * Implement proper role-based / user-based authorization mechanisms, and then use those to check if a user is authorized to access a resource every time they try and access it
 
-OWASP also recommends the use of resource IDs that are harder to guess, such as GUIDs, but I cannot help but feel that this is a form of 'security by obscurity'. I think this is best thought of as an additional safety measure, but not a primary one.
+OWASP also recommends the use of resource IDs that are harder to guess, such as GUIDs, as an additional layer of safety.
+
+Yet another layer of safety comes in the form of implementing rate limiting, to prevent people from running scripts to scan for data, or at least make it harder for them to do so. More on rate limiting in another blog post.
+
+Like with many other security measures, no single measure will guarantee that you're safe from security vulnerabilities, but adding several greatly reduces the risk of such a vulnerability. This approach is called the [Swiss cheese model](https://en.wikipedia.org/wiki/Swiss_cheese_model){:target="_blank"}.
 
 ### More examples
 More examples of BOLA violations can be found on the OWASP API Security Top 10 page dedicated to [Broken Object Level Authorization](https://owasp.org/API-Security/editions/2023/en/0xa1-broken-object-level-authorization/){:target="_blank"}.
