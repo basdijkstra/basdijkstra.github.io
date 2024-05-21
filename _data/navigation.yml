@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Book time with me"
+    url: /book-time-with-me/
   - title: "Training"
     url: /training/
   - title: "1-on-1 training"
