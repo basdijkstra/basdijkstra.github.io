@@ -51,6 +51,14 @@ Contract testing is an approach that is quickly gaining traction as a way out of
 
 <a href="/training/contract-testing/" class="btn btn--primary">Contract testing (1 day)</a>
 
+##### Becoming a better (test automation) developer
+
+While there are many test automation solutions out there promising that 'everybody can write tests with our tool', knowing how to build maintainable scalable test automation solutions requires a healthy dose of fundamental object-oriented programming skills.
+
+In this course, we'll go through many fundamental programming principles, and you'll learn when and how to apply them to your advantage when writing test code, but also when writing application code or discussing that application code with a fellow developer.  
+
+<a href="/training/applying-programming-principles-in-test-automation/" class="btn btn--primary">Applying programming principles in test automation (1-2 days)</a>
+
 ##### Behaviour-Driven Development
 Creating high quality software starts with a shared understanding between stakeholders about what that software is supposed to do. Behaviour-Driven Development or BDD is a popular technique to facilitate the creation of this shared understanding.
 
