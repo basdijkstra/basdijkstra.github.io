@@ -3,6 +3,8 @@ title: Training
 layout: page
 permalink: /training/
 ---
+<a href="https://www.eventbrite.com/e/api-security-testing-workshop-with-bas-dijkstra-tickets-920821902097" class="btn btn--primary" target="_blank">Tickets are on sale for my live, online API security testing workshop on September 9, 2024 (2-6 PM CEST)</a>
+
 _To go directly to the list of courses I offer, [please click here](#courses)._
 
 _If you want to read what others had to say about my courses, [click here](#testimonials)._
