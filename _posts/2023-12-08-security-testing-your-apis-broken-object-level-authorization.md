@@ -20,7 +20,7 @@ _Here are the entries:_
 3. _Broken Object Property Level Authorization_
 4. _Unrestricted Resource Consumption_
 5. _[Broken Function Level Authorization](/security-testing-your-apis-broken-function-level-authorization/)_
-6. _Unrestricted Access to Sensitive Business Flows_
+6. _[Unrestricted Access to Sensitive Business Flows](/security-testing-your-apis-unrestricted-access-to-sensitive-business-flows/)_
 7. _Server Side Request Forgery_
 8. _Security Misconfiguration_
 9. _Improper Inventory Management_
@@ -111,4 +111,4 @@ Like with many other security measures, no single measure will guarantee that yo
 ### More examples
 More examples of BOLA violations can be found on the OWASP API Security Top 10 page dedicated to [Broken Object Level Authorization](https://owasp.org/API-Security/editions/2023/en/0xa1-broken-object-level-authorization/){:target="_blank"}.
 
-The [API Security Fundamentals](https://www.apisecuniversity.com/courses/api-security-fundamentals){:target="_blank"} and [OWASP API Security Top 10 and Beyond](https://www.apisecuniversity.com/courses/owasp-api-security-top-10-and-beyond){:target="_blank"} at API Sec University contain even more examples.
+The [API Security Fundamentals](https://www.apisecuniversity.com/courses/api-security-fundamentals){:target="_blank"} and [OWASP API Security Top 10 and Beyond](https://www.apisecuniversity.com/courses/owasp-api-security-top-10-and-beyond){:target="_blank"} courses at API Sec University contain even more examples.
