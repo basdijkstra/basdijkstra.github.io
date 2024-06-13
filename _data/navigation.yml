@@ -1,15 +1,19 @@
 # main links
 main:
-  - title: "Newsletter"
-    url: /newsletter/
+  - title: "Book time with me"
+    url: /book-time-with-me/
   - title: "Training"
     url: /training/
+  - title: "1-on-1 training"
+    url: /1-on-1-training/
   - title: "Mentoring"
     url: /mentoring/
   - title: "Consulting"
     url: /consulting/
   - title: "Blog"
     url: /blog/
+  - title: "Talks"
+    url: /talks/
   - title: "Contact"
     url: /contact/
   - title: "About"

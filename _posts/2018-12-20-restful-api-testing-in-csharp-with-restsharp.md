@@ -104,7 +104,7 @@ public class LocationResponse
     [JsonProperty("country abbreviation")]
     public string CountryAbbreviation { get; set; }
     [JsonProperty("places")]
-    public List&amp;lt;Place&gt; Places { get; set; }
+    public List<Place> Places { get; set; }
 }
 {% endhighlight %}
 

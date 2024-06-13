@@ -49,22 +49,16 @@ and the updated response body expectations in Pact like this:
 
 {% highlight java %}
 DslPart body = LambdaDsl.newJsonBody((o) -> o
-    .uuid("id", ID)
-    .stringType("addressType", ADDRESS_TYPE)
-    .stringType("street", STREET)
-    .integerType("number", NUMBER)
-    .integerType("poBox", POBOX)  // <-- this one is new
-    .stringType("city", CITY)
-    .integerType("zipCode", ZIP_CODE)
-    .stringType("state", STATE)
-    .stringType("country", COUNTRY)
+    .uuid("id", UUID.fromString("8aed8fad-d554-4af8-abf5-a65830b49a5f"))
+    .stringType("addressType", "billing")
+    .stringType("street", "Main Street")
+    .integerType("number", 123)
+    .integerType("poBox", 9876)  // <- this one is new
+    .stringType("city", "Nothingville")
+    .integerType("zipCode", 54321)
+    .stringType("state", "Tennessee")
+    .stringType("country", "United States")
 ).build();
-{% endhighlight %}
-
-Naturally, we also update the unit test that verifies that our Customer consumer can correctly process the updated response. We do so by adding this assertion to the existing test:
-
-{% highlight java %}
-assertThat(address.getPoBox()).isEqualTo(POBOX);
 {% endhighlight %}
 
 That's it, from the perspective of our Customer consumer. Running the tests again shows that all tests pass, and when we expect the updated contract generated, we see that an additional expectation is added for the new `poBox` field:
@@ -129,14 +123,15 @@ To support this, the Order consumer team changes their expectations for the `zip
 
 {% highlight java %}
 DslPart body = LambdaDsl.newJsonBody((o) -> o
-    .uuid("id", ID)
-    .stringType("addressType", ADDRESS_TYPE)
-    .stringType("street", STREET)
-    .integerType("number", NUMBER)
-    .stringType("city", CITY)
-    .stringType("zipCode", ZIP_CODE)  // <-- this one changed
-    .stringType("state", STATE)
-    .stringType("country", COUNTRY)
+    .uuid("id", UUID.fromString("8aed8fad-d554-4af8-abf5-a65830b49a5f"))
+    .stringType("addressType", "billing")
+    .stringType("street", "Main Street")
+    .integerType("number", 123)
+    .integerType("poBox", 9876)
+    .stringType("city", "Nothingville")
+    .stringType("zipCode", 54321) // <- this one changed
+    .stringType("state", "Tennessee")
+    .stringType("country", "United States")
 ).build();
 {% endhighlight %}
 

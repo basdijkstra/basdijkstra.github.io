@@ -8,7 +8,6 @@ logo: /images/logo_large.png
 plugins:
   - jekyll-include-cache
   - jekyll-paginate
-  - jekyll-analytics
   - jekyll-feed
   - jekyll-sitemap
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -57,13 +56,7 @@ defaults:
       comments: true
       share: true
       related: true
-jekyll_analytics:
-  GoogleAnalytics:
-    id: UA-176276927-1
-analytics:
-  provider: "google-universal"
-  google:
-    tracking_id: "UA-176276927-1"
+google_analytics: "G-WY0JX8D6MG"
 commentbox:
   id: 5659931575320576-proj
 og_image: /images/logo_large.png

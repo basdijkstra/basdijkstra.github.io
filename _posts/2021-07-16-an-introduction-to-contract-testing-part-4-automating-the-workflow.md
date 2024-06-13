@@ -71,18 +71,16 @@ To publish the generated contracts to the Pactflow Pact Broker, I'm using the [P
 
 {% highlight xml %}
 <plugin>
-    <groupId>au.com.dius</groupId>
-    <artifactId>pact-jvm-provider-maven</artifactId>
-    <version>4.0.10</version>
+    <groupId>au.com.dius.pact.provider</groupId>
+    <artifactId>maven</artifactId>
+    <version>4.6.2</version>
     <configuration>
-        <pactBrokerUrl>https://ota.pact.dius.com.au</pactBrokerUrl>
+        <pactBrokerUrl>https://ota.pactflow.io</pactBrokerUrl>
         <pactBrokerToken>YOUR_PACT_BROKER_TOKEN_GOES_HERE</pactBrokerToken>
         <pactBrokerAuthenticationScheme>Bearer</pactBrokerAuthenticationScheme>
     </configuration>
 </plugin>
 {% endhighlight %}
-
-_Note: the 'provider' in the plugin name is not a typo. This plugin was originally developed to be used on the provider end, and later extended to also allow it to be used on the consumer side. The Pact team preferred this over developing and maintaining two separate plugins._
 
 After adding this plugin to our project, we can publish the contracts generated in the previous step using
 
@@ -101,7 +99,7 @@ In this example, Maven is used to run the tests and publish the generated contra
 In the example shown in the [previous article](/an-introduction-to-contract-testing-part-3-getting-started-with-pact/), we specified a local folder in which the provider implementation could find the necessary contracts using the `@PactFolder` annotation. If you're using a Pact Broker (and really, you should...), you can use the `@PactBroker` annotation, instead:
 
 {% highlight java %}
-@PactBroker(url = "https://ota.pact.dius.com.au", authentication = @PactBrokerAuth(token = "YOUR_PACT_BROKER_TOKEN_GOES_HERE"))
+@PactBroker(url = "https://ota.pactflow.io", authentication = @PactBrokerAuth(token = "YOUR_PACT_BROKER_TOKEN_GOES_HERE"))
 {% endhighlight %}
 
 Upon running the provider verification tests, Pact will pull the relevant contracts from the broker using the URL and authentication token you specified. Running
@@ -129,7 +127,7 @@ After successfully verifying that our provider implementation meets the expectat
 
 The most straightforward way to do is, is by setting the `pact.verifier.publishResults` flag to true when running our tests:
 
-`mvn clean -Dpact.verifier.publishResults=true test`
+`mvn clean "-Dpact.verifier.publishResults=true" "-Dpact.provider.version=1.0.0" test`
 
 This automatically publishes the verification results to the Pact Broker specified in the `@PactBroker` annotation. In our example, this leads to the following results being displayed in our Broker:
 
