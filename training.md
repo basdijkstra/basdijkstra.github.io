@@ -3,6 +3,8 @@ title: Training
 layout: page
 permalink: /training/
 ---
+<a href="https://courses.ontestautomation.com" class="btn btn--primary">Enroll in my 'Practical contract testing with Pact' course now!</a>
+
 _To go directly to the list of courses I offer, [please click here](#courses)._
 
 _If you want to read what others had to say about my courses, [click here](#testimonials)._
