@@ -1,7 +1,7 @@
 ---
-title: Workshop API mocking with WireMock
+title: Workshop API test automation in code
 layout: page
-permalink: /training/workshop-api-mocking-with-wiremock/
+permalink: /training/workshop-api-test-automation-in-code/
 ---
 There are many, many tools out there that help you write and run tests for your APIs, both low code and code-based.
 
