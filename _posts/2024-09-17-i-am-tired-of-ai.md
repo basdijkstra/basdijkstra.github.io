@@ -67,4 +67,4 @@ I honestly don't think we're moving in the right direction this way.
 
 Again, there are _some_ cases where AI is used as a force for good. Early detection of diseases, for example. That's great. That's progress. We should definitely keep using AI to do that, and try to make it even better.
 
-But I'm pretty sure I, and many of us, can do without AI-generated music, images, text, conference proposals, test cases, LinkedIn posts and so many other AI-generated nonsense.
+But I'm pretty sure I, and many of us, can do without AI-generated music, images, text, conference proposals, test cases, LinkedIn posts and so much other AI-generated nonsense.
