@@ -46,7 +46,7 @@ The above workshops are all part of my popular API testing masterclass course, w
 
 To learn more about building a solid API testing strategy from the ground up, working together as developers and testers, I also offer a brand new training course:
 
-<a href="/training/building-and-testing-an-api/" class="btn btn--primary">Building and testing an API (1-2 days)</a>
+<a href="/training/building-and-testing-an-api/" class="btn btn--primary">Building and testing an API (2-3 days)</a>
 
 ##### Contract testing
 With the rise of distributed and microservices-based software systems, the challenge of performing efficient integration testing early and often in the SDLC is becoming ever more difficult to tackle.

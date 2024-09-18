@@ -22,11 +22,13 @@ During this course, we'll cover the following topics, among other things (but no
 * Setting up a new API project
 * Implementing different routes for HTTP GET, POST, PUT / PATCH and DELETE
 * Adding a database to your API
+* Adding authentication and role-based access control to your endpoints
 
 **API testing**
 * Inspecting API specification documents
 * Writing unit tests for logic in API controllers
-* Writing tests for individual API endpoints and API scenarios
+* Exploratory API testing, focusing on behaviour and security
+* Writing acceptance tests for individual API endpoints and for API scenarios
 * Mocking databases and downstream services for testing purposes
 * Building a build-test-deploy pipeline for our API
 * An introduction to contract testing
@@ -40,7 +42,7 @@ Some prior exposure to (object-oriented) software development and test automatio
 After completing this course, you have a better understanding of what it takes to design, build and test an API. You'll have learned how to perform better API testing earlier in the development process, and you will have learned more about the different testing techniques that make up a solid API testing strategy. You’ll leave this course with a collection of tools, examples and resources for further studying that will help you in your day to day work.
 
 #### Delivery and group size
-This is a live training course, available both on site and online. I recommend a group of between 5 and 12 participants to optimize for collaboration opportunities and pace.
+This is a live training course, available both on site and online. Depending on the exact list of topics, the duration will be 2 or 3 days. I recommend a group of between 5 and 12 participants to optimize for collaboration opportunities and pace.
 
 I can deliver this course using a number of technologies:
 
