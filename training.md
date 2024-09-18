@@ -27,7 +27,7 @@ I have delivered my training courses and workshops to many companies around the 
 
 ### <a name="courses"></a>Courses
 
-##### API testing
+##### API testing and development
 With software systems becoming ever more distributed, every modern software tester should know how to work with APIs in their testing, as well as how to design, write and execute tests for APIs.
 
 I have created a number of workshops that cover various aspects of API testing.
@@ -43,6 +43,10 @@ I have created a number of workshops that cover various aspects of API testing.
 The above workshops are all part of my popular API testing masterclass course, which covers a wide range of techniques related to API testing: 
 
 <a href="/training/api-testing-masterclass/" class="btn btn--primary">API testing masterclass (3 days)</a>
+
+To learn more about building a solid API testing strategy from the ground up, working together as developers and testers, I also offer a brand new training course:
+
+<a href="/training/building-and-testing-an-api/" class="btn btn--primary">Building and testing an API (1-2 days)</a>
 
 ##### Contract testing
 With the rise of distributed and microservices-based software systems, the challenge of performing efficient integration testing early and often in the SDLC is becoming ever more difficult to tackle.
