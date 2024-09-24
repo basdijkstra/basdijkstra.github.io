@@ -34,3 +34,5 @@ Sure, this will have a negative impact on my visibility on the platform. But I'm
 There are plenty of ways to get my fix of what is happening in the software testing and software development world. There's the excellent [Software Testing Weekly](https://softwaretestingweekly.com/){:target="_blank"} blog aggregration newsletter. I intend to spend more time listening to software testing and software development podcasts. I'll keep attending and speaking at meetups and conferences, both online and in person. I don't think I'll miss much that way.
 
 So, if you want to get or stay in touch with me, please do so via email from now on. Sure, I'll get to your LinkedIn DM or invite, eventually, but it might take me a few days. Or more.
+
+![social](/images/blog/social.jpg "A cartoon showing someone who's content after having left social media being shunned by those who couldn't")
