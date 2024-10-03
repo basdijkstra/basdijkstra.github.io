@@ -47,6 +47,9 @@ footer:
     - label: GitHub
       icon: "fab fa-fw fa-github"
       url: "https://github.com/basdijkstra"
+    - label: RSS (blog)
+      icon: "fas fa-fw fa-rss"
+      url: "https://www.ontestautomation.com/feed.xml"
 defaults:
   # _posts
   - scope:
