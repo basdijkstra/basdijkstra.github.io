@@ -34,7 +34,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/basdijkstra"
     - label: RSS feed (blog)
-      icon: "fab fa-fw fa-rss"
+      icon: "fas fa-fw fa-rss"
       url: "https://www.ontestautomation.com/feed.xml"
 footer:
   links:
