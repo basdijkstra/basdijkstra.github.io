@@ -11,7 +11,7 @@ tags:
 ---
 While most of the clients I work with are based in Europe, over the last couple of years my client base on the North American side of the Atlantic has slowly but surely started to grow, mainly in the United States. As someone who really enjoys working with and learning from individuals and companies across the globe, this something that I'm really happy with.
 
-However, until this week, it had been 18 years since my last visit to the US. Way back in 2006, I, along with about 20 fellow software testing trainees, were sent onto a three week business course in Athens, Ohio.
+However, until this week, it had been 18 years since my last in-person visit to the US. Way back in 2006, I, along with about 20 fellow software testing trainees, were sent onto a three week business course in Athens, Ohio.
 
 Since then, I've been to Canada a couple of times, [once for work](/targeting-quality-2023-experience-report/) and two times on holiday, but I've not managed to return to the US. Again, until this week, when I had the pleasure of being part of the Pacific Northwest Software Quality Conference, or [PNSQC](https://www.pnsqc.org/){:target="_blank"} in short.
 
