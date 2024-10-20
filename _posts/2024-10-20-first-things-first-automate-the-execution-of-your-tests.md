@@ -74,4 +74,7 @@ Only after we have written our first tests, brought them under version control, 
 * adding reports and notifications on test results
 * make sure our tests can run against multiple environments (if needed)
 
-Of course, you'll also spend a lot of time (most of your time, actually) adding more tests to your test suite. But please, do yourself a favour, and only start doing that when you have completed the previous steps. You'll thank yourself (and me ;) later on for doing so and for setting yourself up for success early on. 
+Of course, you'll also spend a lot of time (most of your time, actually) adding more tests to your test suite. But please, do yourself a favour, and only start doing that when you have completed the previous steps. You'll thank yourself (and me ;) later on for doing so and for setting yourself up for success early on.
+
+---
+P.S.: want some hands-on practice on what I wrote about in this post? I created [this open source project](https://github.com/basdijkstra/a-test-automation-project){:target="_blank"} just for you.
