@@ -27,6 +27,11 @@ I have delivered my training courses and workshops to many companies around the 
 
 ### <a name="courses"></a>Courses
 
+##### Bootcamp for test automation engineers / SDETs
+Over 18 years of working in the test automation space has taught me many, many things, and this bootcamp combines these lessons into a single, coherent course.
+
+<a href="/training/test-automation-bootcamp/" class="btn btn--primary">Test automation bootcamp (5 days)</a>
+
 ##### API testing and development
 With software systems becoming ever more distributed, every modern software tester should know how to work with APIs in their testing, as well as how to design, write and execute tests for APIs.
 

@@ -11,13 +11,13 @@ If you want to become an all-round automation engineer, you will need to learn m
 
 * the _'why?'_, _'what?'_,  _'where?'_, _'when?'_ and _'who?'_ of automation
 * how to use object-oriented programming principles to write test code that is easy to read and to maintain
-* how different tools can be combined into an well-designed automation solution
+* how different tools can be combined into a well-designed automation solution
 * how to use version control and build automation to collaborate on your code and have it deliver the fast feedback you are looking for
 * ... and many other things
 
-Learning how to do all of these things well takes time, a significant amount of time. Yet every automation engineer will benefit from a solid introduction to all of the subjects listed above, as well as learning how they fit together to form a solid automation approach and setup.
+Learning how to do all of these things well takes time, a significant amount of time. Yet every automation engineer will benefit from a solid introduction to all the subjects listed above, as well as learning how they fit together to form a solid automation approach and setup.
 
-And that is exactly the goal of this five-day test automation development bootcamp: to give you the head start you'll need to become an in-demand, allround automation engineer.
+This is exactly the goal of this five-day test automation development bootcamp: to give you the head start you'll need to become an in-demand, all-round automation engineer.
 
 #### Bootcamp - Day 1
 On the first day of the bootcamp, we will set the stage for the remainder of the week by introducing the domain and application we will use. We will then cover what goes into a solid automation strategy and explore
@@ -38,7 +38,7 @@ After we have established the automation strategy, we will start learning about 
 * Explore useful features of our unit testing framework and how they help write tests efficiently
 
 #### Bootcamp - Day 2
-On Day 2, we will continue our exploration of unit tests and dive deeper into writing readable and maintainable code and writing more efficient tests. We will also learn how understanding fundamental object-oriented programming principles help you in doing both. We will
+On day 2, we will continue our exploration of unit tests and dive deeper into writing readable and maintainable code and writing more efficient tests. We will also learn how understanding fundamental object-oriented programming principles help you in doing both. We will
 
 * Learn about the pillars of object-oriented programming: encapsulation, inheritance, polymorphism and abstraction
 * Explore some of the SOLID principles and the role they play in testability
@@ -57,12 +57,12 @@ Day 3 is all about integration testing and API tests. Testing at the API level i
 * Discuss ways in which APIs can help us test more efficiently all across our testing and automation strategy
 
 #### Bootcamp - Day 4
-On Day 4 of this bootcamp, we will focus our attention on user interface-driven automation. This is one of the hardest and most expensive forms of automation, yet it is also one that is heavily overused by many teams, and often it is done poorly, too. To set you off in the right direction, on this day, we will learn how to:
+On day 4 of this bootcamp, we will focus our attention on user interface-driven automation. This is one of the hardest and most expensive forms of automation out there. To set you off in the right direction, on this day, we will learn how to:
 
 * Identify opportunities where UI automation shines, and where it doesn't
 * Find and interact with elements on a UI
 * Apply object-oriented programming principles to write UI automation that is easy to read, write and maintain
-* Use waiting and synchronization straties (either built-in or self-built) for rock solid, reliable UI automation
+* Use waiting and synchronization strategies (either built-in or self-built) for rock solid, reliable UI automation
 * Use APIs and other interfaces to make UI automation faster and less painful
 
 #### Bootcamp - Day 4
@@ -72,11 +72,12 @@ Day 5 is the final day of this bootcamp, and we will use this day to tie everyth
 * Learn about different ways to collaborate on our test code (trunk-based development, feature branches)
 * Create build pipelines as code to automate the execution of our tests and reporting on the results
 * Wrap up loose ends and reflect on what we have learned throughout the week (and that's a lot!)
+* Explore where to go from here now that the bootcamp is a wrap
 
 #### Supported tools technology stacks
 To maximize the understanding of how different types of tests and tools fit together, and to minimize the amount of context switching, we will work on a single application in a single domain throughout the entire bootcamp.
 
-At the moment, I can run this bootcamp in C# and in Java, using the following tools and frameworks:
+I have run this bootcamp, both as a whole and in parts, in C# and in Java, using the following tools and frameworks:
 
 * Unit testing frameworks: NUnit, xUnit, MSTest (C#), JUnit, TestNG (Java)
 * Mocking libraries: Moq (C#), Mockito (Java)
@@ -85,12 +86,12 @@ At the moment, I can run this bootcamp in C# and in Java, using the following to
 * Version control: Git
 * Build pipelines: GitHub Actions, Azure DevOps, CircleCI
 
-Other technologies and programming languages available on request. For contact details, see the bottom of this page.
+Using other technologies and programming languages is available on request. For contact details, see the bottom of this page.
 
 #### Intended audience and prerequisite knowledge
 If you are a software tester or a software developers looking to move ahead as an automation engineer and to go beyond learning a new tool or trick, this bootcamp is a perfect fit for you.
 
-As we will be writing a decent amount of code, being comfortable with the syntax of the programming language we'll be using in this course will be very helpful.
+As we will be writing a significant amount of code, being comfortable with the syntax of the programming language we'll be using in this course will be very helpful.
 
 Also, understanding the basic concepts of software testing is assumed, and we will not go over them in this bootcamp. Of course, I'm happy to address any and all questions.
 
@@ -106,6 +107,10 @@ Will there be lots of recommendations for 'the next step' after the bootcamp? Ab
 #### Delivery and group size
 This is a live training course, available both onsite and online.
 
-If you would like to book me to teach this bootcamp in your organization, or if you have any additional questions, please send an email to bas@ontestautomation.com or use the contact form on [this page](/contact/).
+Please keep in mind that this is an intense and high-paced bootcamp, and participants will be required to process and apply a large amount of information. Experience teaches me that courses like this work better when delivered onsite and in person.
+
+However, I have delivered an online version of this bootcamp several times, too, to excellent reviews. Online delivery also gives us the opportunity to take days off in between to process the information that is presented during the bootcamp. 
+
+If you would like to book me to teach this bootcamp in your organization, or if you have any additional questions, please email bas@ontestautomation.com or use the contact form on [this page](/contact/).
 
 For an overview of all training courses I have on offer, please visit the main [training page](/training/).
