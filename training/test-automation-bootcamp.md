@@ -17,7 +17,7 @@ If you want to become an all-round automation engineer, you will need to learn m
 
 Learning how to do all of these things well takes time, a significant amount of time. Yet every automation engineer will benefit from a solid introduction to all the subjects listed above, as well as learning how they fit together to form a solid automation approach and setup.
 
-This is exactly the goal of this five-day test automation development bootcamp: to give you the head start you'll need to become an in-demand, all-round automation engineer.
+This is exactly the goal of this five-day test automation bootcamp: to give you the head start you'll need to become an in-demand, all-round automation engineer.
 
 #### Bootcamp - Day 1
 On the first day of the bootcamp, we will set the stage for the remainder of the week by introducing the domain and application we will use. We will then cover what goes into a solid automation strategy and explore
@@ -65,7 +65,7 @@ On day 4 of this bootcamp, we will focus our attention on user interface-driven 
 * Use waiting and synchronization strategies (either built-in or self-built) for rock solid, reliable UI automation
 * Use APIs and other interfaces to make UI automation faster and less painful
 
-#### Bootcamp - Day 4
+#### Bootcamp - Day 5
 Day 5 is the final day of this bootcamp, and we will use this day to tie everything we have learned together and make all the tests we wrote part of an automated build pipeline. After all, we want our tests to run as early and as often as needed, and automating the process of executing our tests makes this happen, you guessed it, automatically. Today, we will:
 
 * Learn more about bringing our test code under version control
