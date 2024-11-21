@@ -1,7 +1,7 @@
 ---
-title: Workshop Git and CI/CD with GitHub Actions
+title: Workshop Git and CI/CD
 layout: page
-permalink: /training/workshop-git-and-cicd-with-github-actions/
+permalink: /training/workshop-git-and-cicd/
 ---
 The automated tests we write will only bring value when we run them early and often. To automate the process of running our tests, we typically make them part of a Continuous Integration (CI) pipeline.
 
@@ -15,18 +15,18 @@ This workshop covers, among other things:
   * An introduction to version control with Git
   * How to get your code on other people's machines, and how to get their code on yours
   * Different ways of working together (branching strategies)
-  * Building a simple CI pipeline using GitHub Actions
+  * Building a CI pipeline using GitHub Actions or Azure DevOps
   * Running tests as part of a CI pipeline
   * Adding reports to our CI pipeline
 
 There's no better way to learn than by doing, so you'll be presented with a variety of hands-on exercises throughout this course.
 
-By the end of the course, you will have built your own CI pipeline in GitHub Actions, and your tests will run as part of this pipeline.
+By the end of the course, you will have built your own CI pipeline in GitHub Actions or Azure DevOps, and your tests will run as part of this pipeline.
 
-It's also good to keep in mind that while we run our exercises using GitHub Actions, everything you learn about building pipelines applies to other CI orchestrator platforms like Azure DevOps as well.
+It's also good to keep in mind that while we run our exercises using either GitHub Actions or Azure DevOps, everything you learn about building pipelines applies to other CI orchestrator platforms as well.
 
 #### Intended audience and prerequisite knowledge  
-This workshop is aimed at software development and testing practitioners that want to learn more about Git, GitHub Actions and implementing CI/CD using these tools.
+This workshop is aimed at software development and testing practitioners that want to learn more about Git, GitHub Actions, Azure DevOps pipelines and implementing CI/CD using these tools.
 
 #### Delivery and group size  
 This workshop is a great fit both for an on site or an online in house training session, as well as a half or full day conference tutorial. I recommend a maximum group size of around 15-20 people.
