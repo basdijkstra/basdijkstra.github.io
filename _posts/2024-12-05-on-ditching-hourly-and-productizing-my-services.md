@@ -22,7 +22,8 @@ So, why move away from that? If it works, it works, right?
 There are a few problems I've got with hourly billing:
 
 * First of all, hourly billing disincentivizes me to work efficiently. Why finish something in 20 hours when I can do it in 40 and bill twice as much?
-* Second, I don't like getting into conversations that turn into a haggle... 'But another consultant said they could do it for EUR 10 per hour less...'
+* Second, I think dragging on the work and spending hours doing nothing much just to maximize billing is not fair towards my clients
+* Third, I don't like getting into conversations that turn into a haggle... 'But another consultant said they could do it for EUR 10 per hour less...'
 * Finally, the whole having to explain the hours I did and did not spend with a certain client through time sheets is annoying, even when I haven't really had a problem getting my time sheets signed off.
 
 So, from today on, I'm going to work on moving away from purely hourly billing and towards what is commonly known as [value-based pricing](https://en.wikipedia.org/wiki/Value-based_pricing){:target="_blank"}. How? Well, I haven't figured out every detail, but here are some thoughts and ideas:
