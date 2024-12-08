@@ -9,8 +9,8 @@ I have been active in the test automation field for some 18 years now, and have 
 
 I've delivered test automation [training](/training/) to dozens of companies and hundreds of conference attendees in the Netherlands as well as abroad, to excellent reviews.
 
-You can find a complete overview of my professional life on [my LinkedIn profile](https://nl.linkedin.com/in/basdijkstra/){:target="_blank"}. If you want to get in touch, please use the [contact form](/contact/) on this site, or send me an email at bas@ontestautomation.com.
+You can find a complete overview of my professional life on [my LinkedIn profile](https://nl.linkedin.com/in/basdijkstra/){:target="_blank"}. If you want to get in touch, please use the [contact form](/contact/) on this site, or email me at bas@ontestautomation.com.
 
-I'm also the developer of [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net/){:target="_blank"}, a library that is meant to to make writing tests for HTTP APIs in C# a breeze.
+I'm also the developer of [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net/){:target="_blank"}, a library that is meant to make writing tests for HTTP APIs in C# a breeze.
 
-I live in Amersfoort, The Netherlands, together with my wife and two sons. When I am not at work, I like to go outside for a run or a long bike ride, or to sit down and read a good book. 
+I live in Amersfoort, The Netherlands, together with my wife and two sons. When I am not at work, I like to go outside for a long bike ride, or to sit down and play a game of chess or read a good book. 
