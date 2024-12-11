@@ -70,7 +70,7 @@ After you have assessed your current situation, for an individual test, a group 
 **Moving tests up** implies making existing tests more efficient in a way that does not negatively impact the value of the information they provide. How to do this exactly is outside the scope of this blog post, and the exact steps to take heavily depend on context, but here are some suggestions for steps to take:
 
 * [Breaking down existing E2E tests](/breaking-down-your-e2e-tests-an-example/) into smaller, more focused tests that run more efficiently
-* Refactoring application code that is hard to test by applying principles such as Single Responsibility and Dependency Inversion
+* Refactoring application code that is hard to test by applying principles such as single responsibility and dependency inversion
 * Using a simulated version of a third-party dependency instead of 'the real thing' for cases that are hard or even impossible to set up
 
 **Moving tests to the right** implies improving tests that produce low value information or information that is not reliable. Here are some examples of actions you may consider taking to achieve this:
