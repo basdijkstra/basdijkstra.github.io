@@ -1,5 +1,5 @@
 ---
-title: The test automation quadrant, or a different to look at your tests
+title: The test automation quadrant, or a different way to look at your tests
 layout: post
 permalink: /the-test-automation-quadrant/
 categories:
