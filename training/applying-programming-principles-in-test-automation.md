@@ -1,7 +1,7 @@
 ---
-title: Applying programming principles in test automation
+title: Improving your test automation code
 layout: page
-permalink: /training/applying-programming-principles-in-test-automation/
+permalink: /training/improving-your-test-automation-code/
 ---
 > "Test automation is software development"
 
@@ -33,7 +33,9 @@ This course is aimed at both testing practitioners and developers who want to le
 This is a live workshop, available both on site and online. The maximum group size is 12.
 
 #### Duration  
-Depending on the exact topics to be covered, this workshop takes 1-2 working days.
+This is a 1-day workshop, but it can be shortened or extended depending on specific topics you want to include.
+
+This workshop also goes really well together with a second day going through _your_ code base and apply what we have learned in the workshop together. 
 
 #### Interested?  
 If you would like to book me to teach this workshop in your organization, or if you have any additional questions, please send an email to bas@ontestautomation.com or use the contact form on [this page](/contact/).

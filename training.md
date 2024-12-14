@@ -45,11 +45,7 @@ I have created a number of workshops that cover various aspects of API testing.
 
 <a href="/training/workshop-api-mocking-with-wiremock/" class="btn btn--primary">Workshop API mocking with WireMock (0,5 - 1 day)</a>
 
-The above workshops are all part of my popular API testing masterclass course, which covers a wide range of techniques related to API testing: 
-
-<a href="/training/api-testing-masterclass/" class="btn btn--primary">API testing masterclass (3 days)</a>
-
-To learn more about building a solid API testing strategy from the ground up, working together as developers and testers, I also offer a brand new training course:
+To learn more about building a solid API testing strategy from the ground up, working together as developers and testers, this training course is a great fit:
 
 <a href="/training/building-and-testing-an-api/" class="btn btn--primary">Building and testing an API (2-3 days)</a>
 
@@ -60,13 +56,13 @@ Contract testing is an approach that is quickly gaining traction as a way out of
 
 <a href="/training/contract-testing/" class="btn btn--primary">Contract testing (1 day)</a>
 
-##### Becoming a better (test automation) developer
+##### Improving your test automation code
 
 While there are many test automation solutions out there promising that 'everybody can write tests with our tool', knowing how to build maintainable scalable test automation solutions requires a healthy dose of fundamental object-oriented programming skills.
 
 In this course, we'll go through many fundamental programming principles, and you'll learn when and how to apply them to your advantage when writing test code, but also when writing application code or discussing that application code with a fellow developer.  
 
-<a href="/training/applying-programming-principles-in-test-automation/" class="btn btn--primary">Applying programming principles in test automation (1-2 days)</a>
+<a href="/training/improving-your-test-automation-code/" class="btn btn--primary">Applying programming principles in test automation (1 day)</a>
 
 ##### Behaviour-Driven Development
 Creating high quality software starts with a shared understanding between stakeholders about what that software is supposed to do. Behaviour-Driven Development or BDD is a popular technique to facilitate the creation of this shared understanding.
@@ -79,8 +75,6 @@ In this course, you'll not only learn what the 'textbook' BDD process looks like
 
 ##### Workshops
 These half- to full-day workshops are perfect if you're looking to get a kickstart with a new tool or technique. And if you're a conference organizer: these workshops work really well as part of conferences, too!
-
-<a href="/training/improving-your-test-automation-code/" class="btn btn--primary">Improving your test automation code</a>
 
 <a href="/training/workshop-playwright/" class="btn btn--primary">Test automation with Playwright</a>
 

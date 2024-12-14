@@ -32,7 +32,7 @@ This workshop is aimed at software development and testing practitioners that wa
 This workshop is a great fit both for an on site or an online in house training session, as well as a half or full day conference tutorial. I recommend a maximum group size of around 15-20 people.
 
 #### Duration  
-This workshop typically takes 3-4 hours, but can be extended to a full-day tutorial.
+This workshop is designed to be a full-day tutorial.
 
 #### Interested?  
 If you would like to book me to teach this workshop in your organization or at your conference, or if you have any additional questions, please send an email to bas@ontestautomation.com or use the contact form on [this page](/contact/).

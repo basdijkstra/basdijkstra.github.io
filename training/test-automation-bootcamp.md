@@ -74,7 +74,7 @@ Day 5 is the final day of this bootcamp, and we will use this day to tie everyth
 * Wrap up loose ends and reflect on what we have learned throughout the week (and that's a lot!)
 * Explore where to go from here now that the bootcamp is a wrap
 
-#### Supported tools technology stacks
+#### Supported tools and technology stacks
 To maximize the understanding of how different types of tests and tools fit together, and to minimize the amount of context switching, we will work on a single application in a single domain throughout the entire bootcamp.
 
 I have run this bootcamp, both as a whole and in parts, in C# and in Java, using the following tools and frameworks:
@@ -93,7 +93,7 @@ If you are a software tester or a software developers looking to move ahead as a
 
 As we will be writing a significant amount of code, being comfortable with the syntax of the programming language we'll be using in this course will be very helpful.
 
-Also, understanding the basic concepts of software testing is assumed, and we will not go over them in this bootcamp. Of course, I'm happy to address any and all questions.
+Also, understanding the basic concepts of software testing is assumed, and we will not go over them in this bootcamp. However, I'm happy to address any and all questions that might come up.
 
 #### After this course
 After completing this bootcamp, you will have a solid foundational grasp of all the skills required to become a successful automation engineer.
