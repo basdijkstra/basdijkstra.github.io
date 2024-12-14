@@ -35,7 +35,7 @@ Over 18 years of working in the test automation space has taught me many, many t
 ##### API testing and development
 With software systems becoming ever more distributed, every modern software tester should know how to work with APIs in their testing, as well as how to design, write and execute tests for APIs.
 
-I have created a number of workshops that cover various aspects of API testing.
+I am offering a number of workshops that cover various aspects of API testing:
 
 <a href="/training/workshop-exploratory-api-testing/" class="btn btn--primary">Workshop exploratory API testing (0,5 - 1 day)</a>
 
@@ -62,7 +62,7 @@ While there are many test automation solutions out there promising that 'everybo
 
 In this course, we'll go through many fundamental programming principles, and you'll learn when and how to apply them to your advantage when writing test code, but also when writing application code or discussing that application code with a fellow developer.  
 
-<a href="/training/improving-your-test-automation-code/" class="btn btn--primary">Applying programming principles in test automation (1 day)</a>
+<a href="/training/improving-your-test-automation-code/" class="btn btn--primary">Improving your test automation code (1 day)</a>
 
 ##### Behaviour-Driven Development
 Creating high quality software starts with a shared understanding between stakeholders about what that software is supposed to do. Behaviour-Driven Development or BDD is a popular technique to facilitate the creation of this shared understanding.
