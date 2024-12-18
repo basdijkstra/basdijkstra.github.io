@@ -56,7 +56,7 @@ Apart from what I mentioned above, I have been spending time on a couple of othe
 
 * I was part of the program committee for [EuroSTAR 2024](https://conference.eurostarsoftwaretesting.com/){:target="_blank"} and for the [Test Automation Days](https://testautomationdays.com/){:target="_blank"}
 * I co-organized this year's edition of the [Dutch Testing Day](https://testdag.nl){:target="_blank"}
-* I released 8 new versions of [RestAssured .NET](https://github.com/basdijkstra/rest-assured-net){:target="_blank"}
+* I released 7 new versions of [RestAssured .NET](https://github.com/basdijkstra/rest-assured-net){:target="_blank"}
 * I wrote and published 15 blog posts (including this one), as well as [one article for another website](https://www.practitest.com/resource-center/blog/contract-testing-bridges-integration-testing/){:target="_blank"}
 * I traveled to 6 different countries for work (Belgium, Spain, Sweden, Austria, Switzerland and the US)
 * The trip to the US added a third year to my 'at least one work trip outside Europe per year' streak, a streak I'm of course hoping to extend in 2025 (Africa again? South America maybe?)
