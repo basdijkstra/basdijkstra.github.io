@@ -55,4 +55,4 @@ Will this reduce the number of travel opportunities for me? Maybe. Maybe not. Ag
 
 For 2025, things are looking pretty good, with trips for training to Romania, North Macedonia and Denmark already scheduled, and several leads for more in the pipeline.
 
-And if the number of opportunities does go down, that's fine, too. I'm happy to spend that time with family, working on other things, or riding my bike. And I'm sure there will be _plenty_ of opportunities to speak at online meetups, events and webinars, too.
+And if the number of opportunities does go down, that's fine, too. I'm happy to spend that time with family, working on other things, or riding my bike. And I'm sure there will be a few opportunities to speak at online meetups, events and webinars, too.
