@@ -13,7 +13,7 @@ _This blog post is another one in the 'writing things down to structure my think
 
 One of the things I like to do most in life is traveling and seeing new places. Well, seeing new places, mostly, as the novelty of waiting, flying and staying in hotel rooms has definitely worn off by now.
 
-I am in the privileged position that I get to scratch this travel itch professionally on a regular basis these days. Over the last few years, I have been invited to contribute to meetups and conferences abroad, and I also get to run in-house training sessions with companies outside the Netherlands a couple of times per year.
+I am in the privileged position (really, that is what it is: I'm privileged, and I fully realize that) that I get to scratch this travel itch professionally on a regular basis these days. Over the last few years, I have been invited to contribute to meetups and conferences abroad, and I also get to run in-house training sessions with companies outside the Netherlands a couple of times per year.
 
 Most of this traveling takes place within Europe, but for the last three years, I have been able to travel outside of Europe once every year (South Africa in 2022, [Canada in 2023](/targeting-quality-2023-experience-report/) and [the United States in 2024](/pnsqc-2024-experience-report/)), and needless to say I have enjoyed those opportunities very much.
 
