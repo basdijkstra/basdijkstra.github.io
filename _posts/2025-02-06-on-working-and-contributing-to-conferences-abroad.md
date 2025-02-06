@@ -31,7 +31,7 @@ And all that adds up. I try to only be away from home one night per week, but of
 
 Again, I'm not complaining. Not at all. It is an absolute privilege to get to travel for work and get paid to do that, but I cannot do that indefinitely, and that's why I have made a decision:
 
-With a few exceptions (more on those soon), I am going to say 'no' to conferences abroad from now on.
+With a few exceptions (more on those below), I am going to say 'no' to conferences abroad from now on.
 
 This is a tough decision for me to make, but sometimes that's exactly what you need to do. Tough, because I have very fond memories of all the conferences and meetups abroad I have contributed to. My first one, Romanian Testing Conference in 2017. My first keynote abroad, UKStar in 2019. My first one outside of Europe, Targeting Quality in 2023. They were all amazing, because of the travel and sightseeing (when time allowed), but also because of all the people I have met at these conferences.
 
