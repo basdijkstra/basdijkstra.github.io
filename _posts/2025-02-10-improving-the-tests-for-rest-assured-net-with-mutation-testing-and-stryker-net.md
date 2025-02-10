@@ -217,6 +217,8 @@ In short:
 * 111 mutants survived, down from 117 (that's also good)
 * there were 32 timeouts, up from 31 (that needs some further investigation)
 
+A closer look at the HTML report generated for this new mutation testing run reveals that all the signals I discussed in this blog post have been successfully resolved. That's progress. 
+
 Overall, the mutation testing score went up from `59,97%` to `61,11%`. This might not seem like much, but it is definitely a step in the right direction. The most important thing for me right now is that my tests for RestAssured.Net have improved, my code has improved _and_ I learned a lot about mutation testing and Stryker.NET in the process.
 
 Am I going to run mutation tests every time I make a change? Probably not. There is quite a lot of information to go through, and that takes time, time that I don't want to spend for every build. For that reason, I'm also not going to make these mutation tests part of the build and test pipeline for RestAssured.Net, at least not any time soon.
