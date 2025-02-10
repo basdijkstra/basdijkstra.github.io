@@ -51,11 +51,11 @@ Of these:
 * 117 survived, that is, the change did not make any of the tests fail, and
 * 31 resulted in a timeout, which I'll need to investigate further, but I suspect it has something to do with HTTP timeouts (RestAssured.Net is an HTTP API testing library, and all acceptance tests perform actual HTTP requests)
 
-  This leads to an overall mutation testing score of `59.97%`.
+This leads to an overall mutation testing score of `59.97%`.
 
-  Is that good? Is that bad?
+Is that good? Is that bad? 
 
-  In all honesty, I don't know, and I don't care. Just like with code coverage, I am not a fan of setting fixed targets for this type of metric, as these will typically lead to writing tests for the sake of improving a score rather than for actual improvement of the code. What I am much more interested in is the information that Stryker.NET produced during the mutation testing process.
+In all honesty, I don't know, and I don't care. Just like with code coverage, I am not a fan of setting fixed targets for this type of metric, as these will typically lead to writing tests for the sake of improving a score rather than for actual improvement of the code. What I am much more interested in is the information that Stryker.NET produced during the mutation testing process.
 
 #### Opening the HTML report
 I was surprised to see that out of the box, Stryker.NET produces a very good-looking and incredibly helpful HTML report. It provides both a high-level overview of the results:
@@ -79,15 +79,15 @@ Stryker.NET changed the message of an exception thrown when RestAssured.Net is a
 [Test]
 public void EmptyResponseBodyThrowsTheExpectedException()
 {
-var de = Assert.Throws<DeserializationException>(() =>
-{
-Location responseLocation = (Location)Given()
-.When()
-.Get($"{MOCK_SERVER_BASE_URL}/empty-response-body")
-.DeserializeTo(typeof(Location));
-});
+    var de = Assert.Throws<DeserializationException>(() =>
+    {
+        Location responseLocation = (Location)Given()
+            .When()
+            .Get($"{MOCK_SERVER_BASE_URL}/empty-response-body")
+            .DeserializeTo(typeof(Location));
+    });
 
-Assert.That(de?.Message, Is.EqualTo("Response content is null or empty."));
+    Assert.That(de?.Message, Is.EqualTo("Response content is null or empty."));
 }
 {% endhighlight %}
 
@@ -108,11 +108,11 @@ Let's change that by at least asserting on a property of the response that is re
 [Test]
 public void HttpPutCanBeUsed()
 {
-Given()
-.When()
-.Put($"{MOCK_SERVER_BASE_URL}/http-put")
-.Then()
-.StatusCode(200);
+    Given()
+        .When()
+        .Put($"{MOCK_SERVER_BASE_URL}/http-put")
+        .Then()
+        .StatusCode(200);
 }
 {% endhighlight %}
 
@@ -132,15 +132,15 @@ So, time to extract that piece of logic into a class of its own, which will impr
 {% highlight csharp %}
 internal class CookieUtils
 {
-internal Cookie SetDomainFor(Cookie cookie, string hostname)
-{
-if (string.IsNullOrEmpty(cookie.Domain))
-{
-cookie.Domain = hostname;
-}
+    internal Cookie SetDomainFor(Cookie cookie, string hostname)
+    {
+        if (string.IsNullOrEmpty(cookie.Domain))
+        {
+            cookie.Domain = hostname;
+        }
 
-return cookie;
-}
+        return cookie;
+    }
 }
 {% endhighlight %}
 
@@ -148,7 +148,7 @@ I deliberately made this class `internal` as I don't want it to be directly acce
 
 {% highlight xml %}
 <ItemGroup>
-<InternalsVisibleTo Include="$(MSBuildProjectName).Tests" />
+    <InternalsVisibleTo Include="$(MSBuildProjectName).Tests" />
 </ItemGroup>
 {% endhighlight %}
 
@@ -158,23 +158,23 @@ Now, I can add unit tests that should cover both paths in the `SetDomainFor()` l
 [Test]
 public void CookieDomainIsSetToDefaultValueWhenNotSpecified()
 {
-Cookie cookie = new Cookie("cookie_name", "cookie_value");
-CookieUtils cookieUtils = new CookieUtils();
+    Cookie cookie = new Cookie("cookie_name", "cookie_value");
+    CookieUtils cookieUtils = new CookieUtils();
 
-cookie = cookieUtils.SetDomainFor(cookie, "localhost");
+    cookie = cookieUtils.SetDomainFor(cookie, "localhost");
 
-Assert.That(cookie.Domain, Is.EqualTo("localhost"));
+    Assert.That(cookie.Domain, Is.EqualTo("localhost"));
 }
 
 [Test]
 public void CookieDomainIsUnchangedWhenSpecifiedAlready()
 {
-Cookie cookie = new Cookie("cookie_name", "cookie_value", "/my_path", "strawberry.com");
-CookieUtils cookieUtils = new CookieUtils();
+    Cookie cookie = new Cookie("cookie_name", "cookie_value", "/my_path", "strawberry.com");
+    CookieUtils cookieUtils = new CookieUtils();
 
-cookie = cookieUtils.SetDomainFor(cookie, "localhost");
+    cookie = cookieUtils.SetDomainFor(cookie, "localhost");
 
-Assert.That(cookie.Domain, Is.EqualTo("strawberry.com"));
+    Assert.That(cookie.Domain, Is.EqualTo("strawberry.com"));
 }
 {% endhighlight %}
 
@@ -196,7 +196,7 @@ It did make me look at this statement once again, though, and I only then realiz
 {% highlight csharp %}
 if (string.IsNullOrEmpty(responseBodyAsString))
 {
-throw new DeserializationException("Response content is null or empty.");
+    throw new DeserializationException("Response content is null or empty.");
 }
 {% endhighlight %}
 
