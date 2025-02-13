@@ -49,7 +49,7 @@ At the moment, I have one, maybe two contributions to conferences abroad coming 
 * I can combine the event with paid in-house training (for example with a sponsor)
 * it is a country or region I really, really want to visit, either for personal reasons or because I want to grow my professional network there
 
-I don't see the first one happening soon, and the list of destinations for the third one is very short (Norway, Canada, New Zealand, that's pretty much it), so unless we can arrange paid in-house training alongside the conference, the answer will be a 'no' from me.
+I don't see the first one happening soon, and the list of destinations for the third one is very short (Norway, Canada, South Africa, New Zealand, that's pretty much it), so unless we can arrange paid in-house training alongside the conference, the answer will be a 'no' from me.
 
 Will this reduce the number of travel opportunities for me? Maybe. Maybe not. Again, I see the number of requests I get for in-house training abroad growing, too, and if that dies down, it'll be a sign for me that I'll have to work harder to create those opportunities.
 
