@@ -34,6 +34,8 @@ After these three days, we enter a **transition stage** where I am available for
 
 As a **bonus**, you will get free access to my [online contract testing video course](https://ontestautomation.teachable.com/p/practical-contract-testing-with-pact){:target="_blank"} for all participants. That's an added value of $129-$149 per person.
 
+![contract_testing_flow](/images/blog/contract_testing_flow.png "Example slide from my training material, depicting the consumer-driven contract testing flow")
+
 ### Is this package a good fit for my organization?
 
 If you:
