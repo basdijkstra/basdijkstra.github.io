@@ -53,6 +53,6 @@ Well, it depends, and it depends on a few specific factors to be precise:
 * the amount of hours you are looking to spend in the transition phase of the kickstarter, and
 * the location where we will run the workshops and pair / ensemble programming sessions or hackathons, because of cost of travel and accommodation
 
-To give you an estimate, you should account for somewhere between EUR 12,000 and EUR 18,000 depending on your location, based on a transition stage duration of 16 hours. 
+To give you an estimate, you should account for _somewhere between EUR 12,000 and EUR 18,000_, depending on your location, based on a transition stage duration of 16 hours. 
 
 If you are interested in the contract testing kickstarter package, please contact me using the [contact form](/contact/) on this site, or email me at bas@ontestautomation.com to start the conversation. I'm looking forward to working with you and set you off on your contract testing journey in the right direction.
