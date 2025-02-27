@@ -32,8 +32,6 @@ These hands-on sessions are facilitated by me, but the contract generation and c
 
 After these three days, we enter a **transition stage** where I am available for further pair programming sessions and support. The exact amount of hours we schedule in the transition stage is open for negotiation, but I recommend to go with 16 hours.
 
-As a **bonus**, you will get free access to my [online contract testing video course](https://ontestautomation.teachable.com/p/practical-contract-testing-with-pact){:target="_blank"} for all participants. That's an added value of $129-$149 per person.
-
 ![contract_testing_flow](/images/blog/contract_testing_flow.png "Example slide from my training material, depicting the consumer-driven contract testing flow")
 
 ### Is this package a good fit for my organization?
@@ -54,5 +52,7 @@ Well, it depends, and it depends on a few specific factors to be precise:
 * the location where we will run the workshops and pair / ensemble programming sessions or hackathons, because of cost of travel and accommodation
 
 To give you an estimate, you should account for _somewhere between EUR 12,000 and EUR 18,000_, depending on your location, based on a transition stage duration of 16 hours. 
+
+As a **bonus**, you will get free access to my [online contract testing video course](https://ontestautomation.teachable.com/p/practical-contract-testing-with-pact){:target="_blank"} for all participants. That's an added value of $129-$149 per person.
 
 If you are interested in the contract testing kickstarter package, please contact me using the [contact form](/contact/) on this site, or email me at bas@ontestautomation.com to start the conversation. I'm looking forward to working with you and set you off on your contract testing journey in the right direction.
