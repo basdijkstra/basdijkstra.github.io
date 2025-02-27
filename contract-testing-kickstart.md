@@ -42,7 +42,7 @@ If you:
 * feel that the time is right to stop talking and start doing
 * need someone with experience to help you on your way
 
-then this package deal is the right choice for you.
+then this kickstarter package is the right choice for you.
 
 ### What does this contract testing kickstarter cost?
 
