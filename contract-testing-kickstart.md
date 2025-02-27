@@ -44,7 +44,7 @@ If you:
 
 then this package deal is the right choice for you.
 
-### What does this package cost?
+### What does this contract testing kickstarter cost?
 
 Well, it depends, and it depends on a few specific factors to be precise:
 
