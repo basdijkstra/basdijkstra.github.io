@@ -158,14 +158,14 @@ So, the relevant part of the HTML for the standard form might look like this (ag
 
 {% highlight html %}
 <div id="standard_form">
-  <div data-testid="form_field_subject">
-    <div data-testid="form_field_subject_textfield"></div>
-	<div data-testid="form_field_subject_lock"></div>
-  </div>
-  <div data-testid="form_field_summary">
-    <div data-testid="form_field_summary_textfield"></div>
-	<div data-testid="form_field_summary_lock"></div>
-  </div>
+    <div data-testid="form_field_subject">
+        <div data-testid="form_field_subject_textfield"></div>
+        <div data-testid="form_field_subject_lock"></div>
+    </div>
+    <div data-testid="form_field_summary">
+        <div data-testid="form_field_summary_textfield"></div>
+        <div data-testid="form_field_summary_lock"></div>
+    </div>
 </div>
 {% endhighlight %}
 
