@@ -160,11 +160,11 @@ So, the relevant part of the HTML for the standard form might look like this (ag
 <div id="standard_form">
   <div data-testid="form_field_subject">
     <div data-testid="form_field_subject_textfield"></div>
-	<div data-testid="form_field_subject_lock"</div>
+	<div data-testid="form_field_subject_lock"></div>
   </div>
   <div data-testid="form_field_summary">
     <div data-testid="form_field_summary_textfield"></div>
-	<div data-testid="form_field_summary_lock"</div>
+	<div data-testid="form_field_summary_lock"></div>
   </div>
 </div>
 {% endhighlight %}
@@ -385,6 +385,7 @@ Now that we have defined a type for our report data, we can change the signature
 
 {% highlight typescript %}
 async create(report: ReportContent) {
+    
     await this.reportFormFieldTitle.complete(report.title, report.roles);
     await this.reportFormFieldSummary.complete(report.summary, report.roles);
     await this.reportFormFieldAdditionalInfo.complete(report.additionalInfo, report.roles);
