@@ -379,7 +379,9 @@ export interface ReportContent {
 
 The `additionalInfo` field is marked as optional, as it only appears in an extended report, not in a standard report.
 
-In some cases, to further improve flexibility and readability of our code, we might add a builder or a factory that helps us create instances of our test data objects using a fluent syntax. This also allows us to set sensible default values for properties to avoid having to assign the same values to these properties in every test. In this specific case, that's not really necessary, because object creation based on an interface in TypeScript is really straightforward, and our `ReportContent` object is small, anyway. Your mileage may vary.
+In some cases, to further improve flexibility of our code, we might choose to define our test data objects as a class instead of an interface. This would allow us to set sensible default values for properties to avoid having to assign the same values to these properties in every test. Setting default values is not possible when using interfaces in TypeScript.
+
+In this specific case, I am fine with using an interface, though, because our `ReportContent` object is small. Your mileage may vary.
 
 Now that we have defined a type for our report data, we can change the signature and the implementation of the `create()` methods in our Page Objects to use this type. Here's an example for the extended report:
 
@@ -399,9 +401,7 @@ and we can now add the following line to the abstract `ReportBasePage` class:
 abstract create(report: ReportContent): void;
 {% endhighlight %}
 
-to enforce all report Page Objects to implement a `create()` method that takes an argument of type `ReportContent`.
-
-We can do the same for other test data objects. Oh, and if you're storing your tests in the same repository as your application code, these test data objects might even exist already, in which case you might be able to reuse them. This is definitely worth checking, because why would we reinvent the wheel?
+to enforce all report Page Objects to implement a `create()` method that takes an argument of type `ReportContent`. We can follow the same steps for other test data objects.
 
 That was a lot of work, but it has led to code that is, in my opinion, well-structured and easy to read and maintain. As this blog post has hopefully shown, it is very useful to have a good working knowledge of common object-oriented programming principles and patterns when you're writing test code. This is especially true for UI automation, but many of the principles we have seen in this blog post can be applied to other types of test automation, too.
 
