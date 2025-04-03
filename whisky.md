@@ -17,5 +17,7 @@ Here are some of my favourite bottles that are widely available online, and prob
 
 #### A little more expensive
 * Arran 21 years
-* The Balvenie 14 years Caribbean Cask
-* The Balvenie 15 years Madeira Cask 
+* ~~The Balvenie 14 years Caribbean Cask~~
+* The Balvenie 15 years Madeira Cask
+
+Whiskies that are struck through are ones that I have in my collection at the moment.
