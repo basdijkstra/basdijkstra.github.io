@@ -11,7 +11,7 @@ tags:
 ---
 A few weeks ago, I ran a pair programming / mentoring session with someone who reached out to me because they felt they could use some support. When I first saw the code they wrote, I was pretty impressed.
 
-Sure, there were some things I would have done differently, but most of that was personal preference, not a matter of my way being better than their way objectively. Instead of working on their code directly, instead, we therefore decided to build up some test code together from zero, discussing and applying good programming principles and patterns along the way.
+Sure, there were some things I would have done differently, but most of that was personal preference, not a matter of my way being better than their way objectively. Instead of working on their code directly we decided to build up some test code together from zero, discussing and applying good programming principles and patterns along the way.
 
 As the tests were using Playwright in TypeScript, and were heavily oriented towards using the graphical user interface, we decided to start building a Page Object-based structure for a key component in their application.
 
