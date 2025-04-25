@@ -9,7 +9,7 @@ tags:
   - productized services
   - career
 ---
-In the last couple of weeks, I've spent much more time commuting than normal. I mostly work remotely these days, for clients both in the Netherlands and abroad. And I like it that way. Don't get me wrong, I like to drive, but commuting takes up a _lot_ of time, time I would rather spend in another way. Reading. Running. Sleeping. Finally getting back into chess.
+In the last couple of weeks, I've spent much more time commuting than normal. I mostly work remotely these days, for clients both in the Netherlands and abroad. And I like it that way. Don't get me wrong, I like to drive, but commuting takes up a _lot_ of time, time I would rather spend in another way. Reading. Long bike rides and walks. Sleeping. Learning Norwegian.
 
 Sometimes, spending time in the same room with the people you are working with is just much more fun and more efficient, though. Especially when I'm running a workshop or training session, or when I'm doing a talk, I strongly prefer to be in the same room as the participants / the audience. As I have been doing a lot of that in the last few weeks, spending more time on the road was inevitable.
 
