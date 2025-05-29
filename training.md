@@ -7,6 +7,8 @@ permalink: /training/
 
 _To go directly to the list of courses I offer, [please click here](#courses)._
 
+_If you'd like to read a little more about what others had to say about my courses before you decide to engage, [click here for testimonials](/training/testimonials)._
+
 _If you're looking for a more personalized learning experience for 1-3 of your engineers, [have a look at my mentoring services here](/mentoring)._
 
 Do you want to learn what it takes to become skilled in test automation? That's great, but please keep in mind that simply learning how to work with a tool or two is not enough to get there.
