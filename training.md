@@ -7,8 +7,6 @@ permalink: /training/
 
 _To go directly to the list of courses I offer, [please click here](#courses)._
 
-_If you want to read what others had to say about my courses, [click here](#testimonials)._
-
 _If you're looking for a more personalized learning experience for 1-3 of your engineers, [have a look at my mentoring services here](/mentoring)._
 
 Do you want to learn what it takes to become skilled in test automation? That's great, but please keep in mind that simply learning how to work with a tool or two is not enough to get there.
@@ -88,22 +86,3 @@ Can't find the training course or workshop you were looking for? I am happy to t
 Are you interested in having me as a trainer in your organization or at your conference? Feel free to email me at bas@ontestautomation.com, or use the contact form on [this page](/contact/).
 
 I’m looking forward to helping you improve your test automation efforts!
-
-
-### <a name="testimonials"></a>Testimonials
-
-_"I really enjoyed this course. I thought it was extremely valuable to have Bas there to answer questions and expand on his slides. One of the harder parts of learning material like this online through a youtube video for instance, is that you don't have anyone to bounce ideas off of really. This course not only let us bounce ideas off each other, but we could then confirm those with Bas. I hope we do more of these in the future."_
-
-_"Bas pretty much set the pace based on those in attendance. It was a conversation between all of us more than him lecturing and us listening. If we had questions during his presentation of material or during our hands on time, he was more than happy to assist. I felt he wanted to be sure we understood the content before moving on to something else. I also appreciated that he wanted to work around how we tested, what tools we use and our general level of experience as we progressed through the workshop."_
-
-_"All in all, this was a fantastic workshop. Though I am still very much a novice when it comes to API testing, I feel as though the past few weeks have set me on a much better course of learning and practicing this type of testing. It is definitely something I want to become more proficient in, and I really have to make it a point to spend time studying and practicing MUCH more often."_
-
-**-- Testers in the product support domain (US) --**
-
-_"I really enjoyed the Test Automation workshop held by Bas. It was not only engaging and well-structured, but also incredibly helpful in refreshing many key testing concepts I had forgotten over time.  What I appreciated the most was how clearly Bas explained complex ideas in a simple and relatable way. The workshop helped me gain a much better understanding of API testing and introduced me to contract testing—an area I didn't have much visibility into before.  Overall, the session was insightful, practical, and full of valuable takeaways. It definitely boosted my confidence and gave me a clearer picture of how these practices fit into a real-world automation strategy."_
-
-_"This workshop provided powerful information for us as QA engineers, a lot of content about API testing. Mostly I enjoyed the live examples and demos provided, Bas is truly an expert, he challenged our examples gracefully and answer our questions professionally."_
-
-_"I really enjoyed the workshop and found the content engaging. While many of the concepts were familiar to me, Bas offered fresh perspectives and explained everything in a way that was both clear and enjoyable to follow. The workshop was well-balanced and interactive, without ever feeling forced or pressured to interact. I appreciated both days and only have positive things to say about the overall experience. Thank you very much for this workshop!"_
-
-**-- Testers in the online gaming industry (RO) --**
