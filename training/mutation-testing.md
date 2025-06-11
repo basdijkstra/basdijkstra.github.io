@@ -9,7 +9,7 @@ Or, as the Roman Poet Juvenal put it much more eloquently:
 
 _Who guards the guards themselves?_
 
-One of the techniques that can help you, your team and organization get more insight into the quality of your automated tests is mutation testing.
+One of the techniques that can help you, your team and organization get more insight into the quality of your automated tests is **mutation testing**.
 
 In this workshop, you'll learn how mutation testing works, what it can do for you, and how to interpret the information given to you by a mutation testing tool and use that to improve the quality of your tests.
 
@@ -31,12 +31,12 @@ I can run this workshop both in C#, using [Stryker.NET](https://stryker-mutator.
 This workshop is aimed at software development and testing practitioners who want to learn more about mutation testing and how to use it to get more insight into and improve the quality of their tests. Some previous exposure to object-oriented software development and test automation will make it easier for you to follow along.
 
 #### Delivery and group size
-This workshop is a great fit both for an on-site or an online in-house workshop, as well as a half day conference tutorial. I recommend a maximum group size of around 15-20 people.
+This workshop is a great fit both for an on-site or an online in-house workshop and as a half day conference tutorial. I recommend a maximum group size of around 15-20 people.
 
 #### Duration
 The full workshop typically takes 3-4 hours. I recommend a length of at least 2 hours.
 
 #### Interested?
-If you would like to book me to run this workshop in your organization or at your conference, or if you have any additional questions, please send an email to bas@ontestautomation.com or use the contact form on [this page](/contact/).
+If you would like to book me to run this workshop in your organization or at your conference, or if you have any additional questions, please email bas@ontestautomation.com or use the contact form on [this page](/contact/).
 
 For an overview of all training courses and workshops I have on offer, please visit the main [training page](/training/).
