@@ -7,7 +7,7 @@ Here are some of the things past participants in my workshops and training cours
 
 After reading them, you can go back to the overview of the courses I offer [using this link](/training).
 
-### Training course testimonials (most recent first)
+## Training course testimonials (most recent first)
 
 _"Our company believes in the power of continuous learning, and this training delivered just that. Thoughtfully structured and rich in content, each module is built on the next, providing deep insights into essential areas like security and performance testing. Tools like REST Assured and key automation practices were valuable for our team. The instructor enhanced the learning experience by adjusting to our group's pace, encouraging open discussions, and thoughtfully addressing our questions. This was more than a training; it was an energizing knowledge exchange. It's a definite 10/10 for relevance and engagement."_
 
@@ -31,7 +31,7 @@ _"All in all, this was a fantastic workshop. Though I am still very much a novic
 
 **-- Testers in the product support domain (US) --**
 
-### Conference workshop feedback (most recent first)
+## Conference workshop feedback (most recent first)
 
 _"Bas gives energy to the floor and lets you do hands-on training to go directly into usable actions."_
 
