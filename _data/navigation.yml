@@ -2,12 +2,10 @@
 main:
   - title: "Training"
     url: /training/
-  - title: "Mentoring"
-    url: /mentoring/
   - title: "Consulting"
     url: /consulting/
-  - title: "Contract testing kickstart"
-    url: /contract-testing-kickstart/
+  - title: "Testimonials"
+    url: /testimonials/
   - title: "Blog"
     url: /blog/
   - title: "Contact"

@@ -1,13 +1,11 @@
 ---
-title: Testimonials for my training courses
+title: Testimonials
 layout: page
-permalink: /training/testimonials/
+permalink: /testimonials/
 ---
-Here are some of the things past participants in my workshops and training courses had to say about their experience.
+Here are some of the things people who joined in my [workshops and training courses](/training/), or who I worked with in a [consulting engagement](/consulting/), had to say about their experience.
 
-After reading them, you can go back to the overview of the courses I offer [using this link](/training).
-
-## Training course testimonials (most recent first)
+## Testimonials from training participants (most recent first)
 
 _"Our company believes in the power of continuous learning, and this training delivered just that. Thoughtfully structured and rich in content, each module is built on the next, providing deep insights into essential areas like security and performance testing. Tools like REST Assured and key automation practices were valuable for our team. The instructor enhanced the learning experience by adjusting to our group's pace, encouraging open discussions, and thoughtfully addressing our questions. This was more than a training; it was an energizing knowledge exchange. It's a definite 10/10 for relevance and engagement."_
 

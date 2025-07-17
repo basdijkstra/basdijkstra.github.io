@@ -7,7 +7,7 @@ permalink: /training/
 
 _To go directly to the list of courses I offer, [please click here](#courses)._
 
-_If you'd like to read a little more about what others had to say about my courses before you decide to engage, [click here for testimonials](/training/testimonials)._
+_If you'd like to read a little more about what others had to say about my courses before you decide to engage, [click here for testimonials](/testimonials.md)._
 
 _If you're looking for a more personalized learning experience for 1-3 of your engineers, [have a look at my mentoring services here](/mentoring)._
 
