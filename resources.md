@@ -3,10 +3,15 @@ title: Resources
 layout: page
 permalink: /resources/
 ---
+This page contains links to different types of content I have created throughout the years. Click the links below to have a look.
+
+* [Open source workshops](#workshops)
+* [Talks](#talks)
+* [Articles](#articles)
 
 <hr/>
 
-### Open source workshops
+### <a name="workshops"></a>Open source workshops
 
 Did you know that I am sharing some of the workshops that I have created and delivered in the past in an open source format?
 
@@ -32,6 +37,8 @@ Happy learning!
 
 <hr/>
 
+### <a name="talks"></a>Talks
+
 Here are video recordings from a couple of talks I did recently.
 
 {% include youtubePlayer.html id=page.video_api_security_testing %}
@@ -44,6 +51,8 @@ Here are video recordings from a couple of talks I did recently.
 **Mutation testing for fun and profit - Improving the quality of your unit tests** - <a href="https://testingstage.com/" target="_blank">TestingStage online conference</a> - 2023
 
 <hr/>
+
+### <a name="articles"></a>Articles
 
 Here's a (sort of) complete list of all articles I have written for various industry websites and magazines.
 
