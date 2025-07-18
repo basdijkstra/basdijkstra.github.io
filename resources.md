@@ -1,8 +1,50 @@
 ---
-title: Articles
+title: Resources
 layout: page
-permalink: /articles/
+permalink: /resources/
 ---
+
+<hr/>
+
+### Open source workshops
+
+Did you know that I am sharing some of the workshops that I have created and delivered in the past in an open source format?
+
+This means that everybody who wants to use, deliver and alter any of the material contained within any of these workshops is free to do so.
+
+<p><a href="https://github.com/basdijkstra/rest-assured-workshop" target="_blank" rel="noopener noreferrer" class="btn btn--primary">API testing in Java using REST Assured</a></p>
+
+<p><a href="https://github.com/basdijkstra/wiremock-workshop" target="_blank" rel="noopener noreferrer" class="btn btn--primary">API mocking in Java using WireMock</a></p>
+
+<p><a href="https://github.com/basdijkstra/rest-assured-net-workshop" target="_blank" rel="noopener noreferrer" class="btn btn--primary">API testing in C# using RestAssured.Net</a></p>
+
+<p><a href="https://github.com/basdijkstra/wiremock-net-workshop" target="_blank" rel="noopener noreferrer" class="btn btn--primary">API mocking in C# using WireMock.Net</a></p>
+
+<p><a href="https://github.com/basdijkstra/restsharp-workshop" target="_blank" rel="noopener noreferrer" class="btn btn--primary">API testing in C# using RestSharp</a></p>
+
+<p><a href="https://github.com/basdijkstra/requests-workshop" target="_blank" rel="noopener noreferrer" class="btn btn--primary">API testing in Python using requests</a></p>
+
+Why giving away this all for everybody for free? Consider this my way of giving back to the testing and test automation community, which has given and taught me so much during my career so far. Also, I'm a firm believer in
+
+> 'Give, and it shall be given unto you'
+
+Happy learning!
+
+<hr/>
+
+Here are video recordings from a couple of talks I did recently.
+
+{% include youtubePlayer.html id=page.video_api_security_testing %}
+**Are you sure your APIs are secure?** - <a href="https://www.lambdatest.com/testmuconf-2024/" target="_blank">TestMu online conference</a> - 2024
+
+{% include youtubePlayer.html id=page.video_contract_testing %}
+**Solving the Integration Testing Puzzle with Contract Testing** - <a href="https://www.lambdatest.com/voices-of-community" target="_blank">LambdaTest Voices of Community webinar</a> - 2023
+
+{% include youtubePlayer.html id=page.video_mutation_testing %}
+**Mutation testing for fun and profit - Improving the quality of your unit tests** - <a href="https://testingstage.com/" target="_blank">TestingStage online conference</a> - 2023
+
+<hr/>
+
 Here's a (sort of) complete list of all articles I have written for various industry websites and magazines.
 
 Have you read some of them? I would love to hear your thoughts!

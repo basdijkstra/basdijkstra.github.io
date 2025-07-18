@@ -8,13 +8,9 @@ main:
     url: /testimonials/
   - title: "Blog"
     url: /blog/
+  - title: "Resources"
+    url: /resources/
   - title: "Contact"
     url: /contact/
   - title: "About"
     url: /about/
-  - title: "Open source workshops"
-    url: /open-source-workshops/
-  - title: "Talks"
-    url: /talks/
-  - title: "Articles"
-    url: /articles/
