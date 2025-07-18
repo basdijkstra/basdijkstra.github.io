@@ -50,6 +50,8 @@ footer:
     - label: RSS (blog)
       icon: "fas fa-fw fa-rss"
       url: "https://www.ontestautomation.com/feed.xml"
+    - label: Privacy policy
+      url: "https://www.ontestautomation.com/privacy-policy/"
 defaults:
   # _posts
   - scope:
