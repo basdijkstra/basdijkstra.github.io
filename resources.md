@@ -4,11 +4,11 @@ layout: page
 permalink: /resources/
 ---
 <section>
-    <a href="https://learn.ontestautomation.com" class="btn btn--primary" target="_blank">How to get valuable feedback fast from your test automation</a>
-</section>
-<section>
     <p>Discover a practical, real-world strategy for development and QA teams to stop spinning their wheels and start making test automation actually work.</p>
     <p><ul><li>Know why your automation matters - and what success really looks like</li><li>Cut waste by automating what actually delivers value</li><li>Learn how high-performing teams run automation that doesn't become a bottleneck</li></ul></p>
+</section>
+<section>
+    <a href="https://learn.ontestautomation.com" class="btn btn--primary" target="_blank">How to get valuable feedback fast from your test automation</a>
 </section>
 
 <hr/>
