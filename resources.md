@@ -13,11 +13,10 @@ permalink: /resources/
 
 <hr/>
 
-### Resources
-
 This page contains links to different types of content I have created throughout the years. Click the links below to have a look.
 
 * [Open source workshops](#workshops)
+* [Ebooks](#ebooks)
 * [Talks](#talks)
 * [Articles](#articles)
 
@@ -46,6 +45,17 @@ Why giving away this all for everybody for free? Consider this my way of giving 
 > 'Give, and it shall be given unto you'
 
 Happy learning!
+
+<hr/>
+
+### <a name="ebooks"></a>Ebooks
+
+I have written a couple of short ebooks, available for free:
+
+<table>
+    <tr><td style="border: none; width: 20%"><a href="https://huddle.eurostarsoftwaretesting.com/resources/test-automation/a-test-automation-learning-path/" target="_blank"><img src="images/ebook_ta.png"/></a></td><td style="border: none;"><p style="font-weight: bold">A Test Automation Learning Path (2020)</p><p>For those of you looking to take your first or your next step in becoming a (better) test automation engineer, I'm presenting a learning path in this ebook that is meant to give you some guidance along the way, as well as pointers to helpful resources. Spoiler alert: there's much more to it than just learning the ins and outs of a specific tool!</p><p>This ebook is published by the team at EuroSTAR Huddle.</p></tr>
+    <tr><td style="border: none; width: 20%"><a href="files/sv_ebook.pdf" target="_blank"><img src="images/ebook_sv.png"/></a></td><td style="border: none;"><p style="font-weight: bold">Service Virtualization - Implementation, Practices and Trends for On-Demand Test Environments (2016)</p><p>If you're looking for a comprehensive introduction to service virtualization and how it can help you test earlier, more and more often, this ebook is exactly what you're looking for.</p><p>This ebook is written in collaboration with and published by Hewlett Packard Enterprise.</p></tr>
+</table>
 
 <hr/>
 
