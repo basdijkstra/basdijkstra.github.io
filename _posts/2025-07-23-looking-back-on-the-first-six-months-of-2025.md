@@ -20,7 +20,7 @@ Surprisingly, the people and companies I talked to have responded in a really, r
 
 One thing I did have get comfortable with, and that's still work in progress, is talking about these high-ticket proposals, and especially the money that is involved with it. With hourly billing, it's only a matter of saying 'my rate is EUR 120 per hour' (my most recent and hopefully last ever hourly rate).
 
-With value-based proposals, you're easily talking about 5-figure, sometimes even 6-figure amounts, and getting comfortable with proposing those amounts is something that takes some time getting comfortable with, and for me, that's definitely still work in progress.
+With value-based proposals, you're easily talking about 5-figure, sometimes even 6-figure amounts, and getting comfortable proposing those amounts is something that takes some time getting comfortable with, and for me, that's definitely still work in progress.
 
 The good news is, I am learning _so_ much in the process, and that alone has been invaluable. Did I do all of that by myself? Definitely not. I'm receiving support and guidance from [two absolutely wonderful consultants](https://coliberate.ventures/){:target="_blank"}.
 
@@ -40,9 +40,11 @@ Looking at the numbers, here too I am on track to equal the amount of talks I di
 
 Given everything else that I am working on, I won't be focusing too much on public speaking, but I'm always happy to talk options if people reach out. I am standing by [my decision not to travel just for a conference](/on-working-and-contributing-to-conferences-abroad/) anymore, though.
 
+Speaking of travel, public speaking did bring me to two places abroad so far: Denmark (for a company event with Q Nation) and Scotland (for EuroSTAR).
+
 ### What else is in store for 2025?
 For my professional life, the above pretty much sums up my plans for the rest of the year, and probably for 2026, too. Moving towards value-based consulting, regularly delivering training sessions, plus a bit of public speaking here and there.
 
 What I _do_ want to change, though, is the amount of hours I am working. While I wouldn't call myself a 'busy' person (in fact, I resent that word), I want to free up more time for things outside of work. More specifically, I want to spend more time working on my physical fitness, riding my racing bike, as well as getting back into long-distance running properly. Those things take time, and I would love if part of that time spent was during weekday business hours, so I don't have to do everything in the evenings and on the weekends.
 
-One of the reasons I started working as an independent consultant was to have a more flexible lifestyle, and it's time to starting walking that talk. Of course, I can only properly do that once my schedule, and more importantly, the amount of work and the revenue it will bring in, is in order, but the outlook is pretty positive. I am looking forward to the months to come.
+One of the reasons I started working as an independent consultant was to have a more flexible lifestyle, and it's time to start walking that talk. Of course, I can only properly do that once my schedule, and more importantly, the amount of work and the revenue it will bring in, is in order, but the outlook is pretty positive. I am looking forward to the months to come.
