@@ -21,7 +21,7 @@ author_profile: true
 author:
   name     : "Bas Dijkstra"
   avatar   : "/images/bas.png"
-  bio      : "Helping individuals, teams and organizations in taking the next step in test automation"
+  bio      : "I help you to improve your test automation efforts and get valuable product feedback, fast"
   location : "Amersfoort, the Netherlands"
   links:
     - label: Email
