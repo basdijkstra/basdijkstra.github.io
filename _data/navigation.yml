@@ -4,13 +4,15 @@ main:
     url: /training/
   - title: "Consulting"
     url: /consulting/
+  - title: "Mentoring"
+    url: /mentoring/
   - title: "Testimonials"
     url: /testimonials/
   - title: "Blog"
     url: /blog/
-  - title: "Resources"
-    url: /resources/
   - title: "Contact"
     url: /contact/
   - title: "About"
     url: /about/
+  - title: "Resources"
+    url: /resources/
