@@ -70,7 +70,7 @@ public void depositIntoCheckingAccount_whenRetrieved_shouldShowUpdatedBalance() 
 }
 {% endhighlight %}
 
-For clarity, the `createAccount()` method in the client class making the actual HTTP POST call to create a new account looks like this:
+The `createAccount()` method in the client class making the actual HTTP POST call to create a new account looks like this:
 
 {% highlight java %}
 public int createAccount(AccountDto account) {
@@ -182,6 +182,6 @@ Definitely a step in the right direction, as we now have a test that does not ju
 
 ### Try it out for yourself!
 
-If you'd like to try out mutation testing using the codebase I used in this blog post yourself, it is available on GitHub. Everything is included: the API under test, the acceptance tests, and PIT, the mutation testing tool I used here.
+If you'd like to try out mutation testing using the codebase I used in this blog post yourself, [it is available on GitHub](https://github.com/basdijkstra/introduction-to-mutation-testing){:target="_blank"}. Everything is included: the API under test, the acceptance tests, and PIT, the mutation testing tool I used here.
 
 If you'd rather have me come into your company or event to run a workshop based on what you've seen here, I'm happy to talk options. I can run the workshop in Java, but we can use C#, too.
