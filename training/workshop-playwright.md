@@ -28,6 +28,8 @@ This course is aimed at software testers and developers that want to learn more 
 
 Some prior knowledge of both web and API automation, as well as being comfortable writing and running object-oriented code is beneficial. I am confident, however, that even without this you will find this workshop to be very useful.
 
+For those who would like to dive deeper into test automation with Playwright after this workshop, I can recommend (and combine this workshop with) my '[Improving your Playwright code](/training/improving-your-playwright-code/)' workshop. 
+
 #### Delivery and group size
 This workshop is a great fit both for an on site or an online in house training session, as well as a half or full day conference tutorial. I recommend a maximum group size of around 15-20 people.
 

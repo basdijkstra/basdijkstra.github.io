@@ -87,6 +87,8 @@ These half- to full-day workshops are perfect if you're looking to get a kicksta
 
 <a href="/training/workshop-playwright/" class="btn btn--primary">Test automation with Playwright</a>
 
+<a href="/training/improving-your-playwright-code/" class="btn btn--primary">Improving your Playwright code</a>
+
 <a href="/training/workshop-git-and-cicd/" class="btn btn--primary">Git and CI/CD with GitHub Actions or Azure DevOps</a>
 
 <a href="/training/mutation-testing/" class="btn btn--primary">Mutation testing</a>
