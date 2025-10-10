@@ -3,18 +3,7 @@ title: Consulting
 layout: page
 permalink: /consulting/
 ---
-Is your team or organization thinking about introducing test automation as a means of performing specific testing tasks more efficiently? Do you feel that your current test automation efforts do not live up to their potential?
-
-I have about 18 years of experience in designing and implementing test automation solutions that work, with a wide range of clients in various fields in the Netherlands as well as abroad. Over the years, I've:
-
-* helped clients get unstuck in their test automation efforts through assessments and coaching
-* implemented test automation strategies that are efficient and agile for teams and entire organizations
-* built test automation solutions that work from scratch and taught teams and organizations how to do the same
-
-One of my strongest qualities is the ability to break seemingly difficult problems down into small, actionable tasks. I communicate effectively across the organization, from boardroom to team room.
-
-### Defining or assessing a test automation strategy
-Being successful with test automation requires more, much more than throwing tools at problems. I can help you dig deeper into your automation efforts and craft and implement a holistic test automation strategy, based on [the Kipling method](https://projectofhow.com/methods/the-kipling-method/){:target="_blank"}.
+Being successful with test automation requires more, much more than throwing tools at problems. I can help you dig deeper into your automation efforts and craft and implement a holistic test automation strategy, based on [the 5W1H or Kipling method](https://projectofhow.com/methods/the-kipling-method/){:target="_blank"}.
 
 * **Why** are you investing your time, effort and money in test automation? What are you looking to get out of it?
 * **What** testing tasks or types of tests are you going to automate? Regression tests? Test data preparation? Something else? What are you _not_ going to automate?
@@ -23,4 +12,55 @@ Being successful with test automation requires more, much more than throwing too
 * **Who** is going to write and maintain the automation? Testers? Developers? The team? Does the skill set of these people match these ambitions?
 * **How** are you going to automate? What are the tools you have to or want to use? How are you going to automate the process of running tests and reporting on results?
 
+Here's what a consulting engagement with me _could_ look like. However, I am happy to craft a customized proposal to align with your specific requirements.
+
 If you would like to have a chat and see how I can help you, please contact me using the [contact form](/contact/) on this site, or email me at bas@ontestautomation.com. I'm looking forward to working with you.
+
+### **Phase 1: Diagnose**
+
+**Timeline**: 1-2 weeks
+
+**Purpose**: Assess your current test automation strategy to uncover key bottlenecks and build a targeted learning plan that sets up your team for faster, more reliable delivery.
+
+**Key Activities**:
+* Conduct stakeholder interviews across development, product, and tech leadership
+* Audit current test automation strategy using the aforementioned 5W1H or Kipling method
+* Identify product and process bottlenecks and pain points
+
+**Deliverables**:
+* **Audit report** of your test automation strategy, covering all aspects of the 5W1H strategy, so you know what's going well and where there’s room for improvement
+* **Strategic roadmap** containing actionable next steps, so you can start improving your test automation efforts right away
+* Up to five (5) **60-min stakeholder interviews** across development, product, and tech leadership to surface pain points, goals, and alignment gaps across teams.
+
+### **Phase 2: Upskill**
+
+**Timeline**: 2-4 weeks
+
+**Purpose**: Upskill your development team with hands-on training in modern test automation practices, so they can confidently implement improvements.
+
+**Key Activities**:
+* Create bespoke learning plans for your development team(s)
+* Facilitate interactive workshops and targeted training sessions to give your engineers the skills they need
+* Get hands-on experience with new test automation tools and technique, using real project scenarios
+
+**Deliverables**:
+* **Bespoke learning plans** for development teams, so engineers know exactly what they need to learn to improve automation value, efficiency, and coverage, and how to apply that in their context.
+* **Up to eight (8) hands-on, practical, 4-hour workshops** for up to 12 team members, so your team builds practical test automation skills they can immediately apply on the job.
+* **Workshop summaries and reference materials** so your team can revisit key concepts, reinforce learning, and apply skills long after the training ends.
+
+### **Phase 3: Execute**
+
+**Timeline**: 6-12 weeks
+
+**Purpose**: Apply the skills learned in the previous phase to address the challenges identified in phase 1 and make tangible steps towards you getting more valuable feedback, faster.
+
+**Key Activities**:
+* Run pair- and ensemble programming sessions to implement the improvements in your technology stack
+* Introduce new tools and techniques that support the updated automation strategy
+* Improve your test automation code to make your tests more efficient and easier to read and maintain
+
+**Deliverables**:
+* **A suite of automated tests** providing valuable feedback, fast, under version control, running in a build pipeline.
+* Engineers with the **skills to maintain and extend these tests independently**.
+* 1-2 weekly **pair or ensemble programming sessions** (2-4 hours in length) with your development team, so we can apply the learnings from the Upskill phase in real time and resolve the technical bottlenecks uncovered during Diagnose.
+* **On-the-job coaching** through pair programming that builds long-term ownership, so your team can confidently maintain and extend your automation suite independently.
