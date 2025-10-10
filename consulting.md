@@ -12,13 +12,13 @@ Being successful with test automation requires more, much more than throwing too
 * **Who** is going to write and maintain the automation? Testers? Developers? The team? Does the skill set of these people match these ambitions?
 * **How** are you going to automate? What are the tools you have to or want to use? How are you going to automate the process of running tests and reporting on results?
 
-### Example consulting engagement
+## Example consulting engagement
 
 Here's what working with me _could_ look like. However, I am happy to craft a customized proposal to align with your specific requirements.
 
 If you would like to have a chat and see how I can help you, please contact me using the [contact form](/contact/) on this site, or email me at bas@ontestautomation.com. I'm looking forward to working with you.
 
-#### **Phase 1: Diagnose**
+#### Phase 1: Diagnose
 
 **Timeline**: 1-2 weeks
 
@@ -34,7 +34,7 @@ If you would like to have a chat and see how I can help you, please contact me u
 * <u>Strategic roadmap</u> containing actionable next steps, so you can start improving your test automation efforts right away
 * Up to five (5) <u>60-min stakeholder interviews</u> across development teams and tech leadership to surface pain points, goals, and alignment gaps across teams.
 
-#### **Phase 2: Upskill**
+#### Phase 2: Upskill
 
 **Timeline**: 2-4 weeks
 
@@ -50,7 +50,7 @@ If you would like to have a chat and see how I can help you, please contact me u
 * Up to eight (8) <u>hands-on, practical, 4-hour workshops</u> for up to 12 team members, so your team builds practical test automation skills they can immediately apply on the job.
 * <u>Workshop summaries and reference materials</u> so your team can revisit key concepts, reinforce learning, and apply skills long after the training ends.
 
-#### **Phase 3: Execute**
+#### Phase 3: Execute
 
 **Timeline**: 6-12 weeks
 
