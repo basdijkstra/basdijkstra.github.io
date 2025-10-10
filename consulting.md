@@ -3,7 +3,7 @@ title: Consulting
 layout: page
 permalink: /consulting/
 ---
-Being successful with test automation requires more, much more than throwing tools at problems. I can help you dig deeper into your automation efforts and craft and implement a holistic test automation strategy, based on [the 5W1H or Kipling method](https://projectofhow.com/methods/the-kipling-method/){:target="_blank"}.
+Being successful with test automation requires more, much more than throwing tools at problems. I can help you dig deeper into your automation efforts, identify and resolve bottlenecks, and craft and implement a holistic test automation strategy, based on [the 5W1H or Kipling method](https://projectofhow.com/methods/the-kipling-method/){:target="_blank"}.
 
 * **Why** are you investing your time, effort and money in test automation? What does the goal of [obtaining valuable feedback, fast](/the-test-automation-quadrant/) look like for you?
 * **What** testing tasks or types of tests are you going to automate? Regression tests? Test data preparation? Something else? What are you _not_ going to automate?
