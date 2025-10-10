@@ -5,12 +5,12 @@ permalink: /consulting/
 ---
 Being successful with test automation requires more, much more than throwing tools at problems. I can help you dig deeper into your automation efforts and craft and implement a holistic test automation strategy, based on [the 5W1H or Kipling method](https://projectofhow.com/methods/the-kipling-method/){:target="_blank"}.
 
-* **Why** are you investing your time, effort and money in test automation? What are you looking to get out of it?
+* **Why** are you investing your time, effort and money in test automation? What does the goal of [obtaining valuable feedback, fast](/the-test-automation-quadrant/) look like for you?
 * **What** testing tasks or types of tests are you going to automate? Regression tests? Test data preparation? Something else? What are you _not_ going to automate?
 * **When** are you going to write, run and maintain your test code and assets? How are you going to make sure that happens as close to development as possible?
-* **Where** are you going to automate? Which components, systems and layers lend themselves well to automation? How can you improve testability / automatability?
+* **Where** are you going to automate? Which components, systems and layers lend themselves well to automation? How can you improve testability to be able to [break down your E2E tests where possible](/breaking-down-your-e2e-tests-an-example/)?
 * **Who** is going to write and maintain the automation? Testers? Developers? The team? Does the skill set of these people match these ambitions?
-* **How** are you going to automate? What are the tools you have to or want to use? How are you going to automate the process of running tests and reporting on results?
+* **How** are you going to automate? What are the tools you have to or want to use? Which [common test automation patterns](/building-and-improving-page-objects-one-step-at-a-time/) will be helpful? How are you going to [automate the process of running tests](/first-things-first-automate-the-execution-of-your-tests/) and reporting on results?
 
 ## Example consulting engagement
 
