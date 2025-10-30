@@ -49,13 +49,16 @@ If you prefer self-paced learning, I have also created a video course that you c
 
 <hr/>
 
-##### Improving your test automation code
+##### Playwright
+<a href="https://playwright.dev">Playwright</a> has quickly become the test automation tool of choice for many companies. If your team or company wants to learn how to get started with Playwright, too, my introductory course will be a great fit:
 
-While there are many test automation solutions out there promising that 'everybody can write tests with our tool', knowing how to build maintainable scalable test automation solutions requires a healthy dose of fundamental object-oriented programming skills.
+<a href="/training/workshop-playwright/" class="btn btn--primary">Test automation with Playwright</a>
 
-In this course, we'll go through many fundamental programming principles, and you'll learn when and how to apply them to your advantage when writing test code, but also when writing application code or discussing that application code with a fellow developer.  
+If you have some Playwright experience under your belt already, and you want to learn how to get more out of the library and improve your existing Playwright-based tests, I have just the course for that, too: 
 
-<a href="/training/improving-your-test-automation-code/" class="btn btn--primary">Improving your test automation code (1 day)</a>
+<a href="/training/improving-your-playwright-code/" class="btn btn--primary">Improving your Playwright code</a>
+
+Both courses can also be combined into a single, comprehensive Playwright course that'll teach you everything you need to know to become successful with your test automation in Playwright.
 
 <hr/>
 
@@ -70,16 +73,14 @@ In this course, you'll not only learn what the 'textbook' BDD process looks like
 
 <hr/>
 
-##### Workshops
+##### Miscellaneous workshops
 These half- to full-day workshops are perfect if you're looking to get a kickstart with a new tool or technique. And if you're a conference organizer: these workshops work really well as part of conferences, too!
 
-<a href="/training/workshop-playwright/" class="btn btn--primary">Test automation with Playwright</a>
+<a href="/training/mutation-testing/" class="btn btn--primary">Mutation testing</a>
 
-<a href="/training/improving-your-playwright-code/" class="btn btn--primary">Improving your Playwright code</a>
+<a href="/training/improving-your-test-automation-code/" class="btn btn--primary">Improving your test automation code (1 day)</a>
 
 <a href="/training/workshop-git-and-cicd/" class="btn btn--primary">Git and CI/CD with GitHub Actions or Azure DevOps</a>
-
-<a href="/training/mutation-testing/" class="btn btn--primary">Mutation testing</a>
 
 <hr/>
 
