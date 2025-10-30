@@ -24,12 +24,14 @@ I have delivered my training courses and workshops to many companies around the 
 
 <p align="center"><img alt="Bas teaching a workshop at the 2019 Romanian Testing Conference" src="/images/bas_teaching.png" width="50%"/></p>
 
-### <a name="courses"></a>Courses
+## <a name="courses"></a>My courses
 
 ##### Bootcamp for test automation engineers / SDETs
 Over 18 years of working in the test automation space has taught me many, many things, and this bootcamp combines these lessons into a single, coherent course.
 
 <a href="/training/test-automation-bootcamp/" class="btn btn--primary">Test automation bootcamp (5 days)</a>
+
+<hr/>
 
 ##### API testing and development
 With software systems becoming ever more distributed, every modern software tester should know how to work with APIs in their testing, as well as how to design, write and execute tests for APIs.
@@ -48,6 +50,8 @@ To learn more about building a solid API testing strategy from the ground up, wo
 
 <a href="/training/building-and-testing-an-api/" class="btn btn--primary">Building and testing an API (2-3 days)</a>
 
+<hr/>
+
 ##### Contract testing
 With the rise of distributed and microservices-based software systems, the challenge of performing efficient integration testing early and often in the SDLC is becoming ever more difficult to tackle.
 
@@ -59,6 +63,8 @@ If you prefer self-paced learning, I have also created a video course that you c
 
 <a href="https://ontestautomation.teachable.com/p/practical-contract-testing-with-pact" class="btn btn--primary">Enroll in my 'Practical contract testing with Pact' course now!</a>
 
+<hr/>
+
 ##### Improving your test automation code
 
 While there are many test automation solutions out there promising that 'everybody can write tests with our tool', knowing how to build maintainable scalable test automation solutions requires a healthy dose of fundamental object-oriented programming skills.
@@ -66,6 +72,8 @@ While there are many test automation solutions out there promising that 'everybo
 In this course, we'll go through many fundamental programming principles, and you'll learn when and how to apply them to your advantage when writing test code, but also when writing application code or discussing that application code with a fellow developer.  
 
 <a href="/training/improving-your-test-automation-code/" class="btn btn--primary">Improving your test automation code (1 day)</a>
+
+<hr/>
 
 ##### Behaviour-Driven Development
 Creating high quality software starts with a shared understanding between stakeholders about what that software is supposed to do. Behaviour-Driven Development or BDD is a popular technique to facilitate the creation of this shared understanding.
@@ -75,6 +83,8 @@ Unfortunately, BDD is still often misunderstood and badly implemented, leading t
 In this course, you'll not only learn what the 'textbook' BDD process looks like, but you'll also learn about common BDD pitfalls and how to avoid them.  
 
 <a href="/training/behaviour-driven-development/" class="btn btn--primary">Behaviour-Driven Development (BDD) (2 days)</a>
+
+<hr/>
 
 ##### Workshops
 These half- to full-day workshops are perfect if you're looking to get a kickstart with a new tool or technique. And if you're a conference organizer: these workshops work really well as part of conferences, too!
@@ -86,6 +96,8 @@ These half- to full-day workshops are perfect if you're looking to get a kicksta
 <a href="/training/workshop-git-and-cicd/" class="btn btn--primary">Git and CI/CD with GitHub Actions or Azure DevOps</a>
 
 <a href="/training/mutation-testing/" class="btn btn--primary">Mutation testing</a>
+
+<hr/>
 
 ##### Customization
 Can't find the training course or workshop you were looking for? I am happy to talk to you to see if together, we can create a **bespoke training course** (or even a complete curriculum of courses) that fits your training needs like a glove.
