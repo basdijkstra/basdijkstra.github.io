@@ -4,16 +4,6 @@ layout: page
 permalink: /training/
 ---
 
-<section>
-    <p>Want to learn what contract testing is, how it addresses integration testing issues in distributed software systems, and how Pact and the tools in the Pact ecosystem can help you implement contract testing?</p>
-    <p>My online, self-paced video course on contract testing is exactly what you're looking for.</p>
-</section>
-<section>
-    <a href="https://ontestautomation.teachable.com/p/practical-contract-testing-with-pact" class="btn btn--primary" target="_blank">Enroll in my 'Practical contract testing with Pact' course now!</a>
-</section>
-
-<hr/>
-
 _To go directly to the list of courses I offer, [please click here](#courses)._
 
 _If you'd like to read a little more about what others had to say about my courses before you decide to engage, [click here for testimonials](/testimonials.md)._
@@ -64,6 +54,10 @@ With the rise of distributed and microservices-based software systems, the chall
 Contract testing is an approach that is quickly gaining traction as a way out of 'integration testing hell'. In this practical and very hands-on training, you'll learn everything you need to know to make your contract testing efforts successful.
 
 <a href="/training/contract-testing/" class="btn btn--primary">Contract testing (1 day)</a>
+
+If you prefer self-paced learning, I have also created a video course that you can enroll in. Learn more about contract testing in your own time, at your own pace!
+
+<a href="https://ontestautomation.teachable.com/p/practical-contract-testing-with-pact" class="btn btn--primary">Enroll in my 'Practical contract testing with Pact' course now!</a>
 
 ##### Improving your test automation code
 
