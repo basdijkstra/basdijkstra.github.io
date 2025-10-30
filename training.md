@@ -4,27 +4,9 @@ layout: page
 permalink: /training/
 ---
 
-_To go directly to the list of courses I offer, [please click here](#courses)._
-
 _If you'd like to read a little more about what others had to say about my courses before you decide to engage, [click here for testimonials](/testimonials.md)._
 
 _If you're looking for a more personalized learning experience for 1-3 of your engineers, [have a look at my mentoring services here](/mentoring)._
-
-Do you want to learn what it takes to become skilled in test automation? That's great, but please keep in mind that simply learning how to work with a tool or two is not enough to get there.
-
-You'll need to learn fundamental software testing _and_ software development skills if you want to be a valuable and in-demand automation practitioner.
-
-This is the reason that all of my training courses share a common fundamental trait:
-
->Principles and patterns over tools and tricks
-
-I've been a practitioner in the test automation space since 2006 and have worked with a wide range of clients and tools, so I've seen what works and what doesn't.
-
-I have delivered my training courses and workshops to many companies around the world, as well as at a range of internationally recognized conferences, to excellent reviews.
-
-<p align="center"><img alt="Bas teaching a workshop at the 2019 Romanian Testing Conference" src="/images/bas_teaching.png" width="50%"/></p>
-
-## <a name="courses"></a>My courses
 
 ##### Bootcamp for test automation engineers / SDETs
 Over 18 years of working in the test automation space has taught me many, many things, and this bootcamp combines these lessons into a single, coherent course.
