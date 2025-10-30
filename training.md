@@ -8,6 +8,8 @@ _If you'd like to read a little more about what others had to say about my cours
 
 _If you're looking for a more personalized learning experience for 1-3 of your engineers, [have a look at my mentoring services here](/mentoring)._
 
+<hr/>
+
 ##### Bootcamp for test automation engineers / SDETs
 Over 18 years of working in the test automation space has taught me many, many things, and this bootcamp combines these lessons into a single, coherent course.
 
