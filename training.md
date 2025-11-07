@@ -11,7 +11,7 @@ _If you're looking for a more personalized learning experience for 1-3 of your e
 <hr/>
 
 ##### Bootcamp for test automation engineers / SDETs
-Over 18 years of working in the test automation space has taught me many, many things, and this bootcamp combines these lessons into a single, coherent course.
+Almost 20 years of working in the test automation space has taught me many, many things, and this bootcamp combines these lessons into a single, coherent course.
 
 <a href="/training/test-automation-bootcamp/" class="btn btn--primary">Test automation bootcamp (5 days)</a>
 
@@ -76,11 +76,11 @@ In this course, you'll not only learn what the 'textbook' BDD process looks like
 ##### Miscellaneous workshops
 These half- to full-day workshops are perfect if you're looking to get a kickstart with a new tool or technique. And if you're a conference organizer: these workshops work really well as part of conferences, too!
 
-<a href="/training/mutation-testing/" class="btn btn--primary">Mutation testing</a>
+<a href="/training/mutation-testing/" class="btn btn--primary">Mutation testing (0,5 day)</a>
 
 <a href="/training/improving-your-test-automation-code/" class="btn btn--primary">Improving your test automation code (1 day)</a>
 
-<a href="/training/workshop-git-and-cicd/" class="btn btn--primary">Git and CI/CD with GitHub Actions or Azure DevOps</a>
+<a href="/training/workshop-git-and-cicd/" class="btn btn--primary">Git and CI/CD with GitHub Actions or Azure DevOps (1 day)</a>
 
 <hr/>
 
