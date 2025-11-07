@@ -13,4 +13,4 @@ You can find a complete overview of my professional life on [my LinkedIn profile
 
 I'm also the developer of [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net/){:target="_blank"}, a library that is meant to make writing tests for HTTP APIs in C# a breeze.
 
-I live in Amersfoort, The Netherlands, together with my wife and two sons. When I am not at work, I like to go outside for a long bike ride, or to sit down and play a game of chess or read a good book. 
+I live in Amersfoort, The Netherlands, together with my wife and two sons. When I am not at work, I like to go outside for a long bike ride, or to sit down and read a good book.
