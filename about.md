@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Hey, my name is Bas Dijkstra, and I am an independent test automation consultant and trainer.
 
-I have been active in the test automation field for some 19 years now, and have worked on software testing and automation solutions across a wide range of programming languages, frameworks and technology stacks. 
+I have been active in the test automation field for almost 20 years now, and have worked on software testing and automation solutions across a wide range of programming languages, frameworks and technology stacks. 
 
 I've delivered test automation [training](/training/) to dozens of companies and hundreds of conference attendees in the Netherlands as well as abroad, [to excellent reviews](/testimonials.md).
 
