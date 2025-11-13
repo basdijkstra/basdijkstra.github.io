@@ -27,6 +27,9 @@ author:
     - label: Get in touch
       icon: "fas fa-fw fa-envelope"
       url: "https://www.ontestautomation.com/contact/"
+    - label: Book a meeting
+      icon: "fas fa-fw fa-clock"
+      url: "https://www.ontestautomation.com/meeting/"
     - label: LinkedIn
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/basdijkstra/"
