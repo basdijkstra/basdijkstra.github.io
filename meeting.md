@@ -48,6 +48,6 @@ When you book a 90-minute meeting with me, I can:
 * If you need an invoice for this payment for your administration, I am happy to provide you with one.
 * If you can't find a time that works for you, for example because of time zone differences, please [contact me](/contact/) and we'll figure something out  
 * Unhappy with the outcome of our conversation? I'm happy to give you a **full refund**, no questions asked
-* All resources (slide decks, videos, code, ...) I use in our meeting are included in the price
+* All resources (slide decks, videos, code, ...) I use in our meeting are included in the price and will be sent to you after our meeting
 * The meetings take place via Zoom, and they can be recorded and the recording shared with you on request
 * If our conversation leads to further paid work with you or through you, I'll consider the payment for the meeting an advance on the payment for the work (i.e., the meeting is free in that case)
