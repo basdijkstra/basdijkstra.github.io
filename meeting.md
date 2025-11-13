@@ -7,9 +7,11 @@ Would you like to book me to do a virtual talk for your team or company?
 
 Are you building a new test automation tool or platform, and would you like some honest feedback?
 
-Do you have questions about your current test automation strategy, and would you like the unbiased opinion from an experienced third party?
+Do you have questions about your current test automation strategy, and would you like the unbiased opinion from an experienced outsider?
 
-You can book a paid 30-, 60- or 90-minute meeting with me using the buttons below. I'm looking forward to our conversation.
+You can book a 30-, 60- or 90-minute meeting with me using the buttons below. Please make sure to read the [terms and conditions](#terms-and-conditions) before you book.
+
+I'm looking forward to our conversation.
 
 <hr/>
 
@@ -40,8 +42,10 @@ When you book a 90-minute meeting with me, I can:
 
 <hr/>
 
-#### Terms and conditions
+#### <a name="terms-and-conditions"></a>Terms and conditions
 
+* Payment for the meeting is to be made in advance, in full, through PayPal. No exceptions.
+* If you need an invoice for this payment for your administration, I am happy to provide you with one.
 * Unhappy with the outcome of our conversation? I'm happy to give you a **full refund**, no questions asked
 * All resources (slide decks, videos, code, ...) I use in our meeting are included in the price
 * The meetings take place via Zoom, and they can be recorded and the recording shared with you on request
