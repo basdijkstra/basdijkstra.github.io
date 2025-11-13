@@ -6,6 +6,8 @@ main:
     url: /consulting/
   - title: "Mentoring"
     url: /mentoring/
+  - title: "Book time with me"
+    url: /meeting/
   - title: "Testimonials"
     url: /testimonials/
   - title: "Blog"
