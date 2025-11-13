@@ -24,9 +24,9 @@ author:
   bio      : "I help you to improve your test automation efforts and get valuable product feedback, fast"
   location : "Amersfoort, the Netherlands"
   links:
-    - label: Email
+    - label: Get in touch
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:bas@ontestautomation.com"
+      url: "https://www.ontestautomation.com/contact/"
     - label: LinkedIn
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/basdijkstra/"
