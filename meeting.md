@@ -46,6 +46,7 @@ When you book a 90-minute meeting with me, I can:
 
 * Payment for the meeting is to be made in advance, in full, through PayPal. No exceptions.
 * If you need an invoice for this payment for your administration, I am happy to provide you with one.
+* If you can't find a time that works for you, for example because of time zone differences, please [contact me](/contact/) and we'll figure something out  
 * Unhappy with the outcome of our conversation? I'm happy to give you a **full refund**, no questions asked
 * All resources (slide decks, videos, code, ...) I use in our meeting are included in the price
 * The meetings take place via Zoom, and they can be recorded and the recording shared with you on request
