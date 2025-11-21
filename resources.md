@@ -97,7 +97,7 @@ Here are video recordings from a couple of talks I did recently.
   </iframe>
 </div>
 
-**Mutation testing for fun and profit - Improving the quality of your unit tests** - <a href="https://testingstage.com/" target="_blank">TestingStage online conference</a> - 2023
+**Who will guard the guards themselves? An introduction to mutation testing** - <a href="https://zapple.tech/" target="_blank">Zapple.tech online meetup</a> - 2023
 
 <hr/>
 
