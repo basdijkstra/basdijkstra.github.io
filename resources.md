@@ -63,6 +63,16 @@ I have written a couple of short ebooks, available for free. Click on the book c
 
 Here are video recordings from a couple of talks I did recently.
 
+<div class="embed-container">
+  <iframe
+    width="700"
+    height="480"
+    src="https://www.youtube.com/embed/ntYj1iytjvk"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
 {% include youtubePlayer.html id=ntYj1iytjvk %}
 **Are you sure your APIs are secure?** - <a href="https://www.lambdatest.com/testmuconf-2024/" target="_blank">TestMu online conference</a> - 2024
 
