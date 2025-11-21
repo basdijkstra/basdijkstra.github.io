@@ -91,13 +91,13 @@ Here are video recordings from a couple of talks I did recently.
   <iframe
     width="700"
     height="480"
-    src="https://www.youtube.com/embed/2t3cKMzqfJc"
+    src="https://www.youtube.com/embed/W_ffh0tdG6g"
     frameborder="0"
     allowfullscreen>
   </iframe>
 </div>
 
-**Who will guard the guards themselves? An introduction to mutation testing** - <a href="https://zapple.tech/" target="_blank">Zapple.tech online meetup</a> - 2023
+**Mutation testing for fun and profit - Improving the quality of your unit tests** - <a href="https://testingstage.com" target="_blank">TestingStage online conference</a> - 2023
 
 <hr/>
 
