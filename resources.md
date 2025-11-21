@@ -73,13 +73,30 @@ Here are video recordings from a couple of talks I did recently.
   </iframe>
 </div>
 
-{% include youtubePlayer.html id=ntYj1iytjvk %}
 **Are you sure your APIs are secure?** - <a href="https://www.lambdatest.com/testmuconf-2024/" target="_blank">TestMu online conference</a> - 2024
 
-{% include youtubePlayer.html id=page.video_contract_testing %}
+<div class="embed-container">
+  <iframe
+    width="700"
+    height="480"
+    src="https://www.youtube.com/embed/3lZq4IyZ7po"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
 **Solving the Integration Testing Puzzle with Contract Testing** - <a href="https://www.lambdatest.com/voices-of-community" target="_blank">LambdaTest Voices of Community webinar</a> - 2023
 
-{% include youtubePlayer.html id=page.video_mutation_testing %}
+<div class="embed-container">
+  <iframe
+    width="700"
+    height="480"
+    src="https://www.youtube.com/embed/2t3cKMzqfJc"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
 **Mutation testing for fun and profit - Improving the quality of your unit tests** - <a href="https://testingstage.com/" target="_blank">TestingStage online conference</a> - 2023
 
 <hr/>
