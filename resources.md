@@ -63,7 +63,7 @@ I have written a couple of short ebooks, available for free. Click on the book c
 
 Here are video recordings from a couple of talks I did recently.
 
-{% include youtubePlayer.html id=page.video_api_security_testing %}
+{% include youtubePlayer.html id=ntYj1iytjvk %}
 **Are you sure your APIs are secure?** - <a href="https://www.lambdatest.com/testmuconf-2024/" target="_blank">TestMu online conference</a> - 2024
 
 {% include youtubePlayer.html id=page.video_contract_testing %}
