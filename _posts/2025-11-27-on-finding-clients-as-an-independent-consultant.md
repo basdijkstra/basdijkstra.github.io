@@ -64,7 +64,9 @@ Instead, they'll reach out to people who
 * were recommended to them by others, or
 * they have seen, followed and appreciated online for a while
 
-Both have happened to me, mostly the first scenario, and I'm slowly getting into a position where the second one starts to happen more frequently. I'm not where I want to be yet, though. I'd love to be in the position where I continuously have a healthy 6-12 month pipeline of consulting and training work, without having to do too much marketing or direct outreach myself, so there's still plenty of work to be done building my 'brand'.
+Both have happened to me, mostly the first scenario, and I'm slowly getting into a position where the second one starts to happen more frequently. Do keep in mind, though, that there are no shortcuts here. It took me 10 years of writing, public speaking, being active on social media and more to get where I am now.
+
+And I'm not even where I want to be yet. I'd love to be in the position where I continuously have a healthy 6-12 month pipeline of consulting and training work, without having to do too much marketing or direct outreach myself, so there's still plenty of work to be done building my 'brand'.
 
 A position where people know who I am, what I do and how I can help them, and have them reach out to me proactively, _is_ the position I want to be in, though.
 
