@@ -22,4 +22,6 @@ So, this is what my LinkedIn 'schedule' will look like, at least until after the
 
 Other than that, you won't see me on LinkedIn too much for a while, something that I'm really, really looking forward to. As before, I'll be using [Freedom](https://freedom.to/){:target="_blank"} to help me stay off.
 
+I'm looking forward to putting my time and attention to much better use: writing long-form blog posts again, reading books that are more intellectually challenging than the entertaining but fairly simple thrillers I read these days, and spending lots and lots of time on my bike in training for an event in 2027 I've set my eyes on. 
+
 Oh, and given the current job market for freelancers (see [here](/on-life-as-an-independent-contractor-right-now/) and [here](/on-finding-clients-as-an-independent-consultant/)), I'll probably need to spend more time getting my name 'out there' in other ways, but that, too, is something that I'm actually looking forward to...
