@@ -13,7 +13,7 @@ At the moment, though, I'm seriously doubting whether spending so much time on L
 
 Don't get me wrong. AI, when used prudently, can be a very valuable tool in test automation, software development as well as in other parts of life. But the amount of AI-generated crap posts, the ridiculous amount of AI-generated comments to those posts and the abundance of AI fanfolks who didn't just drink the Kool-Aid but who are positively drowning in it have taken most of the value and 'fun' (insofar social media can be fun) out of LinkedIn for me.
 
-Sure, I still do have good conversations on the platform occasionally, but that's mostly in DMs, not in public. I'm pretty sure I can redirect those conversations to email and lose absolutely no value. I will continue publishing posts to let my network know what I'm up to: my public talks, links to new blog posts, as well as interesting Also, my end-of-year slowdown / break is coming up, and I think that's a great time to spend more time offline rather than scrolling.
+Sure, I still do have good conversations on the platform occasionally, but that's mostly in DMs, not in public. I'm pretty sure I can redirect those conversations to email and lose absolutely no value. I will continue publishing posts to let my network know what I'm up to: my public talks, links to new blog posts, as well as interesting content I found elsewhere on the internet.
 
 So, this is what my LinkedIn 'schedule' will look like, at least until after the holidays, but chances are it'll be for a lot longer than that:
 
