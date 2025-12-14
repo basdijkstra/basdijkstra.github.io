@@ -9,13 +9,13 @@ If you asked me to define the goal of test automation, or the use of tools to su
 
 While that goal sounds simple enough, I have seen many teams and organizations struggle to achieve it in the two decades that I've been active in the field. I have also noticed that often, teams try to address their test automation challenges by looking for better tools.
 
-However, while choosing the right tool for the job is an important part of a solid test automation strategy, introducing a new tool or replacing an existing one alone is often not enough to fix the problem at hand.
+However, while choosing the right tool for the job is an important part of a solid test automation strategy, introducing a new tool or replacing an existing one alone is often not enough to fix the problem(s) at hand. And no, AI is not the silver bullet, either.
 
 Almost every time, test automation problems go deeper than just the tool. <u>Often, they are of both a technical and an organizational nature</u>. Wouldn't it be wise to approach and address them like that, then?
 
 There is a wide range of training material out there for people who would like to become more proficient with a specific tool or test automation technique, [and I offer those, too](/training/).
 
-However, if you would like to learn what it takes to get your test automation to deliver valuable feedback, fast, and how to address the technical _and_ the organizational challenges that keep you from getting there, there is a lot less on offer.
+If you would like to learn what it takes to get your test automation to deliver valuable feedback, fast, and how to address the technical _and_ the organizational challenges that keep you from getting there, there is a lot less on offer.
 
 The 'Valuable feedback, fast' course fills that void.
 
@@ -26,7 +26,7 @@ Along the way, you will learn, among many other things, how to:
 * use the [Five Ws](https://en.wikipedia.org/wiki/Five_Ws){:target="_blank"} to take a holistic look at your test automation strategy before we address the 'how?'
 * use the [test automation quadrant](/the-test-automation-quadrant/) to assess your current automation efforts and identify directions for improvement
 * how to identify improvements and advocate for changes in your test automation strategy
-* how to run experiments with changes in your current approach, how to introduce new tools, techniques and ways of working, and how to measure their success
+* how to run experiments with changes in your current approach, how to introduce new tools (AI-based and otherwise), techniques and ways of working, and how to measure their success
 
 As we address both the technical and the organizational aspects of succeeding with test automation, the exercises in this course reflect that. As a participant, you will:
 
