@@ -10,10 +10,14 @@ _If you're looking for a more personalized learning experience for 1-3 of your e
 
 <hr/>
 
-##### Bootcamp for test automation engineers / SDETs
-Almost 20 years of working in the test automation space has taught me many, many things, and this bootcamp combines these lessons into a single, coherent course.
+##### Valuable feedback, fast
+If we want our test automation to deliver on the goal of providing valuable feedback, fast, we need to do more than throwing tools at testing problems.
 
-<a href="/training/test-automation-bootcamp/" class="btn btn--primary">Test automation bootcamp (5 days)</a>
+We need to be able to identify and analyze (potential) problems and suggest, implement and assess solutions at both the technical and the procedural and organizational level.
+
+The 'Valuable feedback, fast' course is designed to teach individuals, teams and organizations how to do exactly that.
+
+<a href="/training/valuable-feedback-fast/" class="btn btn--primary">Valuable feedback, fast (3 days)</a>
 
 <hr/>
 
