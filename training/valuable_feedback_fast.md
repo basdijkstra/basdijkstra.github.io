@@ -25,8 +25,8 @@ Along the way, you will learn, among many other things, how to:
 
 * use the [Five Ws](https://en.wikipedia.org/wiki/Five_Ws){:target="_blank"} to take a holistic look at your test automation strategy before we address the 'how?'
 * use the [test automation quadrant](/the-test-automation-quadrant/) to assess your current automation efforts and identify directions for improvement
-* how to identify improvements and advocate for changes in your test automation strategy
-* how to run experiments with changes in your current approach, how to introduce new tools, techniques and ways of working, AI-based and otherwise, and how to measure their success
+* identify improvements and advocate for changes in your test automation strategy
+* run experiments with changes in your current approach, how to introduce new tools, techniques and ways of working, AI-based and otherwise, and how to measure their success
 
 The wide range of exercises in this experiential course are designed to address both the technical and the organizational aspects of succeeding with test automation. As a participant, you will:
 
