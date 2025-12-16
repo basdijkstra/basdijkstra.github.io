@@ -7,19 +7,19 @@ categories:
 tags:
   - yearly review
 ---
-And just like that, 2025 is in its final weeks, and with that, the time has come for me to slow down and take a bit of time off. That means it is again time to take stock of what I have been working on this year, and think about and write down the plans I have for 2026.
+And just like that, 2025 is in its final weeks, and with that, it's time for me to slow down and take a bit of time off. It is also a moment to take stock of what I have been working on this year, and think about and write down the plans I have for 2026.
 
 In [my 2024 review](/2024-a-year-in-review/), I wrote down 'physical, mental and financial fitness' as my main goal for 2025. Did I reach this goal? Well, to some extent:
 
 * Physically, I'm on the right track, although there is a lot of work to be done still. I have started training for a couple of long-distance bike rides I have set my eyes on, and I'm looking forward to spending a lot of time on my bike in 2026.
-* Mentally, I'm doing pretty good. I think I've been able to find a decent balance between work and the rest of my life, and the flexibility of being an independent consultant has definitely been a big help here. Sure, there were some 'busy' (I don't like that word) times, but nothing too bad.
+* Mentally, I'm doing pretty well. I think I've been able to find a decent balance between work and the rest of my life, and the flexibility of being an independent consultant has definitely been a big help here. Sure, there were some 'busy' (I don't like that word) times, but overall, I haven't had any real challenges in this area.
 * Financially, it _has_ been a slower year than the last couple of years. In part that's because I said 'no' to more things, but the way the economy is currently has also had an impact, mainly in the amount of training sessions I've run this year. More on that in a moment.
 
 So, what have I been up to this year?
 
 ### Training
 
-As I said, overall, I ran fewer [training courses](/training/) than I did in 2024. In total, I facilitated:
+As I said, overall, I ran (slightly) fewer [training courses](/training/) than I did in 2024. In total, I facilitated:
 
 * 30 full day training sessions (25 on site, 5 online)
 * 18 half day sessions (10 on site, 8 online)
@@ -29,7 +29,7 @@ As usual, most of the on site sessions were in the Netherlands, but I ran in-com
 
 As teaching still is the thing I like to do best, I will put even more effort into growing my training business in 2026. I have a couple of training sessions booked already, some with return clients, some with new ones, so I'm off to a pretty good start, I think. I also have a conference workshop scheduled for Q2 of 2026 already, which should be announced in the next few weeks.
 
-Also, earlier this week I published my brand new '[Valuable feedback, fast](/training/valuable-feedback-fast/)' course, which has already received interest from a few companies, so I hope that will contribute to running more training sessions in 2026, too.
+Also, earlier this week I published my brand new '[Valuable feedback, fast](/training/valuable-feedback-fast/)' course, which has already received interest from a few companies, so I hope that will be a major contributor to running more training sessions in 2026, too.
 
 ### Mentoring
 
@@ -64,4 +64,4 @@ Apart from the above, here are some other things I worked on in 2025:
 
 Again, as I said, it has been a slightly slower year for me compared to 2024. That's fine, but I do want to turn that around and (further) improve a few things in my business and personal life. My main focus will be on growing the training side of things in work, while also taking more time to work towards my long-distance cycling goals. That's going to be a challenge, but I'm looking forward to it anyway.
 
-For now, have a wonderful festive season.
+Have a wonderful festive season, all.
