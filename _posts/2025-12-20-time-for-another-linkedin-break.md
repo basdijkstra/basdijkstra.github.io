@@ -9,7 +9,7 @@ tags:
 ---
 For a couple of years now, I have tried to stop wasting so much time faffing about on the Internet in general and on LinkedIn in particular. I've gone on a couple of, admittedly not very successful, LinkedIn breaks before (see [here](/dialing-down-on-linkedin/) and [here](/taking-a-long-break-from-linkedin/)), breaks from which I always returned after a few weeks, in part because old habits are hard to break, but mostly because as an independent consultant, I feel like I need to be visible online in some way, and LinkedIn has always been my platform of choice.
 
-It is high time to get serious about this, for a range of reasons.
+It is high time to get serious about stepping away from LinkedIn for an extended period of time, for a range of reasons.
 
 I am tired of the constant distraction that LinkedIn, like all other social media platforms, offers, and the negative effect it has on being able to read, write, code, and do other types of meaningful work. And that negative effect has been profound. I've not written long-form blog posts on a regular basis for a long while. I've not read nearly as many books that are mentally engaging as I wanted to, sticking mostly to cheap and fairly superficial thrillers instead. It is time to turn that around.
 
