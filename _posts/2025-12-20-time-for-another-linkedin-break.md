@@ -25,8 +25,8 @@ How long this break is going to last, I don't know. I'm aiming for a year, ideal
 
 If you'd like to stay in touch in the meantime, there's a few ways to do so:
 
-* Email is best for questions, inquiries and conversations: bas@ontestautomation.com
+* Email is best for questions and inquiries: bas@ontestautomation.com
 * If you'd like to stay up to date with my writing, bookmark my [blog](/blog/) or add its [RSS feed](/feed.xml) to your reader of choice
-* For genuine conversations, I'm happy to schedule a meeting (online or in person) or a phone call via email
+* For conversations, I'm happy to schedule a meeting (online or in person) or a phone call via email
 
 OK, off to writing, reading and cycling it is. Cheers!
