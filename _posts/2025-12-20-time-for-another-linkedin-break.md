@@ -21,7 +21,7 @@ The AI-powered enshittification of LinkedIn also really hasn't been helping. Don
 
 So, from today on, I'll maybe check in once every other week or so to answer direct messages and redirect conversations to email. Other than that, you won't see me on LinkedIn for a while, something that I'm really, really looking forward to. As before, I'll be using [Freedom](https://freedom.to/){:target="_blank"} to help me stay off.
 
-How long this break is going to last, I don't know. I'm aiming for a year, ideally. Longer is better. Six months is the absolute minimum.
+How long this break is going to last, I don't know. I'm aiming for a year. Longer is better. Six months is the absolute minimum.
 
 If you'd like to stay in touch in the meantime, there's a few ways to do so:
 
