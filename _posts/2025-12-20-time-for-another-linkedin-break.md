@@ -29,6 +29,6 @@ If you'd like to stay in touch in the meantime, there's a few ways to do so:
 * If you'd like to stay up to date with my writing, you can bookmark my [blog](/blog/) or add its [RSS feed](/feed.xml) to your reader of choice
 * For conversations (and I want to have more of those), I'm happy to set up a meeting (online or in person) or a phone call, so email me and we'll work something out
 
-I'll also try to attend and contribute to more in-person events in 2026, so I hope to catch some of you there. [You probably won't see me at a lot of conferences abroad, though](/on-working-and-contributing-to-conferences-abroad/). 
+I'll also make an effort to attend and contribute to more in-person events in 2026, so I hope to catch some of you there. [You probably won't see me at a lot of conferences abroad, though](/on-working-and-contributing-to-conferences-abroad/). 
 
-So, for 2026, off to writing, reading and cycling it is. Cheers!
+Cheers!
