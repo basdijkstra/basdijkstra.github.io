@@ -19,7 +19,7 @@ I've started training for a couple of pretty challenging cycling events that hav
 
 The AI-powered enshittification of LinkedIn also really hasn't been helping. Don't get me wrong. AI, when used prudently, can be a very valuable tool in test automation, software development as well as in other parts of life. But the amount of AI-generated crap posts, the ridiculous amount of AI-generated comments to those posts and the abundance of AI fanfolks who didn't just drink the Kool-Aid but who are positively drowning in it have taken most of the value and 'fun' (insofar social media can be fun) out of LinkedIn for me.
 
-So, from today on, I'll maybe check in once every other week or so to answer direct messages and redirect conversations to email. Other than that, you won't see me on LinkedIn for a while, something that I'm really, really looking forward to. As before, I'll be using [Freedom](https://freedom.to/){:target="_blank"} to help me stay off.
+So, from today on, I'll maybe check in once every week or so (and hopefully less frequently over time) to answer direct messages and redirect conversations to email. Other than that, you won't see me on LinkedIn for a while, something that I'm really, really looking forward to. As before, I'll be using [Freedom](https://freedom.to/){:target="_blank"} to help me stay off.
 
 How long this break is going to last, I don't know. I'm aiming for a year. Longer is better. Six months is the absolute minimum.
 
