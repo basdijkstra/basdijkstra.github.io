@@ -15,9 +15,9 @@ All this is nothing new: test automation, build pipelines and practices like con
 
 In an attempt to change this, I often joke in my talks and courses that once a newly written piece of test code compiles and runs without error, and the test produces a green checkmark, I start asking questions to myself. This cannot be right! I typically change something in my test, often the expected outcome in an assertion, and I run the test again to see if it now fails, with the expected error message in the shape of
 
-<% highlight console %>
+{% highlight console %}
 Expected: banana, actual: strawberry
-<% endhighlight %>
+{% endhighlight %}
 
 or something to that extent. Doing this gives me at least a little more [confidence that my test is able to fail](/testing-your-tests/). As I like to say (and I didn't come up with this expression, but I cannot for the life of me remember whom I've heard it from):
 
