@@ -75,4 +75,4 @@ What works really well with my clients, for example, when teams come up to me wi
 
 So, all in all, I think the contents from the ebook I wrote in 2020 still hold up pretty well, and with the addendums you've seen in this blog post, I think it should be good to go for another 5-6 years. As I said at the beginning of this post, those fundamentals do not change too often, that is, after all, what makes them fundamental.
 
-<small>Note: this blog post was written while listening to [Parks & Wilson – Baroque In Session 2002](https://www.youtube.com/watch?v=D2avInskaeQ){:target="_blank"}</small>
+<small>This blog post was written while listening to [Parks & Wilson – Baroque In Session 2002](https://www.youtube.com/watch?v=D2avInskaeQ){:target="_blank"}</small>

@@ -58,5 +58,5 @@ That also makes for an apt tl;dr for this post: To trust your tests, test your t
 
 _P.S.: mutation testing will be one of the topics that we will cover in more depth in my brand new '[Valuable feedback, fast](/training/valuable-feedback-fast/)' course. This course combines many of the lessons I've learned about and much of the advice I have to share on succeeding with test automation, all built around a realistic case where you will help a company to implement test automation that delivers, you guessed it, valuable feedback, fast._
 
-<small>Note: this blog post was written while listening to [
+<small>This blog post was written while listening to [
 Deep Dish – Global Underground 025: Toronto (CD2)](https://www.youtube.com/watch?v=b9zK84hsqCc){:target="_blank"}</small>  

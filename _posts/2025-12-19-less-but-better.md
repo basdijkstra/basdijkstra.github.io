@@ -44,4 +44,4 @@ That probably means you won't see me writing a lot about how to use AI to do tas
 
 What I am interested in, what I have always been interested in and what I will probably remain interested in for a long time to come, is how we can use tools (and yes, that includes the AI-powered ones) to increase the quality of the work that we do and the products that we deliver. So, you'll see me writing about that in 2026. Hopefully more often than I did in 2025. I'm happy to be an exception to the title of this blog post, and do better by writing more about doing better, if you catch my drift...
 
-<small>Note: this blog post was written while listening to [Bill Hamel - Balance 003 CD 1](https://www.youtube.com/watch?v=zzpsyUmeJ3o){:target="_blank"}</small>  
+<small>This blog post was written while listening to [Bill Hamel - Balance 003 CD 1](https://www.youtube.com/watch?v=zzpsyUmeJ3o){:target="_blank"}</small>  
