@@ -9,8 +9,6 @@ tags:
   - valuable feedback fast
   - learning
 ---
-Introducing the VFF course
-
 A couple of weeks ago, I published the training page for a brand-new course that I'm looking to run at least a couple of times in 2026. The course is called '[Valuable feedback, fast](/training/valuable-feedback-fast)', and in this blog post, I'd like to share a little more about why I created this course, why it is designed in the way I have in mind and what it will look like.
 
 ### Why did I create this course in the first place?
