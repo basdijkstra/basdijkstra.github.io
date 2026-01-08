@@ -22,9 +22,9 @@ The 'Valuable feedback, fast' course is designed to teach individuals, teams and
 <hr/>
 
 ##### API testing and development
-With software systems becoming ever more distributed, every modern software tester should know how to work with APIs in their testing, as well as how to design, write and execute tests for APIs.
+With software systems becoming ever more distributed, and APIs accounting for over 80% of all Internet traffic, every modern software tester should know how to work with APIs in their testing, as well as how to design, write and execute tests for APIs.
 
-I am offering a number of workshops that cover various aspects of API testing:
+My API testing courses cover the broad spectrum that is API testing. I offer several modules that I can teach either individually, or bundled as a comprehensive API testing course:
 
 <a href="/training/workshop-exploratory-api-testing/" class="btn btn--primary">Workshop exploratory API testing (0,5 - 1 day)</a>
 
@@ -34,7 +34,9 @@ I am offering a number of workshops that cover various aspects of API testing:
 
 <a href="/training/workshop-api-mocking-with-wiremock/" class="btn btn--primary">Workshop API mocking with WireMock (0,5 - 1 day)</a>
 
-To learn more about building a solid API testing strategy from the ground up, working together as developers and testers, this training course is a great fit:
+If your team is looking to get serious about API testing, I'm happy to have a conversation and create a course for you that fits your API testing learning requirements like a glove. 
+
+If you want to learn what it takes to build and execute a solid API testing strategy from the ground up, working together as developers and testers, I offer a course on that, too:
 
 <a href="/training/building-and-testing-an-api/" class="btn btn--primary">Building and testing an API (2-3 days)</a>
 
@@ -73,7 +75,7 @@ Unfortunately, BDD is still often misunderstood and badly implemented, leading t
 
 In this course, you'll not only learn what the 'textbook' BDD process looks like, but you'll also learn about common BDD pitfalls and how to avoid them.  
 
-<a href="/training/behaviour-driven-development/" class="btn btn--primary">Behaviour-Driven Development (BDD) (2 days)</a>
+<a href="/training/behaviour-driven-development/" class="btn btn--primary">Behaviour-Driven Development (BDD) (1-2 days)</a>
 
 <hr/>
 

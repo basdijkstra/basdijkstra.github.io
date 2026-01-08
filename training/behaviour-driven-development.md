@@ -26,9 +26,9 @@ This course is aimed at software development practitioners that want to learn mo
 This is a live training course, available both on site and online. Due to the collaborative nature of many of the exercises, I highly prefer running this course on site.
 
 **Duration**  
-This course takes two working days.
+This course takes 1-2 working days, depending on the group size, experience of the participants and the depth of learning you're looking for.
 
 **Interested?**  
-If you would like to book me to teach this course in your organization, or if you have any additional questions, please send an email to bas@ontestautomation.com or use the contact form on [this page](/contact/).
+If you would like to book me to teach this course in your organization, or if you have any additional questions, please email bas@ontestautomation.com or use the contact form on [this page](/contact/).
 
 For an overview of all training courses I have on offer, please visit the main [training page](/training/).
