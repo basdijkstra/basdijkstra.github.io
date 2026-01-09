@@ -23,7 +23,7 @@ So, the choice was a fairly straightforward one, and I decided on submitting a s
 
 In this tutorial, I'd like to go beyond _just_ teaching Playwright, although, of course, the tool will play an important role. What I'll be doing in the tutorial is I'll present participants with a Playwright code base for some end-to-end tests on a fictional application.
 
-We'll then start by reviewing this code to identify areas for improvement. I'll then ask participants to advocate for the improvements. That is, don't just say 'we should do this', but also explain _why_ we want to do this (an important skill that is too often forgotten). Of course, there will be plenty of time to get hands-on an actually apply the improvements.
+We'll then start by reviewing this code to identify areas for improvement. I'll then ask participants to advocate for the improvements. That is, don't just say 'we should do this', but also explain _why_ we want to do this (an important skill that is too often forgotten). Of course, there will be plenty of time to get hands-on and actually apply the improvements.
 
 What the tutorial will look like _exactly_ is still work in progress, but what you're reading just now is general gist of it. More details about the contents of the tutorial can be found on [the EuroSTAR conference page for this session](https://conference.eurostarsoftwaretesting.com/event/2026/breaking-down-and-improving-your-playwright-e2e-tests/){:target="_blank"}.
 
