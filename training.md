@@ -10,7 +10,7 @@ _If you're looking for a more personalized learning experience for 1-3 of your e
 
 <hr/>
 
-##### Valuable feedback, fast
+## Valuable feedback, fast
 If we want our test automation to deliver on the goal of providing valuable feedback, fast, we need to do more than throwing tools at testing problems.
 
 We need to be able to identify and analyze (potential) problems and suggest, implement and assess solutions at both the technical and the procedural and organizational level.
@@ -21,7 +21,7 @@ The 'Valuable feedback, fast' course is designed to teach individuals, teams and
 
 <hr/>
 
-##### API testing and development
+## API testing and development
 With software systems becoming ever more distributed, and APIs accounting for over 80% of all Internet traffic, every modern software tester should know how to work with APIs in their testing, as well as how to design, write and execute tests for APIs.
 
 My API testing courses cover the broad spectrum that is API testing. I offer several modules that I can teach either individually, or bundled as a comprehensive API testing course:
@@ -42,7 +42,7 @@ If you want to learn what it takes to build and execute a solid API testing stra
 
 <hr/>
 
-##### Contract testing
+## Contract testing
 With the rise of distributed and microservices-based software systems, the challenge of performing efficient integration testing early and often in the SDLC is becoming ever more difficult to tackle.
 
 Contract testing is an approach that is quickly gaining traction as a way out of 'integration testing hell'. In this practical and very hands-on training, you'll learn everything you need to know to make your contract testing efforts successful.
@@ -55,7 +55,7 @@ If you prefer self-paced learning, I have also created a video course that you c
 
 <hr/>
 
-##### Playwright
+## Playwright
 <a href="https://playwright.dev">Playwright</a> has quickly become the test automation tool of choice for many companies. If your team or company wants to learn how to get started with Playwright, too, my introductory course will be a great fit:
 
 <a href="/training/workshop-playwright/" class="btn btn--primary">Test automation with Playwright</a>
@@ -68,7 +68,7 @@ Both courses can also be combined into a single, comprehensive Playwright course
 
 <hr/>
 
-##### Behaviour-Driven Development
+## Behaviour-Driven Development
 Creating high quality software starts with a shared understanding between stakeholders about what that software is supposed to do. Behaviour-Driven Development or BDD is a popular technique to facilitate the creation of this shared understanding.
 
 Unfortunately, BDD is still often misunderstood and badly implemented, leading to lots of time, effort and money wasted, without much to show for it.
@@ -79,7 +79,7 @@ In this course, you'll not only learn what the 'textbook' BDD process looks like
 
 <hr/>
 
-##### Miscellaneous workshops
+## Miscellaneous workshops
 These half- to full-day workshops are perfect if you're looking to get a kickstart with a new tool or technique. And if you're a conference organizer: these workshops work really well as part of conferences, too!
 
 <a href="/training/mutation-testing/" class="btn btn--primary">Mutation testing (0,5 day)</a>
