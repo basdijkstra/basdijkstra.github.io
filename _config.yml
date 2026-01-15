@@ -3,7 +3,7 @@ title: "On Test Automation"
 title_separator: "|"
 subtitle: "Helping others become better test automation engineers"
 name: "Bas Dijkstra"
-description: "Test automation training and consultancy"
+description: "I provide test automation training and consultancy, teaching you how to write tests that deliver valuable product feedback, fast"
 logo: /images/logo_large.png
 plugins:
   - jekyll-include-cache
