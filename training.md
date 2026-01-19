@@ -1,5 +1,5 @@
 ---
-title: Training
+title: Test automation training
 layout: page
 permalink: /training/
 ---
