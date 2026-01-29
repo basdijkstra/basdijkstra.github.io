@@ -5,7 +5,7 @@ permalink: /training/valuable-feedback-fast/
 ---
 If you'd ask me what is the goal of test automation, which I define as the use of tools to support our testing activities, my answer would be simple:
 
-"**To provide valuable feedback, fast**"
+> "To provide valuable feedback, fast"
 
 While that goal sounds simple enough, I have seen many teams and organizations struggle to achieve it in the two decades that I've been active in the field. I have also noticed that often, teams try to address their test automation challenges by looking for better tools.
 
