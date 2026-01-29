@@ -13,7 +13,7 @@ Almost every time, though, test automation problems go deeper than just the tool
 
 In this three-day, immersive, hands-on course, you will examine, discuss and find and implement solutions to real-world test automation problems by following the journey of a (fictional) company as they try to achieve their goal of 'valuable feedback, fast'.
 
-#### Course contents
+#### <a name="contents"></a>Course contents
 
 _Day one - Introduction, 'why?' and 'what?'_
 
