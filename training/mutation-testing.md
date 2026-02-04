@@ -13,7 +13,7 @@ One of the techniques that can help you, your team and organization get more ins
 
 In this workshop, you'll learn how mutation testing works, what it can do for you, and how to interpret the information given to you by a mutation testing tool and use that to improve the quality of your tests.
 
-### What will you learn?
+## What will you learn?
 
 In this workshop, you will learn, among other things:
 
@@ -29,17 +29,17 @@ To illustrate that mutation testing is not just for unit tests, the workshop use
 
 I can run this workshop both in C#, using [Stryker.NET](https://stryker-mutator.io/docs/stryker-net/introduction/){:target="_blank"} as the mutation testing tool, or in Java, using [PIT](https://pitest.org/){:target="_blank"}.
 
-### Who should take this workshop?
+## Who should take this workshop?
 This workshop is great for developers and testers who want to learn more about mutation testing and how to use it to get more insight into and improve the quality of their tests.
 
 Some previous exposure to object-oriented software development and test automation will make it easier for you to follow along.
 
-### Workshop delivery
+## Workshop delivery
 This workshop works great either as an on-site or an online in-company workshop, or as a half-day conference tutorial.
 
 The full workshop typically takes 3-4 hours. I recommend a length of at least 2 hours.
 
-### I'm interested, what's next?
+## I'm interested, what's next?
 I'm happy to hear that! Click the button below, complete the contact form, and I'll get back to you as soon as possible.
 
 <a href="/contact/" class="btn btn--primary">Yes, I'd like to book this workshop for my team!</a>
