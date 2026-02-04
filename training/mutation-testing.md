@@ -34,7 +34,7 @@ This workshop is great for developers and testers who want to learn more about m
 
 Some previous exposure to object-oriented software development and test automation will make it easier for you to follow along.
 
-### Can you tell  
+### Workshop delivery
 This workshop works great either as an on-site or an online in-company workshop, or as a half-day conference tutorial.
 
 The full workshop typically takes 3-4 hours. I recommend a length of at least 2 hours.
@@ -44,4 +44,4 @@ I'm happy to hear that! Click the button below, complete the contact form, and I
 
 <a href="/contact/" class="btn btn--primary">Yes, I'd like to book this workshop for my team!</a>
 
-To go to the overview of all training courses and workshops I have on offer, [please click here](/training/).
+If you'd like to see the other training courses and workshops I have on offer, [please click here](/training/).
