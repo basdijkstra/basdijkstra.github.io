@@ -1,5 +1,5 @@
 ---
-title: Mutation testing
+title: Mutation testing workshop
 layout: page
 permalink: /training/mutation-testing/
 ---
