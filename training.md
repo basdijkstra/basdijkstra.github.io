@@ -82,7 +82,7 @@ In this course, you'll not only learn what the 'textbook' BDD process looks like
 ## Miscellaneous workshops
 These half- to full-day workshops are perfect if you're looking to get a kickstart with a new tool or technique. And if you're a conference organizer: these workshops work really well as part of conferences, too!
 
-<a href="/training/mutation-testing/" class="btn btn--primary">Mutation testing (0,5 day)</a>
+<a href="/training/mutation-testing/" class="btn btn--primary">Mutation testing workshop (half day)</a>
 
 <a href="/training/improving-your-test-automation-code/" class="btn btn--primary">Improving your test automation code (1 day)</a>
 
