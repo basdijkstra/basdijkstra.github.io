@@ -26,7 +26,7 @@ In this workshop you will learn, among other things:
 
 There's no better way to learn than by doing, so you'll be presented with a variety of hands-on (programming) exercises throughout this course.
 
-This course can be delivered using the Pact bindings in Java, C#, Python and JavaScript.
+I can run this workshop using the Pact bindings in Java, C#, Python or JavaScript.
 
 ## Who should take this workshop?
 This workshop is great for software developers and testers who want to learn more about contract testing and how to create and execute contract tests with Pact.

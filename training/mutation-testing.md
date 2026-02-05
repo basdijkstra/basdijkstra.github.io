@@ -27,7 +27,7 @@ There's no better way to learn than by doing, so you'll be presented with a vari
 
 To illustrate that mutation testing is not just for unit tests, the workshop uses an API as the system under test. This API comes complete with controller, service and repository layers, as well as a real (in-memory) database, and integration / acceptance tests to test the API.
 
-I can run this workshop both in C#, using [Stryker.NET](https://stryker-mutator.io/docs/stryker-net/introduction/){:target="_blank"} as the mutation testing tool, or in Java, using [PIT](https://pitest.org/){:target="_blank"}.
+I can run this workshop either in C#, using [Stryker.NET](https://stryker-mutator.io/docs/stryker-net/introduction/){:target="_blank"} as the mutation testing tool, or in Java, using [PIT](https://pitest.org/){:target="_blank"}.
 
 ## Who should take this workshop?
 This workshop is great for developers and testers who want to learn more about mutation testing and how to use it to get more insight into and improve the quality of their tests.
