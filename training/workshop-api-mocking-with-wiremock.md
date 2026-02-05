@@ -9,6 +9,8 @@ While there's no substitute for testing against 'the real thing', mocking system
 
 In this workshop, you'll learn how to start mocking the behaviour of your dependencies at the API level using [WireMock](https://wiremock.org/){:target="_blank"}, one of the most popular open source API mocking libraries available.
 
+<a href="/contact/" class="btn btn--primary">Yes, I'd like to book this workshop for my team!</a>
+
 ## What will you learn?
 In this workshop you will learn, among other things:
 
