@@ -62,9 +62,9 @@ If you prefer self-paced learning, I have also created a video course that you c
 
 <a href="/training/workshop-playwright/" class="btn btn--primary">Introduction to Playwright workshop (1 day)</a>
 
-If you have some Playwright experience under your belt already, and you want to learn how to get more out of the library and improve your existing Playwright-based tests, I have just the course for that, too: 
+If you have some Playwright experience under your belt already, and you want to learn how to get more out of the library and improve your existing Playwright-based tests, I have just the workshop for that, too: 
 
-<a href="/training/improving-your-playwright-code/" class="btn btn--primary">Improving your Playwright code</a>
+<a href="/training/improving-your-playwright-code/" class="btn btn--primary">Improving your Playwright code workshop (1 day)</a>
 
 Both courses can also be combined into a single, comprehensive Playwright course that'll teach you everything you need to know to become successful with your test automation in Playwright.
 
