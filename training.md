@@ -32,7 +32,7 @@ My API testing courses cover the broad spectrum that is API testing. I offer sev
 
 <a href="/training/workshop-api-test-automation-in-code/" class="btn btn--primary">API test automation in code workshop (half day)</a>
 
-<a href="/training/workshop-api-mocking-with-wiremock/" class="btn btn--primary">Workshop API mocking with WireMock (0,5 - 1 day)</a>
+<a href="/training/workshop-api-mocking-with-wiremock/" class="btn btn--primary">API mocking with WireMock workshop (half day)</a>
 
 If your team is looking to get serious about API testing, I'm happy to have a conversation and create a course for you that fits your API testing learning requirements like a glove. 
 
