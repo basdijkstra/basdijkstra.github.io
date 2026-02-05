@@ -24,12 +24,12 @@ There's no better way to learn than by doing, so you'll spend plenty of time per
 I often run this workshop using [Postman](https://www.postman.com/){:target="_blank"} or [Bruno](https://www.usebruno.com/){:target="_blank"}, but I'm happy to use the API testing tool of your choice, too.
 
 ## Who should take this workshop? 
-This workshop is great for testers and developer who want to learn more about testing their APIs.
+This workshop is great for testers and developers who want to learn more about API mocking, and how to use WireMock to do so.
 
-Some prior knowledge of APIs, HTTP and JSON and XML is beneficial, but I am confident that even without this, you will find this workshop to be very valuable.
+Some prior knowledge of APIs, HTTP and JSON and XML, as well as some experience writing code in Java or C# is beneficial, but I am confident that even without this, you will find this workshop to be very valuable.
 
 ## Workshop duration and delivery
-This exploratory API testing workshop takes 3-4 hours. It works great either as an on-site or an online in-company workshop, or as a half-day conference tutorial.
+This API mocking with WireMock workshop takes 3-4 hours. It works great either as an on-site or an online in-company workshop, or as a half-day conference tutorial.
 
 ## I'm interested, what's next?
 I'm happy to hear that! Click the button below, complete the contact form, and I'll get back to you as soon as possible.

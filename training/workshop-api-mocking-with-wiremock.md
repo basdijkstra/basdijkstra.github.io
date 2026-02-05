@@ -5,40 +5,33 @@ permalink: /training/workshop-api-mocking-with-wiremock/
 ---
 In distributed software systems, integration testing is often blocked by dependencies developed outside your team.
 
-While there's no substitute for testing against 'the real thing', mocking systems at the API level can help you:
+While there's no substitute for testing against 'the real thing', mocking systems at the API level can help you test earlier, more and more often.
 
-* Test earlier
-* Test more
-* Test more often
+In this workshop, you'll learn how to start mocking the behaviour of your dependencies at the API level using [WireMock](https://wiremock.org/){:target="_blank"}, one of the most popular open source API mocking libraries available.
 
-But how do you write mocks efficiently? What are useful features when you're mocking the behaviour of your dependencies? 
+## What will you learn?
+In this workshop you will learn, among other things:
 
-In this workshop, you'll learn how to start mocking the behaviour of your dependencies at the API level using [WireMock](https://wiremock.org/){:target="_blank"}, one of the most popular open source API mocking libraries available.     
+* When (not) to mock your dependencies?
+* How to write and test your first mocks using WireMock
+* How to use different request matching strategies and fault simulation options
+* How to use response templating to reuse dynamic request values in your response
+* How to model stateful behaviour in your mocks 
+* How to extend the behaviour of WireMock (Java only)
 
-#### Workshop outline
-This workshop covers the following topics:
+I can run this workshop either in Java, using the original [WireMock](https://wiremock.org/docs/){:target="_blank"}, or in C#, using [WireMock.Net](https://wiremock.org/dotnet/){:target="blank"}.
 
-* The why and what of API mocking - when (not) to mock?
-* Setting up WireMock as part of your test suite
-* Writing and testing your first mocks
-* Using different request matching strategies
-* Fault simulation and modeling performance behaviour
-* Using response templating to reuse dynamic request values in your response
-* Modeling stateful behaviour in your mocks 
-* Extending the behaviour of WireMock (Java only)
+## Who should take this workshop?
+This workshop is great for testers and developers who want to learn more about finding potential security vulnerabilities in their APIs.
 
-I can deliver this workshop using WireMock in [Java](https://wiremock.org/){:target="_blank"} and [C#](https://github.com/WireMock-Net/WireMock.Net){:target="_blank"}.
+Some prior knowledge of APIs, HTTP and JSON and XML is beneficial, but I am confident that even without this, you will find this workshop to be very valuable.
 
-#### Intended audience and prerequisite knowledge  
-This course is aimed at software testers and developers that want to learn more about API mocking and how it can help them test earlier, more and more often.
+## Workshop duration and delivery
+This API security testing workshop takes 3-4 hours, but extending it to a full day is an option. It works great either as an on-site or an online in-company workshop, or as a half- or full-day conference tutorial.
 
-#### Delivery and group size
-This workshop is a great fit both for an on site or an online in house training session, as well as a half or full day conference tutorial. I recommend a maximum group size of around 15-20 people.
+## I'm interested, what's next?
+I'm happy to hear that! Click the button below, complete the contact form, and I'll get back to you as soon as possible.
 
-#### Duration
-This workshop typically takes 3-4 hours, but can be extended to a full-day tutorial.
+<a href="/contact/" class="btn btn--primary">Yes, I'd like to book this workshop for my team!</a>
 
-#### Interested?
-If you would like to book me to teach this workshop in your organization or at your conference, or if you have any additional questions, please send an email to bas@ontestautomation.com or use the contact form on [this page](/contact/).
-
-For an overview of all training courses and workshops I have on offer, please visit the main [training page](/training/).
+If you'd like to see the other training courses and workshops I have on offer, [please click here](/training/).

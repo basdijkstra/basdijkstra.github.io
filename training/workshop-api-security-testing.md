@@ -24,7 +24,7 @@ There's no better way to learn than by doing, so you'll spend plenty of time per
 I often run this workshop using [Postman](https://www.postman.com/){:target="_blank"} or [Bruno](https://www.usebruno.com/){:target="_blank"}, but I'm happy to use the API testing tool of your choice, too.
 
 ## Who should take this workshop?
-This workshop is great for testers and developer who want to learn more about finding potential security vulnerabilities in their APIs.
+This workshop is great for testers and developers who want to learn more about finding potential security vulnerabilities in their APIs.
 
 Some prior knowledge of APIs, HTTP and JSON and XML is beneficial, but I am confident that even without this, you will find this workshop to be very valuable.
 
