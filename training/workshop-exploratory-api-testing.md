@@ -26,7 +26,7 @@ I often run this workshop using [Postman](https://www.postman.com/){:target="_bl
 ## Who should take this workshop? 
 This workshop is great for testers and developer who want to learn more about testing their APIs.
 
-Some prior knowledge of APIs, HTTP and REST is beneficial, but I am confident that even without this, you will find this workshop to be very valuable.
+Some prior knowledge of APIs, HTTP and JSON and XML is beneficial, but I am confident that even without this, you will find this workshop to be very valuable.
 
 ## Workshop duration and delivery
 This exploratory API testing workshop takes 3-4 hours. It works great either as an on-site or an online in-company workshop, or as a half-day conference tutorial.

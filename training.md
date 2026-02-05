@@ -30,7 +30,7 @@ My API testing courses cover the broad spectrum that is API testing. I offer sev
 
 <a href="/training/workshop-api-security-testing/" class="btn btn--primary">Workshop API security testing (0,5 - 1 day)</a>
 
-<a href="/training/workshop-api-test-automation-in-code/" class="btn btn--primary">Workshop API test automation in code (0,5 - 1 day)</a>
+<a href="/training/workshop-api-test-automation-in-code/" class="btn btn--primary">API test automation in code workshop (half day)</a>
 
 <a href="/training/workshop-api-mocking-with-wiremock/" class="btn btn--primary">Workshop API mocking with WireMock (0,5 - 1 day)</a>
 
