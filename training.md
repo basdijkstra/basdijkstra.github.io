@@ -43,11 +43,13 @@ If you want to learn what it takes to build and execute a solid API testing stra
 <hr/>
 
 ## Contract testing
-With the rise of distributed and microservices-based software systems, the challenge of performing efficient integration testing early and often in the SDLC is becoming ever more difficult to tackle.
+When a software is made up out of services and components that are built, deployed and run independently, it can be hard to get an answer to the question of:
 
-Contract testing is an approach that is quickly gaining traction as a way out of 'integration testing hell'. In this practical and very hands-on training, you'll learn everything you need to know to make your contract testing efforts successful.
+> Are all individual components and services able to communicate with one another?
 
-<a href="/training/contract-testing/" class="btn btn--primary">Contract testing (1 day)</a>
+Contract testing is a technique, supported by tools, that can help you find an answer to this question and deploy your services with confidence.
+
+<a href="/training/contract-testing/" class="btn btn--primary">Contract testing workshop (1 day)</a>
 
 If you prefer self-paced learning, I have also created a video course that you can enroll in. Learn more about contract testing in your own time, at your own pace!
 

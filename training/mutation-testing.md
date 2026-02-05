@@ -15,7 +15,7 @@ In this workshop, you'll learn how mutation testing works, what it can do for yo
 
 ## What will you learn?
 
-In this workshop, you will learn, among other things:
+In this workshop you will learn, among other things:
 
 * Why code coverage alone is not a good indicator of the quality of your tests
 * What mutation testing is and how mutation testing tools work
@@ -34,10 +34,8 @@ This workshop is great for developers and testers who want to learn more about m
 
 Some previous exposure to object-oriented software development and test automation will make it easier for you to follow along.
 
-## Workshop delivery
-This workshop works great either as an on-site or an online in-company workshop, or as a half-day conference tutorial.
-
-The full workshop typically takes 3-4 hours. I recommend a length of at least 2 hours.
+## Workshop duration and delivery
+This mutation testing workshop takes 3-4 hours. It works great either as an on-site or an online in-company workshop, or as a half-day conference tutorial.
 
 ## I'm interested, what's next?
 I'm happy to hear that! Click the button below, complete the contact form, and I'll get back to you as soon as possible.

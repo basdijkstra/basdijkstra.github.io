@@ -1,70 +1,44 @@
 ---
-title: Contract testing
+title: Contract testing workshop
 layout: page
 permalink: /training/contract-testing/
 ---
-In a world where new software applications are increasingly often built in a distributed (sometimes microservices-based) architecture, where multiple teams are building, deploying and running services and components independently, it can be hard to verify whether all these individual services can still communicate with one another over time.
+When a software is made up out of services and components that are built, deployed and run independently, it can be hard to get an answer to the question of:
 
-Contract testing is a technique, supported by tools, that can help you deploy your services with confidence in a distributed software system.
+> Are all individual components and services able to communicate with one another?
 
-In this training course, you'll learn what contract testing is, where it fits into your overall testing strategy and how the Pact framework can help you set up and run contract tests.
+Contract testing is a technique, supported by tools, that can help you find an answer to this question and deploy your services with confidence.
 
-#### Course contents
+In this workshop, you'll learn what contract testing is, where it fits into your overall testing strategy and how [the Pact framework](https://docs.pact.io){:target="_blank"} can be used to set up and run contract tests.
 
-This workshop covers, among other things:
+## What will you learn?
+In this workshop you will learn, among other things:
 
-_Context and background of contract testing_
-* The challenges of integration testing in distributed environments
-* What problem does contract testing actually solve?
-* What's the place of contract testing in an overall testing and automation strategy?
-* The three approaches to contract testing
-
-_Consumer-driven contract testing (CDCT)_
-* The CDCT flow
-* About defining consumer expectations
-* Creating contracts from consumer expectations in Pact
-* Verifying consumer expectations on the provider side
-
-_The Pact Broker_
-* Different types of brokers
-* Publishing consumer contracts to the broker
-* Pulling contracts from the broker as a consumer and publishing verification results
-
-_Integrating contract testing in build pipelines_
-* Contract generation
-* Contract verification
-* Checking if it's safe to go to production with can-i-deploy
-
-_Challenges in implementing consumer-driven contract testing_
-
-_Bidirectional contract testing (BDCT)_
-* The BDCT flow
-* Generating and publishing a consumer contract
-* Generating and publishing a provider contract
-* Contract comparison 
+* What problem contract testing actually solves
+* The three approaches to contract testing and their respective differences
+  * Consumer-driven
+  * Provider-driven
+  * Bidirectional
+* How to use the Pact library to write contracts as a consumer and verify contracts as a provider
+* How to use a Pact Broker versioning and distributing contracts and contract verification results
+* How to use Pact CLI tools like `can-i-deploy` and `record-deployment` to safely automate the build and deployment process
+* How to implement bidirectional contract testing with and without using the Pact library
 
 There's no better way to learn than by doing, so you'll be presented with a variety of hands-on (programming) exercises throughout this course.
 
 This course can be delivered using the Pact bindings in Java, C#, Python and JavaScript.
 
-#### Intended audience and prerequisite knowledge
+## Who should take this workshop?
+This workshop is great for software developers and testers who want to learn more about contract testing and how to create and execute contract tests with Pact.
 
-This course is aimed at software development and testing practitioners that want to learn more about contract testing and how to create and execute contract tests with Pact. Some previous exposure to object-oriented software development and (API-level) test automation will make it easier for you to follow along.
+Some previous exposure to object-oriented software development and (API-level) test automation will make it easier for you to follow along.
 
-#### After this course
-After completing this contract testing course, participants will have a working knowledge of:
+## Workshop delivery  
+This contract testing workshop takes 6-8 hours. It works great either as an on-site or an online in-company workshop, or as a full-day conference tutorial.
 
-* The different types of contract testing and which flavour works where
-* The position of contract testing in an overall software testing and automation strategy
-* How to build consumer-driven contract tests with Pact
-* How to use the Pact Broker to manage contracts and verification results
-* The challenges of implementing consumer-driven contract testing
-* How bidirectional contract testing works and how it addresses the challenges of CDCT
-* How to make contract testing part of a CI/CD pipeline
+## I'm interested, what's next?
+I'm happy to hear that! Click the button below, complete the contact form, and I'll get back to you as soon as possible.
 
-#### Delivery and group size  
-This is a live training course, available both on site and online.
+<a href="/contact/" class="btn btn--primary">Yes, I'd like to book this workshop for my team!</a>
 
-If you would like to book me to teach this course in your organization, or if you have any additional questions, please send an email to bas@ontestautomation.com or use the contact form on [this page](/contact/).
-
-For an overview of all training courses I have on offer, please visit the main [training page](/training/).
+If you'd like to see the other training courses and workshops I have on offer, [please click here](/training/).
