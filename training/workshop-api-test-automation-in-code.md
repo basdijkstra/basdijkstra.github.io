@@ -20,6 +20,8 @@ In this workshop, you'll learn how to get started writing tests for HTTP-based A
 * [RestSharp](https://restsharp.dev/){:target="_blank"} (C#)
 * [requests](https://requests.readthedocs.io/en/latest/){:target="_blank"} (Python)
 
+<a href="/contact/" class="btn btn--primary">Yes, I'd like to book this workshop for my team!</a>
+
 ## What will you learn?
 In this workshop you will learn, among other things:
 

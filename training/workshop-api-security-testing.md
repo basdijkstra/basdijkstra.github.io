@@ -11,6 +11,8 @@ Well, that doesn't have to be the case. In fact, you can do a lot with just a he
 
 In this workshop, you'll learn about some of the most common API security vulnerabilities and how to investigate whether your APIs are falling victim to them.  
 
+<a href="/contact/" class="btn btn--primary">Yes, I'd like to book this workshop for my team!</a>
+
 ## What will you learn?
 In this workshop you will learn, among other things:
 

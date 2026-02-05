@@ -13,6 +13,8 @@ One of the techniques that can help you, your team and organization get more ins
 
 In this workshop, you'll learn how mutation testing works, what it can do for you, and how to interpret the information given to you by a mutation testing tool and use that to improve the quality of your tests.
 
+<a href="/contact/" class="btn btn--primary">Yes, I'd like to book this workshop for my team!</a>
+
 ## What will you learn?
 
 In this workshop you will learn, among other things:

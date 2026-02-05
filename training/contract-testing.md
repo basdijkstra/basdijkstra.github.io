@@ -11,6 +11,8 @@ Contract testing is a technique, supported by tools, that can help you find an a
 
 In this workshop, you'll learn what contract testing is, where it fits into your overall testing strategy and how [the Pact framework](https://docs.pact.io){:target="_blank"} can be used to set up and run contract tests.
 
+<a href="/contact/" class="btn btn--primary">Yes, I'd like to book this workshop for my team!</a>
+
 ## What will you learn?
 In this workshop you will learn, among other things:
 

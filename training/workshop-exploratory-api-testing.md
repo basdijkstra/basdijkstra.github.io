@@ -11,6 +11,8 @@ Performing exploratory testing on APIs isn't that different from performing expl
 
 In this workshop, you'll learn how to start performing exploratory testing on APIs using common tools and some useful guidelines to help you come up with ideas for tests.   
 
+<a href="/contact/" class="btn btn--primary">Yes, I'd like to book this workshop for my team!</a>
+
 ## What will you learn?
 In this workshop you will learn, among other things:
 
