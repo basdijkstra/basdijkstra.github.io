@@ -3,39 +3,37 @@ title: Workshop exploratory API testing
 layout: page
 permalink: /training/workshop-exploratory-api-testing/
 ---
-When thinking about API testing, many times our thoughts immediately focus on tools and writing code to perform automated checks for APIs.
+When we think about API testing, many times our thoughts immediately focus on tools and writing code to perform automated checks for APIs.
 
-What we sometimes tend to forget in the process, though, is that we might want to explore our APIs, too, to uncover any hidden problems and discover behaviour we did not consider or discuss during design or development.
+What we sometimes tend to forget, though, is that we might want to explore our APIs, too, to uncover any hidden problems and discover behaviour we did not consider or discuss during design or development.
 
-The good news is, performing exploratory testing on APIs isn't that different from performing exploratory testing on systems through a graphical user interface.
+Performing exploratory testing on APIs isn't that different from performing exploratory testing on systems through a graphical user interface.
 
-What does help, though, is having a good understanding of how APIs work, of the role APIs play in modern software systems and of common misunderstandings and misconceptions that negatively impact the quality of APIs.
+In this workshop, you'll learn how to start performing exploratory testing on APIs using common tools and some useful guidelines to help you come up with ideas for tests.   
 
-In this workshop, you'll learn how to start performing exploratory testing on APIs using common tools and some guidelines to help you come up with ideas for tests.   
+## What will you learn?
+In this workshop you will learn, among other things:
 
-#### Workshop outline
-This workshop covers the following topics:
+* Why testing your APIs is important
+* How the [the POISED heuristic](https://testautomationu.applitools.com/exploring-service-apis-through-test-automation/){:target="_blank"} can help you come up with API test ideas
+* How to perform tests on APIs using common API clients and test tools
+* How to interpret and present exploratory API testing results
 
-* The importance of testing APIs
-* Tools that can help you get started
-* Hands-on: performing our first tests on APIs
-* Introduction to [the POISED heuristic](https://testautomationu.applitools.com/exploring-service-apis-through-test-automation/){:target="_blank"}, to help us come up with test ideas
-* Hands-on: using POISED to go deeper in our exploratory testing
-* Interpreting and communicating exploratory API testing results
-* Introduction to converting our experiments into automated tests
+There's no better way to learn than by doing, so you'll spend plenty of time performing tests on different types of APIs.
 
-#### Intended audience and prerequisite knowledge  
-This course is aimed at software testers and developers that want to learn more about testing their APIs.
+I often run this workshop using [Postman](https://www.postman.com/){:target="_blank"} or [Bruno](https://www.usebruno.com/){:target="_blank"}, but I'm happy to use the API testing tool of your choice, too.
 
-Some prior knowledge of APIs, HTTP and REST is beneficial. I am confident, however, that even without this you will find this workshop to be very useful.
+## Who should take this workshop? 
+This workshop is great for testers and developer who want to learn more about testing their APIs.
 
-#### Delivery and group size
-This workshop is a great fit both for an on site or an online in house training session, as well as a half or full day conference tutorial. I recommend a maximum group size of around 15-20 people.
+Some prior knowledge of APIs, HTTP and REST is beneficial, but I am confident that even without this, you will find this workshop to be very valuable.
 
-#### Duration
-This workshop typically takes 3-4 hours, but can be extended to a full-day tutorial.
+## Workshop duration and delivery
+This exploratory API testing workshop takes 3-4 hours. It works great either as an on-site or an online in-company workshop, or as a half-day conference tutorial.
 
-#### Interested?
-If you would like to book me to teach this workshop in your organization or at your conference, or if you have any additional questions, please send an email to bas@ontestautomation.com or use the contact form on [this page](/contact/).
+## I'm interested, what's next?
+I'm happy to hear that! Click the button below, complete the contact form, and I'll get back to you as soon as possible.
 
-For an overview of all training courses and workshops I have on offer, please visit the main [training page](/training/).
+<a href="/contact/" class="btn btn--primary">Yes, I'd like to book this workshop for my team!</a>
+
+If you'd like to see the other training courses and workshops I have on offer, [please click here](/training/).

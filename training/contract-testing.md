@@ -24,7 +24,7 @@ In this workshop you will learn, among other things:
 * How to use Pact CLI tools like `can-i-deploy` and `record-deployment` to safely automate the build and deployment process
 * How to implement bidirectional contract testing with and without using the Pact library
 
-There's no better way to learn than by doing, so you'll be presented with a variety of hands-on (programming) exercises throughout this course.
+There's no better way to learn than by doing, so you'll be presented with a variety of hands-on (programming) exercises throughout this workshop.
 
 I can run this workshop using the Pact bindings in Java, C#, Python or JavaScript.
 
@@ -33,7 +33,7 @@ This workshop is great for software developers and testers who want to learn mor
 
 Some previous exposure to object-oriented software development and (API-level) test automation will make it easier for you to follow along.
 
-## Workshop delivery  
+## Workshop duration and delivery
 This contract testing workshop takes 6-8 hours. It works great either as an on-site or an online in-company workshop, or as a full-day conference tutorial.
 
 ## I'm interested, what's next?

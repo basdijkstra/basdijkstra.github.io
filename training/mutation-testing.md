@@ -23,7 +23,7 @@ In this workshop you will learn, among other things:
 * How to improve your tests based on these mutation testing results
 * How to get started with mutation testing in your own project
 
-There's no better way to learn than by doing, so you'll be presented with a variety of hands-on (programming) exercises throughout this course.
+There's no better way to learn than by doing, so you'll be presented with a variety of hands-on (programming) exercises throughout this workshop.
 
 To illustrate that mutation testing is not just for unit tests, the workshop uses an API as the system under test. This API comes complete with controller, service and repository layers, as well as a real (in-memory) database, and integration / acceptance tests to test the API.
 
