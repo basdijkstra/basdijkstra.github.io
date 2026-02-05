@@ -1,5 +1,5 @@
 ---
-title: Workshop Playwright
+title: Workshop introduction to Playwright
 layout: page
 permalink: /training/workshop-playwright/
 ---
@@ -7,38 +7,36 @@ The number of teams and organizations adopting [Playwright](https://playwright.d
 
 But what makes Playwright different from other tools? What _can_ you (not) do with Playwright? And how do you get started?
 
-I have created this hands-on workshop to address exactly those questions, and set you on your way to test automation success with Playwright. 
+This hands-on introductory workshop addresses exactly those questions. It is designed to set you on your way to test automation success with Playwright. 
 
-#### Workshop outline
-This workshop covers the following topics:
+<a href="/contact/" class="btn btn--primary">Yes, I'd like to book this workshop for my team!</a>
 
-* An introduction to Playwright and how it differs from other popular, open source automation libraries
-* Creating a new Playwright project
-* Writing and running your first Playwright test
-* How to find and interact with elements on a web page
-* Using Page Objects to create tests that are easier to read and maintain
-* Storing and reusing browser state (for example to avoid having to log in every time)
-* Using Playwright to invoke and write tests for APIs
-* Debugging your tests
-* Tracing your test execution
-* Making your tests part of a Continuous Integration pipeline
+## What will you learn?
+In this workshop you will learn, among other things:
 
-#### Intended audience and prerequisite knowledge  
-This course is aimed at software testers and developers that want to learn more about Playwright and how to use it for their automation efforts.
+* What Playwright is, and how it differs from other popular, open source automation libraries
+* How to write and run your first Playwright test
+* How to save and use traces of your tests
+* How to identify and interact with objects on a web page
+* How Playwright handles auto-waiting and synchronization
+* How to write and use Page Objects to create tests that are easier to read and maintain
+* How to use Playwright to both perform and mock API calls
 
-Some prior knowledge of both web and API automation, as well as being comfortable writing and running object-oriented code is beneficial. I am confident, however, that even without this you will find this workshop to be very useful.
+There's no better way to learn than by doing, so you'll be presented with a variety of hands-on (programming) exercises throughout this workshop.
 
-For those who would like to dive deeper into test automation with Playwright after this workshop, I can recommend (and combine this workshop with) my '[Improving your Playwright code](/training/improving-your-playwright-code/)' workshop. 
+I can run this workshop using the Playwright bindings in TypeScript, Java, C# or Python.
 
-#### Delivery and group size
-This workshop is a great fit both for an on site or an online in house training session, as well as a half or full day conference tutorial. I recommend a maximum group size of around 15-20 people.
+## Who should take this workshop?  
+This workshop is great for testers and developers who want to learn the basics of Playwright, and how to use this versatile framework in their test automation efforts.
 
-I can deliver this workshop in all languages supported by Playwright: C#, Java, JavaScript/TypeScript and Python. 
+Some prior knowledge of the object-oriented programming is beneficial, but I am confident that even without this, you will find this workshop to be very valuable.
 
-#### Duration
-This workshop is a full-day tutorial, but can be brought back to 3-4 hours on request.
+## Workshop duration and delivery
+This introduction to Playwright workshop takes 6-8 hours. It works great either as an on-site or an online in-company workshop, or as a full-day conference tutorial.
 
-#### Interested?
-If you would like to book me to teach this workshop in your organization or at your conference, or if you have any additional questions, please send an email to bas@ontestautomation.com or use the contact form on [this page](/contact/).
+## I'm interested, what's next?
+I'm happy to hear that! Click the button below, complete the contact form, and I'll get back to you as soon as possible.
 
-For an overview of all training courses and workshops I have on offer, please visit the main [training page](/training/).
+<a href="/contact/" class="btn btn--primary">Yes, I'd like to book this workshop for my team!</a>
+
+If you'd like to see the other training courses and workshops I have on offer, [please click here](/training/).

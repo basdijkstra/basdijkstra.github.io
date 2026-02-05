@@ -58,9 +58,9 @@ If you prefer self-paced learning, I have also created a video course that you c
 <hr/>
 
 ## Playwright
-<a href="https://playwright.dev">Playwright</a> has quickly become the test automation tool of choice for many companies. If your team or company wants to learn how to get started with Playwright, too, my introductory course will be a great fit:
+[Playwright](https://playwright.dev){:target="_blank"} has quickly become the test automation tool of choice for many companies. If your team or company wants to learn how to get started with Playwright, too, my introductory workshop will be a great fit:
 
-<a href="/training/workshop-playwright/" class="btn btn--primary">Test automation with Playwright</a>
+<a href="/training/workshop-playwright/" class="btn btn--primary">Introduction to Playwright workshop (1 day)</a>
 
 If you have some Playwright experience under your belt already, and you want to learn how to get more out of the library and improve your existing Playwright-based tests, I have just the course for that, too: 
 
