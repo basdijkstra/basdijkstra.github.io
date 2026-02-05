@@ -12,7 +12,7 @@ In this workshop, you'll learn how to start mocking the behaviour of your depend
 ## What will you learn?
 In this workshop you will learn, among other things:
 
-* When (not) to mock your dependencies?
+* When (not) to mock your dependencies
 * How to write and test your first mocks using WireMock
 * How to use different request matching strategies and fault simulation options
 * How to use response templating to reuse dynamic request values in your response
