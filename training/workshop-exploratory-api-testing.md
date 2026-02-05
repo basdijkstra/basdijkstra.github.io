@@ -17,7 +17,7 @@ In this workshop, you'll learn how to start performing exploratory testing on AP
 In this workshop you will learn, among other things:
 
 * Why testing your APIs is important
-* How the [the POISED heuristic](https://testautomationu.applitools.com/exploring-service-apis-through-test-automation/){:target="_blank"} can help you come up with API test ideas
+* How [the POISED heuristic](https://testautomationu.applitools.com/exploring-service-apis-through-test-automation/){:target="_blank"} can help you come up with API test ideas
 * How to perform tests on APIs using common API clients and test tools
 * How to interpret and present exploratory API testing results
 
