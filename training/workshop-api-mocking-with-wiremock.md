@@ -1,5 +1,5 @@
 ---
-title: Workshop API mocking with WireMock
+title: API mocking with WireMock workshop
 layout: page
 permalink: /training/workshop-api-mocking-with-wiremock/
 ---

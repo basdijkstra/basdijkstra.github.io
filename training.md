@@ -51,9 +51,9 @@ Contract testing is a technique, supported by tools, that can help you find an a
 
 <a href="/training/contract-testing/" class="btn btn--primary">Contract testing workshop (1 day)</a>
 
-If you prefer self-paced learning, I have also created a video course that you can enroll in. Learn more about contract testing in your own time, at your own pace!
+For those of you who prefer self-paced learning, I have also created a video course on contract testing. And because nobody ever learned to swim by watching other people swim, it comes with a range of hands-on exercises, too! 
 
-<a href="https://ontestautomation.teachable.com/p/practical-contract-testing-with-pact" class="btn btn--primary">Enroll in my 'Practical contract testing with Pact' course now!</a>
+<a href="https://ontestautomation.teachable.com/p/practical-contract-testing-with-pact" class="btn btn--primary">Enroll in 'Practical contract testing with Pact' now!</a>
 
 <hr/>
 

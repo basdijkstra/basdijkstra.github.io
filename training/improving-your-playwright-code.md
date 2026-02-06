@@ -1,5 +1,5 @@
 ---
-title: Improving your Playwright code
+title: Improving your Playwright code workshop
 layout: page
 permalink: /training/improving-your-playwright-code/
 ---

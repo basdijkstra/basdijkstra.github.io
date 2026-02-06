@@ -1,5 +1,5 @@
 ---
-title: Workshop API test automation in code
+title: API test automation in code workshop
 layout: page
 permalink: /training/workshop-api-test-automation-in-code/
 ---

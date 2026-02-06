@@ -1,5 +1,5 @@
 ---
-title: Workshop API security testing
+title: API security testing workshop
 layout: page
 permalink: /training/workshop-api-security-testing/
 ---

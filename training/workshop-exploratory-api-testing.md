@@ -1,5 +1,5 @@
 ---
-title: Workshop exploratory API testing
+title: Exploratory API testing workshop
 layout: page
 permalink: /training/workshop-exploratory-api-testing/
 ---

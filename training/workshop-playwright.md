@@ -1,5 +1,5 @@
 ---
-title: Workshop introduction to Playwright
+title: Introduction to Playwright workshop
 layout: page
 permalink: /training/workshop-playwright/
 ---
