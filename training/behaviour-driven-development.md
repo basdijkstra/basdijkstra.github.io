@@ -1,5 +1,5 @@
 ---
-title: Behaviour-Driven Development
+title: Behaviour-Driven Development workshop
 layout: page
 permalink: /training/behaviour-driven-development/
 ---
