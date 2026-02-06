@@ -75,9 +75,9 @@ Creating high quality software starts with a shared understanding between stakeh
 
 Unfortunately, BDD is still often misunderstood and badly implemented, leading to lots of time, effort and money wasted, without much to show for it.
 
-In this course, you'll not only learn what the 'textbook' BDD process looks like, but you'll also learn about common BDD pitfalls and how to avoid them.  
+In this workshop, you'll not only learn what the 'textbook' BDD process looks like, but you'll also learn about common BDD pitfalls and how to avoid them.  
 
-<a href="/training/behaviour-driven-development/" class="btn btn--primary">Behaviour-Driven Development (BDD) (1-2 days)</a>
+<a href="/training/behaviour-driven-development/" class="btn btn--primary">Behaviour-Driven Development (BDD) workshop (1 day)</a>
 
 <hr/>
 
