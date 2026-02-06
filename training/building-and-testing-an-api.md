@@ -58,6 +58,6 @@ Don't see your preferred technology stack in the list? Other technologies and li
 ## I'm interested, what's next?
 I'm happy to hear that! Click the button below, complete the contact form, and I'll get back to you as soon as possible.
 
-<a href="/contact/" class="btn btn--primary">Yes, I'd like to book this workshop for my team!</a>
+<a href="/contact/" class="btn btn--primary">Yes, I'd like to book this course for my team!</a>
 
 If you'd like to see the other training courses and workshops I have on offer, [please click here](/training/).
