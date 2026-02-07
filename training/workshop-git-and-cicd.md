@@ -1,5 +1,5 @@
 ---
-title: Workshop Git and CI/CD
+title: Git and build pipelines workshop
 layout: page
 permalink: /training/workshop-git-and-cicd/
 ---

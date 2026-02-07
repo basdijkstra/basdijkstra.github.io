@@ -97,7 +97,7 @@ The real value of your tests is in running them, and automating the execution of
 
 In this workshop, you'll learn how to bring your (test) code under version control using Git and how to develop a basic build pipeline to automate the execution of your tests.
 
-<a href="/training/workshop-git-and-cicd/" class="btn btn--primary">Git and build pipelines with GitHub Actions or Azure DevOps (1 day)</a>
+<a href="/training/workshop-git-and-cicd/" class="btn btn--primary">Git and build pipelines workshop (1 day)</a>
 
 <hr/>
 
