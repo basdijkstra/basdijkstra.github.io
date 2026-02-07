@@ -9,8 +9,10 @@ But how does this work? And what does Git have to do with it?
 
 In this workshop, you'll learn everything you need to get the test code you write on your machine to run as part of a CI build pipeline, as well as how to collaborate with others on your or their code using Git, the world's most popular version control system.
 
-##### Workshop contents  
-This workshop covers, among other things:
+<a href="/contact/" class="btn btn--primary">Yes, I'd like to book this workshop for my team!</a>
+
+## What will you learn?
+In this workshop you will learn, among other things:
 
   * An introduction to version control with Git
   * How to get your code on other people's machines, and how to get their code on yours
@@ -25,16 +27,15 @@ By the end of the course, you will have built your own CI pipeline in GitHub Act
 
 It's also good to keep in mind that while we run our exercises using either GitHub Actions or Azure DevOps, everything you learn about building pipelines applies to other CI orchestrator platforms as well.
 
-#### Intended audience and prerequisite knowledge  
-This workshop is aimed at software development and testing practitioners that want to learn more about Git, GitHub Actions, Azure DevOps pipelines and implementing CI/CD using these tools.
+## Who should take this workshop?
+This workshop is for developers and testers who want to learn more about Git, GitHub Actions, Azure DevOps pipelines and implementing CI/CD using these tools.
 
-#### Delivery and group size  
-This workshop is a great fit both for an on site or an online in house training session, as well as a half or full day conference tutorial. I recommend a maximum group size of around 15-20 people.
+## Workshop duration and delivery
+This workshop takes 6-8 hours. It is a great fit both for an on site or an online in house training session, or as a full day conference tutorial.
 
-#### Duration  
-This workshop is designed to be a full-day tutorial.
+## I'm interested, what's next?
+I'm happy to hear that! Click the button below, complete the contact form, and I'll get back to you as soon as possible.
 
-#### Interested?  
-If you would like to book me to teach this workshop in your organization or at your conference, or if you have any additional questions, please send an email to bas@ontestautomation.com or use the contact form on [this page](/contact/).
+<a href="/contact/" class="btn btn--primary">Yes, I'd like to book this workshop for my team!</a>
 
-For an overview of all training courses and workshops I have on offer, please visit the main [training page](/training/).
+If you'd like to see the other training courses and workshops I have on offer, [please click here](/training/).
