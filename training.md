@@ -81,14 +81,23 @@ In this workshop, you'll not only learn what the 'textbook' BDD process looks li
 
 <hr/>
 
-## Miscellaneous workshops
-These half- to full-day workshops are perfect if you're looking to get a kickstart with a new tool or technique. And if you're a conference organizer: these workshops work really well as part of conferences, too!
+## Mutation testing
+You probably spend a lot of time both on building your product and on writing tests for that product. But do you also spend any time on testing those tests?
+
+Do you really know if your tests are testing something meaningful? Are you sure you can rely on the information produced by your tests?
+
+In this workshop, you'll learn when and how to use mutation testing, a technique to help you gain more insight into the quality of your tests and find the areas that might not be covered as well as you think... 
 
 <a href="/training/mutation-testing/" class="btn btn--primary">Mutation testing workshop (half day)</a>
 
-<a href="/training/improving-your-test-automation-code/" class="btn btn--primary">Improving your test automation code (1 day)</a>
+<hr/>
 
-<a href="/training/workshop-git-and-cicd/" class="btn btn--primary">Git and CI/CD with GitHub Actions or Azure DevOps (1 day)</a>
+## Git and build pipelines
+The real value of your tests is in running them, and automating the execution of your tests is a great way to make sure that they're delivering a return on investment.
+
+In this workshop, you'll learn how to bring your (test) code under version control using Git and how to develop a basic build pipeline to automate the execution of your tests.
+
+<a href="/training/workshop-git-and-cicd/" class="btn btn--primary">Git and build pipelines with GitHub Actions or Azure DevOps (1 day)</a>
 
 <hr/>
 
