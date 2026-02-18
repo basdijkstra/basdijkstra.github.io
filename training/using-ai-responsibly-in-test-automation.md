@@ -19,7 +19,7 @@ In this workshop you will learn, among other things:
 
 * How and where AI can effectively support test automation, and where it should not be used
 * How to define clear guardrails and constraints when creating and working with AI-generated test code
-* Why and how to critically review and validate AI-generated output instead of accepting it at face value
+* Why and how to critically review and validate AI-generated tests, instead of accepting them at face value
 * Common pitfalls when using AI for test automation, including false confidence, overfitting to examples, and loss of intent
 * How to use AI to improve test design, readability and maintainability, not just typing speed
 
