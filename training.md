@@ -42,18 +42,13 @@ If you want to learn what it takes to build and execute a solid API testing stra
 
 <hr/>
 
-## Contract testing
-When a software is made up out of services and components that are built, deployed and run independently, it can be hard to get an answer to the question of:
+## Artificial Intelligence (AI)
 
-> Are all individual components and services able to communicate with one another?
+In the last couple of years we have seen a spectacular rise in the use of AI, and more specifically LLM-based AI tools, in test automation. Without a doubt, AI is a powerful technique, but how do you use it responsibly when writing tests for your products?
 
-Contract testing is a technique, supported by tools, that can help you find an answer to this question and deploy your services with confidence.
+If you're looking for an answer to that question, this workshop is for you.
 
-<a href="/training/contract-testing/" class="btn btn--primary">Contract testing workshop (1 day)</a>
-
-For those of you who prefer self-paced learning, I have also created a video course on contract testing. And because nobody ever learned to swim by watching other people swim, it comes with a range of hands-on exercises, too! 
-
-<a href="https://ontestautomation.teachable.com/p/practical-contract-testing-with-pact" class="btn btn--primary">Enroll in 'Practical contract testing with Pact' now!</a>
+<a href="/training/using-ai-responsibly-in-test-automation/" class="btn btn--primary">Using AI responsibly in test automation (1 day)</a>
 
 <hr/>
 
@@ -67,6 +62,21 @@ If you have some Playwright experience under your belt already, and you want to 
 <a href="/training/improving-your-playwright-code/" class="btn btn--primary">Improving your Playwright code workshop (1 day)</a>
 
 Both courses can also be combined into a single, comprehensive Playwright course that'll teach you everything you need to know to become successful with your test automation in Playwright.
+
+<hr/>
+
+## Contract testing
+When a software is made up out of services and components that are built, deployed and run independently, it can be hard to get an answer to the question of:
+
+> Are all individual components and services able to communicate with one another?
+
+Contract testing is a technique, supported by tools, that can help you find an answer to this question and deploy your services with confidence.
+
+<a href="/training/contract-testing/" class="btn btn--primary">Contract testing workshop (1 day)</a>
+
+For those of you who prefer self-paced learning, I have also created a video course on contract testing. And because nobody ever learned to swim by watching other people swim, it comes with a range of hands-on exercises, too!
+
+<a href="https://ontestautomation.teachable.com/p/practical-contract-testing-with-pact" class="btn btn--primary">Enroll in 'Practical contract testing with Pact' now!</a>
 
 <hr/>
 
