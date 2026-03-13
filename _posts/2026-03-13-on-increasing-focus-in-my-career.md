@@ -45,7 +45,7 @@ If all goes well, and that's what I'm slowly working towards and have been worki
 
 I have always enjoyed cycling, but until recently, I only really brought out my racing bike every now and then. A few months ago, that changed, and I am now working my way towards riding ever longer distances (I'll never be a fast rider, and that's fine). I'll ride my first century next month. In May, I hope to complete the cycling version of one of the [most famous Dutch sporting events of all time](https://www.fietselfstedentocht.frl/en/){:target="_blank"}. If that goes well, I have my eyes set on a much longer event in 2027.
 
-The only problem with cycling, and training for long-distance cycling events in particular, is that it takes time, a LOT of time. A typical weekend ride these days is 5-6 hours, and that will only grow as I get closer to the events I would like to complete.
+The only problem with cycling, and training for long-distance cycling events in particular, is that it takes time, a LOT of time. I go out for a bike ride three times a week, with my shortest rides being around 2 hours. A typical weekend ride, right now, is 5-6 hours, and that will only grow as I get closer to the events I would like to complete.
 
 I don't want to spend all my hours outside of work on a bike, and neither does my family. So, I decided to slowly start changing the way I work and the way I spend my time to make room for spending hours on my bike. That, to me, is the 'freedom' I talk about when I tell others why I am an independent consultant.
 
