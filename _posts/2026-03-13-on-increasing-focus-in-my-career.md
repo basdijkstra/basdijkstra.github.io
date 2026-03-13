@@ -8,7 +8,7 @@ tags:
   - Focus
   - Training
 ---
-_Note: this is not the most well-structured blog post I've written, but rather a recording of my not (yet) completely organized thoughts. Feel free to be confused by these ramblings._
+_Note: this is not the most well-structured blog post I've written, but rather a recording of my not (yet) completely organized thoughts._
 
 Last week, I was at the [Test Automation Days](https://www.testautomationdays.com){:target="_blank"} conference, both as a member of the program committee, and as a last-minute substitute workshop facilitator. As is typically the case with conferences, I had a lot of conversations, catching up with people I've met before, as well as getting to know people I haven't. One of the questions that invariably comes up in these conversations is
 
