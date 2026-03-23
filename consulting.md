@@ -27,11 +27,12 @@ _**Please note** that I will not do the work for you, but I will show you how to
 
 The process is fairly simple:
 
-1. You contact me [using this form](/contact/) (please choose 'consulting with us')
+1. You contact me [using this form](/contact/) (please choose 'you consulting with us')
 2. We schedule a 15-30 minute chat to discuss the logistics and desired outcomes
 3. I send you a proposal, including scope and (fixed) price
 4. We run the session(s) as agreed
-5. After the session, I send you an overview of what we did, what we achieved, and the blockers we ran into (if any)
+
+After the session(s), I send you an overview of what we did, what we achieved, the blockers we ran into (if any), as well as my recommendations for you going forward.
 
 That's it. No onboarding needed, no complicated contracts. I am happy to sign an [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement){:target="_blank"} should your legal department require it.
 
