@@ -21,7 +21,7 @@ Apart from pair programming, there are a few other things I can do for you, too:
 * Review your current test automation approach, and give you an independent outsider's opinion on what you're doing right and where I see room for improvement
 * Do a talk for your team or your company on a topic related to test automation (I particularly enjoy doing talks with live demos)
 
-_**Please note** that I will not do the work for you, but I will teach you how to do it yourself._
+_**Please note** that I will not do the work for you, but I will show you how to do it yourself._
 
 ## What does working with me look like?
 
