@@ -21,7 +21,7 @@ You can contact me by filling in the form below. Please note that your email add
     <label class="fs-label" for="interest">I want to talk about:</label>
     <select class="fs-select" id="interest" name="interest" required>
       <option value="training">training for my team</option>
-      <option value="consulting">consulting with us</option>
+      <option value="consulting">you consulting with us</option>
       <option value="presentation">you doing a talk at our event</option>
       <option value="mentoring">corporate mentoring</option>
       <option value="other">something else</option>
