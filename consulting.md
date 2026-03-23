@@ -9,7 +9,7 @@ _"My team is looking to add (integration / contract / mutation / ...) testing to
 
 _"Our test code is a mess, but we don't know where and how to start cleaning it up."_
 
-Does that sound familiar? If so, I can help.
+Does any of that sound familiar? If so, I can help.
 
 ## How I can help you
 
