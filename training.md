@@ -24,7 +24,7 @@ It introduces you to a range of models, techniques and tools, how to use them an
 
 For product development teams and organizations looking for a workshop to review and improve their specific test automation strategy, I recommend the two-day 'Applied' course:    
 
-<a href="/training/valuable-feedback-fast-applied/" class="btn btn--primary">Valuable feedback, fast applied (2 days)</a>
+<a href="/training/valuable-feedback-fast-applied/" class="btn btn--primary">Valuable feedback, fast - Applied (2 days)</a>
 
 
 
