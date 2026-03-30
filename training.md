@@ -121,9 +121,7 @@ In this workshop, you'll learn how to bring your (test) code under version contr
 <hr/>
 
 ## Customization
-Can't find the training course or workshop you were looking for? I am happy to talk to you to see if together, we can create a **bespoke training course** (or even a complete curriculum of courses) that fits your training needs like a glove.
-
-Are you interested in having me as a trainer in your organization or at your conference? Feel free to email me at bas@ontestautomation.com, or use the contact form on [this page](/contact/).
+Can't find the training course or workshop you were looking for? [I am happy to talk](/contact/) to you to see if together, we can create a **bespoke training course** (or even a complete curriculum of courses) that fits your training needs like a glove.
 
 I prefer to deliver courses live and in person, as that is the most effective way of teaching and learning, but I am happy to run workshops and courses online, too.
 
