@@ -16,13 +16,21 @@ _If you're looking for a more personalized learning experience for 1-3 of your e
 <hr/>
 
 ## Valuable feedback, fast
-If we want our test automation to deliver on the goal of providing valuable feedback, fast, we need to do more than throwing tools at testing problems.
+If you want your test automation to deliver on the goal of providing valuable feedback, fast, you need to do more than throw tools at your testing problems. You need to be able to identify and assess (potential) problems at both the technical and organizations level, and then suggest, implement and evaluate solutions to them.
 
-We need to be able to identify and analyze (potential) problems and suggest, implement and assess solutions at both the technical and the procedural and organizational level.
+The 'Valuable feedback, fast' courses are designed to teach individuals, teams and organizations how to do exactly that.
 
-The 'Valuable feedback, fast' course is designed to teach individuals, teams and organizations how to do exactly that.
+The main, three-day course teaches participants how to assess and improve their current test automation strategy, or how to build one from the ground up.
+
+It introduces you to a range of models, techniques and tools, how to use them and how to tell a story about their benefits, drawbacks and the value that they add to your test automation efforts.   
 
 <a href="/training/valuable-feedback-fast/" class="btn btn--primary">Valuable feedback, fast (3 days)</a>
+
+For product development teams and organizations looking for a workshop to review and improve their specific test automation strategy, I recommend the two-day 'Applied' course:    
+
+<a href="/training/valuable-feedback-fast-applied/" class="btn btn--primary">Valuable feedback, fast applied (2 days)</a>
+
+
 
 <hr/>
 
