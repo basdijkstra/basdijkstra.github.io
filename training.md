@@ -5,10 +5,6 @@ permalink: /training/
 ---
 On this page, you'll find an overview of the workshops I have on offer and the topics that I can cover.
 
-Can't find what you're looking for? I am happy to [have a chat](/contact/) and work with you to build a custom course or workshop that fits your learning requirements.
-
-I prefer to deliver courses live and in person, as that is the most effective way of teaching and learning, but I am happy to run workshops and courses online, too.
-
 _If you'd like to read a little more about what others had to say about my courses before you decide to engage, [click here for testimonials](/testimonials.md)._
 
 _If you're looking for a more personalized learning experience for 1-3 of your engineers, [have a look at my mentoring services here](/mentoring)._
@@ -128,5 +124,7 @@ In this workshop, you'll learn how to bring your (test) code under version contr
 Can't find the training course or workshop you were looking for? I am happy to talk to you to see if together, we can create a **bespoke training course** (or even a complete curriculum of courses) that fits your training needs like a glove.
 
 Are you interested in having me as a trainer in your organization or at your conference? Feel free to email me at bas@ontestautomation.com, or use the contact form on [this page](/contact/).
+
+I prefer to deliver courses live and in person, as that is the most effective way of teaching and learning, but I am happy to run workshops and courses online, too.
 
 I’m looking forward to helping you improve your test automation efforts!
