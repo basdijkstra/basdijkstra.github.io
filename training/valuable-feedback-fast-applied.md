@@ -9,6 +9,8 @@ The 'Valuable feedback, fast - Applied' workshop revolves around the same premis
 
 In the 'Applied' workshop, though, we will scrutinize and improve the test automation strategy _you_ use in _your_ team and/or organization. You will walk away with a thorough assessment of and actionable improvements for _your_ approach to test automation, improvements that you can start working on the next day.  
 
+<a href="/contact/" class="btn btn--primary">Yes, I'd like to book this workshop for my team!</a>
+
 ## What will you learn?
 Well, that is hard to say exactly, because the workshop will revolve around your specific test automation strategy and the challenges you experience.
 
