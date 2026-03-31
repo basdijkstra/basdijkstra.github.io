@@ -7,17 +7,17 @@ The 'Valuable feedback, fast - Applied' workshop revolves around the same premis
 
 > "Test automation problems almost always go deeper than just the tool. Often, they are of both a technical and an organizational nature. It would be wise to approach and address them like that, then, instead of throwing another tool at the problem and hoping this one will make the problem go away."
 
-In the 'Applied' workshop, though, we will scrutinize the test automation strategy you use in _your_ team and/or organization. You will walk away with a thorough assessment of and actionable improvements for _your_ context, improvements that you can start working on the next day.  
+In the 'Applied' workshop, though, we will scrutinize and improve the test automation strategy _you_ use in _your_ team and/or organization. You will walk away with a thorough assessment of and actionable improvements for _your_ approach to test automation, improvements that you can start working on the next day.  
 
 ## What will you learn?
 Well, that is hard to say exactly, because the workshop will revolve around your specific test automation strategy and the challenges you experience.
 
-To give you an idea of what the workshop might look like, here is an abbreviated version of the outline I used in a previous edition.
+To give you an idea of what the workshop might look like, here is an abbreviated version of the workshop outline I used in a previous edition.
 
-As with every workshop I run, we will go over and adjust this outline to fit your specific context and desired learning outcomes. 
+As with every workshop I run, we will discuss the outline and adjust it to your needs before the workshop happens. This enables me to prepare and run a workshop that fits your specific context and desired learning outcomes. 
 
 **Introduction**
-- Identify desired learning outcomes and manage expectations
+- Review desired learning outcomes and manage expectations
 - Introduction to the 5W1H framework
 
 **Why?**
@@ -28,8 +28,8 @@ Output: Concrete, measurable automation goals
 
 **What?**
 - Introduction to [the test automation quadrant](/the-test-automation-quadrant/)
-- Introduction to the case and brainstorm: what could / should we test here? Why?
-- Discussion on what makes a test good / valuable and classification of tests using the test automation quadrant
+- Introduction to the case and brainstorm: what could and what should we test here? Why?
+- Discussion on what makes a test good (valuable) and classification of tests using the test automation quadrant
 
 Output: A shared checklist of what defines a good test
 
@@ -41,7 +41,7 @@ Output: Concrete steps to improve tests and your testability, and identification
 
 **When?**
 - Discussion on when to write and test the tests, when to run the tests and when to maintain the tests
-- Designing a pipeline template that can be used and adapted or extended by the teams
+- Designing a workflow and pipeline template that can be used and adapted or extended
 
 Output: A concrete, reusable test automation workflow in a pipeline
 
@@ -57,9 +57,11 @@ Output: Actionable steps to identify and improve required skills to succeed with
 - What are useful metrics to track in test automation?
 - Where can we (not) use AI responsibly in the steps we have covered so far?
 
-Output: A tool use manifesto that is shared and lived by the team(s)
+Output: A tool use manifesto that is shared and supported by the teams
 
-## Who should take this course?
+Again, this is just an example of what the workshop contents could look like. A discovery call (or several, if needed) to create and agree on a workshop outline that fits your learning needs is an important part of our collaboration.  
+
+## Who should take this workshop?
 This workshop is for software development and testing practitioners, as well as tech and team leads, who want to learn how to be successful with test automation and how to achieve its goal of 'valuable feedback, fast' in their specific context.
 
 ## Workshop duration and delivery
@@ -75,6 +77,6 @@ Due to the experiential nature of the course, I strongly prefer running it on si
 ## I'm interested, what's next?
 I'm happy to hear that! Click the button below, complete the contact form, and I'll get back to you as soon as possible.
 
-<a href="/contact/" class="btn btn--primary">Yes, I'd like to book this course for my team!</a>
+<a href="/contact/" class="btn btn--primary">Yes, I'd like to book this workshop for my team!</a>
 
 If you'd like to see the other training courses and workshops I have on offer, [please click here](/training/).
