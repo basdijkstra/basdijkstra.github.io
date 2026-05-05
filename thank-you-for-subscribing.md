@@ -3,7 +3,9 @@ title: Thank you for subscribing!
 layout: page
 permalink: /thank-you-for-subscribing/
 ---
-Thank you for subscribing to my email newsletter! I really appreciate it.
+Thank you for subscribing to my email newsletter! To comply with GDPR, you should receive a signup confirmation mail soon.
+
+Please click the link in that email to complete the newsletter registration process. Without that confirmation, you will not receive any newsletters!
 
 As promised, I'm aiming to publish a new email newsletter every Monday around 11 AM CET.
 

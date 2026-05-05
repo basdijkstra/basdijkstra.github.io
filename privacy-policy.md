@@ -17,7 +17,7 @@ I may use third-party tools to help operate this website and deliver my services
 
 These include:
 
-- **Brevo** (email marketing)
+- **MailerLite** (email marketing)
 - **Google Analytics** (site analytics)
 
 These services have their own privacy policies and data handling practices. I encourage you to review them if you have concerns.
