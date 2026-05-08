@@ -19,6 +19,7 @@ Apart from pair programming, there are a few other things I can do for you, too:
 
 * Run a [hands-on workshop](/training/) to help you understand a technique better before implementing it within your context
 * Review your current test automation approach, and give you an independent outsider's opinion on what you're doing right and where I see room for improvement
+* Figure out with you where and how to use AI in your test automation [in a responsible way](/training/using-ai-responsibly-in-test-automation/)
 * Do a talk for your team or your company on a topic related to test automation (I particularly enjoy doing talks with live demos)
 
 _**Please note** that I will not do the work for you, but I will show you how to do it yourself._
