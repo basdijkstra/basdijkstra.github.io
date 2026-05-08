@@ -3,6 +3,7 @@ title: Test automation training
 layout: page
 permalink: /training/
 ---
+On this page, you'll find an overview of the workshops I have on offer and the topics that I can cover.
 
 _If you'd like to read a little more about what others had to say about my courses before you decide to engage, [click here for testimonials](/testimonials.md)._
 
@@ -11,13 +12,21 @@ _If you're looking for a more personalized learning experience for 1-3 of your e
 <hr/>
 
 ## Valuable feedback, fast
-If we want our test automation to deliver on the goal of providing valuable feedback, fast, we need to do more than throwing tools at testing problems.
+If you want your test automation to deliver on the goal of providing valuable feedback, fast, you need to do more than throw tools at your testing problems. You need to be able to identify and assess (potential) problems at both the technical and organizations level, and then suggest, implement and evaluate solutions to them.
 
-We need to be able to identify and analyze (potential) problems and suggest, implement and assess solutions at both the technical and the procedural and organizational level.
+The 'Valuable feedback, fast' courses are designed to teach individuals, teams and organizations how to do exactly that.
 
-The 'Valuable feedback, fast' course is designed to teach individuals, teams and organizations how to do exactly that.
+The main, three-day course teaches participants how to assess and improve their current test automation strategy, or how to build one from the ground up.
+
+It introduces you to a range of models, techniques and tools, how to use them and how to tell a story about their benefits, drawbacks and the value that they add to your test automation efforts.   
 
 <a href="/training/valuable-feedback-fast/" class="btn btn--primary">Valuable feedback, fast (3 days)</a>
+
+For product development teams and organizations looking for a workshop to review and improve their specific test automation strategy, I recommend the two-day 'Applied' course:    
+
+<a href="/training/valuable-feedback-fast-applied/" class="btn btn--primary">Valuable feedback, fast - Applied (2 days)</a>
+
+
 
 <hr/>
 
@@ -112,8 +121,8 @@ In this workshop, you'll learn how to bring your (test) code under version contr
 <hr/>
 
 ## Customization
-Can't find the training course or workshop you were looking for? I am happy to talk to you to see if together, we can create a **bespoke training course** (or even a complete curriculum of courses) that fits your training needs like a glove.
+Can't find the training course or workshop you were looking for? [I am happy to talk](/contact/) to you to see if together, we can create a **bespoke training course** (or even a complete curriculum of courses) that fits your training needs like a glove.
 
-Are you interested in having me as a trainer in your organization or at your conference? Feel free to email me at bas@ontestautomation.com, or use the contact form on [this page](/contact/).
+I prefer to deliver courses live and in person, as that is the most effective way of teaching and learning, but I am happy to run workshops and courses online, too.
 
 I’m looking forward to helping you improve your test automation efforts!

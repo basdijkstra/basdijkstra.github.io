@@ -25,11 +25,11 @@ author:
   location : "Amersfoort, the Netherlands"
   links:
     - label: Get in touch
-      icon: "fas fa-fw fa-envelope"
+      icon: "fas fa-fw fa-phone-volume"
       url: "https://www.ontestautomation.com/contact/"
-    - label: Book a meeting
-      icon: "fas fa-fw fa-clock"
-      url: "https://www.ontestautomation.com/meeting/"
+    - label: My newsletter
+      icon: "fas fa-fw fa-envelope"
+      url: "https://www.ontestautomation.com/newsletter/"
     - label: LinkedIn
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/basdijkstra/"
@@ -50,7 +50,7 @@ footer:
     - label: GitHub
       icon: "fab fa-fw fa-github"
       url: "https://github.com/basdijkstra"
-    - label: RSS (blog)
+    - label: RSS feed (blog)
       icon: "fas fa-fw fa-rss"
       url: "https://www.ontestautomation.com/feed.xml"
     - label: Privacy policy
