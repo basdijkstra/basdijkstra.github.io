@@ -8,7 +8,7 @@ tags:
   - general test automation
   - documentation
 ---
-_This blog post was published earlier in my (now defunct) weekly newsletter on April 12, 2023._
+_This blog post was published earlier in my [weekly newsletter](/newsletter/) on April 12, 2023._
 
 In this blog post, I want to address a question that was sent to me by Paul Seaman on LinkedIn, He asked me whether I wanted to share my thoughts on documenting automated test cases as a means of keeping an overview of what the automation actually does.
 

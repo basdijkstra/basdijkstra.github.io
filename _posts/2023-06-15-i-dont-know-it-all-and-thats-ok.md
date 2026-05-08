@@ -8,7 +8,7 @@ tags:
   - learning and development
   - test automation
 ---
-_This blog post was published earlier in my (now defunct) weekly newsletter on April 19, 2023._
+_This blog post was published earlier in my [weekly newsletter](/newsletter/) on April 19, 2023._
 
 Over the last couple of months, I've been thinking a lot about where to focus on in my work and in my life in general. This after a period where I felt I spread myself too thin, taking on or pursuing lots of different things because I felt like I 'had to' do it all.
 

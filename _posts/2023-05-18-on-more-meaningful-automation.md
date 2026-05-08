@@ -8,7 +8,7 @@ tags:
   - learning
   - software development
 ---
-_This blog post was published earlier in my (now defunct) weekly newsletter on March 21, 2023._
+_This blog post was published earlier in my [weekly newsletter](/newsletter/) on March 21, 2023._
 
 In this blog post, I wanted to spend some time diving deeper into a question sent to me by Saifuddin Raj, one of the subscribers to my (now defunct) newsletter. They asked me to explore the concept of 'meaningful automation' in a little more detail, and give some pointers on how to make your automation meaningful. I hope this blog post answers that question.
 

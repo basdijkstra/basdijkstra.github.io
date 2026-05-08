@@ -8,7 +8,7 @@ tags:
   - tools
   - user interface automation
 ---
-_This blog post was published earlier in my (now defunct) weekly newsletter on March 7, 2023._
+_This blog post was published earlier in my [weekly newsletter](/newsletter/) on March 7, 2023._
 
 Today, I wanted to talk about an observation I keep coming back to when I talk to fellow testers, be it in one of my training courses, a mentoring session or somewhere else. Or, maybe rather than an observation, it's something that's been bugging me for a long time, both as a test automation professional and as a trainer. It basically comes down to these questions popping up time and again:
 

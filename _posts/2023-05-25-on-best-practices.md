@@ -8,7 +8,7 @@ tags:
   - learning
   - software development
 ---
-_This blog post was published earlier in my (now defunct) weekly newsletter on March 28, 2023._
+_This blog post was published earlier in my [weekly newsletter](/newsletter/) on March 28, 2023._
 
 In this blog post, I want to spend a bit of time discussing one of my (apparently many...) pet peeves. This time, it's one that keeps coming up regularly in emails and LinkedIn DMs I get, but also in my training courses. The discussion often goes something like this:
 

@@ -8,7 +8,7 @@ tags:
   - learning
   - software development
 ---
-_This blog post was published earlier in my (now defunct) weekly newsletter on March 14, 2023._
+_This blog post was published earlier in my [weekly newsletter](/newsletter/) on March 14, 2023._
 
 I've said it before, plenty of people have said it before I did, and hopefully plenty of people will keep saying it after me:
 

@@ -8,7 +8,7 @@ tags:
   - tools
   - learning
 ---
-_This blog post was published earlier in my (now defunct) weekly newsletter on February 28, 2023._
+_This blog post was published earlier in my [weekly newsletter](/newsletter/) on February 28, 2023._
 
 In this blog post, I'd like to dive a little deeper into what might just be a pet peeve of mine, but what I believe is a pretty fundamental problem in the thought patterns of a lot of automation engineers. Or at least of those I see posting their thoughts on LinkedIn and in blogs.
 

@@ -8,7 +8,7 @@ tags:
   - learning
   - training
 ---
-_This blog post was published earlier in my (now defunct) weekly newsletter on April 5, 2023._
+_This blog post was published earlier in my [weekly newsletter](/newsletter/) on April 5, 2023._
 
 In this blog post, instead of talking about testing or automation, I wanted to share some thoughts with you about different ways of working, and more specifically about remote working, working in the office or a hybrid between these two.
 
