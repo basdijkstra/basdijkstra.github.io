@@ -7,7 +7,7 @@ categories:
 tags:
   - newsletter
 ---
-Just a quick update to let those of you who bookmarked this blog or who have subscribed to my [RSS feed](feed.xml) know that I have (re-)started a newsletter.
+Just a quick update to let those of you who bookmarked this blog or who have subscribed to my [RSS feed](/feed.xml) know that I have (re-)started a newsletter.
 
 ### Why a newsletter?
 As you might know (or not), while I've been pretty active on [LinkedIn](https://www.linkedin.com/in/basdijkstra) over the years, I do have a love-hate (or rather an appreciate-hate) relationship with that platform.
