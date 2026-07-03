@@ -3,9 +3,9 @@ title: Using AI responsibly in test automation workshop
 layout: page
 permalink: /training/using-ai-responsibly-in-test-automation/
 ---
-As part of my day-to-day work, I talk to and work with teams that are actively experimenting with AI to support their test automation efforts. Increasingly often, these teams use LLMs such as Claude to help write or refactor test code, for example for tools like [Playwright](https://playwright.dev){:target="_blank"} or [REST Assured](https://rest-assured.io){:target="_blank"}.
+As part of my day-to-day work, I talk to and work with teams that are actively using AI to support their test automation efforts. Increasingly often, these teams use LLMs such as Claude to help write or refactor test code, for example for tools like [Playwright](https://playwright.dev){:target="_blank"} or [REST Assured](https://rest-assured.io){:target="_blank"}.
 
-That interest is understandable. When used well, AI can be a powerful assistant. However, I also see teams fall into the same two traps when using AI to help write their tests:
+That in itself is understandable. When used well, AI can be a powerful assistant. However, I also see teams fall into the same two traps when using AI to help write their tests:
 
 * They focus primarily on writing test code faster, rather than writing _better_ tests
 * They outsource decisions to AI that require human context, judgment, or responsibility
@@ -18,6 +18,7 @@ In this workshop, we will address both these traps and explore how to use AI as 
 In this workshop you will learn, among other things:
 
 * How and where AI can effectively support test automation, and where it should not be used
+* How common LLM concepts like skills, agents and guardrails fit into the 'AI for test automation' picture
 * How to define clear guardrails and constraints when creating and working with AI-generated test code
 * Why and how to critically review and validate AI-generated tests, instead of accepting them at face value
 * Common pitfalls when using AI for test automation, including false confidence, overfitting to examples, and loss of intent
