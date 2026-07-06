@@ -1,17 +1,15 @@
 ---
-title: Building and testing an API
+title: Building and testing an API with AI
 layout: page
-permalink: /training/building-and-testing-an-api/
+permalink: /training/building-and-testing-an-api-with-ai/
 ---
 APIs are the glue of the Internet these days. In 2022, API calls were responsible for 83% of all Internet traffic, and that number is not likely to decrease any time soon. Knowing how to build and test APIs is therefore essential knowledge for every development team.
 
-Unfortunately, despite the importance of APIs, a lot of API testing is still conducted in a very shallow way, and typically also quite late in the development process.
+To speed up that development and testing process, we can make use of the powers provided to us by LLMs, but only if we know what we're doing and if we're able to stay in control. 
 
-After an API endpoint has been built and deployed into a test environment, we invoke some endpoints, check response HTTP status codes and some of the data, and then we often call it a day.
+In this workshop, we are going to design, develop and test an API with several endpoints in a highly iterative manner, all with the help of AI. Every iteration brings a new challenge, new tasks to complete and new tests and test types to consider and execute.
 
-This course is meant to change that situation. In an iterative and highly interactive way, we are going to design, develop and test an API with several endpoints.
-
-Every iteration brings a new challenge, new tasks to complete and new tests and test types to consider and execute. In this way, we'll incrementally build a comprehensive API testing strategy, and learn more about good practices for API design and development in the process.
+In this way, we'll incrementally build a comprehensive API testing strategy, and learn more about good practices for API design and development in the process. Along the way, you'll learn how AI can help you build and test your API faster, while _you_ remain in control of what is built and how it is tested. 
 
 <a href="/contact/" class="btn btn--primary">Yes, I'd like to book this course for my team!</a>
 
@@ -24,27 +22,32 @@ This course covers, among other things:
 * Making your API easy to understand, consume and extend
 
 **API development**
-* Setting up a new API project
+* Setting up a new API development project
+* Using API development frameworks
 * Implementing different routes for HTTP GET, POST, PUT / PATCH and DELETE
 * Adding a database to your API
 * Adding authentication and role-based access control to your endpoints
 
 **API testing**
-* Inspecting API specification documents
 * Writing unit tests for logic in API controllers
 * Exploratory API testing, focusing on behaviour and security
 * Writing acceptance tests for individual API endpoints and for API scenarios
 * Mocking databases and downstream services for testing purposes
 * Building a build-test-deploy pipeline for our API
-* An introduction to contract testing
+* Testing our API tests
+
+**Using AI responsibly**
+* Asking an LLM to build an API, one step at a time
+* Using tests to drive the design and implementation of the API
+* Discussing what can be left to the LLM and what we should do ourselves
 
 ## Who should take this workshop?
-This workshop is great for testers and developers who want to learn more about developing and testing APIs, and what it takes to do it well.
+This workshop is great for testers and developers who want to learn more about developing and testing APIs, and what it takes to do it well, especially now that we have LLMs at our disposal.
 
-Some prior knowledge of APIs, HTTP and JSON and XML, as well as of (object-oriented) software development and testing is beneficial, but I am confident that even without this, you will find this workshop to be very valuable.
+Some prior knowledge of APIs, HTTP and JSON, as well as of (object-oriented) software development and testing will be helpful.
 
 ## Workshop duration and delivery
-This course takes 2-3 days, depending on the level of depth we agree on and the prior experience of the participants.
+This introduction to Playwright workshop takes 6-8 hours. It works great either as an on-site or an online in-company workshop, or as a full-day conference tutorial.
 
 I can deliver this course using a number of technologies:
 

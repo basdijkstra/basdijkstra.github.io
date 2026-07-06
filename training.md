@@ -45,9 +45,9 @@ My API testing courses cover the broad spectrum that is API testing. I offer sev
 
 If your team is looking to get serious about API testing, I'm happy to have a conversation and create a course for you that fits your API testing learning requirements like a glove. 
 
-If you want to learn what it takes to build and execute a solid API testing strategy from the ground up, working together as developers and testers, I offer a course on that, too:
+If you want to learn what it takes to build and execute a solid API testing strategy from the ground up, working together as developers and testers, I offer a workshop on that, too:
 
-<a href="/training/building-and-testing-an-api/" class="btn btn--primary">Building and testing an API (2-3 days)</a>
+<a href="/training/building-and-testing-an-api/" class="btn btn--primary">Building and testing an API with AI (1 day)</a>
 
 <hr/>
 
