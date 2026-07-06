@@ -47,7 +47,7 @@ If your team is looking to get serious about API testing, I'm happy to have a co
 
 If you want to learn what it takes to build and an API from the ground up, working together as developers and testers, and with responsible use of AI, I offer a workshop on that, too:
 
-<a href="/training/building-and-testing-an-api/" class="btn btn--primary">Building and testing an API with AI (1 day)</a>
+<a href="/training/building-and-testing-an-api-with-ai/" class="btn btn--primary">Building and testing an API with AI (1 day)</a>
 
 <hr/>
 
