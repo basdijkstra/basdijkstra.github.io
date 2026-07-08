@@ -68,4 +68,4 @@ Every organisation is different, and there is no one-size-fits-all approach to c
 
 Whether you're only considering contract testing, you're already using Pact or any other contract testing tool, or you're wondering whether contract testing could help solve your integration testing challenges, I'd be happy to discuss your situation and explore how I can help.
 
-<a href="/contact/" class="btn btn--primary">Let's talk about your contract testing situation</a>
+<a href="/contact/" class="btn btn--primary">Let's discuss your contract testing situation</a>
