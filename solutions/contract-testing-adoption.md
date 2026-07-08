@@ -14,7 +14,6 @@ That is not the fault of Pact - Pact and the tools in the Pact ecosystem are ver
 I can help you get set up for contract testing success.
 
 ## Is contract testing right for your team?
-
 Contract testing is not the right solution for every integration testing challenge.
 
 Before recommending any tools or implementation strategy, we'll look at your architecture, the way your teams collaborate and the problems you're trying to solve. In some cases, contract testing can dramatically improve confidence while reducing the number of brittle integration tests. In others, a different approach may be more appropriate.
@@ -35,17 +34,26 @@ Depending on your goals, the engagement can include:
 * Hands-on pair programming during the first implementations
 * Follow-up sessions to review progress and address new challenges
 
-Every engagement is tailored to your organisation. Some teams need help deciding whether contract testing is the right fit. Others are ready to implement it and need guidance to avoid common pitfalls. Some have already started but would like an experienced second opinion.
+Engagements typically start with a short discovery and assessment phase, followed by hands-on implementation support tailored to your organisation.
+
+Every engagement is built around your needs, no matter if you need help deciding whether contract testing is the right fit, if you're ready to implement it and need guidance to avoid common pitfalls, or if you have already started but would like an experienced second opinion.
+
+## Where this solution helps
+This engagement is particularly useful when:
+
+* Your integration tests are slow, brittle or difficult to maintain
+* You have independent teams that frequently break each other's APIs
+* You have introduced Pact (or another contract testing tool), but you are unsure whether your implementation follows good practices
+* You are evaluating contract testing, but you don't know where to start, or whether you're making the right choice in the first place
 
 ## Why work with me?
-
 I've been helping organisations adopt contract testing for many years.
 
 My experience includes:
 
+* Helping organisations move from experimenting with contract testing to integrating it into their software delivery workflows
 * Delivering contract testing workshops for organisations around the world
-* Speaking at international conferences and meetups on contract testing and the Pact ecosystem
-* Helping teams successfully introduce contract testing in real-world software delivery environments
+* Speaking at international conferences and meetups on contract testing
 * Working closely with the people who build and maintain the Pact ecosystem
 
 Just as importantly, I believe successful adoption is about much more than learning a tool. My focus is on helping teams understand the workflow, the collaboration between providers and consumers, and the architectural thinking that makes contract testing valuable in the first place.
@@ -60,7 +68,7 @@ By the end of the engagement, your team will have:
 * Practical experience implementing contract tests in your own codebase
 * A roadmap for expanding contract testing across your systems
 
-My objective isn't to introduce another testing tool. I am here to help your teams build confidence in their APIs and services, while reducing integration risk and creating a testing strategy that will continue to deliver value long after the engagement has finished.
+My objective isn't to introduce another testing tool. I am here to help your teams reduce reliance on slow end-to-end integration tests and give them valuable feedback, fast when API changes introduce compatibility problems.
 
 ## Let's discuss your situation
 
