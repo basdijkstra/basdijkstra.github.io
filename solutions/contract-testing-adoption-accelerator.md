@@ -1,7 +1,7 @@
 ---
-title: Contract testing adoption
+title: Contract testing adoption accelerator
 layout: page
-permalink: /solutions/contract-testing-adoption/
+permalink: /solutions/contract-testing-adoption-accelerator/
 ---
 Build confidence in your distributed systems by introducing contract testing the right way: from assessing whether it's the right fit to helping your teams adopt it successfully.
 
@@ -13,7 +13,7 @@ That is not the fault of Pact - Pact and the tools in the Pact ecosystem are ver
 
 I can help you avoid the common mistakes that make contract testing difficult to adopt.
 
-## Where this solution helps
+## Where the contract testing adoption accelerator helps
 This engagement is particularly useful when:
 
 * Your integration tests are slow, brittle or difficult to maintain
@@ -59,7 +59,6 @@ My experience includes:
 Just as importantly, I believe successful adoption is about much more than learning a tool. My focus is on helping teams understand the workflow, the collaboration between providers and consumers, and the architectural thinking that makes contract testing valuable in the first place.
 
 ## What you will achieve
-
 By the end of the engagement, your team will have:
 
 * A clear understanding of when contract testing is the right solution, and when it isn't
@@ -71,9 +70,10 @@ By the end of the engagement, your team will have:
 My objective isn't to introduce another testing tool. I am here to help your teams reduce reliance on slow end-to-end integration tests and give them valuable feedback, fast when API changes introduce compatibility problems.
 
 ## Let's discuss your situation
-
 Every organisation is different, and there is no one-size-fits-all approach to contract testing.
 
 Whether you're only considering contract testing, you're already using Pact or any other contract testing tool, or you're wondering whether contract testing could help solve your integration testing challenges, I'd be happy to discuss your situation and explore how I can help.
 
 <a href="/contact/" class="btn btn--primary">Let's discuss your contract testing situation</a>
+
+## Need more proof?
