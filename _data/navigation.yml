@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Solutions"
+    url: /solutions/
   - title: "Training"
     url: /training/
   - title: "Consulting"
@@ -8,8 +10,6 @@ main:
     url: /mentoring/
   - title: "Contact"
     url: /contact/
-  - title: "Testimonials"
-    url: /testimonials/
   - title: "Blog"
     url: /blog/
   - title: "About"
