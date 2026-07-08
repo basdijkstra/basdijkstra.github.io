@@ -11,7 +11,15 @@ Many teams discover contract testing through tools like [Pact](https://docs.pact
 
 That is not the fault of Pact - Pact and the tools in the Pact ecosystem are very powerful, but only when used properly. Successful implementation of contract testing starts with understanding the principles, designing the right workflow and identifying where it adds value. The tooling only comes as a next step.
 
-I can help you get set up for contract testing success.
+I can help you avoid the common mistakes that make contract testing difficult to adopt.
+
+## Where this solution helps
+This engagement is particularly useful when:
+
+* Your integration tests are slow, brittle or difficult to maintain
+* You have independent teams that frequently break each other's APIs
+* You have introduced Pact (or another contract testing tool), but you are unsure whether your implementation follows good practices
+* You are evaluating contract testing, but you don't know where to start, or whether you're making the right choice in the first place
 
 ## Is contract testing right for your team?
 Contract testing is not the right solution for every integration testing challenge.
@@ -20,7 +28,7 @@ Before recommending any tools or implementation strategy, we'll look at your arc
 
 My goal is simple: to help you make an informed decision before investing precious time and effort.
 
-## The solution
+## A tailored contract testing adoption engagement
 We co-create a tailored engagement, designed to help your organisation introduce contract testing successfully and sustainably.
 
 Depending on your goals, the engagement can include:
@@ -37,14 +45,6 @@ Depending on your goals, the engagement can include:
 Engagements typically start with a short discovery and assessment phase, followed by hands-on implementation support tailored to your organisation.
 
 Every engagement is built around your needs, no matter if you need help deciding whether contract testing is the right fit, if you're ready to implement it and need guidance to avoid common pitfalls, or if you have already started but would like an experienced second opinion.
-
-## Where this solution helps
-This engagement is particularly useful when:
-
-* Your integration tests are slow, brittle or difficult to maintain
-* You have independent teams that frequently break each other's APIs
-* You have introduced Pact (or another contract testing tool), but you are unsure whether your implementation follows good practices
-* You are evaluating contract testing, but you don't know where to start, or whether you're making the right choice in the first place
 
 ## Why work with me?
 I've been helping organisations adopt contract testing for many years.
