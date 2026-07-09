@@ -3,7 +3,7 @@ title: Solutions
 layout: page
 permalink: /solutions/
 ---
-Some challenges can't be solved with a training course alone. I offer several tailored engagements that combine expert guidance, coaching and hands-on support to help your team take their next steps towards test automation success.
+Some challenges can't be solved with a [training course](/training/) alone. I offer several tailored engagements that combine expert guidance, coaching and hands-on support to help your team take their next steps towards test automation success.
 
 <hr/>
 
