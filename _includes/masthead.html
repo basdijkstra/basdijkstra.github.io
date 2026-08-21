@@ -17,16 +17,16 @@
           {%- for link in site.data.navigation.main -%}
             <li class="masthead__menu-item">
               <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+              {% if link.children != null %}
+              <ul>
+                {% for child in link.children %}
+                <li>
+                  <a href="{{ child.url | relative_url }}"{% if child.description %} title="{{ link.description }}"{% endif %}>{{ child.title }}</a>
+                </li>
+                {% endfor %}
+              </ul>
+              {% endif %}
             </li>
-            {% if link.children != null %}
-            <ul>
-              {% for child in link.children %}
-              <li>
-                <a href="{{ child.url | relative_url }}"{% if child.description %} title="{{ link.description }}"{% endif %}>{{ child.title }}</a>
-              </li>
-              {% endfor %}
-            </ul>
-            {% endif %}
           {%- endfor -%}
         </ul>
         {% if site.search == true %}
