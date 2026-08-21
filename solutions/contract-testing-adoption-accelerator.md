@@ -13,6 +13,8 @@ That is not the fault of Pact - Pact and the tools in the Pact ecosystem are ver
 
 I can help you avoid the common mistakes that make contract testing difficult to adopt.
 
+<a href="/contact/" class="btn btn--primary">Let's discuss your contract testing situation</a>
+
 ## Where the contract testing adoption accelerator helps
 This engagement is particularly useful when:
 

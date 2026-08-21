@@ -13,6 +13,8 @@ The problem is often not that you don't have enough automated tests. It is that 
 
 I can help you change that.
 
+<a href="/contact/" class="btn btn--primary">Let's discuss your test automation situation</a>
+
 ## Where the test automation optimization program helps
 
 This engagement is particularly useful when:
