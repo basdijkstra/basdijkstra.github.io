@@ -2,6 +2,11 @@
 main:
   - title: "Solutions"
     url: /solutions/
+    subcategories:
+      - subtitle: "Test automation optimization program"
+        subhref: /solutions/test-automation-optimization-program/
+      - subtitle: "Contract testing adoption accelerator"
+        subhref: /solutions/contract-testing-adoption-accelerator/
   - title: "Training"
     url: /training/
   - title: "Consulting"
