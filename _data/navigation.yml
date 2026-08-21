@@ -2,11 +2,6 @@
 main:
   - title: "Solutions"
     url: /solutions/
-    children:
-      - title: "Test automation optimization program"
-        url: /solutions/test-automation-optimization-program/
-      - title: "Contract testing adoption accelerator"
-        url: /solutions/contract-testing-adoption-accelerator/
   - title: "Training"
     url: /training/
   - title: "Consulting"
