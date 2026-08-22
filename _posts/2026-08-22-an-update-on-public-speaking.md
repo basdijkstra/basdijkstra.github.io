@@ -44,4 +44,4 @@ Because I don't actively pursue speaking opportunities, but will happily accept 
 
 And that's exactly how I like it best.
 
-_If your event is looking for a keynote speaker bringing in a customized, brand new talk with lessons learned in 20 years of test automation, and if you think your audience can deal with ugly retro slides and lame jokes, [let's talk](/contact/)._
+_If your event is looking for a keynote speaker bringing in a customized, brand new talk with practical advice and lessons learned in 20 years of test automation, and if you think your audience can deal with my ugly retro slides and lame jokes, [let's talk](/contact/)._
