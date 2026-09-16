@@ -3,7 +3,7 @@ title: API security testing workshop
 layout: page
 permalink: /training/workshop-api-security-testing/
 ---
-As of 2023, 83% of all internet traffic originates from API calls? As a result, APIs have become a very important attack vector for people with malicious intent. So, you probably want to make sure that your APIs are secure! 
+Did you know that as of 2023, 83% of all internet traffic originates from API calls? As a result, APIs have become a very important attack vector for people with malicious intent. So, you probably want to make sure that your APIs are secure! 
 
 But how do you get started investigating the security of your APIs? Isn't security testing something that requires deep technical knowledge and highly specific expertise?
 
