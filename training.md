@@ -11,7 +11,7 @@ _If you're looking for a more personalized learning experience for 1-3 of your e
 
 <hr/>
 
-## Valuable feedback, fast
+## <a name="vff"></a>Valuable feedback, fast
 If you want your testing and your test automation to deliver on the goal of providing valuable feedback, fast, you need to do more than throw tools at your testing problems. You need to be able to identify and assess (potential) problems at both the technical and the organizational level, and then suggest, implement and evaluate solutions to them.
 
 The 'Valuable feedback, fast' courses are designed to teach individuals, teams and organizations how to do exactly that.
@@ -31,7 +31,7 @@ For teams looking to learn how to build and implement an AI-assisted testing and
 <a href="/training/valuable-feedback-fast-applied/" class="btn btn--primary">Valuable feedback, fast with AI (3 days)</a>
 <hr/>
 
-## API testing and development
+## <a name="apitesting"></a>API testing and development
 With software systems becoming ever more distributed, and APIs accounting for over 80% of all Internet traffic, every modern software tester should know how to work with APIs in their testing, as well as how to design, write and execute tests for APIs.
 
 My API testing courses cover the broad spectrum that is API testing. I offer several modules that I can teach either individually, or bundled as a comprehensive API testing course:
