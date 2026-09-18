@@ -12,7 +12,7 @@ _If you're looking for a more personalized learning experience for 1-3 of your e
 <hr/>
 
 ## Valuable feedback, fast
-If you want your test automation to deliver on the goal of providing valuable feedback, fast, you need to do more than throw tools at your testing problems. You need to be able to identify and assess (potential) problems at both the technical and organizations level, and then suggest, implement and evaluate solutions to them.
+If you want your testing and your test automation to deliver on the goal of providing valuable feedback, fast, you need to do more than throw tools at your testing problems. You need to be able to identify and assess (potential) problems at both the technical and organizations level, and then suggest, implement and evaluate solutions to them.
 
 The 'Valuable feedback, fast' courses are designed to teach individuals, teams and organizations how to do exactly that.
 
@@ -26,8 +26,9 @@ For product development teams and organizations looking for a workshop to review
 
 <a href="/training/valuable-feedback-fast-applied/" class="btn btn--primary">Valuable feedback, fast - Applied (2 days)</a>
 
+For teams looking to learn how to build and implement an AI-assisted testing and automation strategy that actually delivers on the 'valuable feedback, fast' promise, I have course for that, too:
 
-
+<a href="/training/valuable-feedback-fast-applied/" class="btn btn--primary">Valuable feedback, fast with AI (3 days)</a>
 <hr/>
 
 ## API testing and development
@@ -108,15 +109,6 @@ Do you really know if your tests are testing something meaningful? Are you sure 
 In this workshop, you'll learn when and how to use mutation testing, a technique to help you gain more insight into the quality of your tests and find the areas that might not be covered as well as you think... 
 
 <a href="/training/mutation-testing/" class="btn btn--primary">Mutation testing workshop (half day)</a>
-
-<hr/>
-
-## Git and build pipelines
-The real value of your tests is in running them, and automating the execution of your tests is a great way to make sure that they're delivering a return on investment.
-
-In this workshop, you'll learn how to bring your (test) code under version control using Git and how to develop a basic build pipeline to automate the execution of your tests.
-
-<a href="/training/workshop-git-and-cicd/" class="btn btn--primary">Git and build pipelines workshop (1 day)</a>
 
 <hr/>
 
