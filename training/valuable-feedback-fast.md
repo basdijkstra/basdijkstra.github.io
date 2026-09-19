@@ -21,7 +21,7 @@ You won't just talk about test automation. You will investigate a problem, make 
 
 ## <a name="contents"></a>What will you learn?
 
-_Day one - Investigate the problem_
+#### Day one - Investigate the problem
 
 We start with a problem that should sound familiar: ValuBank's engineering teams are struggling to get fast and reliable feedback from their automated tests.
 
@@ -38,7 +38,7 @@ Doing so, you will build an understanding of what is actually happening and dete
 * The Test Automation Quadrant
 * Defining goals for improvement
 
-_Day two - Design and improve the feedback_
+#### Day two - Design and improve the feedback
 
 With a better understanding of the problem, we start working on actual changes at ValuBank.
 
@@ -57,7 +57,7 @@ However, learning to work with these techniques and tools is not the main goal o
 * Implementing and experimenting with improvements
 * Using the Test Automation Quadrant to assess the changes
 
-_Day three - Build the strategy_
+#### Day three - Build the strategy
 
 We continue working on the ValuBank changes and use the results of our experiments to move from individual improvements to a broader test automation strategy.
 
