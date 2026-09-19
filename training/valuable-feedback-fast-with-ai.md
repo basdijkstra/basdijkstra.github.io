@@ -17,7 +17,7 @@ So, how do we make sure we end up on the right side of that equation?
 
 In this three-day, immersive, hands-on course, you will investigate how AI can support testing and test automation, experiment with different ways of using AI in your work, and learn how to decide where AI can add value, and where human judgment remains essential.
 
-We will follow the journey of a fictional online bank as it tries to improve the way it tests its software and make effective use of AI along the way. You will examine real-world testing problems, investigate them with and without AI, design and implement AI-assisted solutions, and use what you learn to create an AI-enabled testing strategy.
+We will follow the journey of ValuBank, a fictional online bank, as it tries to improve the way it tests its software and make effective use of AI along the way. You will examine real-world testing problems, investigate them with and without AI, design and implement AI-assisted solutions, and use what you learn to create an AI-enabled testing strategy.
 
 There will be no AI magic tricks. No endless collection of clever prompts. Instead, we will focus on using AI deliberately, critically and pragmatically, to help achieve the same goal we have always had: **valuable feedback, fast**.
 
@@ -25,9 +25,9 @@ There will be no AI magic tricks. No endless collection of clever prompts. Inste
 
 ## <a name="contents"></a>What will you learn?
 
-_Day one - AI as a testing partner_
+#### Day one - AI as a testing partner
 
-On the first day of the course, participants will be introduced to ValuBank, a development organization working on an online banking application. A significant new feature is about to be introduced, and the teams need to determine how to test it.
+On the first day of the course, participants will be introduced to the ValuBank context, as a significant new feature is about to be introduced, and the teams need to determine how to test it.
 
 We will first approach the problem without AI. You will investigate the system, study the change, identify risks and create test ideas based on your own experience and judgement. Only then will we introduce AI and use it as a partner in our testing activities.
 
@@ -43,7 +43,7 @@ The goal? To find out where AI can genuinely make us better testers.
 * Evaluating and challenging AI output
 * Understanding where AI adds value, and where it doesn't
 
-_Day two - AI and test automation
+#### Day two - AI and test automation
 
 It's no news that AI can generate test code very quickly. However, producing code is not the same as getting valuable feedback from your tests. If we're careless, we can very quickly end up with a large test suite that is producing a lot of noise, without much of a signal.
 
@@ -60,7 +60,7 @@ We will also experiment with more autonomous approaches, including AI agents tha
 * Designing and using AI agents for testing 
 * Evaluating the risks and limitations of autonomous test automation
 
-_Day three - Building an AI-enabled testing and automation strategy_
+#### Day three - Building an AI-enabled testing and automation strategy
 
 After wrapping up our work on AI-assisted testing and test automation, it's time to turn those experiments into a actionable strategy.
 
@@ -109,4 +109,4 @@ I'm happy to hear that! Click the button below, complete the contact form, and I
 
 <a href="/contact/" class="btn btn--primary">Yes, I'd like to book this course for my team!</a>
 
-If you'd like to see the other training courses and workshops I have on offer, [please click here](/training/).
+=If you'd like to see the other training courses and workshops I have on offer, [please click here](/training/).

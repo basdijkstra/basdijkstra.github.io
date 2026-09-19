@@ -28,7 +28,7 @@ For product development teams and organizations looking for a workshop to review
 
 For teams looking to learn how to build and implement an AI-assisted testing and automation strategy that actually delivers on the 'valuable feedback, fast' promise, I have course for that, too:
 
-<a href="/training/valuable-feedback-fast-applied/" class="btn btn--primary">Valuable feedback, fast with AI (3 days)</a>
+<a href="/training/valuable-feedback-fast-with-ai/" class="btn btn--primary">Valuable feedback, fast with AI (3 days)</a>
 <hr/>
 
 ## <a name="apitesting"></a>API testing and development
