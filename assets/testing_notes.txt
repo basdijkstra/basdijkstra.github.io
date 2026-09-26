@@ -1,0 +1,21 @@
+Tried EUR account / USD payment.
+
+Account started at €1,000.
+
+Payment was USD 100.
+
+Balance ended at €907.13.
+
+Not sure what rate was used.
+
+Tried USD account / USD payment:
+started 1,000, paid 100, ended 900.
+
+Tried checking account close to overdraft limit.
+Payment went through but balance seemed below -5000.
+
+Need to check this again.
+
+Fraud thing maybe weird too. Didn't investigate properly.
+
+Could be rounding?
