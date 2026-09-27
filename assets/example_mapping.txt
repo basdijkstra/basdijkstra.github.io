@@ -1,0 +1,23 @@
+Story: Support payments in a currency other than the account's own
+
+Rule: Currencies available for payments
+
+Example: A customer with a EUR account makes a payment of EUR 100.
+Example: A customer with a EUR account makes a payment of USD 100.
+Example: A customer with a USD account makes a payment of EUR 100.
+
+Rule: Currency conversion
+
+No examples available.
+
+Rule: Overdrafting rules keep applying
+
+Example: A customer with a EUR checking account with a balance of 5000 makes a payment for 6000
+Example: A customer with a USD savings account with a balance of 5000 makes a payment for 6000
+
+Rule: Fraud detection rules keep applying
+
+Example: A customer with a EUR checking account with a balance of 5000 makes a payment for 11000
+
+Question: What happens when the required currency conversion cannot be performed?
+Question: Does the overdraft check use the amount entered by the customer or the converted amount?
