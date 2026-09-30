@@ -49,8 +49,6 @@ It's no news that AI can generate test code very quickly. However, producing cod
 
 On day 2, we will therefore look at AI-assisted test automation from the perspective of our overall testing strategy. We will investigate where AI can help us design, implement, review, debug and maintain automated tests, while paying close attention to the quality and value of the resulting feedback.
 
-We will also experiment with more autonomous approaches, including AI agents that can plan, execute and analyse testing activities.
-
 * Identifying opportunities for AI-assisted test automation 
 * Generating and implementing automated tests
 * Reviewing and improving AI-generated test code 
@@ -60,18 +58,18 @@ We will also experiment with more autonomous approaches, including AI agents tha
 * Designing and using AI agents for testing 
 * Evaluating the risks and limitations of autonomous test automation
 
-#### Day three - Building an AI-enabled testing and automation strategy
+#### Day three - Agentic AI in testing and automation
 
-After wrapping up our work on AI-assisted testing and test automation, it's time to turn those experiments into a actionable strategy.
+Until now, we used AI as a testing and automation partner, while remaining in the driver's seat ourselves. 
 
-We will return to the working agreements we created at the start of the course and use what we have learned to refine them. We will identify where AI can contribute to the testing process, where it should be constrained, and where we can and cannot do without human judgment.
+On day 3, we will design and use more autonomous approaches, including AI agents that can plan, execute and analyse testing and automation activities, without our direct oversight. We will discuss the risks of doing so, and put guardrails in place to make these agentic AI processes safer to use. 
 
-We will then turn these decisions into an AI-enabled testing strategy for ValuBank, using the tools and techniques we have explored during the course.
+To wrap up the course, we will return to the working agreements we created at the start and use what we have learned to refine them. We will identify where AI can contribute to the testing process, where it should be constrained, and where we can and cannot do without human judgment.
 
-* Identifying valuable AI use cases across the testing process
-* Deciding what AI should do, what humans should do and where they should work together 
-* Designing AI-assisted testing and automation workflows
-* Measuring the value and risks of AI-assisted testing 
+* Designing and using AI agents for testing and automation
+* Risks of allowing AI to take the steering wheel 
+* Defining and refining guardrails to mitigate these risks
+* Measuring the value of AI-assisted testing 
 * Creating and presenting an AI-enabled testing strategy
 
 ## Who should take this course?
