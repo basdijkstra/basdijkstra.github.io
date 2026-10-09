@@ -11,24 +11,24 @@ _If you're looking for a more personalized learning experience for 1-3 of your e
 
 <hr/>
 
-## <a name="vff"></a>Valuable feedback, fast
-If you want your testing and your test automation to deliver on the goal of providing valuable feedback, fast, you need to do more than throw tools at your testing problems. You need to be able to identify and assess (potential) problems at both the technical and the organizational level, and then suggest, implement and evaluate solutions to them.
+## <a name="vff"></a>Valuable Feedback, Fast
+If you want your testing and your test automation to deliver on the goal of providing valuable feedback, fast, you need to do more than throw tools at your testing problems. You need to be able to identify and assess (potential) problems at both the technical and the organizational level, and then suggest, implement and evaluate solutions to address them.
 
-The 'Valuable feedback, fast' courses are designed to teach individuals, teams and organizations how to do exactly that.
+The 'Valuable Feedback, Fast' (VFF) courses are designed to teach individuals, teams and organizations how to do exactly that.
 
-The main, three-day course teaches participants how to assess and improve their current test automation strategy, or how to build one from the ground up.
+The original, three-day VFF course is built as a consulting and engineering simulation, teaching participants how to assess and improve their current test automation strategy, or how to build one from the ground up.
 
-It introduces you to a range of models, techniques and tools, how to use them and how to tell a story about their benefits, drawbacks and the value that they add to your test automation efforts.   
+<a href="/training/valuable-feedback-fast/" class="btn btn--primary">Valuable Feedback, Fast (3 days)</a>
 
-<a href="/training/valuable-feedback-fast/" class="btn btn--primary">Valuable feedback, fast (3 days)</a>
+For product development teams and organizations looking for a workshop to review and improve their current test automation strategy, I recommend the two-day 'VFF - Applied' course:    
 
-For product development teams and organizations looking for a workshop to review and improve their specific test automation strategy, I recommend the two-day 'Applied' course:    
+<a href="/training/valuable-feedback-fast-applied/" class="btn btn--primary">Valuable Feedback, Fast - Applied (2 days)</a>
 
-<a href="/training/valuable-feedback-fast-applied/" class="btn btn--primary">Valuable feedback, fast - Applied (2 days)</a>
+For teams looking to learn how to design and implement an AI-assisted testing and automation strategy that delivers on the 'Valuable Feedback, Fast' promise, I have a course for that, too:
 
-For teams looking to learn how to build and implement an AI-assisted testing and automation strategy that actually delivers on the 'valuable feedback, fast' promise, I have course for that, too:
+<a href="/training/valuable-feedback-fast-with-ai/" class="btn btn--primary">Valuable Feedback, Fast with AI (3 days)</a>
 
-<a href="/training/valuable-feedback-fast-with-ai/" class="btn btn--primary">Valuable feedback, fast with AI (3 days)</a>
+The 'VFF with AI' course, like the original course, is built as a consulting and engineering simulation.
 <hr/>
 
 ## <a name="apitesting"></a>API testing and development
