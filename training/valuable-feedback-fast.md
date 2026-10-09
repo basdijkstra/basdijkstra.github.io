@@ -1,5 +1,5 @@
 ---
-title: Valuable feedback, fast
+title: Valuable Feedback, Fast
 layout: page
 permalink: /training/valuable-feedback-fast/
 ---
@@ -13,40 +13,42 @@ But more automation does not automatically mean better feedback. The real challe
 
 Wouldn’t it be better to approach test automation from that perspective, instead of throwing another tool or another test at the problem and hoping it will make that problem go away?
 
-In this three-day, immersive, hands-on course, you will take on the role of a consultant helping ValuBank, a fictional online bank, improve its test automation strategy. You will investigate their current situation, analyse evidence, identify what is preventing them from getting valuable feedback fast, and then design and implement improvements to their approach.
+In this three-day, immersive, hands-on course, you will take on the role of a consultant and engineer, helping ValuBank (a fictional online bank) to improve its test automation strategy. You will investigate ValuBank's current situation, analyze evidence, identify and present what is preventing them from getting valuable feedback fast, and then design and implement improvements to their approach.
 
-You won't just talk about test automation. You will investigate a problem, make decisions, write and change tests, observe the results, and use what you learn to build a better test automation strategy.
+You won't just talk about test automation. You will investigate a problem, make decisions, introduce new tools, techniques and ways of working, write and change tests, observe the results, and use what you learn doing so to build a better test automation strategy for ValuBank.
 
 <a href="/contact/" class="btn btn--primary">Yes, I'd like to book this course for my team!</a>
 
-## <a name="contents"></a>What will you learn?
+## <a name="contents"></a>Course overview
 
 #### Day one - Investigate the problem
 
-We start with a problem that should sound familiar: ValuBank's engineering teams are struggling to get fast and reliable feedback from their automated tests.
+We start with a problem that might sound familiar: ValuBank's engineering teams are struggling to get fast and reliable feedback from their automated tests.
 
 You will receive information about ValuBank's architecture, teams and development process and start investigating the problem as you would in a real consulting engagement. You will distinguish between facts, suspicions and questions, talk through evidence from developers and stakeholders, and investigate pipeline and test data, failures and postmortems.
 
-Doing so, you will build an understanding of what is actually happening and determine what valuable feedback means for ValuBank. You will also learn to use the [Test Automation Quadrant](/the-test-automation-quadrant/) to help you reason about the value and efficiency of different types of feedback.
+By doing so, you will build an understanding of what is actually happening and determine what valuable feedback means for ValuBank. You will also learn to use the [Test Automation Quadrant](/the-test-automation-quadrant/) to help you reason about the value and efficiency of different types of feedback.
+
+Activities on day 1 include:
 
 * Investigating a real-world test automation problem
 * Identifying facts, suspicions and questions
 * Performing root cause analysis
 * Understanding what valuable feedback means
-* Analysing test and pipeline evidence
+* Analyzing test and pipeline evidence
 * Distinguishing symptoms from underlying problems
 * The Test Automation Quadrant
 * Defining goals for improvement
 
 #### Day two - Design and improve the feedback
 
-With a better understanding of the problem, we start working on actual changes at ValuBank.
+Now that we have a better understanding of the problem, we start working on implementing actual changes at ValuBank.
 
-You will work on several changes to the ValuBank system and, for each one, determine what feedback the team needs and whether the existing automated tests provide it. You will then design and implement improvements, using the principles of valuable feedback, fast.
+You will work on several changes to the ValuBank system and, for each one, determine what feedback the team needs and whether the existing automated tests provide it. You will then design and implement improvements, using the principles of Valuable Feedback, Fast. These technical exercises are deliberately connected to the investigation.
 
-The technical exercises are deliberately connected to the investigation. You will improve unit-level feedback around business rules, analyze and improve the quality of the signal provided by tests, experiment with different approaches to testing the integration between independently developed services, and much more.
+However, learning to work with the techniques and tools that we discuss is not the main objective of day 2. The end goal is to learn to understand and reason about why a particular type of feedback is useful, where it should come from, and how to obtain it efficiently and reliably.
 
-However, learning to work with these techniques and tools is not the main goal of today. The end goal is to learn to understand and reason about why a particular type of feedback is useful, where it should come from, and how to obtain it efficiently and reliably.
+Activities on day 2 include:
 
 * Reviewing existing tests
 * Improving test design and testability
@@ -55,7 +57,7 @@ However, learning to work with these techniques and tools is not the main goal o
 * Using mocks to test earlier, more and more often
 * Testing integrations between components and services
 * Implementing and experimenting with improvements
-* Using the Test Automation Quadrant to assess the changes
+* Using the Test Automation Quadrant to assess the changes and visualize progress
 
 #### Day three - Build the strategy
 
@@ -67,10 +69,12 @@ We then take a step back and use the 5W1H (Kipling) method as an alternative len
 
 Finally, you will put your consulting hat back on and give ValuBank recommendations on where to go from here, including how they should measure whether their approach to test automation is actually getting closer towards where they want to be.
 
+Activities on day 3 include:
+
 * Turning experiments into a test automation strategy
 * Using 5W1H as a strategy lens
 * Defining principles for valuable feedback
-* Prioritising improvements
+* Prioritizing improvements
 * Measuring progress and results
 * Choosing meaningful test automation metrics
 * Creating a roadmap for continued improvement
@@ -84,7 +88,7 @@ It is particularly suitable for people who are already familiar with automated t
 The technical, hands-on exercises can be presented in Java, C# or TypeScript, so some familiarity with any of those languages will be advantageous. Even without that experience, though, there is a lot to get out of this course. The exercises are designed to encourage pair and ensemble programming, and examples and (my) answers to the challenges will be available throughout the course.
 
 ## Course duration and delivery
-The ‘Valuable feedback, fast’ course takes 3 days. The course is deliberately designed as an immersive, experiential workshop combining investigation, discussion, technical experimentation and strategy work.
+The ‘Valuable feedback, fast’ course takes 3 days. The course is deliberately designed as an experiential workshop, combining investigation, discussion, technical experimentation and strategy work.
 
 As a participant, you will:
 
