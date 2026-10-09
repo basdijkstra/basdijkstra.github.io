@@ -1,67 +1,54 @@
 ---
-title: Valuable feedback, fast - Applied
+title: Valuable Feedback, Fast - Applied
 layout: page
 permalink: /training/valuable-feedback-fast-applied/
 ---
-The 'Valuable feedback, fast - Applied' workshop revolves around the same premise as [the standard VFF course](/training/valuable-feedback-fast/):
+The 'Valuable Feedback, Fast - Applied' workshop revolves around the same premise as [the original VFF course](/training/valuable-feedback-fast/):
 
 > "Test automation problems almost always go deeper than just the tool. Often, they are of both a technical and an organizational nature. It would be wise to approach and address them like that, then, instead of throwing another tool at the problem and hoping this one will make the problem go away."
 
-In the 'Applied' workshop, though, we will scrutinize and improve the test automation strategy _you_ use in _your_ team and/or organization. You will walk away with a thorough assessment of and actionable improvements for _your_ approach to test automation, improvements that you can start working on the next day.  
+In the 'VFF - Applied' workshop, though, we will assess and improve the test automation strategy _you_ use in _your_ team and/or organization. You will walk away with a thorough assessment of and actionable improvements for _your_ approach to test automation, improvements that you can start working on the next day.  
 
 <a href="/contact/" class="btn btn--primary">Yes, I'd like to book this workshop for my team!</a>
 
-## What will you learn?
-Well, that is hard to say exactly, because the workshop will revolve around your specific test automation strategy and the challenges you experience.
+## Workshop overview
+As the workshop will revolve around your specific test automation strategy and the challenges you experience, it is hard to define an exact outline of the workshop here.
 
-To give you an idea of what the workshop might look like, here is an abbreviated version of the workshop outline I used in a previous edition.
+Since I will use the 5W1H method (also referred to as the Kipling method) as a structure for the strategy assessment, here is a list of questions asked and tasks performed during the workshop: 
 
-As with every workshop I run, we will discuss the outline and adjust it to your needs before the workshop happens. This enables me to prepare and run a workshop that fits your specific context and desired learning outcomes. 
+#### Why?
+- Creating a shared understanding of what 'valuable feedback, fast' means
+- Visualizing current feedback loops and identifying relevant gaps and waste
+- Defining concrete and measurable automation goals
 
-**Introduction**
-- Review desired learning outcomes and manage expectations
-- Introduction to the 5W1H framework
+##### What?
+- Introducing the [test automation quadrant](/the-test-automation-quadrant/)
+- Defining what makes a test valuable for you
+- Defining what 'fast' means in your context
+- Classifying current tests using the test automation quadrant
 
-**Why?**
-- Background on what 'valuable feedback, fast' means
-- Mapping current feedback loops and identifying gaps and waste
+#### Where?
+- Discussing the challenges of automating existing (regression) test scripts
+- [Breaking down E2E tests](/breaking-down-your-e2e-tests-an-example/) and discussing what is gained and lost
+- Defining concrete steps to improve tests and your testability
+- Identifying of what risks are acceptable, and what risks really need coverage
 
-Output: Concrete, measurable automation goals
-
-**What?**
-- Introduction to [the test automation quadrant](/the-test-automation-quadrant/)
-- Introduction to the case and brainstorm: what could and what should we test here? Why?
-- Discussion on what makes a test good (valuable) and classification of tests using the test automation quadrant
-
-Output: A shared checklist of what defines a good test
-
-**Where?**
-- Challenges with automating existing (regression) test scripts
-- [Breaking down E2E tests](/breaking-down-your-e2e-tests-an-example/) and discussing of what is gained and lost
-
-Output: Concrete steps to improve tests and your testability, and identification of what risks are acceptable, and what risks really need coverage
-
-**When?**
-- Discussion on when to write and test the tests, when to run the tests and when to maintain the tests
+#### When?
+- Discussing when to write and test the tests, when to run the tests and when to maintain the tests
 - Designing a workflow and pipeline template that can be used and adapted or extended
 
-Output: A concrete, reusable test automation workflow in a pipeline
-
-**Who?**
-- What skills are required to 'do' test automation well?
+#### Who?
+- Defining the skills required to succeed with test automation
 - Mapping responsibilities - who writes and maintains the tests, and who should be informed of the test results?
 - Defining good practices (code review for tests, shared patterns, internal guilds / communities of practice
+- Defining actionable steps to identify and improve required skills
 
-Output: Actionable steps to identify and improve required skills to succeed with test automation across the board
+#### How?
+- Discussing what (types of) tools would best fit your specific context
+- Defining useful metrics to track test automation progress and results
+- Laying the groundwork for responsible use of AI
 
-**How?**
-- What (types of) tools would best fit your specific context?
-- What are useful metrics to track in test automation?
-- Where can we (not) use AI responsibly in the steps we have covered so far?
-
-Output: A tool use manifesto that is shared and supported by the teams
-
-Again, this is just an example of what the workshop contents could look like. A discovery call (or several, if needed) to create and agree on a workshop outline that fits your learning needs is an important part of our collaboration.  
+As with every workshop I run, we will first discuss the outline and your learning requirements, and then adjust the workshop to your needs. 
 
 ## Who should take this workshop?
 This workshop is for software development and testing practitioners, as well as tech and team leads, who want to learn how to be successful with test automation and how to achieve its goal of 'valuable feedback, fast' in their specific context.
