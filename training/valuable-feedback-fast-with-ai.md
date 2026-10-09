@@ -17,58 +17,65 @@ So, how do we make sure we end up on the right side of that equation?
 
 In this three-day, immersive, hands-on course, you will investigate how AI can support testing and test automation, experiment with different ways of using AI in your work, and learn how to decide where AI can add value, and where human judgment remains essential.
 
-We will follow the journey of ValuBank, a fictional online bank, as it tries to improve the way it tests its software and make effective use of AI along the way. You will examine real-world testing problems, investigate them with and without AI, design and implement AI-assisted solutions, and use what you learn to create an AI-enabled testing strategy.
+We will follow the journey of ValuBank (a fictional online bank) as it tries to improve the way it tests its software and make effective use of AI along the way. You will examine real-world testing problems, investigate them with and without AI, design and implement AI-assisted solutions, and use what you learn to create an AI-enabled testing strategy for ValuBank.
 
-There will be no AI magic tricks. No endless collection of clever prompts. Instead, we will focus on using AI deliberately, critically and pragmatically, to help achieve the same goal we have always had: **valuable feedback, fast**.
+There will be no AI magic tricks. No endless collection of clever prompts. Instead, we will focus on using AI deliberately, responsibly and pragmatically, to help achieve the same goal we have always had for our testing and automation efforts: to provide valuable feedback, fast.
 
 <a href="/contact/" class="btn btn--primary">Yes, I'd like to book this course for my team!</a>
 
-## <a name="contents"></a>What will you learn?
+## <a name="contents"></a>Course overview
 
 #### Day one - AI as a testing partner
 
-On the first day of the course, participants will be introduced to the ValuBank context, as a significant new feature is about to be introduced, and the teams need to determine how to test it.
+On the first day of the course, participants will be introduced to the ValuBank context. A significant new feature is about to be introduced to the ValuBank platform, and the teams need to determine how to test it, and where AI can help in doing so.
 
-We will first approach the problem without AI. You will investigate the system, study the change, identify risks and create test ideas based on your own experience and judgement. Only then will we introduce AI and use it as a partner in our testing activities.
+We will first approach the problem without AI. You will investigate the system, study the change, identify risks and create test ideas based on your own experience and judgment. Only then will we introduce AI and use it as a partner in our testing activities.
 
-We will experiment with using AI to understand an unfamiliar system and a new change, identify risks, support exploratory testing and analyse and document our findings. Throughout the day, we will compare what we get from AI with what we get from our own testing expertise.
+We will experiment with using AI to understand an unfamiliar system, identify the risks that come with introducing a new feature, support exploratory testing and analyze and document our findings. Throughout the day, we will compare what we get from AI with what we get from our own testing expertise.
 
 The goal? To find out where AI can genuinely make us better testers.
 
-* Understanding a system and a significant change
+Activities on day 1 include:
+
 * Using AI to investigate systems, requirements and changes
-* AI-assisted risk analysis
+* Performing AI-assisted risk analysis
 * Exploratory testing with AI
-* Using AI to analyse and document testing results
+* Using AI to analyze and document testing results
 * Evaluating and challenging AI output
 * Understanding where AI adds value, and where it doesn't
 
 #### Day two - AI and test automation
 
-It's no news that AI can generate test code very quickly. However, producing code is not the same as getting valuable feedback from your tests. If we're careless, we can very quickly end up with a large test suite that is producing a lot of noise, without much of a signal.
+It's no news that AI can generate test code very quickly. However, adding more test code quickly is not the same as getting valuable feedback from your tests. If we're careless, we can very quickly end up with a large test suite that is producing a lot of noise, without much of a signal.
 
 On day 2, we will therefore look at AI-assisted test automation from the perspective of our overall testing strategy. We will investigate where AI can help us design, implement, review, debug and maintain automated tests, while paying close attention to the quality and value of the resulting feedback.
 
+Activities on day 2 include:
+
 * Identifying opportunities for AI-assisted test automation 
 * Generating and implementing automated tests
-* Reviewing and improving AI-generated test code 
+* Reviewing and improving AI-generated test code
 * Using AI to investigate and explain test failures 
-* AI-assisted test maintenance 
+* AI-assisted test maintenance
 * Designing guardrails for AI-assisted automation 
-* Designing and using AI agents for testing 
-* Evaluating the risks and limitations of autonomous test automation
+* Designing and using AI agents for test automation
 
 #### Day three - Agentic AI in testing and automation
 
 Until now, we used AI as a testing and automation partner, while remaining in the driver's seat ourselves. 
 
-On day 3, we will design and use more autonomous approaches, including AI agents that can plan, execute and analyse testing and automation activities, without our direct oversight. We will discuss the risks of doing so, and put guardrails in place to make these agentic AI processes safer to use. 
+On day 3, we will design and use more autonomous approaches, including AI agents that can plan, execute and analyze testing and automation activities, without our direct oversight. We will discuss the risks of doing so, and put guardrails in place to make these agentic AI processes safer to use. 
+
+We will also take a look at and experiment with where we can use AI as part of our build and continuous integration pipelines.
 
 To wrap up the course, we will return to the working agreements we created at the start and use what we have learned to refine them. We will identify where AI can contribute to the testing process, where it should be constrained, and where we can and cannot do without human judgment.
 
+Activities on day 3 include: 
+
 * Designing and using AI agents for testing and automation
-* Risks of allowing AI to take the steering wheel 
-* Defining and refining guardrails to mitigate these risks
+* Identifying and mitigating risks of allowing AI to take the steering wheel 
+* Adding AI-enabled steps to our build and CI pipelines
+* Security implications of using AI in our pipelines
 * Measuring the value of AI-assisted testing 
 * Creating and presenting an AI-enabled testing strategy
 
@@ -79,8 +86,7 @@ It is particularly useful for teams who have already experimented with AI and ar
 
 * Where can AI actually help us in our testing work?
 * How do we make sure AI-assisted and AI-generated tests provide useful feedback?
-* Where should we keep humans firmly in the loop?
-* How much autonomy should we give AI agents?
+* How much autonomy should we give AI agents, and where should humans remain in the loop?
 * How do we track the impact of our AI-assisted efforts on our product and our process?
 * How do we turn individual AI experiments into a coherent strategy?
 
@@ -89,9 +95,9 @@ Participants are expected to have a basic understanding of modern AI concepts su
 The technical, hands-on exercises can be presented using Java, C# or TypeScript, depending on the context and requirements of the group. Some familiarity with one of these languages will be advantageous for the test automation exercises. Even without extensive programming experience, though, there is plenty to get out of the course, and pair and ensemble work will be encouraged throughout.
 
 ## Course duration and delivery
-The ‘Valuable feedback, fast with AI’ course takes 3 days. The course is deliberately designed as an immersive, experiential workshop combining investigation, discussion, technical experimentation and strategy work.
+The ‘Valuable Feedback, Fast with AI’ course takes 3 days. The course is deliberately designed as an experiential workshop, combining investigation, discussion, technical experimentation and strategy work.
 
-The wide range of exercises in this course is designed to address both the practical and strategic aspects of using AI in testing and test automation. As a participant, you will:
+As a participant, you will:
 
 * perform testing activities both with and without AI
 * contribute to facilitated discussions about the benefits, risks and limitations of AI
@@ -107,4 +113,4 @@ I'm happy to hear that! Click the button below, complete the contact form, and I
 
 <a href="/contact/" class="btn btn--primary">Yes, I'd like to book this course for my team!</a>
 
-=If you'd like to see the other training courses and workshops I have on offer, [please click here](/training/).
+If you'd like to see the other training courses and workshops I have on offer, [please click here](/training/).
