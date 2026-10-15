@@ -17,13 +17,10 @@ In this workshop, you'll learn what contract testing is, where it fits into your
 In this workshop you will learn, among other things:
 
 * What problem contract testing actually solves
-* The three approaches to contract testing and their respective differences
-  * Consumer-driven
-  * Provider-driven
-  * Bidirectional
+* The three approaches to contract testing and their respective differences (consumer-driven, provider-driven, bidirectional)
 * How to use the Pact library to write contracts as a consumer and verify contracts as a provider
-* How to use a Pact Broker versioning and distributing contracts and contract verification results
-* How to use Pact CLI tools like `can-i-deploy` and `record-deployment` to safely automate the build and deployment process
+* How to use a Pact Broker for versioning and distribution of contracts and contract verification results
+* How to use Pact CLI tools like `can-i-deploy` and `record-deployment` in your build and deployment process
 * How to implement bidirectional contract testing with and without using the Pact library
 
 There's no better way to learn than by doing, so you'll be presented with a variety of hands-on (programming) exercises throughout this workshop.
