@@ -6,3 +6,18 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Menu item rendered as a button (navigation.yml: button: true) */
+.greedy-nav .visible-links a.masthead__menu-button {
+  color: #fff;
+  padding: 0.5em 1em;
+  margin-left: 0.5em;
+
+  &:before {
+    display: none; // no hover underline
+  }
+
+  &:hover {
+    color: #fff;
+  }
+}

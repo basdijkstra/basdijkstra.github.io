@@ -10,6 +10,7 @@ main:
     url: /mentoring/
   - title: "Contact"
     url: /contact/
+    button: true
   - title: "Blog"
     url: /blog/
   - title: "About"
