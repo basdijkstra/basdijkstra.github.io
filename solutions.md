@@ -24,3 +24,13 @@ Implementing contract testing can significantly improve confidence in distribute
 This tailored engagement helps your organisation determine whether contract testing is the right fit for your integration testing challenges, and when it is, to design an effective adoption strategy and implement it successfully, with expert guidance every step of the way.
 
 <a href="/solutions/contract-testing-adoption-accelerator/" class="btn btn--primary">Contract testing adoption accelerator</a>
+
+<hr/>
+
+## Bespoke test automation engagements
+
+Slow test suites, unreliable results and gaps in test coverage can delay releases, waste engineering time and make it harder to know whether your product is ready. Addressing these problems requires more than adding tests or introducing new tools. It requires identifying the underlying causes and implementing changes that make a measurable difference.
+
+In these bespoke engagements, I work directly with your engineers to tackle your specific test automation challenges. From investigating unreliable tests and improving CI feedback to refining your testing strategy or adopting new approaches, I combine hands-on technical work with expert guidance to help your team deliver faster, more trustworthy feedback, reduce wasted engineering effort and release with greater confidence.
+
+<a href="/consulting/" class="btn btn--primary">Bespoke test automation engagements</a>

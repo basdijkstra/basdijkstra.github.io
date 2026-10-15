@@ -1,19 +1,13 @@
 # main links
 main:
-  - title: "Solutions"
+  - title: "For teams"
     url: /solutions/
   - title: "Training"
     url: /training/
-  - title: "Consulting"
-    url: /consulting/
-  - title: "Mentoring"
-    url: /mentoring/
+  - title: "About"
+    url: /about/
+  - title: "Blog"
+    url: /blog/
   - title: "Contact"
     url: /contact/
     button: true
-  - title: "Blog"
-    url: /blog/
-  - title: "About"
-    url: /about/
-  - title: "Resources"
-    url: /resources/
