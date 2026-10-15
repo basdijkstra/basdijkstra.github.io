@@ -8,6 +8,10 @@
 @import "minimal-mistakes"; // main partials
 
 /* Menu item rendered as a button (navigation.yml: button: true) */
+.greedy-nav .visible-links {
+  align-items: center; // keep regular items level with the taller button
+}
+
 .greedy-nav .visible-links a.masthead__menu-button {
   font: inherit; // match other menu items instead of .btn's small bold text
   color: #fff;
