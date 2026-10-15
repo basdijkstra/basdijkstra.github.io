@@ -9,6 +9,7 @@
 
 /* Menu item rendered as a button (navigation.yml: button: true) */
 .greedy-nav .visible-links a.masthead__menu-button {
+  font: inherit; // match other menu items instead of .btn's small bold text
   color: #fff;
   padding: 0.5em 1em;
   margin-left: 0.5em;
