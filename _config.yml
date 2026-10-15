@@ -21,7 +21,7 @@ author_profile: true
 author:
   name     : "Bas Dijkstra"
   avatar   : "/images/bas.png"
-  bio      : "I teach you how to get valuable product feedback, fast with test automation"
+  bio      : "Helping engineering teams get more valuable feedback from their test automation, faster"
   location : "Amersfoort, the Netherlands"
   links:
     - label: Get in touch
