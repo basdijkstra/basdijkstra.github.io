@@ -1,7 +1,7 @@
 ---
 title: Consulting
 layout: page
-permalink: /consulting/
+permalink: /solutions/consulting/
 ---
 _"Our tests are slowing us down, instead of providing us with [valuable feedback, fast](/training/valuable-feedback-fast/)."_
 

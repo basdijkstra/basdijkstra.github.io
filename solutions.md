@@ -33,4 +33,4 @@ Slow test suites, unreliable results and gaps in test coverage can delay release
 
 In these bespoke engagements, I work directly with your engineers to tackle your specific test automation challenges. From investigating unreliable tests and improving CI feedback to refining your testing strategy or adopting new approaches, I combine hands-on technical work with expert guidance to help your team deliver faster, more trustworthy feedback, reduce wasted engineering effort and release with greater confidence.
 
-<a href="/consulting/" class="btn btn--primary">Bespoke test automation engagements</a>
+<a href="/solutions/consulting/" class="btn btn--primary">Bespoke test automation engagements</a>
