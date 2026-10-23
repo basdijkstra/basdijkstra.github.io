@@ -1,5 +1,5 @@
 ---
-title: Solutions
+title: For teams
 layout: page
 permalink: /solutions/
 ---
