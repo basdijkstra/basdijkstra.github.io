@@ -1,9 +1,9 @@
 url: "https://www.ontestautomation.com"
 title: "On Test Automation"
 title_separator: "|"
-subtitle: "Helping others become better test automation engineers"
+subtitle: "Helping engineering teams get more valuable feedback from their test automation, faster"
 name: "Bas Dijkstra"
-description: "I provide test automation training and consultancy, teaching you how to write tests that deliver valuable product feedback, fast"
+description: "Helping engineering teams get more valuable feedback from their test automation, faster"
 logo: /images/logo_large.png
 plugins:
   - jekyll-include-cache
