@@ -1,7 +1,7 @@
 ---
 title: Testimonials
 layout: page
-permalink: /testimonials/
+permalink: /training/testimonials/
 ---
 Here are some of the things people who joined in my [workshops and training courses](/training/), or who I worked with in a [consulting engagement](/consulting/), had to say about their experience.
 

@@ -1,118 +1,70 @@
 ---
-title: Test automation training
+title: Tailored test automation training
 layout: page
 permalink: /training/
 ---
-On this page, you'll find an overview of the workshops I have on offer and the topics that I can cover.
+Practical, hands-on training that helps your engineering teams get more valuable feedback, faster.
 
-_If you'd like to read a little more about what others had to say about my courses before you decide to engage, [click here for testimonials](/testimonials.md)._
+I deliver tailored training and engineering workshops for software teams worldwide. Each engagement is adapted to your team's experience, technology and challenges. I strongly prefer on-site training, but I do offer online sessions, too.
 
-_If you're looking for a more personalized learning experience for 1-3 of your engineers, [have a look at my mentoring services here](/mentoring)._
+From improving test automation practices to adopting contract testing, Playwright or AI-assisted testing, let's discuss what would make the biggest difference to your team.
 
-<hr/>
+<div style="text-align: center"><a href="/contact/" class="btn btn--primary">Discuss a training engagement</a></div>
 
-## <a name="vff"></a>Valuable Feedback, Fast
-If you want your testing and your test automation to deliver on the goal of providing valuable feedback, fast, you need to do more than throw tools at your testing problems. You need to be able to identify and assess (potential) problems at both the technical and the organizational level, and then suggest, implement and evaluate solutions to address them.
+You can see some of the training programmes I can offer and the areas of expertise they cover below. These are starting points, not off-the-shelf courses: every engagement can be tailored to your team's experience, technology, and specific challenges.
 
-The 'Valuable Feedback, Fast' (VFF) courses are designed to teach individuals, teams and organizations how to do exactly that.
+## Valuable Feedback, Fast
 
-The original, three-day VFF course is built as a consulting and engineering simulation, teaching participants how to assess and improve their current test automation strategy, or how to build one from the ground up.
+Helping engineering teams get more value from their test automation takes more than introducing new tools. It requires the ability to identify problems, evaluate existing practices and implement improvements that deliver better feedback, faster.
 
-<a href="/training/valuable-feedback-fast/" class="btn btn--primary">Valuable Feedback, Fast (3 days)</a>
+My Valuable Feedback, Fast (VFF) training engagements help individuals, teams and organisations develop exactly those skills.
 
-For product development teams and organizations looking for a workshop to review and improve their current test automation strategy, I recommend the two-day 'VFF - Applied' course:    
+* [Valuable Feedback, Fast](/training/valuable-feedback-fast/) (_3 days_): A hands-on consulting and engineering simulation in which participants learn to assess and improve their test automation strategy.
+* [Valuable Feedback, Fast – Applied](/training/valuable-feedback-fast-applied/) (_2 days_): A practical workshop for teams looking to review and improve their existing test automation approach.
+* [Valuable Feedback, Fast with AI](/training/valuable-feedback-fast-with-ai/) (_3 days_): Learn how to responsibly incorporate AI into testing and test automation.
 
-<a href="/training/valuable-feedback-fast-applied/" class="btn btn--primary">Valuable Feedback, Fast - Applied (2 days)</a>
+## API and UI test automation
 
-For teams looking to learn how to design and implement an AI-assisted testing and automation strategy that delivers on the 'Valuable Feedback, Fast' promise, I have a course for that, too:
+Effective UI and API test automation requires solid engineering skills. I offer practical workshops that help testers and developers design, build and maintain better automated tests, both at the API and the UI level.
 
-<a href="/training/valuable-feedback-fast-with-ai/" class="btn btn--primary">Valuable Feedback, Fast with AI (3 days)</a>
-<hr/>
+Topics I frequently cover include:
 
-## <a name="apitesting"></a>API testing and development
-With software systems becoming ever more distributed, and APIs accounting for over 80% of all Internet traffic, every modern software tester should know how to work with APIs in their testing, as well as how to design, write and execute tests for APIs.
+* [Exploratory API testing](/training/workshop-exploratory-api-testing/) and [API security testing](/training/workshop-api-security-testing/)
+* [API test automation in code](/training/workshop-api-test-automation-in-code/)
+* [API mocking and service virtualization](/training/workshop-api-mocking-with-wiremock/)
+* [Building and testing APIs with AI](/training/building-and-testing-an-api-with-ai/)
+* [Getting started with Playwright](/training/workshop-playwright/) and [improving existing Playwright tests](/training/improving-your-playwright-code/)
 
-My API testing courses cover the broad spectrum that is API testing. I offer several modules that I can teach either individually, or bundled as a comprehensive API testing course:
+These workshops can either be delivered individually, or they can be combined into a tailored training programme.
 
-<a href="/training/workshop-exploratory-api-testing/" class="btn btn--primary">Exploratory API testing workshop (half day)</a>
+## Modern testing practices
 
-<a href="/training/workshop-api-security-testing/" class="btn btn--primary">API security testing workshop (half or full day)</a>
+Modern software architectures and development practices call for more than traditional testing approaches. I offer hands-on workshops that help engineering teams understand, adopt and get more value from modern testing techniques.
 
-<a href="/training/workshop-api-test-automation-in-code/" class="btn btn--primary">API test automation in code workshop (half day)</a>
+Topics include:
 
-<a href="/training/workshop-api-mocking-with-wiremock/" class="btn btn--primary">API mocking with WireMock workshop (half day)</a>
-
-If your team is looking to get serious about API testing, I'm happy to have a conversation and create a course for you that fits your API testing learning requirements like a glove. 
-
-If you want to learn what it takes to build and an API from the ground up, working together as developers and testers, and with responsible use of AI, I offer a workshop on that, too:
-
-<a href="/training/building-and-testing-an-api-with-ai/" class="btn btn--primary">Building and testing an API with AI (1 day)</a>
-
-<hr/>
-
-## Artificial Intelligence (AI)
-
-In the last couple of years we have seen a spectacular rise in the use of AI, and more specifically LLM-based AI tools, in test automation. Without a doubt, AI is a powerful technique, but how do you use it responsibly when writing tests for your products?
-
-If you're looking for an answer to that question, this workshop is for you.
-
-<a href="/training/using-ai-responsibly-in-test-automation/" class="btn btn--primary">Using AI responsibly in test automation (1 day)</a>
+* [Contract testing](/training/contract-testing/): Verify that independently developed services and components can communicate as expected.
+* [Behaviour-Driven Development (BDD)](/training/behaviour-driven-development/): Build shared understanding between stakeholders and avoid common BDD implementation pitfalls.
+* [Mutation testing](/training/mutation-testing/): Evaluate the effectiveness of your automated tests and discover gaps in your test coverage.
 
 <hr/>
 
-## Playwright
-[Playwright](https://playwright.dev){:target="_blank"} has quickly become the test automation tool of choice for many companies. If your team or company wants to learn how to get started with Playwright, too, my introductory workshop will be a great fit:
+## Training tailored to your team
 
-<a href="/training/workshop-playwright/" class="btn btn--primary">Introduction to Playwright workshop (1 day)</a>
+Your team, technology and challenges are unique, which is why I don't deliver a fixed curriculum. Instead, I work with you to shape the content, exercises and format around your goals, your team's experience and the problems you want to solve.
 
-If you have some Playwright experience under your belt already, and you want to learn how to get more out of the library and improve your existing Playwright-based tests, I have just the workshop for that, too: 
+Whether you need a focused workshop on a specific technology or a multi-day programme to improve your engineering practices, the emphasis is on practical skills your team can apply immediately.
 
-<a href="/training/improving-your-playwright-code/" class="btn btn--primary">Improving your Playwright code workshop (1 day)</a>
+## Hands-on training, wherever your team is
 
-Both courses can also be combined into a single, comprehensive Playwright course that'll teach you everything you need to know to become successful with your test automation in Playwright.
+I deliver on-site training and engineering workshops for software teams worldwide. I strongly prefer working with teams in person, where participants can collaborate, experiment and learn together. Online delivery is also available when that works better.
 
-<hr/>
+My workshops focus on doing, not just listening. Participants work through realistic exercises, discuss their own engineering challenges and practise techniques they can take back to their teams.
 
-## Contract testing
-When a software is made up out of services and components that are built, deployed and run independently, it can be hard to get an answer to the question of:
+## Discuss your training needs
 
-> Are all individual components and services able to communicate with one another?
+Looking to improve your team's test automation practices or develop new engineering skills? Let's discuss your challenges and explore what kind of training would make the biggest difference.
 
-Contract testing is a technique, supported by tools, that can help you find an answer to this question and deploy your services with confidence.
+<div style="text-align: center"><a href="/contact/" class="btn btn--primary">Discuss a training engagement</a></div>
 
-<a href="/training/contract-testing/" class="btn btn--primary">Contract testing workshop (1 day)</a>
-
-For those of you who prefer self-paced learning, I have also created a video course on contract testing. And because nobody ever learned to swim by watching other people swim, it comes with a range of hands-on exercises, too!
-
-<a href="https://ontestautomation.teachable.com/p/practical-contract-testing-with-pact" class="btn btn--primary">Enroll in 'Practical contract testing with Pact' now!</a>
-
-<hr/>
-
-## Behaviour-Driven Development
-Creating high quality software starts with a shared understanding between stakeholders about what that software is supposed to do. Behaviour-Driven Development or BDD is a popular technique to facilitate the creation of this shared understanding.
-
-Unfortunately, BDD is still often misunderstood and badly implemented, leading to lots of time, effort and money wasted, without much to show for it.
-
-In this workshop, you'll not only learn what the 'textbook' BDD process looks like, but you'll also learn about common BDD pitfalls and how to avoid them.  
-
-<a href="/training/behaviour-driven-development/" class="btn btn--primary">Behaviour-Driven Development (BDD) workshop (1 day)</a>
-
-<hr/>
-
-## Mutation testing
-You probably spend a lot of time both on building your product and on writing tests for that product. But do you also spend any time on testing those tests?
-
-Do you really know if your tests are testing something meaningful? Are you sure you can rely on the information produced by your tests?
-
-In this workshop, you'll learn when and how to use mutation testing, a technique to help you gain more insight into the quality of your tests and find the areas that might not be covered as well as you think... 
-
-<a href="/training/mutation-testing/" class="btn btn--primary">Mutation testing workshop (half day)</a>
-
-<hr/>
-
-## Customization
-Can't find the training course or workshop you were looking for? [I am happy to talk](/contact/) to you to see if together, we can create a **bespoke training course** (or even a complete curriculum of courses) that fits your training needs like a glove.
-
-I prefer to deliver courses live and in person, as that is the most effective way of teaching and learning, but I am happy to run workshops and courses online, too.
-
-I’m looking forward to helping you improve your test automation efforts!
+If you'd like to read more about what others had to say about my courses before you decide to engage, [click here for testimonials](/training/testimonials/).
