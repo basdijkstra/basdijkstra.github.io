@@ -51,7 +51,7 @@ Topics include:
 
 ## Training tailored to your team
 
-Your team, technology and challenges are unique, which is why I don't deliver a fixed curriculum. Instead, I work with you to shape the content, exercises and format around your goals, your team's experience and the problems you want to solve.
+Your team, technology and challenges are unique, which is why I don't deliver a fixed curriculum. Instead, I work with you to shape the content, exercises and format around your goals, your team's experience and the challenges you want to address.
 
 Whether you need a focused workshop on a specific technology or a multi-day programme to improve your engineering practices, the emphasis is on practical skills your team can apply immediately.
 
@@ -61,10 +61,10 @@ I deliver on-site training and engineering workshops for software teams worldwid
 
 My workshops focus on doing, not just listening. Participants work through realistic exercises, discuss their own engineering challenges and practise techniques they can take back to their teams.
 
+If you'd like to read more about what others had to say about my courses before you decide to engage, [click here for testimonials](/training/testimonials/).
+
 ## Discuss your training needs
 
 Looking to improve your team's test automation practices or develop new engineering skills? Let's discuss your challenges and explore what kind of training would make the biggest difference.
 
 <div style="text-align: center"><a href="/contact/" class="btn btn--primary">Discuss a training engagement</a></div>
-
-If you'd like to read more about what others had to say about my courses before you decide to engage, [click here for testimonials](/training/testimonials/).
