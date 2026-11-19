@@ -5,7 +5,7 @@ permalink: /training/
 ---
 Practical, hands-on training that helps your engineering teams get more valuable feedback, faster.
 
-I deliver tailored training and engineering workshops for software teams worldwide. Each engagement is adapted to your team's experience, technology and challenges. I strongly prefer on-site training, but I do offer online sessions, too.
+I deliver tailored training and engineering workshops for software teams worldwide. Each engagement is adapted to your team's experience, technology and challenges. [I strongly prefer on-site training](/why-i-prefer-on-site-over-online-training/), but I do offer online sessions, too.
 
 From improving test automation practices to adopting contract testing, Playwright or AI-assisted testing, let's discuss what would make the biggest difference to your team.
 
