@@ -5,6 +5,8 @@ permalink: /training/test-automation-engineering-bootcamp/
 ---
 Test automation is about much more than writing automated end-to-end tests. To build an effective and maintainable test automation approach, software engineers need to understand how to test at different levels, how these levels complement each other, and how to integrate automated tests into their development workflow.
 
+And even though AI tools can now generate a significant amount of code for us, understanding the principles and techniques behind good test automation remains essential. You need to know what to ask AI to create, how to evaluate its output, and how to recognise whether your tests provide meaningful feedback.
+
 In this four-day, hands-on bootcamp, you will learn how to design, implement and maintain test automation across the different layers of a software application. From unit testing and mocking to API and integration testing, end-to-end testing with Playwright, and automated build pipelines, we'll explore the tools and techniques that help you build confidence in your software.
 
 What makes this bootcamp different is that we don't work with a collection of unrelated examples. Throughout the five days, we use the same application and codebase. You'll progressively build up its test automation, applying different testing techniques to the same context and seeing how they fit together. This creates an immersive learning experience and helps you understand how the different parts of a comprehensive test automation approach work together.
