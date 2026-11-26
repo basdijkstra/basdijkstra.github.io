@@ -37,7 +37,7 @@ End-to-end tests allow us to verify that an application works as expected from t
 
 Test automation is part of software engineering, and it should be part of the development workflow, too. We'll look at how to manage test automation code using version control and how to integrate automated tests into build pipelines, so that tests can provide feedback as part of the process of developing and delivering software.
 
-## One application, one codebase, five days
+## One application, one codebase, four days
 
 One of the most important aspects of this bootcamp is how the material is structured.
 
