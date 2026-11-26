@@ -41,6 +41,9 @@ author:
       url: "https://www.ontestautomation.com/feed.xml"
 footer:
   links:
+    - label: Newsletter
+      icon: "fas fa-fw fa-envelope"
+      url: "/newsletter/"
     - label: Training partnerships
       icon: "fas fa-fw fa-handshake"
       url: "/training-partnerships/"
