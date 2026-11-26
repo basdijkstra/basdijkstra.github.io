@@ -22,6 +22,7 @@ You can contact me by filling in the form below. Please note that your email add
     <select class="fs-select" id="interest" name="interest" required>
       <option value="training">training for my team</option>
       <option value="consulting">you consulting with us</option>
+      <option value="training-partnership">exploring a training partnership</option>
       <option value="presentation">you doing a talk at our event</option>
       <option value="mentoring">corporate mentoring</option>
       <option value="other">something else</option>

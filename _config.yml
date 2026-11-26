@@ -26,10 +26,10 @@ author:
   links:
     - label: Get in touch
       icon: "fas fa-fw fa-phone-volume"
-      url: "https://www.ontestautomation.com/contact/"
+      url: "/contact/"
     - label: My newsletter
       icon: "fas fa-fw fa-envelope"
-      url: "https://www.ontestautomation.com/newsletter/"
+      url: "/newsletter/"
     - label: LinkedIn
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/basdijkstra/"
@@ -41,23 +41,14 @@ author:
       url: "https://www.ontestautomation.com/feed.xml"
 footer:
   links:
-    - label: Email
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:bas@ontestautomation.com"
-    - label: LinkedIn
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/basdijkstra/"
-    - label: GitHub
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/basdijkstra"
-    - label: RSS feed (blog)
-      icon: "fas fa-fw fa-rss"
-      url: "https://www.ontestautomation.com/feed.xml"
+    - label: Training partnerships
+      icon: "fas fa-fw fa-handshake"
+      url: "/training-partnerships/"
     - label: Resources
       icon: "fas fa-fw fa-book-open"
-      url: "https://www.ontestautomation.com/resources"
+      url: "/resources/"
     - label: Privacy policy
-      url: "https://www.ontestautomation.com/privacy-policy/"
+      url: "/privacy-policy/"
 defaults:
   # _posts
   - scope:

@@ -44,8 +44,8 @@ I have written a couple of short ebooks, available for free. Click on the book c
 
 | Book                                                                                                                                                        | Description                                                                                              |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| [<img src="images/ebook_ta.png"/>](https://huddle.eurostarsoftwaretesting.com/resources/test-automation/a-test-automation-learning-path/){:target="_blank"} | **A Test Automation Learning Path (2020)**                                                               |
-| [<img src="images/ebook_sv.png"/>](files/sv_ebook.pdf){:target="_blank"}                                                                                                                    | **Service Virtualization - Implementation, Practices and Trends for On-Demand Test Environments (2016)** |
+| [<img src="../images/ebook_ta.png"/>](https://huddle.eurostarsoftwaretesting.com/resources/test-automation/a-test-automation-learning-path/){:target="_blank"} | **A Test Automation Learning Path (2020)**                                                               |
+| [<img src="../images/ebook_sv.png"/>](files/sv_ebook.pdf){:target="_blank"}                                                                                                                    | **Service Virtualization - Implementation, Practices and Trends for On-Demand Test Environments (2016)** |
 
 <hr/>
 
