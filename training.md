@@ -23,6 +23,16 @@ My Valuable Feedback, Fast (VFF) training engagements help individuals, teams an
 * [Valuable Feedback, Fast – Applied](/training/valuable-feedback-fast-applied/) (_2 days_): A practical workshop for teams looking to review and improve their existing test automation approach.
 * [Valuable Feedback, Fast with AI](/training/valuable-feedback-fast-with-ai/) (_3 days_): Learn how to responsibly incorporate AI into testing and test automation.
 
+## Test automation engineering bootcamp
+
+A four-day, hands-on journey through modern test automation engineering, covering everything from test automation strategy and unit testing to API testing, end-to-end testing and build pipelines.
+
+Rather than working through disconnected examples, participants use the same application and codebase throughout the bootcamp. They progressively build and improve its test automation, applying different testing techniques to a single, consistent context. This creates a more immersive learning experience and helps participants understand how the different layers of test automation fit together.
+
+The bootcamp can be delivered as a complete four-day programme or adapted to your team's experience, technology and priorities. Available worldwide, on-site or online.
+
+[For more information on the bootcamp, click here.](/training/test-automation-engineering-bootcamp/)
+
 ## API and UI test automation
 
 Effective UI and API test automation requires solid engineering skills. I offer practical workshops that help testers and developers design, build and maintain better automated tests, both at the API and the UI level.
